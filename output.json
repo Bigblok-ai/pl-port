@@ -1,0 +1,679 @@
+{
+  "id": "phalang",
+  "url": "https://phalang.live",
+  "name": "PhaLangTV",
+  "color": "#4ea648",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://phalang.live/favicon.png"
+  },
+  "groups": [
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-046c32bf2c",
+          "name": "China Women vs Philippines Women | 14:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-046c32bf2c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-046c32bf2c",
+                  "name": "China Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-046c32bf2c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-115e724a1a",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d1f2c84aa8094c2ab498f7d8459f3bcb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "China Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://img.sports-data.online/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
+            "logo_b": "https://img.sports-data.online/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
+            "time": "14:00:00",
+            "date": "21/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6568m2w_cea26660_20260921.png?v=cea26660",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-730ac552ca",
+          "name": "Pakhtakor II vs Shurtan Guzor | 18:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-730ac552ca",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-730ac552ca",
+                  "name": "Pakhtakor II vs Shurtan Guzor",
+                  "streams": [
+                    {
+                      "id": "st-730ac552ca",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7a2add768",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d9f5792d3ad94713b06e67c439db7c9d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Pro League",
+            "team_a": "Pakhtakor II",
+            "team_b": "Shurtan Guzor",
+            "logo_a": "https://img.sports-data.online/football/team/4022217a18617e36b2d07e3ccf5cf673.png",
+            "logo_b": "https://img.sports-data.online/football/team/e3f43baa257e74cda43f756dd4049a22.png",
+            "time": "18:00:00",
+            "date": "21/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6owvzmoj_e9acbcbc_20260921.png?v=e9acbcbc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ad824d772b",
+          "name": "FC Otelul Galati vs Corvinul Hunedoara | 22:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad824d772b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ad824d772b",
+                  "name": "FC Otelul Galati vs Corvinul Hunedoara",
+                  "streams": [
+                    {
+                      "id": "st-ad824d772b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-60466fed2f",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4fe62b0dcd7441a4ae377faa85d27bb7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Super Liga",
+            "team_a": "FC Otelul Galati",
+            "team_b": "Corvinul Hunedoara",
+            "logo_a": "https://img.sports-data.online/football/team/92157b3833b66ce1be772afeb73fc0e1.png",
+            "logo_b": "https://img.sports-data.online/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png",
+            "time": "22:00:00",
+            "date": "21/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn61ooqvy_aacf9971_20260921.png?v=aacf9971",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4e110d40b3",
+          "name": "Al Duhail Sports Club vs Al-Arabi Sports Club | 00:15 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e110d40b3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4e110d40b3",
+                  "name": "Al Duhail Sports Club vs Al-Arabi Sports Club",
+                  "streams": [
+                    {
+                      "id": "st-4e110d40b3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6743e1548",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/da38a28ebd974fb486a4a265796f892c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Qatari Stars Cup",
+            "team_a": "Al Duhail Sports Club",
+            "team_b": "Al-Arabi Sports Club",
+            "logo_a": "https://img.sports-data.online/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png",
+            "logo_b": "https://img.sports-data.online/football/team/00bb4a98ec1224af879bd139519ce3b7.png",
+            "time": "00:15:00",
+            "date": "22/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghkvg74r6o_81a38d1d_20260921.png?v=81a38d1d",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-7eb5a1a9bb",
+          "name": "Indonesia Nữ vs Việt Nam Women | 11:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7eb5a1a9bb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7eb5a1a9bb",
+                  "name": "Indonesia Nữ vs Việt Nam Women",
+                  "streams": [
+                    {
+                      "id": "st-7eb5a1a9bb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20f8de3adc",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/dbcc6133c2e8454680f16dba108cd67d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Indonesia Nữ",
+            "team_b": "Việt Nam Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "time": "11:00:00",
+            "date": "21/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/44971d4e88d04870a0a210c83e8b0575_f4004565_20260921.png?v=f4004565",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-600c093197",
+          "name": "Thái Lan Nữ vs Trung Quốc | 14:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-600c093197",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-600c093197",
+                  "name": "Thái Lan Nữ vs Trung Quốc",
+                  "streams": [
+                    {
+                      "id": "st-600c093197",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab5bec6d5b",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e325908dfcf54a989af47f54a4d14d63/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Thái Lan Nữ",
+            "team_b": "Trung Quốc",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/89f7715eb4c4fdc1f7c3d6da3058d53b.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "time": "14:00:00",
+            "date": "21/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/72188f86764c485189d50b9a1ee4405f_aeb69f0f_20260921.png?v=aeb69f0f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3e54304dea",
+          "name": "Nhật Bản Nữ vs Hàn Quốc Nữ | 17:20 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3e54304dea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3e54304dea",
+                  "name": "Nhật Bản Nữ vs Hàn Quốc Nữ",
+                  "streams": [
+                    {
+                      "id": "st-3e54304dea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1763e999ed",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2ca3b8f423bb4fdbaf4cc6a41dc5b65f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Nhật Bản Nữ",
+            "team_b": "Hàn Quốc Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/9b107316d2e5e5fc3011e6c62bb2b121.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "time": "17:20:00",
+            "date": "21/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/33d5cb4900e2405597ec453d774b00eb_428d82b4_20260921.png?v=428d82b4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-bae0e58274",
+          "name": "Bỉ vs Cộng Hòa Séc | 21:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bae0e58274",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bae0e58274",
+                  "name": "Bỉ vs Cộng Hòa Séc",
+                  "streams": [
+                    {
+                      "id": "st-bae0e58274",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f138373599",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ad0690633d034942bf9bb4777b26027e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu",
+            "team_a": "Bỉ",
+            "team_b": "Cộng Hòa Séc",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/efdb89c554f591bcca032759178eb32d.png!w80",
+            "time": "21:00:00",
+            "date": "21/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/04b3ed0b52454acbbd7f02b551b82839_519af21a_20260921.png?v=519af21a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3687dc80ea",
+          "name": "Ba Lan vs Đức | 22:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3687dc80ea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3687dc80ea",
+                  "name": "Ba Lan vs Đức",
+                  "streams": [
+                    {
+                      "id": "st-3687dc80ea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-39136e8436",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7ee4ed6813fc4e57b3304e667377fb67/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu",
+            "team_a": "Ba Lan",
+            "team_b": "Đức",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/8f51e424bc3ca9f91ca1900203be4504.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/e0677a0ca49587054db50fd388f5dfb0.png!w80",
+            "time": "22:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8ecad31c9b47469db0ef3bd0f100b866_4e3ca484_20260921.png?v=4e3ca484",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
+}
