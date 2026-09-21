@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-ef2811d35e",
-          "name": "Vietnam Women vs Thailand Women | 17:30 21/09",
+          "name": "Vietnam Women vs Thailand Women",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Thailand Women",
             "logo_a": "https://sta.vnres.co/file/common/20260917/0e6f610d5ebb6a4fa34d12874f05bece.png",
             "logo_b": "https://sta.vnres.co/file/common/20260917/fb873ab125562117abfcb91a9befba62.png",
-            "time": "17:30:00",
-            "date": "21/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -162,7 +162,7 @@
         },
         {
           "id": "pl-730ac552ca",
-          "name": "Pakhtakor II vs Shurtan Guzor | 18:00 21/09",
+          "name": "Pakhtakor II vs Shurtan Guzor",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,8 +217,8 @@
             "team_b": "Shurtan Guzor",
             "logo_a": "https://img.sports-data.online/football/team/4022217a18617e36b2d07e3ccf5cf673.png",
             "logo_b": "https://img.sports-data.online/football/team/e3f43baa257e74cda43f756dd4049a22.png",
-            "time": "18:00:00",
-            "date": "21/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-ad824d772b",
-          "name": "FC Otelul Galati vs Corvinul Hunedoara | 22:00 21/09",
+          "name": "FC Otelul Galati vs Corvinul Hunedoara",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -289,8 +289,8 @@
             "team_b": "Corvinul Hunedoara",
             "logo_a": "https://img.sports-data.online/football/team/92157b3833b66ce1be772afeb73fc0e1.png",
             "logo_b": "https://img.sports-data.online/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png",
-            "time": "22:00:00",
-            "date": "21/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -306,7 +306,7 @@
         },
         {
           "id": "pl-4e110d40b3",
-          "name": "Al Duhail Sports Club vs Al-Arabi Sports Club | 00:15 22/09",
+          "name": "Al Duhail Sports Club vs Al-Arabi Sports Club",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -361,8 +361,8 @@
             "team_b": "Al-Arabi Sports Club",
             "logo_a": "https://img.sports-data.online/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png",
             "logo_b": "https://img.sports-data.online/football/team/00bb4a98ec1224af879bd139519ce3b7.png",
-            "time": "00:15:00",
-            "date": "22/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -378,7 +378,7 @@
         },
         {
           "id": "pl-b37b5453ed",
-          "name": "Vietnam U23 vs Uzbekistan U23 | 12:00 22/09",
+          "name": "Vietnam U23 vs Uzbekistan U23",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,8 +433,8 @@
             "team_b": "Uzbekistan U23",
             "logo_a": "https://sta.vnres.co/file/common/20260919/14612ef900038a64907ae5d7632c6a78.png",
             "logo_b": "https://sta.vnres.co/file/common/20260919/35fa7aee7c990d709ef0e6e1e8aedeac.png",
-            "time": "12:00:00",
-            "date": "22/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -444,6 +444,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgk2v0q82_01429d6b_20260921.png?v=01429d6b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a34745d8a9",
+          "name": "South Korea U23 vs Saudi Arabia U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a34745d8a9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a34745d8a9",
+                  "name": "South Korea U23 vs Saudi Arabia U23",
+                  "streams": [
+                    {
+                      "id": "st-a34745d8a9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f35b9b420d",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "South Korea U23",
+            "team_b": "Saudi Arabia U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260919/94d5facd32da066aaf97235955c06382.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260919/1e704b78158552b9a0b98fbcae3e7ae8.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgk8p2rep_c84f08a3_20260921.png?v=c84f08a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ccf653eeae",
+          "name": "Santa Clara U23 vs Portimonense U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ccf653eeae",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ccf653eeae",
+                  "name": "Santa Clara U23 vs Portimonense U23",
+                  "streams": [
+                    {
+                      "id": "st-ccf653eeae",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d80b9a3079",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1e158a7c50da40beb1f7a656bdee3a98/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Santa Clara U23",
+            "team_b": "Portimonense U23",
+            "logo_a": "https://img.sports-data.online/football/team/e7f496f594add2954bb58b2132e1e788.png",
+            "logo_b": "https://img.sports-data.online/football/team/2204e8ba30d8257e51c73945acb01dff.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6klyyq86_356b9222_20260921.png?v=356b9222",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b6b81059d6",
+          "name": "ACS Dumbravita vs Scolar Resita",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b6b81059d6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b6b81059d6",
+                  "name": "ACS Dumbravita vs Scolar Resita",
+                  "streams": [
+                    {
+                      "id": "st-b6b81059d6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-154767a43a",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2b0109eac6034cb98d52b5a93e784ede/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Liga II",
+            "team_a": "ACS Dumbravita",
+            "team_b": "Scolar Resita",
+            "logo_a": "https://img.sports-data.online/football/team/4b49d2a284ebe78ab1b7351a8266831d.png",
+            "logo_b": "https://img.sports-data.online/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1p66yq0j_cb762e5d_20260921.png?v=cb762e5d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5bafa9aecb",
+          "name": "Bayern Munchen Women vs Manchester City Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5bafa9aecb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5bafa9aecb",
+                  "name": "Bayern Munchen Women vs Manchester City Women",
+                  "streams": [
+                    {
+                      "id": "st-5bafa9aecb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b5b6fb9f9",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3957d1bd1f5b413b8f110ad8a11f9556/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Bayern Munchen Women",
+            "team_b": "Manchester City Women",
+            "logo_a": "https://img.sports-data.online/football/team/c3d5e5a2e5a77d9dd041948e18c17ac9.png",
+            "logo_b": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhlp14eryk_43de35fa_20260921.png?v=43de35fa",
             "width": 1600,
             "height": 1200
           }
@@ -531,7 +819,7 @@
         },
         {
           "id": "pl-3e54304dea",
-          "name": "Nhật Bản Nữ vs Hàn Quốc Nữ | 17:20 21/09",
+          "name": "Nhật Bản Nữ vs Hàn Quốc Nữ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -586,8 +874,8 @@
             "team_b": "Hàn Quốc Nữ",
             "logo_a": "https://img0.aiscore.com/volleyball/team/9b107316d2e5e5fc3011e6c62bb2b121.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
-            "time": "17:20:00",
-            "date": "21/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -603,7 +891,7 @@
         },
         {
           "id": "pl-bae0e58274",
-          "name": "Bỉ vs Cộng Hòa Séc | 21:00 21/09",
+          "name": "Bỉ vs Cộng Hòa Séc",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -658,8 +946,8 @@
             "team_b": "Cộng Hòa Séc",
             "logo_a": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/efdb89c554f591bcca032759178eb32d.png!w80",
-            "time": "21:00:00",
-            "date": "21/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -675,7 +963,7 @@
         },
         {
           "id": "pl-3687dc80ea",
-          "name": "Ba Lan vs Đức | 22:00 22/09",
+          "name": "Ba Lan vs Đức",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -730,8 +1018,8 @@
             "team_b": "Đức",
             "logo_a": "https://img0.aiscore.com/volleyball/team/8f51e424bc3ca9f91ca1900203be4504.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/e0677a0ca49587054db50fd388f5dfb0.png!w80",
-            "time": "22:00:00",
-            "date": "22/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
