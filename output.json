@@ -674,6 +674,150 @@
           }
         },
         {
+          "id": "pl-6cda9f229a",
+          "name": "Nhật Bản Nữ vs Trung Quốc Nữ | 17:20 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6cda9f229a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6cda9f229a",
+                  "name": "Nhật Bản Nữ vs Trung Quốc Nữ",
+                  "streams": [
+                    {
+                      "id": "st-6cda9f229a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ea932004b2",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/12d55701362e4a7a9a69e75769b86401/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Nhật Bản Nữ",
+            "team_b": "Trung Quốc Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/9b107316d2e5e5fc3011e6c62bb2b121.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "time": "17:20:00",
+            "date": "22/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0ed8a55ec1864910809d1df10f80c1d0_dae3eb44_20260921.png?v=dae3eb44",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a8294d8c2c",
+          "name": "Pháp vs Romania | 20:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8294d8c2c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a8294d8c2c",
+                  "name": "Pháp vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-a8294d8c2c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0ebfd01ed0",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/55153bf35e754f2d9eca1ad4ddbc0fa3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu",
+            "team_a": "Pháp",
+            "team_b": "Romania",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/d37289f7a3f107fe81d58ac54ae604d4.png!w80",
+            "time": "20:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/bc40b80cc34d4a329174dd6647297bc9_e1617aee_20260921.png?v=e1617aee",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-3687dc80ea",
           "name": "Ba Lan vs Đức | 22:00 22/09",
           "type": "single",
