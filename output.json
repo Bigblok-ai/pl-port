@@ -116,11 +116,11 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f312d41abb",
+                          "id": "lnk-2a0a3bb1a1",
                           "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a140c4cf17214fb8bedcbfc88693bbcf/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/0e9e1e723048472a830572a8a6143b11/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
