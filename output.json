@@ -215,7 +215,7 @@
             "league": "OCA Asian Games",
             "team_a": "Vietnam U23",
             "team_b": "Uzbekistan U23",
-            "logo_a": "https://sta.vnres.co/file/common/20260919/14612ef900038a64907ae5d7632c6a78.png",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
             "logo_b": "https://sta.vnres.co/file/common/20260919/35fa7aee7c990d709ef0e6e1e8aedeac.png",
             "time": "12:00:00",
             "date": "22/09",
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgk2v0q82_01429d6b_20260921.png?v=01429d6b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgk2v0q82_53a4656b_20260921.png?v=53a4656b",
             "width": 1600,
             "height": 1200
           }
@@ -453,6 +453,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/04b3ed0b52454acbbd7f02b551b82839_519af21a_20260921.png?v=519af21a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-62b0e310d5",
+          "name": "Kyrgyzstan Women vs Việt Nam | 08:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62b0e310d5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-62b0e310d5",
+                  "name": "Kyrgyzstan Women vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-62b0e310d5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e857344085",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/739896ad88434e3ba08f7f001aae93af/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Kyrgyzstan Women",
+            "team_b": "Việt Nam",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/9749f17f2a26c0ee6558c42029e739d8.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "time": "08:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3e4ec8f5d46347b8ae20a9bea75a3914_279f4d2e_20260921.png?v=279f4d2e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2b6ae720ba",
+          "name": "Đài Loan TQ Nữ vs Indonesia Nữ | 11:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b6ae720ba",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2b6ae720ba",
+                  "name": "Đài Loan TQ Nữ vs Indonesia Nữ",
+                  "streams": [
+                    {
+                      "id": "st-2b6ae720ba",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1640c674c0",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/07ae1896f23044da81325651b0a0d597/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Đài Loan TQ Nữ",
+            "team_b": "Indonesia Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b338726290145eab1a38f91feaa1eff1.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
+            "time": "11:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5e07b35f5fa1456cb9ea73b259f2edfc_377eaead_20260921.png?v=377eaead",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a5c98230f4",
+          "name": "Hàn Quốc Nữ vs Thái Lan Nữ | 14:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a5c98230f4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a5c98230f4",
+                  "name": "Hàn Quốc Nữ vs Thái Lan Nữ",
+                  "streams": [
+                    {
+                      "id": "st-a5c98230f4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-22977e0c53",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/919c83b079644b369738bcfb41214cc2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Women",
+            "team_a": "Hàn Quốc Nữ",
+            "team_b": "Thái Lan Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/89f7715eb4c4fdc1f7c3d6da3058d53b.png!w80",
+            "time": "14:00:00",
+            "date": "22/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/da24ae3ef3c54b2ea37e47028d950b2a_4eb2af1f_20260921.png?v=4eb2af1f",
             "width": 1600,
             "height": 1200
           }
