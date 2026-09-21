@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "pl-730ac552ca",
-          "name": "Pakhtakor II vs Shurtan Guzor | 18:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-730ac552ca",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-730ac552ca",
-                  "name": "Pakhtakor II vs Shurtan Guzor",
-                  "streams": [
-                    {
-                      "id": "st-730ac552ca",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7a2add768",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d9f5792d3ad94713b06e67c439db7c9d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Pro League",
-            "team_a": "Pakhtakor II",
-            "team_b": "Shurtan Guzor",
-            "logo_a": "https://img.sports-data.online/football/team/4022217a18617e36b2d07e3ccf5cf673.png",
-            "logo_b": "https://img.sports-data.online/football/team/e3f43baa257e74cda43f756dd4049a22.png",
-            "time": "18:00:00",
-            "date": "21/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6owvzmoj_e9acbcbc_20260921.png?v=e9acbcbc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-ad824d772b",
           "name": "FC Otelul Galati vs Corvinul Hunedoara | 22:00 21/09",
           "type": "single",
@@ -452,83 +380,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-600c093197",
-          "name": "Thái Lan Nữ vs Trung Quốc | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-600c093197",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-600c093197",
-                  "name": "Thái Lan Nữ vs Trung Quốc",
-                  "streams": [
-                    {
-                      "id": "st-600c093197",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab5bec6d5b",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e325908dfcf54a989af47f54a4d14d63/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Thái Lan Nữ",
-            "team_b": "Trung Quốc",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/89f7715eb4c4fdc1f7c3d6da3058d53b.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/72188f86764c485189d50b9a1ee4405f_aeb69f0f_20260921.png?v=aeb69f0f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3e54304dea",
           "name": "Nhật Bản Nữ vs Hàn Quốc Nữ | 17:20 21/09",
