@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ef2811d35e",
-          "name": "Vietnam Women vs Thailand Women | 17:30 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef2811d35e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ef2811d35e",
-                  "name": "Vietnam Women vs Thailand Women",
-                  "streams": [
-                    {
-                      "id": "st-ef2811d35e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1721246148",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c7f1b9f01ff54f37ab9be43bf25cbea4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Women's Asian Games",
-            "team_a": "Vietnam Women",
-            "team_b": "Thailand Women",
-            "logo_a": "https://sta.vnres.co/file/common/20260917/0e6f610d5ebb6a4fa34d12874f05bece.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260917/fb873ab125562117abfcb91a9befba62.png",
-            "time": "17:30:00",
-            "date": "21/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5o4y2ql0_657111d6_20260921.png?v=657111d6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ad824d772b",
           "name": "FC Otelul Galati vs Corvinul Hunedoara | 22:00 21/09",
