@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-046c32bf2c",
-          "name": "China Women vs Philippines Women | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-046c32bf2c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-046c32bf2c",
-                  "name": "China Women vs Philippines Women",
-                  "streams": [
-                    {
-                      "id": "st-046c32bf2c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-115e724a1a",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d1f2c84aa8094c2ab498f7d8459f3bcb/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Women's Asian Games",
-            "team_a": "China Women",
-            "team_b": "Philippines Women",
-            "logo_a": "https://sta.vnres.co/file/common/20260917/c5e66982261495fcd58ae8b575b11b60.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260917/fc4d5d697460847b82f6dc503d405434.png",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6568m2w_18c70ffc_20260921.png?v=18c70ffc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ef2811d35e",
           "name": "Vietnam Women vs Thailand Women | 17:30 21/09",
