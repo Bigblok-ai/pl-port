@@ -188,8 +188,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a6743e1548",
-                          "name": "LÝ LONG",
+                          "id": "lnk-ef6aaaf000",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/da38a28ebd974fb486a4a265796f892c/index.m3u8",
@@ -219,7 +219,7 @@
             "logo_b": "https://img.sports-data.online/football/team/00bb4a98ec1224af879bd139519ce3b7.png",
             "time": "00:15:00",
             "date": "22/09",
-            "blv": "LÝ LONG",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f35b9b420d",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-db5fba93c4",
+                          "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8",
@@ -363,7 +363,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260919/1e704b78158552b9a0b98fbcae3e7ae8.png",
             "time": "17:00:00",
             "date": "22/09",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
           },
