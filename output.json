@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "pl-ef2811d35e",
+          "name": "Vietnam Women vs Thailand Women | 17:30 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef2811d35e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ef2811d35e",
+                  "name": "Vietnam Women vs Thailand Women",
+                  "streams": [
+                    {
+                      "id": "st-ef2811d35e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1721246148",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c7f1b9f01ff54f37ab9be43bf25cbea4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "Vietnam Women",
+            "team_b": "Thailand Women",
+            "logo_a": "https://img.sports-data.online/football/team/93d98772ab37ea73fdc725f94d3cb65b.png",
+            "logo_b": "https://img.sports-data.online/football/team/34621472e8529e712eef23a19ebdffc9.png",
+            "time": "17:30:00",
+            "date": "21/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5o4y2ql0_8810d127_20260921.png?v=8810d127",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-730ac552ca",
           "name": "Pakhtakor II vs Shurtan Guzor | 18:00 21/09",
           "type": "single",
