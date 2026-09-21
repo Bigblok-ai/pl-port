@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "14:00:00",
             "date": "21/09",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -458,8 +458,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-7eb5a1a9bb",
-          "name": "Indonesia Nữ vs Việt Nam Women | 11:00 21/09",
+          "id": "pl-600c093197",
+          "name": "Thái Lan Nữ vs Trung Quốc | 14:00 21/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -469,78 +469,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7eb5a1a9bb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7eb5a1a9bb",
-                  "name": "Indonesia Nữ vs Việt Nam Women",
-                  "streams": [
-                    {
-                      "id": "st-7eb5a1a9bb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20f8de3adc",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/dbcc6133c2e8454680f16dba108cd67d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Indonesia Nữ",
-            "team_b": "Việt Nam Women",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "time": "11:00:00",
-            "date": "21/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/44971d4e88d04870a0a210c83e8b0575_f4004565_20260921.png?v=f4004565",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-600c093197",
-          "name": "Thái Lan Nữ vs Trung Quốc | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -589,7 +517,7 @@
             "time": "14:00:00",
             "date": "21/09",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
