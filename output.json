@@ -116,8 +116,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-e12df874d2",
-                          "name": "LÝ LA LÀNG",
+                          "id": "lnk-f312d41abb",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a140c4cf17214fb8bedcbfc88693bbcf/index.m3u8",
@@ -147,7 +147,7 @@
             "logo_b": "https://img.sports-data.online/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png",
             "time": "01:00:00",
             "date": "22/09",
-            "blv": "LÝ LA LÀNG",
+            "blv": "LÝ LÊN LỬA",
             "is_live": true,
             "cate_type": "football"
           },
@@ -516,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1p66yq0j_cb762e5d_20260921.png?v=cb762e5d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5bafa9aecb",
+          "name": "Bayern Munchen Women vs Manchester City Women | 23:45 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5bafa9aecb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5bafa9aecb",
+                  "name": "Bayern Munchen Women vs Manchester City Women",
+                  "streams": [
+                    {
+                      "id": "st-5bafa9aecb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b5b6fb9f9",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3957d1bd1f5b413b8f110ad8a11f9556/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Bayern Munchen Women",
+            "team_b": "Manchester City Women",
+            "logo_a": "https://img.sports-data.online/football/team/c3d5e5a2e5a77d9dd041948e18c17ac9.png",
+            "logo_b": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
+            "time": "23:45:00",
+            "date": "22/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhlp14eryk_43de35fa_20260921.png?v=43de35fa",
             "width": 1600,
             "height": 1200
           }
