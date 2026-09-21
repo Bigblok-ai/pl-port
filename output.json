@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4e110d40b3",
-          "name": "Al Duhail Sports Club vs Al-Arabi Sports Club | 00:15 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e110d40b3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4e110d40b3",
-                  "name": "Al Duhail Sports Club vs Al-Arabi Sports Club",
-                  "streams": [
-                    {
-                      "id": "st-4e110d40b3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef6aaaf000",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/da38a28ebd974fb486a4a265796f892c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Qatari Stars Cup",
-            "team_a": "Al Duhail Sports Club",
-            "team_b": "Al-Arabi Sports Club",
-            "logo_a": "https://img.sports-data.online/football/team/5736b9d2b0cadc3c1ba779bf6787d878.png",
-            "logo_b": "https://img.sports-data.online/football/team/00bb4a98ec1224af879bd139519ce3b7.png",
-            "time": "00:15:00",
-            "date": "22/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghkvg74r6o_81a38d1d_20260922.png?v=81a38d1d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b37b5453ed",
           "name": "Vietnam U23 vs Uzbekistan U23 | 12:00 22/09",
