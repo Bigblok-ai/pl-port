@@ -375,6 +375,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a34745d8a9",
+          "name": "South Korea U23 vs Saudi Arabia U23 | 17:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a34745d8a9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a34745d8a9",
+                  "name": "South Korea U23 vs Saudi Arabia U23",
+                  "streams": [
+                    {
+                      "id": "st-a34745d8a9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f35b9b420d",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "South Korea U23",
+            "team_b": "Saudi Arabia U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260919/94d5facd32da066aaf97235955c06382.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260919/1e704b78158552b9a0b98fbcae3e7ae8.png",
+            "time": "17:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgk8p2rep_c84f08a3_20260921.png?v=c84f08a3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
