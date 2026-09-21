@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ad824d772b",
-          "name": "FC Otelul Galati vs Corvinul Hunedoara | 22:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ad824d772b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ad824d772b",
-                  "name": "FC Otelul Galati vs Corvinul Hunedoara",
-                  "streams": [
-                    {
-                      "id": "st-ad824d772b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60466fed2f",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4fe62b0dcd7441a4ae377faa85d27bb7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Super Liga",
-            "team_a": "FC Otelul Galati",
-            "team_b": "Corvinul Hunedoara",
-            "logo_a": "https://img.sports-data.online/football/team/92157b3833b66ce1be772afeb73fc0e1.png",
-            "logo_b": "https://img.sports-data.online/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png",
-            "time": "22:00:00",
-            "date": "21/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn61ooqvy_aacf9971_20260922.png?v=aacf9971",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4e110d40b3",
           "name": "Al Duhail Sports Club vs Al-Arabi Sports Club | 00:15 22/09",
