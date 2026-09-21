@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn61ooqvy_aacf9971_20260921.png?v=aacf9971",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-afd150e42f",
+          "name": "Petrolul Ploiesti vs FK Csikszereda Miercurea Ciuc | 01:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-afd150e42f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-afd150e42f",
+                  "name": "Petrolul Ploiesti vs FK Csikszereda Miercurea Ciuc",
+                  "streams": [
+                    {
+                      "id": "st-afd150e42f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-007748fdb1",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a140c4cf17214fb8bedcbfc88693bbcf/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Super Liga",
+            "team_a": "Petrolul Ploiesti",
+            "team_b": "FK Csikszereda Miercurea Ciuc",
+            "logo_a": "https://img.sports-data.online/football/team/a568766c6a9883fa021d0469ec813dc2.png",
+            "logo_b": "https://img.sports-data.online/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png",
+            "time": "01:00:00",
+            "date": "22/09",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg94l8q82_1302fa19_20260921.png?v=1302fa19",
             "width": 1600,
             "height": 1200
           }
@@ -452,83 +524,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-bae0e58274",
-          "name": "Bỉ vs Cộng Hòa Séc | 21:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bae0e58274",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bae0e58274",
-                  "name": "Bỉ vs Cộng Hòa Séc",
-                  "streams": [
-                    {
-                      "id": "st-bae0e58274",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f138373599",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ad0690633d034942bf9bb4777b26027e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Châu Âu",
-            "team_a": "Bỉ",
-            "team_b": "Cộng Hòa Séc",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/efdb89c554f591bcca032759178eb32d.png!w80",
-            "time": "21:00:00",
-            "date": "21/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/04b3ed0b52454acbbd7f02b551b82839_519af21a_20260921.png?v=519af21a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-62b0e310d5",
           "name": "Kyrgyzstan Women vs Việt Nam | 08:00 22/09",
