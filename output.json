@@ -116,8 +116,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-007748fdb1",
-                          "name": "LÝ LONG",
+                          "id": "lnk-e12df874d2",
+                          "name": "LÝ LA LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a140c4cf17214fb8bedcbfc88693bbcf/index.m3u8",
@@ -147,7 +147,7 @@
             "logo_b": "https://img.sports-data.online/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png",
             "time": "01:00:00",
             "date": "22/09",
-            "blv": "LÝ LONG",
+            "blv": "LÝ LA LÀNG",
             "is_live": true,
             "cate_type": "football"
           },
