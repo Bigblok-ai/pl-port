@@ -960,6 +960,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c075ec71e7",
+          "name": "Ý vs Phần Lan | 21:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c075ec71e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c075ec71e7",
+                  "name": "Ý vs Phần Lan",
+                  "streams": [
+                    {
+                      "id": "st-c075ec71e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b6c0fca2cc",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/da518405090e49daa6738903e6d9310e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu",
+            "team_a": "Ý",
+            "team_b": "Phần Lan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/d7b2e7a16d881b3b46859f3574ec2ee5.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/89edbc2d87efa1b567cec6236bf337e7.png!w80",
+            "time": "21:00:00",
+            "date": "23/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/047659f67ef041cf890c5e3155903798_0c11e5c9_20260921.png?v=0c11e5c9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
