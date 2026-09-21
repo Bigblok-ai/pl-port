@@ -375,6 +375,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ccf653eeae",
+          "name": "Santa Clara U23 vs Portimonense U23 | 18:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ccf653eeae",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ccf653eeae",
+                  "name": "Santa Clara U23 vs Portimonense U23",
+                  "streams": [
+                    {
+                      "id": "st-ccf653eeae",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d80b9a3079",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1e158a7c50da40beb1f7a656bdee3a98/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Santa Clara U23",
+            "team_b": "Portimonense U23",
+            "logo_a": "https://img.sports-data.online/football/team/e7f496f594add2954bb58b2132e1e788.png",
+            "logo_b": "https://img.sports-data.online/football/team/2204e8ba30d8257e51c73945acb01dff.png",
+            "time": "18:00:00",
+            "date": "22/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6klyyq86_356b9222_20260921.png?v=356b9222",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
