@@ -375,6 +375,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b37b5453ed",
+          "name": "Vietnam U23 vs Uzbekistan U23 | 12:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b37b5453ed",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b37b5453ed",
+                  "name": "Vietnam U23 vs Uzbekistan U23",
+                  "streams": [
+                    {
+                      "id": "st-b37b5453ed",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-efba43977a",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9c848b2161ad4e09b606c662983297dd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "Vietnam U23",
+            "team_b": "Uzbekistan U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260919/14612ef900038a64907ae5d7632c6a78.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260919/35fa7aee7c990d709ef0e6e1e8aedeac.png",
+            "time": "12:00:00",
+            "date": "22/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgk2v0q82_01429d6b_20260921.png?v=01429d6b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
