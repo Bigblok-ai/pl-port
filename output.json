@@ -740,7 +740,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -813,78 +813,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2e501625745c47d0ad5ef6898b118762_f6e2cf5f_20260923.png?v=f6e2cf5f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-3687dc80ea",
-          "name": "Ba Lan vs Đức | 23:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3687dc80ea",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3687dc80ea",
-                  "name": "Ba Lan vs Đức",
-                  "streams": [
-                    {
-                      "id": "st-3687dc80ea",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1da17d19ba",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7ee4ed6813fc4e57b3304e667377fb67/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Châu Âu",
-            "team_a": "Ba Lan",
-            "team_b": "Đức",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/8f51e424bc3ca9f91ca1900203be4504.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/e0677a0ca49587054db50fd388f5dfb0.png!w80",
-            "time": "23:00:00",
-            "date": "22/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8ecad31c9b47469db0ef3bd0f100b866_4e3ca484_20260923.png?v=4e3ca484",
             "width": 1600,
             "height": 1200
           }
