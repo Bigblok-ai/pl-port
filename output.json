@@ -519,6 +519,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-416b6f9a43",
+          "name": "Iran U23 vs North Korea U23 | 12:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-416b6f9a43",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-416b6f9a43",
+                  "name": "Iran U23 vs North Korea U23",
+                  "streams": [
+                    {
+                      "id": "st-416b6f9a43",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2249f3434",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e59cd9fbc6994d658e077323e5be067f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "Iran U23",
+            "team_b": "North Korea U23",
+            "logo_a": "https://img.sports-data.online/football/team/34cb2845ecf6c931db09a6d7b50437a7.png",
+            "logo_b": "https://img.sports-data.online/football/team/9eb35faafec681d91bce1ea401dd1f08.png",
+            "time": "12:30:00",
+            "date": "23/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh65g1gqg8_fb8a140a_20260922.png?v=fb8a140a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5f5cbed1ea",
+          "name": "China U23 vs United Arab Emirates U23 | 12:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5f5cbed1ea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5f5cbed1ea",
+                  "name": "China U23 vs United Arab Emirates U23",
+                  "streams": [
+                    {
+                      "id": "st-5f5cbed1ea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6bdf7d927f",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0e1fd88daccb4c9eb5d6a58a61872ce8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "China U23",
+            "team_b": "United Arab Emirates U23",
+            "logo_a": "https://img.sports-data.online/football/team/a5eb29400378fcda639caedb5af7d950.png",
+            "logo_b": "https://img.sports-data.online/football/team/19d5a68fae6f9993f8d03fa51e979049.png",
+            "time": "12:30:00",
+            "date": "23/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8l21qdy_41f5c0c7_20260922.png?v=41f5c0c7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
