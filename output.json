@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4e36002f32",
-          "name": "Aras Kargo Women vs Vakifbank Nữ | 23:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e36002f32",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4e36002f32",
-                  "name": "Aras Kargo Women vs Vakifbank Nữ",
-                  "streams": [
-                    {
-                      "id": "st-4e36002f32",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-56ffcc3d1e",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/33cff61dc6d249e1bc4983920a925dbd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Club Friendly Women",
-            "team_a": "Aras Kargo Women",
-            "team_b": "Vakifbank Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/687539576e543f41b5aad9628994a518.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
-            "time": "23:00:00",
-            "date": "22/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2e501625745c47d0ad5ef6898b118762_f6e2cf5f_20260923.png?v=f6e2cf5f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-50e669635d",
           "name": "Bỉ vs Slovenia | 21:00 23/09",
