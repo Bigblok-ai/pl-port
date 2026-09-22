@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-62b0e310d5",
-          "name": "Kyrgyzstan Women vs Việt Nam | 08:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-62b0e310d5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-62b0e310d5",
-                  "name": "Kyrgyzstan Women vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-62b0e310d5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e857344085",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/739896ad88434e3ba08f7f001aae93af/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Kyrgyzstan Women",
-            "team_b": "Việt Nam",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9749f17f2a26c0ee6558c42029e739d8.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "time": "08:00:00",
-            "date": "22/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3e4ec8f5d46347b8ae20a9bea75a3914_279f4d2e_20260922.png?v=279f4d2e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2b6ae720ba",
           "name": "Đài Loan TQ Nữ vs Indonesia Nữ | 11:00 22/09",
