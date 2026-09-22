@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (3 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6cda9f229a",
-          "name": "Nhật Bản Nữ vs Trung Quốc Nữ | 17:20 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6cda9f229a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6cda9f229a",
-                  "name": "Nhật Bản Nữ vs Trung Quốc Nữ",
-                  "streams": [
-                    {
-                      "id": "st-6cda9f229a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ea932004b2",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/12d55701362e4a7a9a69e75769b86401/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Nhật Bản Nữ",
-            "team_b": "Trung Quốc Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9b107316d2e5e5fc3011e6c62bb2b121.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "time": "17:20:00",
-            "date": "22/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0ed8a55ec1864910809d1df10f80c1d0_dae3eb44_20260922.png?v=dae3eb44",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a8294d8c2c",
           "name": "Pháp vs Romania | 20:00 22/09",
