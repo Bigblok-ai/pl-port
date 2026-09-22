@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2b6ae720ba",
-          "name": "Đài Loan TQ Nữ vs Indonesia Nữ | 11:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2b6ae720ba",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2b6ae720ba",
-                  "name": "Đài Loan TQ Nữ vs Indonesia Nữ",
-                  "streams": [
-                    {
-                      "id": "st-2b6ae720ba",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1640c674c0",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/07ae1896f23044da81325651b0a0d597/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Đài Loan TQ Nữ",
-            "team_b": "Indonesia Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b338726290145eab1a38f91feaa1eff1.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
-            "time": "11:00:00",
-            "date": "22/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5e07b35f5fa1456cb9ea73b259f2edfc_377eaead_20260922.png?v=377eaead",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a5c98230f4",
           "name": "Hàn Quốc Nữ vs Thái Lan Nữ | 14:00 22/09",
