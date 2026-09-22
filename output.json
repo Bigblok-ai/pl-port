@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "pl-73e903f17a",
+          "name": "Norrby IF U21 vs Varbergs BoIS U21 | 00:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73e903f17a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-73e903f17a",
+                  "name": "Norrby IF U21 vs Varbergs BoIS U21",
+                  "streams": [
+                    {
+                      "id": "st-73e903f17a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2880b95cc8",
+                          "name": "LÝ LÀNG LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fc2161b3dac2473fb418ef14bf2ffc25/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sweden Folksam U21 Allsvenskan Sodra",
+            "team_a": "Norrby IF U21",
+            "team_b": "Varbergs BoIS U21",
+            "logo_a": "https://img.sports-data.online/football/team/2862ade01687f9ae6b6b6f4cd2686a0d.png",
+            "logo_b": "https://img.sports-data.online/football/team/01888b939e0e72a7aa88771bea3855cb.png",
+            "time": "00:00:00",
+            "date": "23/09",
+            "blv": "LÝ LÀNG LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8jx5qo9_df0c63fd_20260922.png?v=df0c63fd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "pl-b6b81059d6",
           "name": "ACS Dumbravita vs Scolar Resita | 21:30 22/09",
