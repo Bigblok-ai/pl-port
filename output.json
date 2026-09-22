@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-068572d4f6",
-          "name": "Real Madrid Women vs Paris Saint Germain Women | 02:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-068572d4f6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-068572d4f6",
-                  "name": "Real Madrid Women vs Paris Saint Germain Women",
-                  "streams": [
-                    {
-                      "id": "st-068572d4f6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a1e3a72a9",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/21cc68f85d424185af1ff76b2f3fd214/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Women's Champions League",
-            "team_a": "Real Madrid Women",
-            "team_b": "Paris Saint Germain Women",
-            "logo_a": "https://img.sports-data.online/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png",
-            "logo_b": "https://img.sports-data.online/football/team/9b531be11cb41d4f7999fc91a943c75f.png",
-            "time": "02:00:00",
-            "date": "23/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh9x4p8qwz_32bbd6a3_20260923.png?v=32bbd6a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-416b6f9a43",
           "name": "Iran U23 vs North Korea U23 | 12:30 23/09",
