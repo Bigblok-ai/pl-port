@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a34745d8a9",
-          "name": "South Korea U23 vs Saudi Arabia U23 | 17:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a34745d8a9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a34745d8a9",
-                  "name": "South Korea U23 vs Saudi Arabia U23",
-                  "streams": [
-                    {
-                      "id": "st-a34745d8a9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-db5fba93c4",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Asian Games",
-            "team_a": "South Korea U23",
-            "team_b": "Saudi Arabia U23",
-            "logo_a": "https://sta.vnres.co/file/common/20260919/94d5facd32da066aaf97235955c06382.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260919/1e704b78158552b9a0b98fbcae3e7ae8.png",
-            "time": "17:00:00",
-            "date": "22/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgk8p2rep_c84f08a3_20260922.png?v=c84f08a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ccf653eeae",
           "name": "Santa Clara U23 vs Portimonense U23 | 18:00 22/09",
@@ -732,6 +660,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpekpr51_c86d4301_20260922.png?v=c86d4301",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fd6c69a755",
+          "name": "Thimphu City vs Transport United FC | 19:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fd6c69a755",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fd6c69a755",
+                  "name": "Thimphu City vs Transport United FC",
+                  "streams": [
+                    {
+                      "id": "st-fd6c69a755",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e2a174caa7",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/803636f2cdf8499b93aec3529922cffe/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bhutan Premier League",
+            "team_a": "Thimphu City",
+            "team_b": "Transport United FC",
+            "logo_a": "https://img.sports-data.online/football/team/25399874c890dd346ebde00e3c2bcb7b.png",
+            "logo_b": "https://img.sports-data.online/football/team/fc0e456663f75dc4e49d2f55d09a9f92.png",
+            "time": "19:00:00",
+            "date": "23/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xglvmoj_df3c3e84_20260922.png?v=df3c3e84",
             "width": 1600,
             "height": 1200
           }
