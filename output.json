@@ -663,49 +663,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-a8294d8c2c",
-          "name": "Pháp vs Romania | 20:00 22/09",
+          "id": "pl-dd9d777413",
+          "name": "Iraq vs Oman | 21:30 23/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-a8294d8c2c",
+              "id": "src-dd9d777413",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-a8294d8c2c",
-                  "name": "Pháp vs Romania",
+                  "id": "ct-dd9d777413",
+                  "name": "Iraq vs Oman",
                   "streams": [
                     {
-                      "id": "st-a8294d8c2c",
+                      "id": "st-dd9d777413",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-0ebfd01ed0",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-b31a373275",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/55153bf35e754f2d9eca1ad4ddbc0fa3/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/1cdd80ed23a249bdbae869d693ee8085/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -725,26 +716,35 @@
             }
           ],
           "org_metadata": {
-            "league": "Vô địch Châu Âu",
-            "team_a": "Pháp",
-            "team_b": "Romania",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/d37289f7a3f107fe81d58ac54ae604d4.png!w80",
-            "time": "20:00:00",
-            "date": "22/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "WAFF Arabian Gulf Cup",
+            "team_a": "Iraq",
+            "team_b": "Oman",
+            "logo_a": "https://img.sports-data.online/football/team/85eba6905189dba3b9de6342ede53150.png",
+            "logo_b": "https://img.sports-data.online/football/team/11fc5be6bedfbccc563c5054ad544320.png",
+            "time": "21:30:00",
+            "date": "23/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/bc40b80cc34d4a329174dd6647297bc9_e1617aee_20260922.png?v=e1617aee",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv2nj9md7_f4596f00_20260922.png?v=f4596f00",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-ab08c092aa",
           "name": "Eczacibasi Nữ vs Besiktas Nữ | 20:30 22/09",
