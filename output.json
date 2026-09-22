@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a69f455076",
+          "name": "Azerbaijan vs Tajikistan | 23:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a69f455076",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a69f455076",
+                  "name": "Azerbaijan vs Tajikistan",
+                  "streams": [
+                    {
+                      "id": "st-a69f455076",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ce2d289a47",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f6d5265ae3b64e3db85b16df1f00f138/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Azerbaijan",
+            "team_b": "Tajikistan",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/95f4c5468d3ac70dd524ad831c6f2f70.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/603c173fa27267f3f7712e96f241d3cc.png",
+            "time": "23:00:00",
+            "date": "23/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo0xjm0v_ecaf20ad_20260922.png?v=ecaf20ad",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
