@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "pl-b6b81059d6",
+          "name": "ACS Dumbravita vs Scolar Resita | 21:30 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b6b81059d6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b6b81059d6",
+                  "name": "ACS Dumbravita vs Scolar Resita",
+                  "streams": [
+                    {
+                      "id": "st-b6b81059d6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-154767a43a",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2b0109eac6034cb98d52b5a93e784ede/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Liga II",
+            "team_a": "ACS Dumbravita",
+            "team_b": "Scolar Resita",
+            "logo_a": "https://img.sports-data.online/football/team/4b49d2a284ebe78ab1b7351a8266831d.png",
+            "logo_b": "https://img.sports-data.online/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png",
+            "time": "21:30:00",
+            "date": "22/09",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1p66yq0j_cb762e5d_20260922.png?v=cb762e5d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "pl-73e903f17a",
           "name": "Norrby IF U21 vs Varbergs BoIS U21 | 00:00 23/09",
@@ -84,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8jx5qo9_df0c63fd_20260922.png?v=df0c63fd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-b6b81059d6",
-          "name": "ACS Dumbravita vs Scolar Resita | 21:30 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b6b81059d6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b6b81059d6",
-                  "name": "ACS Dumbravita vs Scolar Resita",
-                  "streams": [
-                    {
-                      "id": "st-b6b81059d6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-154767a43a",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2b0109eac6034cb98d52b5a93e784ede/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "ACS Dumbravita",
-            "team_b": "Scolar Resita",
-            "logo_a": "https://img.sports-data.online/football/team/4b49d2a284ebe78ab1b7351a8266831d.png",
-            "logo_b": "https://img.sports-data.online/football/team/c6c5bb133999f12570e9c2dd4b1d69a6.png",
-            "time": "21:30:00",
-            "date": "22/09",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1p66yq0j_cb762e5d_20260922.png?v=cb762e5d",
             "width": 1600,
             "height": 1200
           }
