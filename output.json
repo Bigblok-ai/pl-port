@@ -890,6 +890,78 @@
           }
         },
         {
+          "id": "pl-ab08c092aa",
+          "name": "Eczacibasi Nữ vs Besiktas Nữ | 20:30 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ab08c092aa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ab08c092aa",
+                  "name": "Eczacibasi Nữ vs Besiktas Nữ",
+                  "streams": [
+                    {
+                      "id": "st-ab08c092aa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-61f92f9092",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b7f5a4cfe20541fd952d55d38570787a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Club Friendly Women",
+            "team_a": "Eczacibasi Nữ",
+            "team_b": "Besiktas Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
+            "time": "20:30:00",
+            "date": "22/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6c5b3dc95e184884888a9ef0c130cd68_fd99e4c9_20260922.png?v=fd99e4c9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-3687dc80ea",
           "name": "Ba Lan vs Đức | 22:00 22/09",
           "type": "single",
@@ -957,6 +1029,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8ecad31c9b47469db0ef3bd0f100b866_4e3ca484_20260922.png?v=4e3ca484",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4e36002f32",
+          "name": "Aras Kargo Women vs Vakifbank Nữ | 23:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e36002f32",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4e36002f32",
+                  "name": "Aras Kargo Women vs Vakifbank Nữ",
+                  "streams": [
+                    {
+                      "id": "st-4e36002f32",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-56ffcc3d1e",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/33cff61dc6d249e1bc4983920a925dbd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Club Friendly Women",
+            "team_a": "Aras Kargo Women",
+            "team_b": "Vakifbank Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/687539576e543f41b5aad9628994a518.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "time": "23:00:00",
+            "date": "22/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2e501625745c47d0ad5ef6898b118762_f6e2cf5f_20260922.png?v=f6e2cf5f",
             "width": 1600,
             "height": 1200
           }
