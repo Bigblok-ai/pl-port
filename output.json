@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1d08988136",
-          "name": "FCM Targu Mures vs CS Dinamo Bucuresti | 00:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1d08988136",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1d08988136",
-                  "name": "FCM Targu Mures vs CS Dinamo Bucuresti",
-                  "streams": [
-                    {
-                      "id": "st-1d08988136",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8a7a8ca2ef",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6b3e943e64cd4b9aad67fc11e70b7ffb/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "FCM Targu Mures",
-            "team_b": "CS Dinamo Bucuresti",
-            "logo_a": "https://img.sports-data.online/football/team/2a71ece3bf494abaefee6aea5ff7b03c.png",
-            "logo_b": "https://img.sports-data.online/football/team/38f47a9528dd7f64ad462f6d9b26170e.png",
-            "time": "00:00:00",
-            "date": "23/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy4000ryk_e8998661_20260923.png?v=e8998661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-068572d4f6",
           "name": "Real Madrid Women vs Paris Saint Germain Women | 02:00 23/09",
