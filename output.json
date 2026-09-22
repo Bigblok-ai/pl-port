@@ -962,8 +962,8 @@
           }
         },
         {
-          "id": "pl-c075ec71e7",
-          "name": "Ý vs Phần Lan | 21:00 23/09",
+          "id": "pl-50e669635d",
+          "name": "Bỉ vs Slovenia | 21:00 23/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -977,23 +977,23 @@
           ],
           "sources": [
             {
-              "id": "src-c075ec71e7",
+              "id": "src-50e669635d",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-c075ec71e7",
-                  "name": "Ý vs Phần Lan",
+                  "id": "ct-50e669635d",
+                  "name": "Bỉ vs Slovenia",
                   "streams": [
                     {
-                      "id": "st-c075ec71e7",
+                      "id": "st-50e669635d",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-b6c0fca2cc",
+                          "id": "lnk-d970a39d55",
                           "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/da518405090e49daa6738903e6d9310e/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/fca969c13dce41e2946be82ee82423e4/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1014,10 +1014,10 @@
           ],
           "org_metadata": {
             "league": "Vô địch Châu Âu",
-            "team_a": "Ý",
-            "team_b": "Phần Lan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/d7b2e7a16d881b3b46859f3574ec2ee5.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/89edbc2d87efa1b567cec6236bf337e7.png!w80",
+            "team_a": "Bỉ",
+            "team_b": "Slovenia",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/6196b217c74313ed212d0aaa350dd6d1.png!w60",
             "time": "21:00:00",
             "date": "23/09",
             "blv": "LÝ LÊN LỬA",
@@ -1028,7 +1028,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/047659f67ef041cf890c5e3155903798_0c11e5c9_20260922.png?v=0c11e5c9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d789c820ed0a4f4d9aa0240854c2ef52_f327ebe8_20260922.png?v=f327ebe8",
             "width": 1600,
             "height": 1200
           }
