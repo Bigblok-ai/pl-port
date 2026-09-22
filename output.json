@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a5c98230f4",
-          "name": "Hàn Quốc Nữ vs Thái Lan Nữ | 14:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5c98230f4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a5c98230f4",
-                  "name": "Hàn Quốc Nữ vs Thái Lan Nữ",
-                  "streams": [
-                    {
-                      "id": "st-a5c98230f4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22977e0c53",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/919c83b079644b369738bcfb41214cc2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Hàn Quốc Nữ",
-            "team_b": "Thái Lan Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/89f7715eb4c4fdc1f7c3d6da3058d53b.png!w80",
-            "time": "14:00:00",
-            "date": "22/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/da24ae3ef3c54b2ea37e47028d950b2a_4eb2af1f_20260922.png?v=4eb2af1f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6cda9f229a",
           "name": "Nhật Bản Nữ vs Trung Quốc Nữ | 17:20 22/09",
