@@ -519,6 +519,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f3550abbcb",
+          "name": "Laos vs Brunei Darussalam | 16:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3550abbcb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f3550abbcb",
+                  "name": "Laos vs Brunei Darussalam",
+                  "streams": [
+                    {
+                      "id": "st-f3550abbcb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-333a378316",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0bd57604023b4412ab92e07727812534/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Laos",
+            "team_b": "Brunei Darussalam",
+            "logo_a": "https://sta.vnres.co/file/common/20260921/73eec1fd974a87af6c92080521bd05b2.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260921/7123ecfb570994f6e1d058aee8cb5505.png",
+            "time": "16:00:00",
+            "date": "24/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h67o5xmoj_66e113e3_20260923.png?v=66e113e3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
