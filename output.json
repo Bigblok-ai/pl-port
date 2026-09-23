@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-acad1ff984",
-          "name": "Saudi Arabia vs Kuwait | 01:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-acad1ff984",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-acad1ff984",
-                  "name": "Saudi Arabia vs Kuwait",
-                  "streams": [
-                    {
-                      "id": "st-acad1ff984",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a7af849995",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c662b35f02a64747a7dad6d6cde6231e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WAFF Arabian Gulf Cup",
-            "team_a": "Saudi Arabia",
-            "team_b": "Kuwait",
-            "logo_a": "https://sta.vnres.co/file/common/20260921/fb2bc289e0e77c4dcfc684c9cb8a2f98.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260921/227ff58ba911e08be831d102d6e86aad.png",
-            "time": "01:00:00",
-            "date": "24/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy63kkryk_47fb8580_20260924.png?v=47fb8580",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f3550abbcb",
           "name": "Laos vs Brunei Darussalam | 16:00 24/09",
