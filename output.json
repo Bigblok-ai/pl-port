@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a69f455076",
-          "name": "Azerbaijan vs Tajikistan | 23:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a69f455076",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a69f455076",
-                  "name": "Azerbaijan vs Tajikistan",
-                  "streams": [
-                    {
-                      "id": "st-a69f455076",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ce2d289a47",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f6d5265ae3b64e3db85b16df1f00f138/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Azerbaijan",
-            "team_b": "Tajikistan",
-            "logo_a": "https://sta.vnres.co/file/common/20260922/95f4c5468d3ac70dd524ad831c6f2f70.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260922/603c173fa27267f3f7712e96f241d3cc.png",
-            "time": "23:00:00",
-            "date": "23/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo0xjm0v_ecaf20ad_20260924.png?v=ecaf20ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-acad1ff984",
           "name": "Saudi Arabia vs Kuwait | 01:00 24/09",
@@ -660,6 +588,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8y2nqo9_96de9e6c_20260924.png?v=96de9e6c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3cd88551f0",
+          "name": "Qatar vs Bahrain | 01:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3cd88551f0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3cd88551f0",
+                  "name": "Qatar vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-3cd88551f0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7c727bb909",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f5d43084054743289f58b324c2ba67d0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WAFF Arabian Gulf Cup",
+            "team_a": "Qatar",
+            "team_b": "Bahrain",
+            "logo_a": "https://img.sports-data.online/football/team/a61d3f41d78a6df8bf3a367ed8e6f5a1.png",
+            "logo_b": "https://img.sports-data.online/football/team/26bdd013ee743c1725d7b6b4daa1a4ac.png",
+            "time": "01:00:00",
+            "date": "25/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghenwzyr6o_7e87281c_20260924.png?v=7e87281c",
             "width": 1600,
             "height": 1200
           }
