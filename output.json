@@ -663,6 +663,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-30c7b1212e",
+          "name": "Netherlands vs Germany | 01:45 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30c7b1212e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30c7b1212e",
+                  "name": "Netherlands vs Germany",
+                  "streams": [
+                    {
+                      "id": "st-30c7b1212e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2ec885ab7a",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4aa36871ec8f40008c77d6becc328b67/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Netherlands",
+            "team_b": "Germany",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/d3b76ca5e44ae5c3b15057f195d51d5f.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/0abeca5c4445b26592167a7cb969d85a.png",
+            "time": "01:45:00",
+            "date": "25/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9no51m7v_fb7188fb_20260924.png?v=fb7188fb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-20c1831294",
+          "name": "Norway vs Denmark | 01:45 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-20c1831294",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-20c1831294",
+                  "name": "Norway vs Denmark",
+                  "streams": [
+                    {
+                      "id": "st-20c1831294",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db0a2e4834",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/98bf433f993347e7b285d435d02b5399/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Norway",
+            "team_b": "Denmark",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/ab2f72a7da69b9ec0c512f684076abee.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/8dff7372994f19fb74a73abc52468de9.png",
+            "time": "01:45:00",
+            "date": "25/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5yxvryo_35657c7a_20260924.png?v=35657c7a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-49627856a3",
+          "name": "Portugal vs Wales | 01:45 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-49627856a3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-49627856a3",
+                  "name": "Portugal vs Wales",
+                  "streams": [
+                    {
+                      "id": "st-49627856a3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b8650716e1",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d90cc7f2f69445db9c868772e2900e40/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Portugal",
+            "team_b": "Wales",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/541cd9c8c6c7359a2e8431a1d6ee0bab.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/785b9ebd59e2ce0c4cb8b657a494ff2b.png",
+            "time": "01:45:00",
+            "date": "25/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3v4jq82_f7184b6d_20260924.png?v=f7184b6d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
