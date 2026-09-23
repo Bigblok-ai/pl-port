@@ -11,86 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-f1814dec17",
-          "name": "Vissel Kobe vs Sagan Tosu | 15:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f1814dec17",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f1814dec17",
-                  "name": "Vissel Kobe vs Sagan Tosu",
-                  "streams": [
-                    {
-                      "id": "st-f1814dec17",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1578af27e1",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/421f82e2cccf4a7083e81b3a3d992b06/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Emperor's Cup",
-            "team_a": "Vissel Kobe",
-            "team_b": "Sagan Tosu",
-            "logo_a": "https://img.sports-data.online/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-            "logo_b": "https://img.sports-data.online/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png",
-            "time": "15:00:00",
-            "date": "23/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gdpvr8k_ec349012_20260923.png?v=ec349012",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-e83de733a6",
-          "name": "Japan U23 vs Thailand U23 | 17:30 23/09",
+          "name": "Japan U23 vs Thailand U23",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +73,8 @@
             "team_b": "Thailand U23",
             "logo_a": "https://sta.vnres.co/file/common/20260920/a352d553dc30cb397853ca59e29136f7.png",
             "logo_b": "https://sta.vnres.co/file/common/20260920/1f069001b876d52dfe037d23f36ac3aa.png",
-            "time": "17:30:00",
-            "date": "23/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": true,
             "cate_type": "football"
