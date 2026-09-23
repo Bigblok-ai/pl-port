@@ -530,6 +530,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "pl-b2072e824e",
+          "name": "Vakifbank Nữ vs Besiktas Nữ | 20:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2072e824e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b2072e824e",
+                  "name": "Vakifbank Nữ vs Besiktas Nữ",
+                  "streams": [
+                    {
+                      "id": "st-b2072e824e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-547b54df8f",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2e1b2ce6bdc045658b96eea2664ac141/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Club Friendly Women",
+            "team_a": "Vakifbank Nữ",
+            "team_b": "Besiktas Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
+            "time": "20:30:00",
+            "date": "23/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8997abeb8c404c9e8c4e3223615dd9d2_d3356edd_20260923.png?v=d3356edd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-50e669635d",
           "name": "Bỉ vs Slovenia | 21:00 23/09",
           "type": "single",
