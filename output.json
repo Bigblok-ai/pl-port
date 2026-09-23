@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e83de733a6",
-          "name": "Japan U23 vs Thailand U23 | 17:30 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e83de733a6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e83de733a6",
-                  "name": "Japan U23 vs Thailand U23",
-                  "streams": [
-                    {
-                      "id": "st-e83de733a6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7301c47480",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4b07abad91f34199a7ce4b24f6e63ef5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Asian Games",
-            "team_a": "Japan U23",
-            "team_b": "Thailand U23",
-            "logo_a": "https://sta.vnres.co/file/common/20260920/a352d553dc30cb397853ca59e29136f7.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260920/1f069001b876d52dfe037d23f36ac3aa.png",
-            "time": "17:30:00",
-            "date": "23/09",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpekpr51_1f1f010a_20260923.png?v=1f1f010a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fd6c69a755",
           "name": "Thimphu City vs Transport United FC | 19:00 23/09",
