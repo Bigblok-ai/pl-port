@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fd6c69a755",
-          "name": "Thimphu City vs Transport United FC | 19:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd6c69a755",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fd6c69a755",
-                  "name": "Thimphu City vs Transport United FC",
-                  "streams": [
-                    {
-                      "id": "st-fd6c69a755",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e2a174caa7",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/803636f2cdf8499b93aec3529922cffe/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bhutan Premier League",
-            "team_a": "Thimphu City",
-            "team_b": "Transport United FC",
-            "logo_a": "https://img.sports-data.online/football/team/25399874c890dd346ebde00e3c2bcb7b.png",
-            "logo_b": "https://img.sports-data.online/football/team/fc0e456663f75dc4e49d2f55d09a9f92.png",
-            "time": "19:00:00",
-            "date": "23/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xglvmoj_df3c3e84_20260923.png?v=df3c3e84",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-dd9d777413",
           "name": "Iraq vs Oman | 21:30 23/09",
@@ -660,6 +588,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgle9lrep_ca0d7367_20260923.png?v=ca0d7367",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-041f424fac",
+          "name": "Uzbekistan vs IR Iran | 21:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-041f424fac",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-041f424fac",
+                  "name": "Uzbekistan vs IR Iran",
+                  "streams": [
+                    {
+                      "id": "st-041f424fac",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4519a38fc6",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/73c8dafa3e674fdf9ac74e99ec6119c4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Uzbekistan",
+            "team_b": "IR Iran",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/e3254af2b05f7327e76133d892cf20ad.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/49e51c610fe1b710d1cc5ce805db3d1b.png",
+            "time": "21:00:00",
+            "date": "24/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhk64lgmd7_2b77f43c_20260923.png?v=2b77f43c",
             "width": 1600,
             "height": 1200
           }
