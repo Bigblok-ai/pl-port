@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-75df354bd0",
+          "name": "Myanmar vs Timor Leste | 19:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75df354bd0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-75df354bd0",
+                  "name": "Myanmar vs Timor Leste",
+                  "streams": [
+                    {
+                      "id": "st-75df354bd0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-21942d4704",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7533513ac3184e3e8376a9e6ff67e064/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Myanmar",
+            "team_b": "Timor Leste",
+            "logo_a": "https://sta.vnres.co/file/common/20260921/3ab19e2019a8e3ad82edd0b9b5d2c62f.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260921/e1a74ec1420b560d15a4a07d71c5e735.png",
+            "time": "19:00:00",
+            "date": "24/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgle9lrep_ca0d7367_20260923.png?v=ca0d7367",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
