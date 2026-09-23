@@ -591,6 +591,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9a54761197",
+          "name": "United Arab Emirates vs Yemen | 22:55 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9a54761197",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9a54761197",
+                  "name": "United Arab Emirates vs Yemen",
+                  "streams": [
+                    {
+                      "id": "st-9a54761197",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b27d2751e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3f25851fe98e4931ae99fb72b5cd9d56/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WAFF Arabian Gulf Cup",
+            "team_a": "United Arab Emirates",
+            "team_b": "Yemen",
+            "logo_a": "https://sta.vnres.co/file/common/20260921/2bc8ea9d3c0de09e13fd9a36ea142ddc.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260921/370c9343d28ed24f940086588f9e4493.png",
+            "time": "22:55:00",
+            "date": "24/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxpvxqdy_7fb8a7e7_20260923.png?v=7fb8a7e7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
