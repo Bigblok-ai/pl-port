@@ -591,6 +591,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e77391695a",
+          "name": "South Korea vs Ecuador | 18:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e77391695a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e77391695a",
+                  "name": "South Korea vs Ecuador",
+                  "streams": [
+                    {
+                      "id": "st-e77391695a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-804dffcbea",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/316ee643fad444f3852aa83941ad9760/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "South Korea",
+            "team_b": "Ecuador",
+            "logo_a": "https://sta.vnres.co/file/common/20260921/14396ad8c05c228c1194d8b5e9a4c48e.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260921/f464aed10523bd65316465d876f49c4b.png",
+            "time": "18:00:00",
+            "date": "24/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zhv0177ql0_545896d1_20260923.png?v=545896d1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
