@@ -233,78 +233,6 @@
           }
         },
         {
-          "id": "pl-81c23c0ce5",
-          "name": "Manchester United Women(w) vs Sheffield United Women | 01:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-81c23c0ce5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-81c23c0ce5",
-                  "name": "Manchester United Women(w) vs Sheffield United Women",
-                  "streams": [
-                    {
-                      "id": "st-81c23c0ce5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-570708361e",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/82582970cecf4a368b6f84f51317b8c8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FA Women's League Cup",
-            "team_a": "Manchester United Women(w)",
-            "team_b": "Sheffield United Women",
-            "logo_a": "https://img.sports-data.online/football/team/db33359c11033fc28c9bedec0a4a89d9.png",
-            "logo_b": "https://img.sports-data.online/football/team/69ea2c335117a34879ec3bff7b531bd3.png",
-            "time": "01:00:00",
-            "date": "24/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h62d2omoj_76df29fb_20260923.png?v=76df29fb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-f3550abbcb",
           "name": "Laos vs Brunei Darussalam | 16:00 24/09",
           "type": "single",
@@ -813,6 +741,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d789c820ed0a4f4d9aa0240854c2ef52_f327ebe8_20260923.png?v=f327ebe8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b74380df5e",
+          "name": "Italy vs Phần Lan | 02:05 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b74380df5e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b74380df5e",
+                  "name": "Italy vs Phần Lan",
+                  "streams": [
+                    {
+                      "id": "st-b74380df5e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c20df1414d",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c8cde061b9bf478d82ea1eb85203ba3b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu",
+            "team_a": "Italy",
+            "team_b": "Phần Lan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/d7b2e7a16d881b3b46859f3574ec2ee5.png!w30",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/89edbc2d87efa1b567cec6236bf337e7.png!w30",
+            "time": "02:05:00",
+            "date": "24/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4260268675904753a7faba628607a7a8_d395c2ee_20260923.png?v=d395c2ee",
             "width": 1600,
             "height": 1200
           }
