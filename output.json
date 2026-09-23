@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-50e669635d",
-          "name": "Bỉ vs Slovenia | 21:00 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-50e669635d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-50e669635d",
-                  "name": "Bỉ vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "st-50e669635d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d970a39d55",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fca969c13dce41e2946be82ee82423e4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Châu Âu",
-            "team_a": "Bỉ",
-            "team_b": "Slovenia",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/6196b217c74313ed212d0aaa350dd6d1.png!w60",
-            "time": "21:00:00",
-            "date": "23/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d789c820ed0a4f4d9aa0240854c2ef52_f327ebe8_20260923.png?v=f327ebe8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b74380df5e",
           "name": "Italy vs Phần Lan | 02:05 24/09",
