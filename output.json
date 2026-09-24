@@ -951,6 +951,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-325b13dad1",
+          "name": "Turkiye vs France | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-325b13dad1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-325b13dad1",
+                  "name": "Turkiye vs France",
+                  "streams": [
+                    {
+                      "id": "st-325b13dad1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-54df619347",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3a4d1fda4c50469ea5e8cea7c127c804/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Turkiye",
+            "team_b": "France",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/a632c22f39e478770e15f81d5d73d55f.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/fc5308f1ee0c6e0f17a2e8561d058487.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk5y92rz8_46bdb594_20260925.png?v=46bdb594",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ea88aa68c0",
+          "name": "Italy vs Belgium | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea88aa68c0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ea88aa68c0",
+                  "name": "Italy vs Belgium",
+                  "streams": [
+                    {
+                      "id": "st-ea88aa68c0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de5b0ea566",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0fb392ed1d1245edb1e3a0b0c91162c7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Italy",
+            "team_b": "Belgium",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/1ab8dedddc8426a4c79a805374f111a3.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/14fc90310a901dd7526589312f762ac2.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4kxylr8k_c93a8cf7_20260925.png?v=c93a8cf7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d69e34f025",
+          "name": "Hungary vs Ukraine | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d69e34f025",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d69e34f025",
+                  "name": "Hungary vs Ukraine",
+                  "streams": [
+                    {
+                      "id": "st-d69e34f025",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7a1cb9742",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/086946a78db843daaf7389dfb2d4de05/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hungary",
+            "team_b": "Ukraine",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/fc93fc2dbe467f0d62cae689a18da028.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/b371b34ae397850af27427a7d78d54d7.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgjw2gr51_6a7a5342_20260925.png?v=6a7a5342",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
