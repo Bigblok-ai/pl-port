@@ -1023,6 +1023,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5daf13231d",
+          "name": "Japan Women vs Philippines Women | 17:30 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5daf13231d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5daf13231d",
+                  "name": "Japan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-5daf13231d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-36626c870e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/857a7c7381854c178d8c07f6f389c727/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "Japan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/41fcd04dcd049309ad05bca33ea46883.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/9c69f44442dbc9cf29ec1d1db1c825c1.png",
+            "time": "17:30:00",
+            "date": "25/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz7y5q86_43ad7fc8_20260924.png?v=43ad7fc8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-82e4345d1a",
+          "name": "South Korea U23 vs Vietnam U23 | 17:30 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82e4345d1a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-82e4345d1a",
+                  "name": "South Korea U23 vs Vietnam U23",
+                  "streams": [
+                    {
+                      "id": "st-82e4345d1a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6c0df34bf",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/747d5240fe3b449a86252ad5fcd74559/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "South Korea U23",
+            "team_b": "Vietnam U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/6662e3d4dd66b366296f78fb89f6f778.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/0095a55372a1844769da9b02dcecbca4.png",
+            "time": "17:30:00",
+            "date": "25/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h547g4rz8_5794440b_20260924.png?v=5794440b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
