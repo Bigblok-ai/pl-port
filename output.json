@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-041f424fac",
-          "name": "Uzbekistan vs IR Iran | 21:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-041f424fac",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-041f424fac",
-                  "name": "Uzbekistan vs IR Iran",
-                  "streams": [
-                    {
-                      "id": "st-041f424fac",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4519a38fc6",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/73c8dafa3e674fdf9ac74e99ec6119c4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Uzbekistan",
-            "team_b": "IR Iran",
-            "logo_a": "https://sta.vnres.co/file/common/20260922/e3254af2b05f7327e76133d892cf20ad.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260922/49e51c610fe1b710d1cc5ce805db3d1b.png",
-            "time": "21:00:00",
-            "date": "24/09",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhk64lgmd7_2b77f43c_20260924.png?v=2b77f43c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-9a54761197",
           "name": "United Arab Emirates vs Yemen | 22:55 24/09",
@@ -594,7 +522,7 @@
         },
         {
           "id": "pl-978b054489",
-          "name": "Bangladesh vs Malaysia | 15:00 25/09",
+          "name": "Bangladesh vs Malaysia | 16:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -649,7 +577,7 @@
             "team_b": "Malaysia",
             "logo_a": "https://sta.vnres.co/file/common/20260922/7e6a0d84ea85aaa89a08f039f3e9e237.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/14e6d4a5327dbeb85d638a5521a1dc25.png",
-            "time": "15:00:00",
+            "time": "16:00:00",
             "date": "25/09",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
@@ -1020,6 +948,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwkp5gryo_0d0f452a_20260924.png?v=0d0f452a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5b145369d3",
+          "name": "Georgia vs Northern Ireland | 23:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5b145369d3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5b145369d3",
+                  "name": "Georgia vs Northern Ireland",
+                  "streams": [
+                    {
+                      "id": "st-5b145369d3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a4b0bc9ed",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6ec1ce26c2824953acd4479ecb776be0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Georgia",
+            "team_b": "Northern Ireland",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/aa956d426f71b6b79e324b9eefb94286.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/9ade940d45aadaf7c27a844acce97ee6.png",
+            "time": "23:00:00",
+            "date": "25/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y77moe_eb431bf7_20260924.png?v=eb431bf7",
             "width": 1600,
             "height": 1200
           }
