@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-f3550abbcb",
-          "name": "Laos vs Brunei Darussalam",
+          "name": "Laos vs Brunei Darussalam | 16:00 24/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Brunei Darussalam",
             "logo_a": "https://sta.vnres.co/file/common/20260921/73eec1fd974a87af6c92080521bd05b2.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/7123ecfb570994f6e1d058aee8cb5505.png",
-            "time": "",
-            "date": "",
+            "time": "16:00:00",
+            "date": "24/09",
             "blv": "LÝ LINH LỰC",
             "is_live": true,
             "cate_type": "football"
