@@ -1104,6 +1104,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8350e8827c",
+          "name": "Phần Lan vs Pháp | 02:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8350e8827c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8350e8827c",
+                  "name": "Phần Lan vs Pháp",
+                  "streams": [
+                    {
+                      "id": "st-8350e8827c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-589ab6de73",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7f21d03837d74204a92cc16ff2fec73e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Phần Lan",
+            "team_b": "Pháp",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/89edbc2d87efa1b567cec6236bf337e7.png!w80",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/fc5308f1ee0c6e0f17a2e8561d058487.png",
+            "time": "02:00:00",
+            "date": "26/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/340590cd9ea24850928591d2fd541f87_90d596e6_20260924.png?v=90d596e6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
