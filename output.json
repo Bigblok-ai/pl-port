@@ -810,7 +810,7 @@
         },
         {
           "id": "pl-978b054489",
-          "name": "Bangladesh vs Malaysia | 16:00 25/09",
+          "name": "Bangladesh vs Malaysia | 15:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -865,7 +865,7 @@
             "team_b": "Malaysia",
             "logo_a": "https://sta.vnres.co/file/common/20260922/7e6a0d84ea85aaa89a08f039f3e9e237.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/14e6d4a5327dbeb85d638a5521a1dc25.png",
-            "time": "16:00:00",
+            "time": "15:00:00",
             "date": "25/09",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
