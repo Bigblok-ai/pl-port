@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c5f42a5081",
+          "name": "China Women vs Vietnam Women | 13:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5f42a5081",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c5f42a5081",
+                  "name": "China Women vs Vietnam Women",
+                  "streams": [
+                    {
+                      "id": "st-c5f42a5081",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20b5deae25",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5826a87fc21b4c1ca850ff2f7ad62db5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "China Women",
+            "team_b": "Vietnam Women",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/654baedfc71d1f2d9fa0c348d9ff8f6b.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/27ee82e1f3211b3da7e07afb6c94a2a7.png",
+            "time": "13:00:00",
+            "date": "25/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergphk05kjr8k_85065e6a_20260924.png?v=85065e6a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
