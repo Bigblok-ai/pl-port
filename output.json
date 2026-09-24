@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5af8ce7c89",
+          "name": "Azerbaijan U21 vs Czechia Republic U21 | 20:45 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5af8ce7c89",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5af8ce7c89",
+                  "name": "Azerbaijan U21 vs Czechia Republic U21",
+                  "streams": [
+                    {
+                      "id": "st-5af8ce7c89",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-00f3223d3c",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/469138d121594356b991de833ce3885c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Azerbaijan U21",
+            "team_b": "Czechia Republic U21",
+            "logo_a": "https://img.sports-data.online/football/team/74aa4e5f0a65e88f4121b947aea722bf.png",
+            "logo_b": "https://img.sports-data.online/football/team/02382e05669fecdb9e3b12da4734e5b1.png",
+            "time": "20:45:00",
+            "date": "25/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwkp5gryo_0d0f452a_20260924.png?v=0d0f452a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
