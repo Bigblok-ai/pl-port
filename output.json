@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-f3550abbcb",
-          "name": "Laos vs Brunei Darussalam | 16:00 24/09",
+          "name": "Laos vs Brunei Darussalam",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Brunei Darussalam",
             "logo_a": "https://sta.vnres.co/file/common/20260921/73eec1fd974a87af6c92080521bd05b2.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/7123ecfb570994f6e1d058aee8cb5505.png",
-            "time": "16:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-aadbf8114d",
-          "name": "Japan vs Uruguay | 17:05 24/09",
+          "name": "Japan vs Uruguay",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Uruguay",
             "logo_a": "https://sta.vnres.co/file/common/20260921/a9f141343fbf86cf5c06365f517efb01.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/4d7db7c2f9a35c6ed6b2127b55aece98.png",
-            "time": "17:05:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -162,7 +162,7 @@
         },
         {
           "id": "pl-e77391695a",
-          "name": "South Korea vs Ecuador | 18:00 24/09",
+          "name": "South Korea vs Ecuador",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,8 +217,8 @@
             "team_b": "Ecuador",
             "logo_a": "https://sta.vnres.co/file/common/20260921/14396ad8c05c228c1194d8b5e9a4c48e.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/f464aed10523bd65316465d876f49c4b.png",
-            "time": "18:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-75df354bd0",
-          "name": "Myanmar vs Timor Leste | 19:00 24/09",
+          "name": "Myanmar vs Timor Leste",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -289,8 +289,8 @@
             "team_b": "Timor Leste",
             "logo_a": "https://sta.vnres.co/file/common/20260921/3ab19e2019a8e3ad82edd0b9b5d2c62f.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/e1a74ec1420b560d15a4a07d71c5e735.png",
-            "time": "19:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
@@ -306,7 +306,7 @@
         },
         {
           "id": "pl-041f424fac",
-          "name": "Uzbekistan vs IR Iran | 21:00 24/09",
+          "name": "Uzbekistan vs IR Iran",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -361,8 +361,8 @@
             "team_b": "IR Iran",
             "logo_a": "https://sta.vnres.co/file/common/20260922/e3254af2b05f7327e76133d892cf20ad.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/49e51c610fe1b710d1cc5ce805db3d1b.png",
-            "time": "21:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -378,7 +378,7 @@
         },
         {
           "id": "pl-9a54761197",
-          "name": "United Arab Emirates vs Yemen | 22:55 24/09",
+          "name": "United Arab Emirates vs Yemen",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,8 +433,8 @@
             "team_b": "Yemen",
             "logo_a": "https://sta.vnres.co/file/common/20260921/2bc8ea9d3c0de09e13fd9a36ea142ddc.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/370c9343d28ed24f940086588f9e4493.png",
-            "time": "22:55:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -450,7 +450,7 @@
         },
         {
           "id": "pl-824e7a0a5f",
-          "name": "Andorra vs Malta | 23:00 24/09",
+          "name": "Andorra vs Malta",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -505,8 +505,8 @@
             "team_b": "Malta",
             "logo_a": "https://sta.vnres.co/file/common/20260921/fd5edd4af82d9f55eb1b81c1b83fad7a.png",
             "logo_b": "https://sta.vnres.co/file/common/20260921/489550f5ab236105780c1ae8d5f52baa.png",
-            "time": "23:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -522,7 +522,7 @@
         },
         {
           "id": "pl-3cd88551f0",
-          "name": "Qatar vs Bahrain | 01:00 25/09",
+          "name": "Qatar vs Bahrain",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -577,8 +577,8 @@
             "team_b": "Bahrain",
             "logo_a": "https://img.sports-data.online/football/team/a61d3f41d78a6df8bf3a367ed8e6f5a1.png",
             "logo_b": "https://img.sports-data.online/football/team/26bdd013ee743c1725d7b6b4daa1a4ac.png",
-            "time": "01:00:00",
-            "date": "25/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
@@ -594,7 +594,7 @@
         },
         {
           "id": "pl-30c7b1212e",
-          "name": "Netherlands vs Germany | 01:45 25/09",
+          "name": "Netherlands vs Germany",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -649,8 +649,8 @@
             "team_b": "Germany",
             "logo_a": "https://sta.vnres.co/file/common/20260922/d3b76ca5e44ae5c3b15057f195d51d5f.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/0abeca5c4445b26592167a7cb969d85a.png",
-            "time": "01:45:00",
-            "date": "25/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -666,7 +666,7 @@
         },
         {
           "id": "pl-20c1831294",
-          "name": "Norway vs Denmark | 01:45 25/09",
+          "name": "Norway vs Denmark",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -721,8 +721,8 @@
             "team_b": "Denmark",
             "logo_a": "https://sta.vnres.co/file/common/20260922/ab2f72a7da69b9ec0c512f684076abee.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/8dff7372994f19fb74a73abc52468de9.png",
-            "time": "01:45:00",
-            "date": "25/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -738,7 +738,7 @@
         },
         {
           "id": "pl-49627856a3",
-          "name": "Portugal vs Wales | 01:45 25/09",
+          "name": "Portugal vs Wales",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -793,8 +793,8 @@
             "team_b": "Wales",
             "logo_a": "https://sta.vnres.co/file/common/20260922/541cd9c8c6c7359a2e8431a1d6ee0bab.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/785b9ebd59e2ce0c4cb8b657a494ff2b.png",
-            "time": "01:45:00",
-            "date": "25/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -810,7 +810,7 @@
         },
         {
           "id": "pl-c5f42a5081",
-          "name": "China Women vs Vietnam Women | 13:00 25/09",
+          "name": "China Women vs Vietnam Women",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -865,8 +865,8 @@
             "team_b": "Vietnam Women",
             "logo_a": "https://sta.vnres.co/file/common/20260923/654baedfc71d1f2d9fa0c348d9ff8f6b.png",
             "logo_b": "https://sta.vnres.co/file/common/20260923/27ee82e1f3211b3da7e07afb6c94a2a7.png",
-            "time": "13:00:00",
-            "date": "25/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
@@ -876,6 +876,510 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergphk05kjr8k_85065e6a_20260924.png?v=85065e6a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-978b054489",
+          "name": "Bangladesh vs Malaysia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-978b054489",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-978b054489",
+                  "name": "Bangladesh vs Malaysia",
+                  "streams": [
+                    {
+                      "id": "st-978b054489",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-26d6e548f2",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/098bfecd1059454c89a375f33bde0c68/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Bangladesh",
+            "team_b": "Malaysia",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/7e6a0d84ea85aaa89a08f039f3e9e237.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/14e6d4a5327dbeb85d638a5521a1dc25.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxl1vzqo9_6344b893_20260924.png?v=6344b893",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2cb4289a02",
+          "name": "Australia vs Brazil",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2cb4289a02",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2cb4289a02",
+                  "name": "Australia vs Brazil",
+                  "streams": [
+                    {
+                      "id": "st-2cb4289a02",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3dcbf79f83",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4192d2db050a4e4dacfed6c8a10fbfc7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Australia",
+            "team_b": "Brazil",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/ca3770cad8bb96638f9ecec7819b2c9c.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/189164d9fd29a8cfd80aedea4b5743e6.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6j4p8qg8_aceb1824_20260924.png?v=aceb1824",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5daf13231d",
+          "name": "Japan Women vs Philippines Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5daf13231d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5daf13231d",
+                  "name": "Japan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-5daf13231d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-36626c870e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/857a7c7381854c178d8c07f6f389c727/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "Japan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/41fcd04dcd049309ad05bca33ea46883.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/9c69f44442dbc9cf29ec1d1db1c825c1.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz7y5q86_43ad7fc8_20260924.png?v=43ad7fc8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-82e4345d1a",
+          "name": "South Korea U23 vs Vietnam U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82e4345d1a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-82e4345d1a",
+                  "name": "South Korea U23 vs Vietnam U23",
+                  "streams": [
+                    {
+                      "id": "st-82e4345d1a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6c0df34bf",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/747d5240fe3b449a86252ad5fcd74559/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "South Korea U23",
+            "team_b": "Vietnam U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/6662e3d4dd66b366296f78fb89f6f778.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/0095a55372a1844769da9b02dcecbca4.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h547g4rz8_5794440b_20260924.png?v=5794440b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b499e18bce",
+          "name": "Indonesia vs Singapore",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b499e18bce",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b499e18bce",
+                  "name": "Indonesia vs Singapore",
+                  "streams": [
+                    {
+                      "id": "st-b499e18bce",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c4e695fd4d",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cc62bc64005b43d4921984d7e486c812/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Indonesia",
+            "team_b": "Singapore",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/0c131dfdaef74b5d6b14cb281d11c608.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/8e8ba6a47bd8d0014b2a4a1cee56b951.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl6xn4moe_d7c10e11_20260924.png?v=d7c10e11",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5af8ce7c89",
+          "name": "Azerbaijan U21 vs Czechia Republic U21",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5af8ce7c89",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5af8ce7c89",
+                  "name": "Azerbaijan U21 vs Czechia Republic U21",
+                  "streams": [
+                    {
+                      "id": "st-5af8ce7c89",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-00f3223d3c",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/469138d121594356b991de833ce3885c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Azerbaijan U21",
+            "team_b": "Czechia Republic U21",
+            "logo_a": "https://img.sports-data.online/football/team/74aa4e5f0a65e88f4121b947aea722bf.png",
+            "logo_b": "https://img.sports-data.online/football/team/02382e05669fecdb9e3b12da4734e5b1.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwkp5gryo_0d0f452a_20260924.png?v=0d0f452a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5b145369d3",
+          "name": "Georgia vs Northern Ireland",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5b145369d3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5b145369d3",
+                  "name": "Georgia vs Northern Ireland",
+                  "streams": [
+                    {
+                      "id": "st-5b145369d3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a4b0bc9ed",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6ec1ce26c2824953acd4479ecb776be0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Georgia",
+            "team_b": "Northern Ireland",
+            "logo_a": "https://sta.vnres.co/file/common/20260922/aa956d426f71b6b79e324b9eefb94286.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260922/9ade940d45aadaf7c27a844acce97ee6.png",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y77moe_eb431bf7_20260924.png?v=eb431bf7",
             "width": 1600,
             "height": 1200
           }
@@ -891,7 +1395,7 @@
       "channels": [
         {
           "id": "pl-b4c282068c",
-          "name": "Eczacibasi Nữ vs Vakifbank Nữ | 23:00 24/09",
+          "name": "Eczacibasi Nữ vs Vakifbank Nữ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -946,8 +1450,8 @@
             "team_b": "Vakifbank Nữ",
             "logo_a": "https://img0.aiscore.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
-            "time": "23:00:00",
-            "date": "24/09",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
