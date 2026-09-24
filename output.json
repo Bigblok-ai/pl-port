@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxpvxqdy_7fb8a7e7_20260925.png?v=7fb8a7e7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-824e7a0a5f",
-          "name": "Andorra vs Malta | 23:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-824e7a0a5f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-824e7a0a5f",
-                  "name": "Andorra vs Malta",
-                  "streams": [
-                    {
-                      "id": "st-824e7a0a5f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf118380c2",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f11113bee86548b095fdd75edae396cc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Andorra",
-            "team_b": "Malta",
-            "logo_a": "https://sta.vnres.co/file/common/20260921/fd5edd4af82d9f55eb1b81c1b83fad7a.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260921/489550f5ab236105780c1ae8d5f52baa.png",
-            "time": "23:00:00",
-            "date": "24/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8y2nqo9_96de9e6c_20260925.png?v=96de9e6c",
             "width": 1600,
             "height": 1200
           }
