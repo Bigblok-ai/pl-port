@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-aadbf8114d",
-          "name": "Japan vs Uruguay | 17:05 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aadbf8114d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-aadbf8114d",
-                  "name": "Japan vs Uruguay",
-                  "streams": [
-                    {
-                      "id": "st-aadbf8114d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-61834d50e5",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9653dc604bb848739a639069c22b94c7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Japan",
-            "team_b": "Uruguay",
-            "logo_a": "https://sta.vnres.co/file/common/20260921/a9f141343fbf86cf5c06365f517efb01.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260921/4d7db7c2f9a35c6ed6b2127b55aece98.png",
-            "time": "17:05:00",
-            "date": "24/09",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66h8z4poqo9_7442e6ff_20260924.png?v=7442e6ff",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e77391695a",
           "name": "South Korea vs Ecuador | 18:00 24/09",
