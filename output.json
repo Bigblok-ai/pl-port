@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-dac16918b5",
+          "name": "Bulgaria vs Luxembourg | 23:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dac16918b5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dac16918b5",
+                  "name": "Bulgaria vs Luxembourg",
+                  "streams": [
+                    {
+                      "id": "st-dac16918b5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e975ec26f",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d07570541bef4956bd38ed1cbfb23972/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Bulgaria",
+            "team_b": "Luxembourg",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/b0cf33b813cb9b832e7fb18f2a1474e0.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/3a6ffc46ac6e69a321938596c85adbfd.png",
+            "time": "23:00:00",
+            "date": "26/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89y6vqwz_c9331dc7_20260925.png?v=c9331dc7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
