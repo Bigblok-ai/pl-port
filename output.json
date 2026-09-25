@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-978b054489",
-          "name": "Bangladesh vs Malaysia | 16:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-978b054489",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-978b054489",
-                  "name": "Bangladesh vs Malaysia",
-                  "streams": [
-                    {
-                      "id": "st-978b054489",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-26d6e548f2",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/098bfecd1059454c89a375f33bde0c68/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Bangladesh",
-            "team_b": "Malaysia",
-            "logo_a": "https://sta.vnres.co/file/common/20260922/7e6a0d84ea85aaa89a08f039f3e9e237.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260922/14e6d4a5327dbeb85d638a5521a1dc25.png",
-            "time": "16:00:00",
-            "date": "25/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxl1vzqo9_6344b893_20260925.png?v=6344b893",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2cb4289a02",
           "name": "Australia vs Brazil | 17:10 25/09",
