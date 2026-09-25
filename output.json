@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-cfcda7f47d",
+          "name": "Oman vs Saudi Arabia | 01:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cfcda7f47d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cfcda7f47d",
+                  "name": "Oman vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-cfcda7f47d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-93b858b53d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d740d5c3818a4885935f07a0c3572792/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WAFF Arabian Gulf Cup",
+            "team_a": "Oman",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://sta.vnres.co/file/common/20260924/3c1271a9437d31009c4fe465d81cd3cf.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260924/f172e0e2c6cb49b09e1c9467ed8e4763.png",
+            "time": "01:00:00",
+            "date": "27/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vovlqwz_ba0218b6_20260926.png?v=ba0218b6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
