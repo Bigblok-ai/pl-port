@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2cb4289a02",
-          "name": "Australia vs Brazil | 17:10 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2cb4289a02",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2cb4289a02",
-                  "name": "Australia vs Brazil",
-                  "streams": [
-                    {
-                      "id": "st-2cb4289a02",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3dcbf79f83",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4192d2db050a4e4dacfed6c8a10fbfc7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Australia",
-            "team_b": "Brazil",
-            "logo_a": "https://sta.vnres.co/file/common/20260922/ca3770cad8bb96638f9ecec7819b2c9c.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260922/189164d9fd29a8cfd80aedea4b5743e6.png",
-            "time": "17:10:00",
-            "date": "25/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6j4p8qg8_aceb1824_20260925.png?v=aceb1824",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5daf13231d",
           "name": "Japan Women vs Philippines Women | 17:30 25/09",
