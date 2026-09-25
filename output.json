@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6c66e68562",
-          "name": "Switzerland U21 vs Luxembourg U21 | 00:30 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c66e68562",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6c66e68562",
-                  "name": "Switzerland U21 vs Luxembourg U21",
-                  "streams": [
-                    {
-                      "id": "st-6c66e68562",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-79c5c4f02b",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/aed77d68f36f4cb39d975ccac36c996f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA European U21 Championship qualification",
-            "team_a": "Switzerland U21",
-            "team_b": "Luxembourg U21",
-            "logo_a": "https://img.sports-data.online/football/team/3ad6bc309df4c0faa0cb1513e630dc0a.png",
-            "logo_b": "https://img.sports-data.online/football/team/754b153d19c1d2462c68f0a8658506b1.png",
-            "time": "00:30:00",
-            "date": "26/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl4gx0moe_51e0db60_20260926.png?v=51e0db60",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-325b13dad1",
           "name": "Turkiye vs France | 01:45 26/09",
