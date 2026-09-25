@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-bda1369147",
+          "name": "Huddersfield Town vs Luton Town | 21:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bda1369147",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bda1369147",
+                  "name": "Huddersfield Town vs Luton Town",
+                  "streams": [
+                    {
+                      "id": "st-bda1369147",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-099ba417d8",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2c42de493eb54af0a08b09b0a316ff4b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League One",
+            "team_a": "Huddersfield Town",
+            "team_b": "Luton Town",
+            "logo_a": "https://img.sports-data.online/football/team/feb826d3073e7fdda27bea60a979c7bb.png",
+            "logo_b": "https://img.sports-data.online/football/team/16bc06f57acb460eb9963a1fa87902b4.png",
+            "time": "21:00:00",
+            "date": "26/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgkyvxr51_23cbd31c_20260925.png?v=23cbd31c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
