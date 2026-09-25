@@ -89,8 +89,8 @@
           }
         },
         {
-          "id": "pl-4a97133829",
-          "name": "Hammarby TFF vs IFK Stocksund | 00:00 26/09",
+          "id": "pl-6c66e68562",
+          "name": "Switzerland U21 vs Luxembourg U21 | 00:30 26/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -104,23 +104,23 @@
           ],
           "sources": [
             {
-              "id": "src-4a97133829",
+              "id": "src-6c66e68562",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-4a97133829",
-                  "name": "Hammarby TFF vs IFK Stocksund",
+                  "id": "ct-6c66e68562",
+                  "name": "Switzerland U21 vs Luxembourg U21",
                   "streams": [
                     {
-                      "id": "st-4a97133829",
+                      "id": "st-6c66e68562",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-fee6255622",
+                          "id": "lnk-79c5c4f02b",
                           "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7e928589789d4a5493455cc1a2c71863/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/aed77d68f36f4cb39d975ccac36c996f/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -140,12 +140,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Sweden Division 1",
-            "team_a": "Hammarby TFF",
-            "team_b": "IFK Stocksund",
-            "logo_a": "https://img.sports-data.online/football/team/8ff59b3d46d49af66b8e61fe7ea32ef0.png",
-            "logo_b": "https://img.sports-data.online/football/team/cdbc35928a5f40677e04dbb49ea0f5f9.png",
-            "time": "00:00:00",
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Switzerland U21",
+            "team_b": "Luxembourg U21",
+            "logo_a": "https://img.sports-data.online/football/team/3ad6bc309df4c0faa0cb1513e630dc0a.png",
+            "logo_b": "https://img.sports-data.online/football/team/754b153d19c1d2462c68f0a8658506b1.png",
+            "time": "00:30:00",
             "date": "26/09",
             "blv": "LÝ LÀNG LÁ",
             "is_live": true,
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe56j6r6o_06cf1df6_20260925.png?v=06cf1df6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl4gx0moe_51e0db60_20260925.png?v=51e0db60",
             "width": 1600,
             "height": 1200
           }
