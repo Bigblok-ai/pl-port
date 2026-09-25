@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "pl-e74fd7409f",
+          "name": "Uzbekistan U23 vs Saudi Arabia U23 | 12:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e74fd7409f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e74fd7409f",
+                  "name": "Uzbekistan U23 vs Saudi Arabia U23",
+                  "streams": [
+                    {
+                      "id": "st-e74fd7409f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-749cc2e627",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3da59b3d51d3456f875050b59ab14b65/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Asian Games",
+            "team_a": "Uzbekistan U23",
+            "team_b": "Saudi Arabia U23",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/1dd0de5130ea63107abb29665d15e9fb.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/16ec2ffc6ca63f5f92103b0a9f4d3167.png",
+            "time": "12:00:00",
+            "date": "25/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjyd9nr51_f61273f2_20260925.png?v=f61273f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-c5f42a5081",
           "name": "China Women vs Vietnam Women | 13:00 25/09",
           "type": "single",
