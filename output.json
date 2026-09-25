@@ -1176,6 +1176,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-179bbeb021",
+          "name": "Nhật Bản vs Uzbekistan | 17:20 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-179bbeb021",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-179bbeb021",
+                  "name": "Nhật Bản vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-179bbeb021",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d933a5ae5",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/61e1d2421a37453eba8e4f4e52105dd4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Nhật Bản",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/4ff106ce443f78f6ef58f787991e7146.png!w80",
+            "time": "17:20:00",
+            "date": "27/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d3cee580cd048d493c662a71307f4f1_033e9979_20260926.png?v=033e9979",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
