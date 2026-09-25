@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5b145369d3",
-          "name": "Georgia vs Northern Ireland | 23:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b145369d3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5b145369d3",
-                  "name": "Georgia vs Northern Ireland",
-                  "streams": [
-                    {
-                      "id": "st-5b145369d3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a4b0bc9ed",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6ec1ce26c2824953acd4479ecb776be0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Georgia",
-            "team_b": "Northern Ireland",
-            "logo_a": "https://sta.vnres.co/file/common/20260922/aa956d426f71b6b79e324b9eefb94286.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260922/9ade940d45aadaf7c27a844acce97ee6.png",
-            "time": "23:00:00",
-            "date": "25/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y77moe_eb431bf7_20260926.png?v=eb431bf7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6c66e68562",
           "name": "Switzerland U21 vs Luxembourg U21 | 00:30 26/09",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "01:45:00",
             "date": "26/09",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -228,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk5y92rz8_46bdb594_20260926.png?v=46bdb594",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d69e34f025",
+          "name": "Hungary vs Ukraine | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d69e34f025",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d69e34f025",
+                  "name": "Hungary vs Ukraine",
+                  "streams": [
+                    {
+                      "id": "st-d69e34f025",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7a1cb9742",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/086946a78db843daaf7389dfb2d4de05/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hungary",
+            "team_b": "Ukraine",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/fc93fc2dbe467f0d62cae689a18da028.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/b371b34ae397850af27427a7d78d54d7.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgjw2gr51_6a7a5342_20260926.png?v=6a7a5342",
             "width": 1600,
             "height": 1200
           }
@@ -300,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4kxylr8k_c93a8cf7_20260926.png?v=c93a8cf7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d69e34f025",
-          "name": "Hungary vs Ukraine | 01:45 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d69e34f025",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d69e34f025",
-                  "name": "Hungary vs Ukraine",
-                  "streams": [
-                    {
-                      "id": "st-d69e34f025",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7a1cb9742",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/086946a78db843daaf7389dfb2d4de05/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Hungary",
-            "team_b": "Ukraine",
-            "logo_a": "https://sta.vnres.co/file/common/20260923/fc93fc2dbe467f0d62cae689a18da028.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260923/b371b34ae397850af27427a7d78d54d7.png",
-            "time": "01:45:00",
-            "date": "26/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgjw2gr51_6a7a5342_20260926.png?v=6a7a5342",
             "width": 1600,
             "height": 1200
           }
@@ -956,7 +884,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -969,10 +897,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1021,7 +949,7 @@
             "time": "02:00:00",
             "date": "26/09",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
