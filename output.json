@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9581d1934b",
+          "name": "Vietnam vs Philippines | 19:30 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9581d1934b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9581d1934b",
+                  "name": "Vietnam vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-9581d1934b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a6263b37f",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/99aa673a94574957863b555f6eb16cfc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Vietnam",
+            "team_b": "Philippines",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/9cbe8e6a8c5fbf1577577a4603b40627.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/088d39c5663535d640f4aaefd8362b18.png",
+            "time": "19:30:00",
+            "date": "26/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gdvvr8k_bfd211de_20260925.png?v=bfd211de",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
