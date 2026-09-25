@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-2cb4289a02",
-          "name": "Australia vs Brazil | 17:00 25/09",
+          "name": "Australia vs Brazil | 17:10 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,7 +145,7 @@
             "team_b": "Brazil",
             "logo_a": "https://sta.vnres.co/file/common/20260922/ca3770cad8bb96638f9ecec7819b2c9c.png",
             "logo_b": "https://sta.vnres.co/file/common/20260922/189164d9fd29a8cfd80aedea4b5743e6.png",
-            "time": "17:00:00",
+            "time": "17:10:00",
             "date": "25/09",
             "blv": "LÝ LONG",
             "is_live": true,
