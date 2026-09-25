@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e377ccb5f2",
-          "name": "India vs Panama | 21:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e377ccb5f2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e377ccb5f2",
-                  "name": "India vs Panama",
-                  "streams": [
-                    {
-                      "id": "st-e377ccb5f2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a885ccdb4",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/042cd399629f4efa9b017b1816feb039/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "India",
-            "team_b": "Panama",
-            "logo_a": "https://sta.vnres.co/file/common/20260924/9fcc2914ac67968fa146000722f1d991.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260924/5cc8f8caf1bad39fcf0bc1a4218fc5f3.png",
-            "time": "21:00:00",
-            "date": "25/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllh459lwqvy_a8a926e1_20260925.png?v=a8a926e1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5b145369d3",
           "name": "Georgia vs Northern Ireland | 23:00 25/09",
