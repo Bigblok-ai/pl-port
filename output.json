@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5daf13231d",
-          "name": "Japan Women vs Philippines Women | 17:30 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5daf13231d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5daf13231d",
-                  "name": "Japan Women vs Philippines Women",
-                  "streams": [
-                    {
-                      "id": "st-5daf13231d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-36626c870e",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/857a7c7381854c178d8c07f6f389c727/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Women's Asian Games",
-            "team_a": "Japan Women",
-            "team_b": "Philippines Women",
-            "logo_a": "https://sta.vnres.co/file/common/20260923/41fcd04dcd049309ad05bca33ea46883.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260923/9c69f44442dbc9cf29ec1d1db1c825c1.png",
-            "time": "17:30:00",
-            "date": "25/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz7y5q86_43ad7fc8_20260925.png?v=43ad7fc8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b499e18bce",
           "name": "Indonesia vs Singapore | 20:00 25/09",
