@@ -1421,8 +1421,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-2a4a9506cc",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-5ceab1676e",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a3cbac5664e74e3da3ab8323cc7c8cb9/index.m3u8",
@@ -1452,7 +1452,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/4346797bf61de910e7d62fa55f5bf1b5.png!w80",
             "time": "08:00:00",
             "date": "28/09",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1853,8 +1853,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-e7301e81ce",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-f4f4c71f77",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/c45bb9805c3f4e15902ce8d01e979cc0/index.m3u8",
@@ -1884,7 +1884,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
             "time": "20:00:00",
             "date": "28/09",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
