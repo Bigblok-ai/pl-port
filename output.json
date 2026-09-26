@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -165,7 +165,7 @@
             "time": "19:30:00",
             "date": "26/09",
             "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -893,6 +893,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk83xjrz8_a3833939_20260926.png?v=a3833939",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-47863d9ab7",
+          "name": "Real Valladolid CF vs Cordoba | 19:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-47863d9ab7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-47863d9ab7",
+                  "name": "Real Valladolid CF vs Cordoba",
+                  "streams": [
+                    {
+                      "id": "st-47863d9ab7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a4b8e7858",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6b33c725b3de4d33b21d7b11757da1a4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Valladolid CF",
+            "team_b": "Cordoba",
+            "logo_a": "https://img.sports-data.online/football/team/fdf63461c00668597319a4f0db14dcee.png",
+            "logo_b": "https://img.sports-data.online/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png",
+            "time": "19:00:00",
+            "date": "27/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh59x4dql0_30790eab_20260926.png?v=30790eab",
             "width": 1600,
             "height": 1200
           }
