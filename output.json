@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "23:00:00",
             "date": "26/09",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1317,6 +1317,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d3cee580cd048d493c662a71307f4f1_033e9979_20260926.png?v=033e9979",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9dbf6c3375",
+          "name": "Indonesi vs Kyrgyzstan | 08:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9dbf6c3375",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9dbf6c3375",
+                  "name": "Indonesi vs Kyrgyzstan",
+                  "streams": [
+                    {
+                      "id": "st-9dbf6c3375",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a4a9506cc",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a3cbac5664e74e3da3ab8323cc7c8cb9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Indonesi",
+            "team_b": "Kyrgyzstan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/4346797bf61de910e7d62fa55f5bf1b5.png!w80",
+            "time": "08:00:00",
+            "date": "28/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3659a4b2323d44f6a4d63a8c8d2e53d6_3a564a9c_20260926.png?v=3a564a9c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cc84615d6f",
+          "name": "Trung Quốc vs Philippines | 11:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc84615d6f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cc84615d6f",
+                  "name": "Trung Quốc vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-cc84615d6f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cc9a79f46",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6d5177502e974cdebc33690a660d03b0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Trung Quốc",
+            "team_b": "Philippines",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
+            "time": "11:00:00",
+            "date": "28/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2d9fa5b7245344f9a2829012b295a295_72840a8d_20260926.png?v=72840a8d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-60951cdc05",
+          "name": "Thái Lan vs Iran | 14:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60951cdc05",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-60951cdc05",
+                  "name": "Thái Lan vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-60951cdc05",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ecf8e9c5c3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/14b8ad91f169492c8a246ed444f034fa/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Thái Lan",
+            "team_b": "Iran",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/06141001b4a7358a800dda6c8c174a66.png!w80",
+            "time": "14:00:00",
+            "date": "28/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2316b564dc9b4f9d9f7c5779d62a8f7a_c4276256_20260926.png?v=c4276256",
             "width": 1600,
             "height": 1200
           }
