@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1186a4a4ec",
-          "name": "Phần Lan vs Slovenia | 22:00 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1186a4a4ec",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1186a4a4ec",
-                  "name": "Phần Lan vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "st-1186a4a4ec",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b05118f790",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f89aa01792304bd4b9b5c7fda38a9a87/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Châu Âu",
-            "team_a": "Phần Lan",
-            "team_b": "Slovenia",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/89edbc2d87efa1b567cec6236bf337e7.png!w30",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/6196b217c74313ed212d0aaa350dd6d1.png!w30",
-            "time": "22:00:00",
-            "date": "26/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d8a859cce3d249d7a71ec59beb9113d3_5fccf494_20260926.png?v=5fccf494",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7119085bc4",
           "name": "Pháp vs Ba Lan | 02:00 27/09",
