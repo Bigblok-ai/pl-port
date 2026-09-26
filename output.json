@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8a67b21688",
+          "name": "RCD Mallorca vs Almeria | 21:15 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8a67b21688",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8a67b21688",
+                  "name": "RCD Mallorca vs Almeria",
+                  "streams": [
+                    {
+                      "id": "st-8a67b21688",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-09a0fb8a70",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8a054b6c4616495597d9e39846ae0b81/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "RCD Mallorca",
+            "team_b": "Almeria",
+            "logo_a": "https://img.sports-data.online/football/team/fdef90456d2a2eee09976c558457aec7.png",
+            "logo_b": "https://img.sports-data.online/football/team/d019943fa39f97f70cf49601cccbfa4b.png",
+            "time": "21:15:00",
+            "date": "27/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkv9p5rz8_0776a8ac_20260926.png?v=0776a8ac",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
