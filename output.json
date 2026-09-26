@@ -449,78 +449,6 @@
           }
         },
         {
-          "id": "pl-13b06088d3",
-          "name": "Dong Thap vs Thai Nguyen | 16:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-13b06088d3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-13b06088d3",
-                  "name": "Dong Thap vs Thai Nguyen",
-                  "streams": [
-                    {
-                      "id": "st-13b06088d3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c2ca7fce24",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f91fcb1c0c60425abe7bfa1dc4cdce53/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Dong Thap",
-            "team_b": "Thai Nguyen",
-            "logo_a": "https://img.sports-data.online/football/team/aaf7ff777567dba636caf52a05a45c31.png",
-            "logo_b": "https://img.sports-data.online/football/team/5bc47b0c1409c6deb22abf1bf86f1ef0.png",
-            "time": "16:00:00",
-            "date": "27/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9voy2m7v_2e36235b_20260926.png?v=2e36235b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-a6776ebdf7",
           "name": "Cambodia vs Myanmar | 17:00 27/09",
           "type": "single",
@@ -588,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk83xjrz8_a3833939_20260926.png?v=a3833939",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a058e606af",
+          "name": "China vs New Zealand | 18:35 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a058e606af",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a058e606af",
+                  "name": "China vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "st-a058e606af",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d6ece27be8",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/11763a782e1549a18c984f5eb056d3f7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CFA Team China International Tournament",
+            "team_a": "China",
+            "team_b": "New Zealand",
+            "logo_a": "https://sta.vnres.co/file/common/20260924/7b56823131c696c3656d4bcaace71946.jpg",
+            "logo_b": "https://sta.vnres.co/file/common/20260924/0b8addb5a39b4d1af50006262a6caed5.png",
+            "time": "18:35:00",
+            "date": "27/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9873em7v_9922d953_20260926.png?v=9922d953",
             "width": 1600,
             "height": 1200
           }
