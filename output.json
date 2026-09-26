@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "pl-2df1a42683",
+          "name": "Slovenia vs Scotland | 20:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2df1a42683",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2df1a42683",
+                  "name": "Slovenia vs Scotland",
+                  "streams": [
+                    {
+                      "id": "st-2df1a42683",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5bf38c8207",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2b955501e5534054896b820f10e0f871/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Slovenia",
+            "team_b": "Scotland",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/e9071cd9943c4f5450d5438b62ec319d.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/5f50c6ad3752f9e30d1ebdbc4fe796ff.png",
+            "time": "20:00:00",
+            "date": "26/09",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyedmd7_740096eb_20260926.png?v=740096eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-9581d1934b",
           "name": "Vietnam vs Philippines | 20:00 26/09",
           "type": "single",
@@ -161,8 +233,8 @@
           }
         },
         {
-          "id": "pl-2df1a42683",
-          "name": "Slovenia vs Scotland | 20:00 26/09",
+          "id": "pl-bda1369147",
+          "name": "Huddersfield Town vs Luton Town | 21:00 26/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -172,78 +244,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2df1a42683",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2df1a42683",
-                  "name": "Slovenia vs Scotland",
-                  "streams": [
-                    {
-                      "id": "st-2df1a42683",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5bf38c8207",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2b955501e5534054896b820f10e0f871/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Slovenia",
-            "team_b": "Scotland",
-            "logo_a": "https://sta.vnres.co/file/common/20260923/e9071cd9943c4f5450d5438b62ec319d.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260923/5f50c6ad3752f9e30d1ebdbc4fe796ff.png",
-            "time": "20:00:01",
-            "date": "26/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyedmd7_740096eb_20260926.png?v=740096eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-bda1369147",
-          "name": "Huddersfield Town vs Luton Town | 21:00 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "21:00:00",
             "date": "26/09",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
