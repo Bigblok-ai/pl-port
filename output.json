@@ -884,7 +884,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -962,6 +962,78 @@
           }
         },
         {
+          "id": "pl-42eaf23dad",
+          "name": "Hàn Quốc vs Philippines | 11:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-42eaf23dad",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-42eaf23dad",
+                  "name": "Hàn Quốc vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-42eaf23dad",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e9fefefc9e",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/eff4c2e266e948e28b8592b5d98294bd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Hàn Quốc",
+            "team_b": "Philippines",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
+            "time": "11:00:00",
+            "date": "27/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cccb533abef3463e9ae37678eab2652b_d69866b7_20260926.png?v=d69866b7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-7119085bc4",
           "name": "Pháp vs Ba Lan | 02:00 27/09",
           "type": "single",
@@ -1029,78 +1101,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/373f0b0b4e35406182f4af414eaf1d60_8aade285_20260926.png?v=8aade285",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-42eaf23dad",
-          "name": "Hàn Quốc vs Philippines | 11:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-42eaf23dad",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-42eaf23dad",
-                  "name": "Hàn Quốc vs Philippines",
-                  "streams": [
-                    {
-                      "id": "st-42eaf23dad",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e9fefefc9e",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/eff4c2e266e948e28b8592b5d98294bd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Hàn Quốc",
-            "team_b": "Philippines",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
-            "time": "11:00:00",
-            "date": "27/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cccb533abef3463e9ae37678eab2652b_d69866b7_20260926.png?v=d69866b7",
             "width": 1600,
             "height": 1200
           }
@@ -1533,6 +1533,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2316b564dc9b4f9d9f7c5779d62a8f7a_c4276256_20260926.png?v=c4276256",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-84fcb80b77",
+          "name": "Việt Nam vs Qatar | 14:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-84fcb80b77",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-84fcb80b77",
+                  "name": "Việt Nam vs Qatar",
+                  "streams": [
+                    {
+                      "id": "st-84fcb80b77",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0df1b547b1",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3fc2aeab733c4c2d8592e9134f6223a8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Việt Nam",
+            "team_b": "Qatar",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80",
+            "time": "14:00:00",
+            "date": "28/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d5482007e1314642a53d617307a799b9_216b9d6c_20260926.png?v=216b9d6c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1cb1e96e8f",
+          "name": "Đài Loan TQ vs Hàn Quốc | 17:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1cb1e96e8f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1cb1e96e8f",
+                  "name": "Đài Loan TQ vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-1cb1e96e8f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-336110d7a9",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fd154fa5529f4a16b7374ca7b2bac306/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Đài Loan TQ",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/dd0a8169c1c22efabb56434f3631159b.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "time": "17:00:00",
+            "date": "28/09",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2c189f9fdbe44f7190791df1d7019889_88664bc1_20260926.png?v=88664bc1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b26ee17729",
+          "name": "Kazakhstan vs Nhật Bản | 17:20 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b26ee17729",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b26ee17729",
+                  "name": "Kazakhstan vs Nhật Bản",
+                  "streams": [
+                    {
+                      "id": "st-b26ee17729",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-808e10935b",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d128746e31954fdb95a1e2b73495b969/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Kazakhstan",
+            "team_b": "Nhật Bản",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/9749f17f2a26c0ee6558c42029e739d8.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
+            "time": "17:20:00",
+            "date": "28/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b23d6420926249aa9a00bde8d20530e0_a9a647d4_20260926.png?v=a9a647d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3af354fe6b",
+          "name": "Manisa BB Women vs THY Women | 20:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3af354fe6b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3af354fe6b",
+                  "name": "Manisa BB Women vs THY Women",
+                  "streams": [
+                    {
+                      "id": "st-3af354fe6b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7301e81ce",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c45bb9805c3f4e15902ce8d01e979cc0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Manisa BB Women",
+            "team_b": "THY Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/0d44700cb350e4546e802f0a3eaec9aa.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
+            "time": "20:00:00",
+            "date": "28/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e676d1ec76ef4493ad9fb416e01bc2de_f78bdc4b_20260926.png?v=f78bdc4b",
             "width": 1600,
             "height": 1200
           }
