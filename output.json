@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-03f199194b",
+          "name": "China U16 vs Vietnam U16 | 13:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03f199194b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-03f199194b",
+                  "name": "China U16 vs Vietnam U16",
+                  "streams": [
+                    {
+                      "id": "st-03f199194b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d80bce302",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b4e4ce77ea0b4837a9d78713948e68fa/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Shenyang Peace Cup",
+            "team_a": "China U16",
+            "team_b": "Vietnam U16",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "time": "13:00:00",
+            "date": "27/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgv359r51_162ce15b_20260926.png?v=162ce15b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
