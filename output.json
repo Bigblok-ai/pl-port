@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f697fb08e5",
-          "name": "Granada CF vs Andorra CF | 21:15 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f697fb08e5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f697fb08e5",
-                  "name": "Granada CF vs Andorra CF",
-                  "streams": [
-                    {
-                      "id": "st-f697fb08e5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-10d0139bde",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/224d52bef61a4d69a83e24990234e41f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Granada CF",
-            "team_b": "Andorra CF",
-            "logo_a": "https://img.sports-data.online/football/team/f8ac17559f204d139563929dc7eeedeb.png",
-            "logo_b": "https://img.sports-data.online/football/team/87b05db9f90fc41e0faa409474ada50c.png",
-            "time": "21:15:00",
-            "date": "26/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1ox5oq0j_21ae0af2_20260926.png?v=21ae0af2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-dac16918b5",
           "name": "Bulgaria vs Luxembourg | 23:00 26/09",
