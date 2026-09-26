@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a6776ebdf7",
+          "name": "Cambodia vs Myanmar | 17:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a6776ebdf7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a6776ebdf7",
+                  "name": "Cambodia vs Myanmar",
+                  "streams": [
+                    {
+                      "id": "st-a6776ebdf7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed337ab42d",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b0a4f8748f8d4e29b6b3cc92f02db49c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Cambodia",
+            "team_b": "Myanmar",
+            "logo_a": "https://sta.vnres.co/file/common/20260924/d5482f76771dd1dd1e923a7639c994e2.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260924/e75186cdb396bbe21fea143bc8eb6f49.png",
+            "time": "17:00:00",
+            "date": "27/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk83xjrz8_a3833939_20260926.png?v=a3833939",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
