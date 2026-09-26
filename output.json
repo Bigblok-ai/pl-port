@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "pl-30e166871f",
-          "name": "Czechia vs Croatia | 01:45 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30e166871f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-30e166871f",
-                  "name": "Czechia vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-30e166871f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3cf2f9617f",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a63ae07e5c394561a8e20325a64c5ea6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Czechia",
-            "team_b": "Croatia",
-            "logo_a": "https://sta.vnres.co/file/common/20260924/f730b9b10a94674f9c327b017b5bca30.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260924/7ae710e558b52600dbad4fa76486172c.png",
-            "time": "01:45:00",
-            "date": "27/09",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghngy9vm0v_e12ae688_20260927.png?v=e12ae688",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-aa4a65751f",
           "name": "England vs Spain | 01:45 27/09",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "01:45:00",
             "date": "27/09",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -228,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4g1vqvy_66565c63_20260927.png?v=66565c63",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-30e166871f",
+          "name": "Czechia vs Croatia | 01:45 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30e166871f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30e166871f",
+                  "name": "Czechia vs Croatia",
+                  "streams": [
+                    {
+                      "id": "st-30e166871f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3cf2f9617f",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a63ae07e5c394561a8e20325a64c5ea6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Czechia",
+            "team_b": "Croatia",
+            "logo_a": "https://sta.vnres.co/file/common/20260924/f730b9b10a94674f9c327b017b5bca30.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260924/7ae710e558b52600dbad4fa76486172c.png",
+            "time": "01:45:00",
+            "date": "27/09",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghngy9vm0v_e12ae688_20260927.png?v=e12ae688",
             "width": 1600,
             "height": 1200
           }
