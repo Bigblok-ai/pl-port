@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -59,23 +59,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-4a6263b37f",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/99aa673a94574957863b555f6eb16cfc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -92,7 +75,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260923/088d39c5663535d640f4aaefd8362b18.png",
             "time": "19:30:00",
             "date": "26/09",
-            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
+            "blv": "LÝ LÊN LỬA",
             "is_live": true,
             "cate_type": "football"
           },
@@ -173,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyedmd7_740096eb_20260926.png?v=740096eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9581d1934b",
+          "name": "Vietnam vs Philippines | 20:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9581d1934b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9581d1934b",
+                  "name": "Vietnam vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-9581d1934b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a6263b37f",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/99aa673a94574957863b555f6eb16cfc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Vietnam",
+            "team_b": "Philippines",
+            "logo_a": "https://sta.vnres.co/file/common/20260923/9cbe8e6a8c5fbf1577577a4603b40627.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260923/088d39c5663535d640f4aaefd8362b18.png",
+            "time": "20:00:00",
+            "date": "26/09",
+            "blv": "LÝ LA LÀNG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gdvvr8k_bfd211de_20260926.png?v=bfd211de",
             "width": 1600,
             "height": 1200
           }
@@ -893,6 +948,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh59x4dql0_30790eab_20260926.png?v=30790eab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f66016bee4",
+          "name": "Lithuania vs Azerbaijan | 20:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f66016bee4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f66016bee4",
+                  "name": "Lithuania vs Azerbaijan",
+                  "streams": [
+                    {
+                      "id": "st-f66016bee4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-56ecbb53d2",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/651e0831cff74706a8920b5f89247b83/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Lithuania",
+            "team_b": "Azerbaijan",
+            "logo_a": "https://sta.vnres.co/file/common/20260924/f0be701add6a4ef2cbe95c846741a1ad.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260924/a73cab04afc837e62ccf4ced0af8f609.png",
+            "time": "20:00:00",
+            "date": "27/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5y0vryo_1513aeab_20260926.png?v=1513aeab",
             "width": 1600,
             "height": 1200
           }
