@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-ec72f29aad",
-          "name": "Japan U23 vs North Korea U23 | 17:30 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec72f29aad",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ec72f29aad",
-                  "name": "Japan U23 vs North Korea U23",
-                  "streams": [
-                    {
-                      "id": "st-ec72f29aad",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-303189061d",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cf058a3546894a839c70015d146d4e9c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Asian Games",
-            "team_a": "Japan U23",
-            "team_b": "North Korea U23",
-            "logo_a": "https://sta.vnres.co/file/common/20260924/bdc329dccdc39efdd494418041bb9d41.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260924/2d0aa5ee5f715a5ff9427857a70d96ec.png",
-            "time": "17:30:00",
-            "date": "26/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllh459owqvy_2e8098fd_20260926.png?v=2e8098fd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-3f68409354",
           "name": "Vietnam vs Philippines | 19:30 26/09",
           "type": "single",
@@ -185,10 +113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -237,7 +165,7 @@
             "time": "20:00:00",
             "date": "26/09",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
