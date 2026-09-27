@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7f27f0744f",
+          "name": "Singapore vs Bangladesh | 16:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7f27f0744f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7f27f0744f",
+                  "name": "Singapore vs Bangladesh",
+                  "streams": [
+                    {
+                      "id": "st-7f27f0744f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d063bca22",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cb297ecea4f246c0ac5123deff1425e1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Singapore",
+            "team_b": "Bangladesh",
+            "logo_a": "https://img0.aiscore.com/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/f00b6379b82a515a9478b6e58b783de9.png!w80",
+            "time": "16:00:00",
+            "date": "28/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl8pj2q1z_612a8758_20260927.png?v=612a8758",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
