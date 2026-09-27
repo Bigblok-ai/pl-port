@@ -663,6 +663,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4957940f86",
+          "name": "Sweden vs Poland | 01:45 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4957940f86",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4957940f86",
+                  "name": "Sweden vs Poland",
+                  "streams": [
+                    {
+                      "id": "st-4957940f86",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2cb7b78e20",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2ef1f0e3c2d0494ead5f1e9db0fa2df0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Sweden",
+            "team_b": "Poland",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/1eca03d984d1cd76b897e2c31040c176.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/f9b2c82265127e43fcb9464c4ed16d1e.png",
+            "time": "01:45:00",
+            "date": "29/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghngy5nm0v_eb8b2ddd_20260928.png?v=eb8b2ddd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d6ac5e9753",
+          "name": "Turkiye vs Italy | 01:45 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6ac5e9753",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d6ac5e9753",
+                  "name": "Turkiye vs Italy",
+                  "streams": [
+                    {
+                      "id": "st-d6ac5e9753",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e205dba7a4",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/24c6dde51ab84dd4be5e58d3b0064db6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Turkiye",
+            "team_b": "Italy",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/a8b1366ae68c5aa3c8806baa5b519e4e.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/e3d3ff04acbc5c11783cebe82108414b.png",
+            "time": "01:45:00",
+            "date": "29/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4gw1qvy_5ef6b6f2_20260928.png?v=5ef6b6f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-311df02ce5",
+          "name": "Belgium vs France | 01:45 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-311df02ce5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-311df02ce5",
+                  "name": "Belgium vs France",
+                  "streams": [
+                    {
+                      "id": "st-311df02ce5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eabac140e3",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a5ec0e5fb6224c9282728796e64f6a46/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Belgium",
+            "team_b": "France",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/485919021a1890269881d84d9953feb0.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/c9bf324d415c4085c1b51242d77aa732.png",
+            "time": "01:45:00",
+            "date": "29/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89ywjqwz_c8ef94c9_20260928.png?v=c8ef94c9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
