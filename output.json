@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-67804e658b",
-          "name": "Norway vs Portugal | 01:45 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-67804e658b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-67804e658b",
-                  "name": "Norway vs Portugal",
-                  "streams": [
-                    {
-                      "id": "st-67804e658b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-79b46e5861",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/09a211c33a044c6d9933ef2ff7d41615/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Norway",
-            "team_b": "Portugal",
-            "logo_a": "https://img0.aiscore.com/football/team/227d43878fa14347902532126d29b10c.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/c9847eeba0c64358960425bb19adbac0.png!w80",
-            "time": "01:45:00",
-            "date": "28/09",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6ypllq86_8b62c1b8_20260928.png?v=8b62c1b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7f27f0744f",
           "name": "Singapore vs Bangladesh | 16:00 28/09",
