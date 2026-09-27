@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a9d4a43872",
+          "name": "Malaysia vs Indonesia | 19:30 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a9d4a43872",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a9d4a43872",
+                  "name": "Malaysia vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-a9d4a43872",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-49c0e95eaa",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/899fb93135e34e1f96b242e8b9109c17/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Malaysia",
+            "team_b": "Indonesia",
+            "logo_a": "https://img0.aiscore.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",
+            "time": "19:30:00",
+            "date": "28/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5l7g4ql0_64e78bd8_20260927.png?v=64e78bd8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
