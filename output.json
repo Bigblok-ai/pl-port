@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a058e606af",
-          "name": "China vs New Zealand | 18:35 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a058e606af",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a058e606af",
-                  "name": "China vs New Zealand",
-                  "streams": [
-                    {
-                      "id": "st-a058e606af",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d6ece27be8",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/11763a782e1549a18c984f5eb056d3f7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CFA Team China International Tournament",
-            "team_a": "China",
-            "team_b": "New Zealand",
-            "logo_a": "https://sta.vnres.co/file/common/20260924/7b56823131c696c3656d4bcaace71946.jpg",
-            "logo_b": "https://sta.vnres.co/file/common/20260924/0b8addb5a39b4d1af50006262a6caed5.png",
-            "time": "18:35:00",
-            "date": "27/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9873em7v_9922d953_20260927.png?v=9922d953",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-47863d9ab7",
           "name": "Real Valladolid CF vs Cordoba | 19:00 27/09",
