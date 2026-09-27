@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6f95476aba",
-          "name": "Bahrain vs United Arab Emirates | 01:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6f95476aba",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6f95476aba",
-                  "name": "Bahrain vs United Arab Emirates",
-                  "streams": [
-                    {
-                      "id": "st-6f95476aba",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2a42b3ddc5",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0457a0d7522648259422d2e0e1ce51d3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WAFF Arabian Gulf Cup",
-            "team_a": "Bahrain",
-            "team_b": "United Arab Emirates",
-            "logo_a": "https://img0.aiscore.com/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80",
-            "time": "01:00:00",
-            "date": "28/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnwnpq82_343b8b91_20260928.png?v=343b8b91",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-67804e658b",
           "name": "Norway vs Portugal | 01:45 28/09",
