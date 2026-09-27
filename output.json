@@ -891,7 +891,7 @@
       "channels": [
         {
           "id": "pl-9dbf6c3375",
-          "name": "Indonesi vs Kyrgyzstan | 08:00 28/09",
+          "name": "Indonesia vs Kyrgyzstan | 08:00 28/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -910,7 +910,7 @@
               "contents": [
                 {
                   "id": "ct-9dbf6c3375",
-                  "name": "Indonesi vs Kyrgyzstan",
+                  "name": "Indonesia vs Kyrgyzstan",
                   "streams": [
                     {
                       "id": "st-9dbf6c3375",
@@ -942,7 +942,7 @@
           ],
           "org_metadata": {
             "league": "Asian Games",
-            "team_a": "Indonesi",
+            "team_a": "Indonesia",
             "team_b": "Kyrgyzstan",
             "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/4346797bf61de910e7d62fa55f5bf1b5.png!w80",
