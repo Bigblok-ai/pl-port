@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4c08191d31",
-          "name": "Germany vs Greece | 01:45 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4c08191d31",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4c08191d31",
-                  "name": "Germany vs Greece",
-                  "streams": [
-                    {
-                      "id": "st-4c08191d31",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5020e0b25b",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3a9496db53694f23808760e6e9a007d5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Germany",
-            "team_b": "Greece",
-            "logo_a": "https://img0.aiscore.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
-            "time": "01:45:00",
-            "date": "28/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y07moe_52a593e5_20260928.png?v=52a593e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7f27f0744f",
           "name": "Singapore vs Bangladesh | 16:00 28/09",
