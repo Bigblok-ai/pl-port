@@ -818,8 +818,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-ece5d41dcc",
-          "name": "Indonesia vs Thái Lan | 14:00 27/09",
+          "id": "pl-179bbeb021",
+          "name": "Nhật Bản vs Uzbekistan | 17:20 27/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -829,78 +829,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ece5d41dcc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ece5d41dcc",
-                  "name": "Indonesia vs Thái Lan",
-                  "streams": [
-                    {
-                      "id": "st-ece5d41dcc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-757144a4e9",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7f5f713541a146c9a5520d1b6ab44b66/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Indonesia",
-            "team_b": "Thái Lan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
-            "time": "14:00:00",
-            "date": "27/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dbc39f081e1145fc926983280a742999_a87d23db_20260927.png?v=a87d23db",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-179bbeb021",
-          "name": "Nhật Bản vs Uzbekistan | 17:20 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -949,7 +877,7 @@
             "time": "17:20:00",
             "date": "27/09",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
