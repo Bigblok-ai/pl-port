@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f66016bee4",
-          "name": "Lithuania vs Azerbaijan | 20:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f66016bee4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f66016bee4",
-                  "name": "Lithuania vs Azerbaijan",
-                  "streams": [
-                    {
-                      "id": "st-f66016bee4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-56ecbb53d2",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/651e0831cff74706a8920b5f89247b83/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Lithuania",
-            "team_b": "Azerbaijan",
-            "logo_a": "https://sta.vnres.co/file/common/20260924/f0be701add6a4ef2cbe95c846741a1ad.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260924/a73cab04afc837e62ccf4ced0af8f609.png",
-            "time": "20:00:00",
-            "date": "27/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5y0vryo_1513aeab_20260927.png?v=1513aeab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8a67b21688",
           "name": "RCD Mallorca vs Almeria | 21:15 27/09",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5l7g4ql0_64e78bd8_20260927.png?v=64e78bd8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d2015b8ef3",
+          "name": "Leixoes U23 vs Vizela U23 | 22:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d2015b8ef3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d2015b8ef3",
+                  "name": "Leixoes U23 vs Vizela U23",
+                  "streams": [
+                    {
+                      "id": "st-d2015b8ef3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c2f581c220",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1f0b67e2c08443cfb59f85dfa1e9f239/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Leixoes U23",
+            "team_b": "Vizela U23",
+            "logo_a": "https://img.sports-data.online/football/team/d5db95a6441ae92e5dd150663f89dc64.png",
+            "logo_b": "https://img.sports-data.online/football/team/dc067cd47969d48c3b6001d9350be407.png",
+            "time": "22:00:00",
+            "date": "28/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohlzx10q1z_d2f1fdaf_20260927.png?v=d2f1fdaf",
             "width": 1600,
             "height": 1200
           }
