@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-43ca641251",
-          "name": "Hong Kong vs Laos | 14:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-43ca641251",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-43ca641251",
-                  "name": "Hong Kong vs Laos",
-                  "streams": [
-                    {
-                      "id": "st-43ca641251",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4056d1da4d",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3b885ff222cc4af896ad384cf7ece61c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Hong Kong",
-            "team_b": "Laos",
-            "logo_a": "https://img0.aiscore.com/football/team/df321578b4f5f132345d2e6b39743126.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",
-            "time": "14:00:00",
-            "date": "27/09",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg7x4lr51_ce63d216_20260927.png?v=ce63d216",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a6776ebdf7",
           "name": "Cambodia vs Myanmar | 17:00 27/09",
@@ -812,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-531f846824",
-          "name": "Ấn Độ vs Việt Nam | 14:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-531f846824",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-531f846824",
-                  "name": "Ấn Độ vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-531f846824",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7dddc6ff18",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/98c6994cdc75464e9332c99879e3f343/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Ấn Độ",
-            "team_b": "Việt Nam",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/cd44171aa5aeb84d7375aa924d4fe543.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "time": "14:00:00",
-            "date": "27/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/787fe4a066c44392977ae1077f7c4690_fff98170_20260927.png?v=fff98170",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ece5d41dcc",
           "name": "Indonesia vs Thái Lan | 14:00 27/09",
