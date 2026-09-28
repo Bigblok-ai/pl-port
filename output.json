@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-84fcb80b77",
-          "name": "Việt Nam vs Qatar | 14:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-84fcb80b77",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-84fcb80b77",
-                  "name": "Việt Nam vs Qatar",
-                  "streams": [
-                    {
-                      "id": "st-84fcb80b77",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0df1b547b1",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3fc2aeab733c4c2d8592e9134f6223a8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Việt Nam",
-            "team_b": "Qatar",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80",
-            "time": "14:00:00",
-            "date": "28/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d5482007e1314642a53d617307a799b9_216b9d6c_20260928.png?v=216b9d6c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1cb1e96e8f",
           "name": "Đài Loan TQ vs Hàn Quốc | 17:00 28/09",
