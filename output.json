@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "pl-cfca498669",
-          "name": "Al Arabi(UAE) vs Al Thaid | 21:40 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cfca498669",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cfca498669",
-                  "name": "Al Arabi(UAE) vs Al Thaid",
-                  "streams": [
-                    {
-                      "id": "st-cfca498669",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a08285d879",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ba2e0a3f106a4aa0a7d53b246c3aa925/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "United Arab Emirates President Cup",
-            "team_a": "Al Arabi(UAE)",
-            "team_b": "Al Thaid",
-            "logo_a": "https://img.sports-data.online/football/team/85e4815a287ffb7dae9cb3235c13de47.png",
-            "logo_b": "https://img.sports-data.online/football/team/397f90a33785439b313a3d8c873e5c4a.png",
-            "time": "21:40:00",
-            "date": "28/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zhv0pgyql0_b536b3c9_20260928.png?v=b536b3c9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-d2015b8ef3",
           "name": "Leixoes U23 vs Vizela U23 | 22:00 28/09",
           "type": "single",
@@ -838,6 +766,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvx8zemd7_8fee06d2_20260928.png?v=8fee06d2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-af9d045ec0",
+          "name": "Slovenia U21 vs Israel U21 | 21:00 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-af9d045ec0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-af9d045ec0",
+                  "name": "Slovenia U21 vs Israel U21",
+                  "streams": [
+                    {
+                      "id": "st-af9d045ec0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ccb1baed3b",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fa77c0b8a31c4aa3806343fa7fc70472/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Slovenia U21",
+            "team_b": "Israel U21",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/d283f6a20344976a38b4330e28ae45b9.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/1b6c00bafc8e62301e3e4d018c019953.png",
+            "time": "21:00:00",
+            "date": "29/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjk260m2w_39cbc0fb_20260928.png?v=39cbc0fb",
             "width": 1600,
             "height": 1200
           }
