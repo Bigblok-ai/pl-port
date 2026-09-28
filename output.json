@@ -812,7 +812,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -885,78 +885,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2c189f9fdbe44f7190791df1d7019889_88664bc1_20260928.png?v=88664bc1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-b26ee17729",
-          "name": "Kazakhstan vs Nhật Bản | 17:20 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b26ee17729",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b26ee17729",
-                  "name": "Kazakhstan vs Nhật Bản",
-                  "streams": [
-                    {
-                      "id": "st-b26ee17729",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-808e10935b",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d128746e31954fdb95a1e2b73495b969/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Kazakhstan",
-            "team_b": "Nhật Bản",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9749f17f2a26c0ee6558c42029e739d8.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
-            "time": "17:20:00",
-            "date": "28/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b23d6420926249aa9a00bde8d20530e0_a9a647d4_20260928.png?v=a9a647d4",
             "width": 1600,
             "height": 1200
           }
