@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f71a6b5f9c",
+          "name": "North Korea Women vs China Women | 13:00 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f71a6b5f9c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f71a6b5f9c",
+                  "name": "North Korea Women vs China Women",
+                  "streams": [
+                    {
+                      "id": "st-f71a6b5f9c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-909099defa",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cdff1fe8285e4d5a824494555dbaf6ff/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OCA Women's Asian Games",
+            "team_a": "North Korea Women",
+            "team_b": "China Women",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/e852329be4add16641d68cfb8aa233ad.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/47c8f3ee3ff267278a7667194c1c0a9a.png",
+            "time": "13:00:00",
+            "date": "29/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvw4dmoj_29ceb7dc_20260928.png?v=29ceb7dc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
