@@ -740,14 +740,14 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-cc84615d6f",
-          "name": "Trung Quốc vs Philippines | 11:00 28/09",
+          "id": "pl-60951cdc05",
+          "name": "Thái Lan vs Iran | 14:00 28/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -757,78 +757,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc84615d6f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cc84615d6f",
-                  "name": "Trung Quốc vs Philippines",
-                  "streams": [
-                    {
-                      "id": "st-cc84615d6f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cc9a79f46",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6d5177502e974cdebc33690a660d03b0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Trung Quốc",
-            "team_b": "Philippines",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
-            "time": "11:00:00",
-            "date": "28/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2d9fa5b7245344f9a2829012b295a295_72840a8d_20260928.png?v=72840a8d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-60951cdc05",
-          "name": "Thái Lan vs Iran | 14:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -877,7 +805,7 @@
             "time": "14:00:00",
             "date": "28/09",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -897,10 +825,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -949,7 +877,7 @@
             "time": "14:00:00",
             "date": "28/09",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
