@@ -769,6 +769,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-05e2754014",
+          "name": "Saudi Arabia vs Iraq | 00:30 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-05e2754014",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-05e2754014",
+                  "name": "Saudi Arabia vs Iraq",
+                  "streams": [
+                    {
+                      "id": "st-05e2754014",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6112a2d902",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7533194080ab4ed9b450c3bfbd7d23cb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WAFF Arabian Gulf Cup",
+            "team_a": "Saudi Arabia",
+            "team_b": "Iraq",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/afd785b0073f54e675356d9b1e3a6dd6.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/b697ed3b003a7e700a2772081452cb97.png",
+            "time": "00:30:00",
+            "date": "30/09",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwj0jdryo_29f3436a_20260929.png?v=29f3436a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
