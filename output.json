@@ -774,83 +774,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3af354fe6b",
-          "name": "Manisa BB Women vs THY Women | 20:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3af354fe6b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3af354fe6b",
-                  "name": "Manisa BB Women vs THY Women",
-                  "streams": [
-                    {
-                      "id": "st-3af354fe6b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f4f4c71f77",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c45bb9805c3f4e15902ce8d01e979cc0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sultanlar Ligi",
-            "team_a": "Manisa BB Women",
-            "team_b": "THY Women",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/0d44700cb350e4546e802f0a3eaec9aa.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
-            "time": "20:00:00",
-            "date": "28/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e676d1ec76ef4493ad9fb416e01bc2de_f78bdc4b_20260928.png?v=f78bdc4b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4b66c179ed",
           "name": "Việt Nam vs Philipines | 07:00 29/09",
