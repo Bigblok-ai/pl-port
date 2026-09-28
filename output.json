@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-79b12f34ca",
-          "name": "Georgia vs Ukraine | 23:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-79b12f34ca",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-79b12f34ca",
-                  "name": "Georgia vs Ukraine",
-                  "streams": [
-                    {
-                      "id": "st-79b12f34ca",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-214f63a54f",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d6e45639790540c4b3836ce303facbe5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Georgia",
-            "team_b": "Ukraine",
-            "logo_a": "https://img0.aiscore.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80",
-            "time": "23:00:00",
-            "date": "28/09",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6y1l0qg8_58339a47_20260929.png?v=58339a47",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4957940f86",
           "name": "Sweden vs Poland | 01:45 29/09",
