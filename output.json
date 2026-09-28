@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "pl-d6ac5e9753",
+          "name": "Turkiye vs Italy | 01:45 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6ac5e9753",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d6ac5e9753",
+                  "name": "Turkiye vs Italy",
+                  "streams": [
+                    {
+                      "id": "st-d6ac5e9753",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e205dba7a4",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/24c6dde51ab84dd4be5e58d3b0064db6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Turkiye",
+            "team_b": "Italy",
+            "logo_a": "https://sta.vnres.co/file/common/20260926/a8b1366ae68c5aa3c8806baa5b519e4e.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260926/e3d3ff04acbc5c11783cebe82108414b.png",
+            "time": "01:45:00",
+            "date": "29/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4gw1qvy_5ef6b6f2_20260929.png?v=5ef6b6f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "pl-f71a6b5f9c",
           "name": "North Korea Women vs China Women | 13:00 29/09",
