@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9dbf6c3375",
-          "name": "Indonesia vs Kyrgyzstan | 08:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9dbf6c3375",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9dbf6c3375",
-                  "name": "Indonesia vs Kyrgyzstan",
-                  "streams": [
-                    {
-                      "id": "st-9dbf6c3375",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5ceab1676e",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a3cbac5664e74e3da3ab8323cc7c8cb9/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Indonesia",
-            "team_b": "Kyrgyzstan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/4346797bf61de910e7d62fa55f5bf1b5.png!w80",
-            "time": "08:00:00",
-            "date": "28/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3659a4b2323d44f6a4d63a8c8d2e53d6_3a564a9c_20260928.png?v=3a564a9c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-cc84615d6f",
           "name": "Trung Quốc vs Philippines | 11:00 28/09",
