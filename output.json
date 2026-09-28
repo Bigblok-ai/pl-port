@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1cb1e96e8f",
-          "name": "Đài Loan TQ vs Hàn Quốc | 17:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1cb1e96e8f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1cb1e96e8f",
-                  "name": "Đài Loan TQ vs Hàn Quốc",
-                  "streams": [
-                    {
-                      "id": "st-1cb1e96e8f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-336110d7a9",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fd154fa5529f4a16b7374ca7b2bac306/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Đài Loan TQ",
-            "team_b": "Hàn Quốc",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/dd0a8169c1c22efabb56434f3631159b.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
-            "time": "17:00:00",
-            "date": "28/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2c189f9fdbe44f7190791df1d7019889_88664bc1_20260928.png?v=88664bc1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3af354fe6b",
           "name": "Manisa BB Women vs THY Women | 20:00 28/09",
