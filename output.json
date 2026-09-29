@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-14c41a3be6",
-          "name": "Australia vs Brazil | 17:10 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14c41a3be6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-14c41a3be6",
-                  "name": "Australia vs Brazil",
-                  "streams": [
-                    {
-                      "id": "st-14c41a3be6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b4e8d8774",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/30c518680cfa418c96fa90347fb7400b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Australia",
-            "team_b": "Brazil",
-            "logo_a": "https://sta.vnres.co/file/common/20260926/b63378659216bc994f5178e83b925408.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260926/fd3dc08193811ba20a185fd773184bf4.png",
-            "time": "17:10:00",
-            "date": "29/09",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg9x6gq82_17466b70_20260929.png?v=17466b70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-9174dd3b8e",
           "name": "Thailand vs Vietnam | 19:30 29/09",
