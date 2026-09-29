@@ -774,7 +774,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -847,78 +847,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/07512a3d225b49db84388d2888464212_1960b495_20260929.png?v=1960b495",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-3751a8b49e",
-          "name": "Kyrgyzstan vs Thái Lan | 08:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3751a8b49e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3751a8b49e",
-                  "name": "Kyrgyzstan vs Thái Lan",
-                  "streams": [
-                    {
-                      "id": "st-3751a8b49e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-06ec177cad",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9ae33370f38640368039d3d0fbd61e57/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Kyrgyzstan",
-            "team_b": "Thái Lan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/4346797bf61de910e7d62fa55f5bf1b5.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
-            "time": "08:00:00",
-            "date": "29/09",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ded14aad1944d88b10ed12297e89818_6138cb6c_20260929.png?v=6138cb6c",
             "width": 1600,
             "height": 1200
           }
