@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9174dd3b8e",
-          "name": "Thailand vs Vietnam | 19:30 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9174dd3b8e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9174dd3b8e",
-                  "name": "Thailand vs Vietnam",
-                  "streams": [
-                    {
-                      "id": "st-9174dd3b8e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f224e25334",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5d80c86cf0334102adcc996f4c33cf7c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3e2be5554c",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/84e20c3f9bdf403f950ed586fb1af96f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Thailand",
-            "team_b": "Vietnam",
-            "logo_a": "https://sta.vnres.co/file/common/20260926/db4377f82b5a90b089a31fd8e6463435.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260926/22884d32389000f077ac6ae827be3d1c.png",
-            "time": "19:30:00",
-            "date": "29/09",
-            "blv": "LÝ LA LÀNG, LÝ LONG, LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvx8zemd7_8fee06d2_20260929.png?v=8fee06d2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-af9d045ec0",
           "name": "Slovenia U21 vs Israel U21 | 21:00 29/09",
