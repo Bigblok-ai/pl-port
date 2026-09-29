@@ -841,6 +841,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f3ced6dbb7",
+          "name": "Botswana vs Mozambique | 21:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3ced6dbb7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f3ced6dbb7",
+                  "name": "Botswana vs Mozambique",
+                  "streams": [
+                    {
+                      "id": "st-f3ced6dbb7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b4ac60c548",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/62b1051b3484428081ae1bf0754d498e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Botswana",
+            "team_b": "Mozambique",
+            "logo_a": "https://img.sports-data.online/football/team/3a9b3eab8a2396779c3ff15ae34f1d1c.png",
+            "logo_b": "https://img.sports-data.online/football/team/f68325b460e254099c207bd6622e14b1.png",
+            "time": "21:00:00",
+            "date": "30/09",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv9veqg8_2749743d_20260929.png?v=2749743d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
