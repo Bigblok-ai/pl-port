@@ -737,8 +737,8 @@
           }
         },
         {
-          "id": "pl-f3ced6dbb7",
-          "name": "Botswana vs Mozambique | 21:00 30/09",
+          "id": "pl-b52093fc13",
+          "name": "Aktobe W vs Ajax Amsterdam Women | 21:00 30/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -752,23 +752,23 @@
           ],
           "sources": [
             {
-              "id": "src-f3ced6dbb7",
+              "id": "src-b52093fc13",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-f3ced6dbb7",
-                  "name": "Botswana vs Mozambique",
+                  "id": "ct-b52093fc13",
+                  "name": "Aktobe W vs Ajax Amsterdam Women",
                   "streams": [
                     {
-                      "id": "st-f3ced6dbb7",
+                      "id": "st-b52093fc13",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-b4ac60c548",
+                          "id": "lnk-a1dd2f9f6d",
                           "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/62b1051b3484428081ae1bf0754d498e/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/0b3ef5deabef437fae4965d1c420c3f4/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -788,11 +788,11 @@
             }
           ],
           "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Botswana",
-            "team_b": "Mozambique",
-            "logo_a": "https://img.sports-data.online/football/team/3a9b3eab8a2396779c3ff15ae34f1d1c.png",
-            "logo_b": "https://img.sports-data.online/football/team/f68325b460e254099c207bd6622e14b1.png",
+            "league": "UEFA EL W",
+            "team_a": "Aktobe W",
+            "team_b": "Ajax Amsterdam Women",
+            "logo_a": "https://img.gvapi.cc/football/team/6a361dfa300bb39d857d5e6264788ccf.png",
+            "logo_b": "https://img.gvapi.cc/football/team/38df6d203692a88362c9d3d7ac2a9bb4.png",
             "time": "21:00:00",
             "date": "30/09",
             "blv": "LÝ LIỀU LĨNH",
@@ -803,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv9veqg8_2749743d_20260929.png?v=2749743d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1l9zryo_ed34fcdc_20260929.png?v=ed34fcdc",
             "width": 1600,
             "height": 1200
           }
