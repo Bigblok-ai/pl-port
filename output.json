@@ -774,83 +774,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-69521184c0",
-          "name": "Hồng Kông vs Việt Nam | 08:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-69521184c0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-69521184c0",
-                  "name": "Hồng Kông vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-69521184c0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f97bcea32",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cc977f6028834ced9609757c8c08685f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Hồng Kông",
-            "team_b": "Việt Nam",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/4a2e9789964030d8f9873ca4b8a7587b.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "time": "08:00:00",
-            "date": "29/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/07512a3d225b49db84388d2888464212_1960b495_20260929.png?v=1960b495",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3a1025fa96",
           "name": "Iran vs Indonesia | 14:00 29/09",
