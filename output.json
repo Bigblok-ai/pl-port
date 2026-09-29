@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-af9d045ec0",
-          "name": "Slovenia U21 vs Israel U21 | 21:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-af9d045ec0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-af9d045ec0",
-                  "name": "Slovenia U21 vs Israel U21",
-                  "streams": [
-                    {
-                      "id": "st-af9d045ec0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ccb1baed3b",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fa77c0b8a31c4aa3806343fa7fc70472/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA European U21 Championship qualification",
-            "team_a": "Slovenia U21",
-            "team_b": "Israel U21",
-            "logo_a": "https://sta.vnres.co/file/common/20260926/d283f6a20344976a38b4330e28ae45b9.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260926/1b6c00bafc8e62301e3e4d018c019953.png",
-            "time": "21:00:00",
-            "date": "29/09",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjk260m2w_39cbc0fb_20260929.png?v=39cbc0fb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-35054e83ca",
           "name": "Finland vs Belarus | 23:00 29/09",
