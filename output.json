@@ -116,8 +116,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-59918a395e",
-                          "name": "LÝ LA LÀNG",
+                          "id": "lnk-5596f72769",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/3ddbbfee20f5403ca128017510e97013/index.m3u8",
@@ -147,7 +147,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260926/b4241e301f76e07e8ab4233a634b7cf2.png",
             "time": "16:00:00",
             "date": "29/09",
-            "blv": "LÝ LA LÀNG",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
           },
