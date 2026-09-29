@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-dd83a366c6",
+          "name": "OL Lyonnes Women vs Chelsea FC Women | 02:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd83a366c6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dd83a366c6",
+                  "name": "OL Lyonnes Women vs Chelsea FC Women",
+                  "streams": [
+                    {
+                      "id": "st-dd83a366c6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f2c233d1d",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/68dbe7ba86cc426db7a632800b2f0186/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "OL Lyonnes Women",
+            "team_b": "Chelsea FC Women",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/1ca337d59ae767236a104131b29ddcab.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/716a13be443ed1d1d550c37e2c73e310.png",
+            "time": "02:00:00",
+            "date": "01/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdv5l2moj_7240a989_20260930.png?v=7240a989",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
