@@ -841,12 +841,84 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-921b6de9fe",
+          "name": "Hong Kong vs Brunei Darussalam | 19:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-921b6de9fe",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-921b6de9fe",
+                  "name": "Hong Kong vs Brunei Darussalam",
+                  "streams": [
+                    {
+                      "id": "st-921b6de9fe",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4eff752005",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fddedf9505e04adbac68a2d73d710152/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Hong Kong",
+            "team_b": "Brunei Darussalam",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/a3fc9e9d832501a64149b783cfaa3471.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/03fcd3a0291f8821a13825afe8501b90.png",
+            "time": "19:00:00",
+            "date": "30/09",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnd9j3qdy_97cf2017_20260929.png?v=97cf2017",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -919,78 +991,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5303a0b60fb2444b867cd8852988c95b_d6464f1e_20260929.png?v=d6464f1e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-778ebb00a2",
-          "name": "Nhật Bản vs Pakistan | 17:20 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-778ebb00a2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-778ebb00a2",
-                  "name": "Nhật Bản vs Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-778ebb00a2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e0143f63c",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/82e0caca547046c1a600afff906fe99c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Nhật Bản",
-            "team_b": "Pakistan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80",
-            "time": "17:20:00",
-            "date": "29/09",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/895e4593c83845df9fb73b7d801854e6_417b6ef2_20260929.png?v=417b6ef2",
             "width": 1600,
             "height": 1200
           }
