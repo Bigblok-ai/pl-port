@@ -61,23 +61,6 @@
                           ]
                         },
                         {
-                          "id": "lnk-8391773f42",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/0a0591c681f040d99c7edfefc9758e1c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
                           "id": "lnk-3e2be5554c",
                           "name": "LÝ LÀNG LÁ",
                           "type": "hls",
