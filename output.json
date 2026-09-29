@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "pl-c95d46cdb4",
+          "name": "Vietnam U16 vs Kyrgyzstan U16 | 13:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c95d46cdb4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c95d46cdb4",
+                  "name": "Vietnam U16 vs Kyrgyzstan U16",
+                  "streams": [
+                    {
+                      "id": "st-c95d46cdb4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe095d91fb",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cfdbc7f8805642519ba22c425d33f766/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Shenyang Peace Cup",
+            "team_a": "Vietnam U16",
+            "team_b": "Kyrgyzstan U16",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66ho51pqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw3vnqdyj/image/small",
+            "time": "13:00:00",
+            "date": "30/09",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1w4dlq0j_6a0b4ccf_20260929.png?v=6a0b4ccf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-840192ad50",
           "name": "South Korea U23 vs China U23 | 13:00 30/09",
           "type": "single",
