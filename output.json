@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-f82dcd7c04",
-          "name": "Morocco U20 vs Algeria U20",
+          "name": "Morocco U20 vs Algeria U20 | 20:30 30/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Algeria U20",
             "logo_a": "https://sta.vnres.co/file/common/20260927/f31f1470a2b9747250f22d3792234b32.png",
             "logo_b": "https://sta.vnres.co/file/common/20260927/6ffffd6dcdf8abf793ffcd893975f32c.png",
-            "time": "",
-            "date": "",
+            "time": "20:30:00",
+            "date": "30/09",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": true,
             "cate_type": "football"
