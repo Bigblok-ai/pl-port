@@ -161,8 +161,8 @@
           }
         },
         {
-          "id": "pl-b52093fc13",
-          "name": "Aktobe W vs Ajax Amsterdam Women | 21:00 30/09",
+          "id": "pl-f82dcd7c04",
+          "name": "Morocco U20 vs Algeria U20 | 20:30 30/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -176,23 +176,23 @@
           ],
           "sources": [
             {
-              "id": "src-b52093fc13",
+              "id": "src-f82dcd7c04",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-b52093fc13",
-                  "name": "Aktobe W vs Ajax Amsterdam Women",
+                  "id": "ct-f82dcd7c04",
+                  "name": "Morocco U20 vs Algeria U20",
                   "streams": [
                     {
-                      "id": "st-b52093fc13",
+                      "id": "st-f82dcd7c04",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a1dd2f9f6d",
+                          "id": "lnk-f757ba9560",
                           "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0b3ef5deabef437fae4965d1c420c3f4/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/c2beb2b5e6ca4d88a5f610e463fa83ae/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -212,12 +212,12 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA EL W",
-            "team_a": "Aktobe W",
-            "team_b": "Ajax Amsterdam Women",
-            "logo_a": "https://img.gvapi.cc/football/team/6a361dfa300bb39d857d5e6264788ccf.png",
-            "logo_b": "https://img.gvapi.cc/football/team/38df6d203692a88362c9d3d7ac2a9bb4.png",
-            "time": "21:00:00",
+            "league": "CAF U20 Africa Cup of Nations qualification",
+            "team_a": "Morocco U20",
+            "team_b": "Algeria U20",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/f31f1470a2b9747250f22d3792234b32.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/6ffffd6dcdf8abf793ffcd893975f32c.png",
+            "time": "20:30:00",
             "date": "30/09",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1l9zryo_ed34fcdc_20260930.png?v=ed34fcdc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4ggx2r8k_f21101e3_20260930.png?v=f21101e3",
             "width": 1600,
             "height": 1200
           }
@@ -588,6 +588,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz4ndq86_347f939d_20260930.png?v=347f939d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8c1891222d",
+          "name": "Indonesia vs Bangladesh | 19:30 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c1891222d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8c1891222d",
+                  "name": "Indonesia vs Bangladesh",
+                  "streams": [
+                    {
+                      "id": "st-8c1891222d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b236ad5920",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e7152d410fdc4f00a97ae576111010ab/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Indonesia",
+            "team_b": "Bangladesh",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/ac598e436c3b10ba829822a82ac99bc8.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/955d3aa27f54b62e7a3ce239632fb714.png",
+            "time": "19:30:00",
+            "date": "01/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey0jlr6o_b9665b0c_20260930.png?v=b9665b0c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c854efb8a5",
+          "name": "Malaysia vs Singapore | 19:30 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c854efb8a5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c854efb8a5",
+                  "name": "Malaysia vs Singapore",
+                  "streams": [
+                    {
+                      "id": "st-c854efb8a5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e4c838f479",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0105b787c7d1407f95646ef6682145d0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Malaysia",
+            "team_b": "Singapore",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/5518c15ddc8a8e32fba5700455b30327.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/f73c49b4ea3fb3f5f0a647166373d493.png",
+            "time": "19:30:00",
+            "date": "01/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4v0jm2w_65179dc3_20260930.png?v=65179dc3",
             "width": 1600,
             "height": 1200
           }
