@@ -591,6 +591,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-aad5dbe1ad",
+          "name": "Japan vs Ecuador | 17:10 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aad5dbe1ad",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aad5dbe1ad",
+                  "name": "Japan vs Ecuador",
+                  "streams": [
+                    {
+                      "id": "st-aad5dbe1ad",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8655875ff7",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/65be25221cc94a0e963bc6a8833dfd47/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese Kirin Cup",
+            "team_a": "Japan",
+            "team_b": "Ecuador",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/1ed9ede7058ba5986340f0f324e59a47.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/37c9d03fa5117b277c6c7fd84c8ac7a6.png",
+            "time": "17:10:00",
+            "date": "01/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz4ndq86_347f939d_20260930.png?v=347f939d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
