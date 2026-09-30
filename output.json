@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b8dca58009",
-          "name": "United Arab Emirates vs Qatar | 00:30 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8dca58009",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b8dca58009",
-                  "name": "United Arab Emirates vs Qatar",
-                  "streams": [
-                    {
-                      "id": "st-b8dca58009",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-40f46e32c9",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e37856b26ac245038ad166740cc70a8b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WAFF Arabian Gulf Cup",
-            "team_a": "United Arab Emirates",
-            "team_b": "Qatar",
-            "logo_a": "https://sta.vnres.co/file/common/20260927/13f085e7de8626efb90ee339e675085d.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260927/ad1fbbb901c4ad13dbba7d6cb7071354.png",
-            "time": "00:30:00",
-            "date": "01/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6jlj6q86_e87b528c_20261001.png?v=e87b528c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-dd83a366c6",
           "name": "OL Lyonnes Women vs Chelsea FC Women | 02:00 01/10",
