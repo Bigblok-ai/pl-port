@@ -591,6 +591,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-aee820f0d7",
+          "name": "Denmark vs Portugal | 01:45 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aee820f0d7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aee820f0d7",
+                  "name": "Denmark vs Portugal",
+                  "streams": [
+                    {
+                      "id": "st-aee820f0d7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ea29731e2d",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0c8dd3f74d6848998fe37b3e100f33fb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Denmark",
+            "team_b": "Portugal",
+            "logo_a": "https://sta.vnres.co/file/common/20260928/35948785ecc1ab3418a2d1527620f809.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260928/18979790d90b2f17be9a250807c0ff69.png",
+            "time": "01:45:00",
+            "date": "02/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8ydpqo9_24a2336b_20261001.png?v=24a2336b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3e9156202d",
+          "name": "Wales vs Norway | 01:45 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3e9156202d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3e9156202d",
+                  "name": "Wales vs Norway",
+                  "streams": [
+                    {
+                      "id": "st-3e9156202d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff276d8ce9",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/22787e33b77f43538ced4290208ae4ec/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Wales",
+            "team_b": "Norway",
+            "logo_a": "https://sta.vnres.co/file/common/20260928/05cccc76eafd42c059a8324965ba00fa.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260928/73d502468838640a1e50f259756363a8.png",
+            "time": "01:45:00",
+            "date": "02/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2pddrep_4c5411d3_20261001.png?v=4c5411d3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9f203251aa",
+          "name": "Germany vs Serbia | 01:45 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f203251aa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9f203251aa",
+                  "name": "Germany vs Serbia",
+                  "streams": [
+                    {
+                      "id": "st-9f203251aa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ba51d1adc0",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/89f8f6bd5c364820bf791b3c391e7160/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Germany",
+            "team_b": "Serbia",
+            "logo_a": "https://sta.vnres.co/file/common/20260928/5d2c793abbe2476546af6934a2ee1566.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260928/ca8a1a451ffabf4736363d2c475cc403.png",
+            "time": "01:45:00",
+            "date": "02/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6dg8emoj_99784115_20261001.png?v=99784115",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
