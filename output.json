@@ -672,6 +672,366 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4808c43301",
+          "name": "Hàn Quốc vs Iran | 11:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4808c43301",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4808c43301",
+                  "name": "Hàn Quốc vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-4808c43301",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a592031855",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/48f8760363914843886819765b0520c1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Hàn Quốc",
+            "team_b": "Iran",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/06141001b4a7358a800dda6c8c174a66.png!w80",
+            "time": "11:00:00",
+            "date": "01/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6a5f9bb7a0a841b1b0df4fe6dc8359b8_ab7231ad_20260930.png?v=ab7231ad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6809fd7654",
+          "name": "Thái Lan vs Trung Quốc | 14:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6809fd7654",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6809fd7654",
+                  "name": "Thái Lan vs Trung Quốc",
+                  "streams": [
+                    {
+                      "id": "st-6809fd7654",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2df47b6a19",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e2d7cc4232214687a3c0d3f14ff18a37/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Thái Lan",
+            "team_b": "Trung Quốc",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "time": "14:00:00",
+            "date": "01/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/802f226df9294105b790f15778b78334_60bc34d9_20260930.png?v=60bc34d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d41a27da8b",
+          "name": "Việt Nam vs Uzbekistan | 14:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d41a27da8b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d41a27da8b",
+                  "name": "Việt Nam vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-d41a27da8b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8722818605",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9900ac047a8145d99dd413668d51204d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Việt Nam",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/4ff106ce443f78f6ef58f787991e7146.png!w80",
+            "time": "14:00:00",
+            "date": "01/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/96ab9288e9da424a93ae821e4f34d3e9_8b4c2391_20260930.png?v=8b4c2391",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8b56a599c3",
+          "name": "Philippines vs Indonesia | 17:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b56a599c3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8b56a599c3",
+                  "name": "Philippines vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-8b56a599c3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9f1f903449",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ac40ea8602f441279c102c17af815891/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Philippines",
+            "team_b": "Indonesia",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
+            "time": "17:00:00",
+            "date": "01/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6945a41fa47a4df39d3f2186977efdec_ae235942_20260930.png?v=ae235942",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-00f343f96a",
+          "name": "Nhật Bản vs Qatar | 17:20 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-00f343f96a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-00f343f96a",
+                  "name": "Nhật Bản vs Qatar",
+                  "streams": [
+                    {
+                      "id": "st-00f343f96a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8819fd43a8",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d6c6bbffd7254518977b34601967294f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games TK",
+            "team_a": "Nhật Bản",
+            "team_b": "Qatar",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
+            "logo_b": "https://www.aiscore.com/vi/volleyball/match-japan-qatar/vmqylio853ycgk9/h2h",
+            "time": "17:20:00",
+            "date": "01/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3b69817d72d14b51b081335e9560cb20_e67e3e6f_20260930.png?v=e67e3e6f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
