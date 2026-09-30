@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-266ff1220e",
+          "name": "Argentina vs Bolivia | 07:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-266ff1220e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-266ff1220e",
+                  "name": "Argentina vs Bolivia",
+                  "streams": [
+                    {
+                      "id": "st-266ff1220e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb68f8460b",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3abe5983fbfd46cea71cc74c31989df2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Argentina",
+            "team_b": "Bolivia",
+            "logo_a": "https://sta.vnres.co/file/common/20260927/fddae9f15b989a7ae34fa59c7cafc9ea.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260927/1e51b33e47be279b9fa721856cfdcdee.png",
+            "time": "07:00:00",
+            "date": "01/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvw3ymoj_16cadbba_20260930.png?v=16cadbba",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
