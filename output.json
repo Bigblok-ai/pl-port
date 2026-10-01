@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-aad5dbe1ad",
-          "name": "Japan vs Ecuador | 17:10 01/10",
+          "id": "pl-8c1891222d",
+          "name": "Indonesia vs Bangladesh | 19:30 01/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,78 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aad5dbe1ad",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-aad5dbe1ad",
-                  "name": "Japan vs Ecuador",
-                  "streams": [
-                    {
-                      "id": "st-aad5dbe1ad",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8655875ff7",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/65be25221cc94a0e963bc6a8833dfd47/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Kirin Cup",
-            "team_a": "Japan",
-            "team_b": "Ecuador",
-            "logo_a": "https://sta.vnres.co/file/common/20260927/1ed9ede7058ba5986340f0f324e59a47.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260927/37c9d03fa5117b277c6c7fd84c8ac7a6.png",
-            "time": "17:10:00",
-            "date": "01/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz4ndq86_347f939d_20261001.png?v=347f939d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-8c1891222d",
-          "name": "Indonesia vs Bangladesh | 19:30 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "19:30:00",
             "date": "01/10",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "19:30:00",
             "date": "01/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1037,159 +965,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv9976md7_25bd7bcb_20261001.png?v=25bd7bcb",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "pl-8b56a599c3",
-          "name": "Philippines vs Indonesia | 17:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b56a599c3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8b56a599c3",
-                  "name": "Philippines vs Indonesia",
-                  "streams": [
-                    {
-                      "id": "st-8b56a599c3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9f1f903449",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ac40ea8602f441279c102c17af815891/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Philippines",
-            "team_b": "Indonesia",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/0553251f78c17a5cd8a102fd354e9316.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png!w80",
-            "time": "17:00:00",
-            "date": "01/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6945a41fa47a4df39d3f2186977efdec_ae235942_20261001.png?v=ae235942",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-00f343f96a",
-          "name": "Nhật Bản vs Qatar | 17:20 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-00f343f96a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-00f343f96a",
-                  "name": "Nhật Bản vs Qatar",
-                  "streams": [
-                    {
-                      "id": "st-00f343f96a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8819fd43a8",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d6c6bbffd7254518977b34601967294f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games TK",
-            "team_a": "Nhật Bản",
-            "team_b": "Qatar",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80",
-            "time": "17:20:00",
-            "date": "01/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3b69817d72d14b51b081335e9560cb20_bd212d67_20261001.png?v=bd212d67",
             "width": 1600,
             "height": 1200
           }
