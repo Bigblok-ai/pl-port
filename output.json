@@ -735,6 +735,167 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d85a0dd027",
+          "name": "Vietnam vs Pakistan | 16:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d85a0dd027",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d85a0dd027",
+                  "name": "Vietnam vs Pakistan",
+                  "streams": [
+                    {
+                      "id": "st-d85a0dd027",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3c9447d5d",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e09429fad8834059a4d8ad4dbedf68ff/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-cf06ccbe2a",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/5e9da67fcacd4795b768d30c489c96ca/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Vietnam",
+            "team_b": "Pakistan",
+            "logo_a": "https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
+            "time": "16:00:00",
+            "date": "02/10",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh672dlqg8_164be9eb_20261001.png?v=164be9eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ef134c35b4",
+          "name": "Thailand vs Philippines | 16:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef134c35b4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ef134c35b4",
+                  "name": "Thailand vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-ef134c35b4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf8a44a15e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a46d7d8a91a54133adaf7e6d032e0e1c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Thailand",
+            "team_b": "Philippines",
+            "logo_a": "https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
+            "time": "16:00:00",
+            "date": "02/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh875e9qwz_59d7a76c_20261001.png?v=59d7a76c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
