@@ -1409,6 +1409,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-feb6f8ce08",
+          "name": "Vakifbank Nữ vs Besiktas Nữ | 18:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-feb6f8ce08",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-feb6f8ce08",
+                  "name": "Vakifbank Nữ vs Besiktas Nữ",
+                  "streams": [
+                    {
+                      "id": "st-feb6f8ce08",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5416a39876",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7bb50df1b6454aad80df7372e20b97a7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Nữ",
+            "team_a": "Vakifbank Nữ",
+            "team_b": "Besiktas Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
+            "time": "18:00:00",
+            "date": "03/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c109409685384cf68e8965eb2b67c643_d3356edd_20261001.png?v=d3356edd",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
