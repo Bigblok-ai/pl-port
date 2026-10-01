@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-af1e3c5362",
+          "name": "Al-Wasl SC vs Ittihad Kalba FC | 20:15 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-af1e3c5362",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-af1e3c5362",
+                  "name": "Al-Wasl SC vs Ittihad Kalba FC",
+                  "streams": [
+                    {
+                      "id": "st-af1e3c5362",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-633cb8cb48",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/56ab06ef2994451995eebfbdf3ce4c8c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United Arab Emirates ADIB Cup",
+            "team_a": "Al-Wasl SC",
+            "team_b": "Ittihad Kalba FC",
+            "logo_a": "https://img0.aiscore.com/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80",
+            "time": "20:15:00",
+            "date": "02/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg7p88r51_30f2a1d4_20261001.png?v=30f2a1d4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
