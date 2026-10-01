@@ -968,6 +968,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d85c387ade",
+          "name": "France vs Italy | 01:45 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d85c387ade",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d85c387ade",
+                  "name": "France vs Italy",
+                  "streams": [
+                    {
+                      "id": "st-d85c387ade",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cffb8b2bf0",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fd8fc10b467b4c84bc47464968ac4a15/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "France",
+            "team_b": "Italy",
+            "logo_a": "https://sta.vnres.co/file/common/20260929/2b52663814d2e24428bc0588164e5495.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260929/1792aba1a4d18107c02e39ce7832a82e.png",
+            "time": "01:45:00",
+            "date": "03/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn425zqdy_3cd74673_20261002.png?v=3cd74673",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-7e54200e28",
+          "name": "Poland vs Romania | 01:45 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7e54200e28",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7e54200e28",
+                  "name": "Poland vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-7e54200e28",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b1dfc591d",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/af0f05ed77264640ac1119726fbab6e6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Poland",
+            "team_b": "Romania",
+            "logo_a": "https://sta.vnres.co/file/common/20260929/4abe2701a77864141daa484a0941e6a7.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260929/baacc46d317de2cae1634e4ac8a6bff7.png",
+            "time": "01:45:00",
+            "date": "03/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4g61qvy_76c5787b_20261002.png?v=76c5787b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d1917f0591",
+          "name": "Belgium vs Turkiye | 01:45 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1917f0591",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d1917f0591",
+                  "name": "Belgium vs Turkiye",
+                  "streams": [
+                    {
+                      "id": "st-d1917f0591",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1cf651c726",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1d9db15139d440aebcd9d65dce8d8007/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Belgium",
+            "team_b": "Turkiye",
+            "logo_a": "https://sta.vnres.co/file/common/20260929/b2cd543f1eebd11fbafccbe54a1d28a1.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260929/f35b30f2d68deceb5fb537f774ae7bcc.png",
+            "time": "01:45:00",
+            "date": "03/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghekd6xr6o_f3ad9d62_20261002.png?v=f3ad9d62",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
