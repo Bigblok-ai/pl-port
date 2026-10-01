@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fcd1f89692",
-          "name": "Uzbekistan vs Syria | 21:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fcd1f89692",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fcd1f89692",
-                  "name": "Uzbekistan vs Syria",
-                  "streams": [
-                    {
-                      "id": "st-fcd1f89692",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff1e6bd427",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cb609dd27e1c4b039c10ab1365ef0c79/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Uzbekistan",
-            "team_b": "Syria",
-            "logo_a": "https://sta.vnres.co/file/common/20260927/79edbeab6d7de7ce5078c21c1bd4f7c3.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260927/c536be6f779de2a98026f545729e5af0.png",
-            "time": "21:00:00",
-            "date": "01/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h549l0rz8_a984842e_20261001.png?v=a984842e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-83717379d6",
           "name": "Azerbaijan vs Liechtenstein | 23:00 01/10",
@@ -1037,6 +965,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1ylokq0j_0f0a1bfe_20261001.png?v=0f0a1bfe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2f78452277",
+          "name": "Cyprus vs Armenia | 23:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2f78452277",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2f78452277",
+                  "name": "Cyprus vs Armenia",
+                  "streams": [
+                    {
+                      "id": "st-2f78452277",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-be0146b49a",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e220fe2d80cd4aecbb7c1206962c30ae/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Cyprus",
+            "team_b": "Armenia",
+            "logo_a": "https://img0.aiscore.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png!w80",
+            "time": "23:00:00",
+            "date": "02/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9no04m7v_bba53687_20261001.png?v=bba53687",
             "width": 1600,
             "height": 1200
           }
