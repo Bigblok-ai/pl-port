@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-aee820f0d7",
-          "name": "Denmark vs Portugal | 01:45 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aee820f0d7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-aee820f0d7",
-                  "name": "Denmark vs Portugal",
-                  "streams": [
-                    {
-                      "id": "st-aee820f0d7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ea29731e2d",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0c8dd3f74d6848998fe37b3e100f33fb/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Denmark",
-            "team_b": "Portugal",
-            "logo_a": "https://sta.vnres.co/file/common/20260928/35948785ecc1ab3418a2d1527620f809.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260928/18979790d90b2f17be9a250807c0ff69.png",
-            "time": "01:45:00",
-            "date": "02/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8ydpqo9_24a2336b_20261002.png?v=24a2336b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c8454f6ea6",
           "name": "NGUYỄN THỊ TÂM vs WU YU | 11:00 02/10",
