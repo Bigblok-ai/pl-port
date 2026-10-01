@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6809fd7654",
-          "name": "Thái Lan vs Trung Quốc | 14:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6809fd7654",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6809fd7654",
-                  "name": "Thái Lan vs Trung Quốc",
-                  "streams": [
-                    {
-                      "id": "st-6809fd7654",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2df47b6a19",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e2d7cc4232214687a3c0d3f14ff18a37/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Thái Lan",
-            "team_b": "Trung Quốc",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "time": "14:00:00",
-            "date": "01/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/802f226df9294105b790f15778b78334_60bc34d9_20261001.png?v=60bc34d9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8b56a599c3",
           "name": "Philippines vs Indonesia | 17:00 01/10",
