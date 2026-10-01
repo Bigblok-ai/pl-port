@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-014c2774e7",
-          "name": "Ấn Độ vs Pakistan | 08:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-014c2774e7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-014c2774e7",
-                  "name": "Ấn Độ vs Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-014c2774e7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1447c08e0",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0a817a9df60c4222bc751cbfa71c070a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Tứ Kết Asian Games",
-            "team_a": "Ấn Độ",
-            "team_b": "Pakistan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/cd44171aa5aeb84d7375aa924d4fe543.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80",
-            "time": "08:00:00",
-            "date": "01/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/665465053eef4da1b635291708120123_ad2af2ad_20261001.png?v=ad2af2ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4808c43301",
           "name": "Hàn Quốc vs Iran | 11:00 01/10",
