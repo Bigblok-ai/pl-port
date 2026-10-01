@@ -1040,6 +1040,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-68d6339749",
+          "name": "Kazakhstan vs Moldova | 21:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-68d6339749",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-68d6339749",
+                  "name": "Kazakhstan vs Moldova",
+                  "streams": [
+                    {
+                      "id": "st-68d6339749",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0de59c6c9d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5f39e0f78ea4454db45bf7bdb16bf537/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Kazakhstan",
+            "team_b": "Moldova",
+            "logo_a": "https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80",
+            "time": "21:00:00",
+            "date": "02/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1ylokq0j_0f0a1bfe_20261001.png?v=0f0a1bfe",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
