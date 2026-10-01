@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f1013a3c44",
-          "name": "Hungary U21 vs Lithuania U21 | 00:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f1013a3c44",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f1013a3c44",
-                  "name": "Hungary U21 vs Lithuania U21",
-                  "streams": [
-                    {
-                      "id": "st-f1013a3c44",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5391ff6a7c",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5bb15e6768ef4bc181257fac591354e0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA European U21 Championship qualification",
-            "team_a": "Hungary U21",
-            "team_b": "Lithuania U21",
-            "logo_a": "https://img.sports-data.online/football/team/fab02be525c1579918412f73a5f2c245.png",
-            "logo_b": "https://img.sports-data.online/football/team/3990c8b000f60d3377135bf8c6337231.png",
-            "time": "00:00:00",
-            "date": "02/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv0p9xmd7_e7c39eba_20261002.png?v=e7c39eba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-aee820f0d7",
           "name": "Denmark vs Portugal | 01:45 02/10",
