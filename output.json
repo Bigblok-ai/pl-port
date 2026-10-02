@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c8454f6ea6",
-          "name": "NGUYỄN THỊ TÂM vs WU YU | 11:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c8454f6ea6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c8454f6ea6",
-                  "name": "NGUYỄN THỊ TÂM vs WU YU",
-                  "streams": [
-                    {
-                      "id": "st-c8454f6ea6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-92068172c7",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c4a38bde55c148d1a075e6754f5a1ddf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CHUNG KẾT QUYỀN ANH ASIAD 2026",
-            "team_a": "NGUYỄN THỊ TÂM",
-            "team_b": "WU YU",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "time": "11:00:00",
-            "date": "02/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1aab9d688de04bbaac5ac39e910025d7_2dd21642_20261002.png?v=2dd21642",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0d2915478e",
           "name": "China Women vs South Korea Women | 13:00 02/10",
