@@ -205,8 +205,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-b2e51b829a",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-529365025c",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/47ff9f2f026e4d678e480c8ef73cc562/index.m3u8",
@@ -236,7 +236,7 @@
             "logo_b": "https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w80",
             "time": "17:30:00",
             "date": "02/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
           },
@@ -901,7 +901,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -914,10 +914,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -966,7 +966,7 @@
             "time": "17:00:00",
             "date": "02/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
