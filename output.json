@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-94f1cfecff",
-          "name": "Nhật Bản vs Trung Quốc | 17:20 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94f1cfecff",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-94f1cfecff",
-                  "name": "Nhật Bản vs Trung Quốc",
-                  "streams": [
-                    {
-                      "id": "st-94f1cfecff",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87b9ab8878",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fdffac894a8144b69da2102c1413c607/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Nhật Bản",
-            "team_b": "Trung Quốc",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "time": "17:20:00",
-            "date": "02/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d818ee81a1bc40999ee2f36649863cd7_ff08cc5b_20261002.png?v=ff08cc5b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-feb6f8ce08",
           "name": "Vakifbank Nữ vs Besiktas Nữ | 18:00 03/10",
