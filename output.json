@@ -692,8 +692,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-34707bcb7c",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-47028e17aa",
+                          "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/6203fef2e0fc40969e6315ef9e21f209/index.m3u8",
@@ -723,7 +723,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260929/976b4391b606b5b700c97baf05680bfa.png",
             "time": "19:00:00",
             "date": "03/10",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
           },
@@ -764,8 +764,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-84dbff8632",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-24ff338d47",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/8e3830288fb84444b2314de84ba5c4ae/index.m3u8",
@@ -795,7 +795,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260929/9531f846975ba84472e147fd8c37275f.png",
             "time": "20:00:00",
             "date": "03/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -836,8 +836,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-236a016404",
-                          "name": "LÝ LONG",
+                          "id": "lnk-eb550fbff2",
+                          "name": "LÝ LA LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/e9da2b35e9434dc6bcb5626c7e9b3c50/index.m3u8",
@@ -867,7 +867,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260929/2123bd06baaef69f0f277d6f4e0a3810.png",
             "time": "21:00:00",
             "date": "03/10",
-            "blv": "LÝ LONG",
+            "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
@@ -957,6 +957,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1ffa074a5224d17a66fffa89ef5cdf9_c78cbdd2_20261002.png?v=c78cbdd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-91c6d7ddb9",
+          "name": "Thái Lan vs Ấn Độ | 11:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-91c6d7ddb9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-91c6d7ddb9",
+                  "name": "Thái Lan vs Ấn Độ",
+                  "streams": [
+                    {
+                      "id": "st-91c6d7ddb9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-94e2e2dc5d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d38d7dbbdeb64778a299a13af37330b8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Thái Lan",
+            "team_b": "Ấn Độ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/cd44171aa5aeb84d7375aa924d4fe543.png!w80",
+            "time": "11:00:00",
+            "date": "03/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/24ecc940d4f04a3eaf149b745ca6a923_a07d4d7d_20261002.png?v=a07d4d7d",
             "width": 1600,
             "height": 1200
           }
