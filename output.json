@@ -962,6 +962,150 @@
           }
         },
         {
+          "id": "pl-58c4ee63ea",
+          "name": "Trung Quốc vs Pakistan | 14:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58c4ee63ea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-58c4ee63ea",
+                  "name": "Trung Quốc vs Pakistan",
+                  "streams": [
+                    {
+                      "id": "st-58c4ee63ea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d59be2d53",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/314476d9151449c28e0df687f4325047/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Trung Quốc",
+            "team_b": "Pakistan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80",
+            "time": "14:00:00",
+            "date": "03/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6a197b5c00924e67a3f9fa8a38560330_df62dcef_20261002.png?v=df62dcef",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e3ae2b9c83",
+          "name": "\"Đài Loan TQ vs Việt Nam | 17:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3ae2b9c83",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e3ae2b9c83",
+                  "name": "\"Đài Loan TQ vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-e3ae2b9c83",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d57352d5d8",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/35df9e6f01bd4c4da75d05f83d683940/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "\"Đài Loan TQ",
+            "team_b": "Việt Nam",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/dd0a8169c1c22efabb56434f3631159b.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "time": "17:00:00",
+            "date": "03/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6854344e79334a88b21ffc6ae2f7218e_f364d520_20261002.png?v=f364d520",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-feb6f8ce08",
           "name": "Vakifbank Nữ vs Besiktas Nữ | 18:00 03/10",
           "type": "single",
