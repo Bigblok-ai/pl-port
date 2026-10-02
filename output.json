@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6fef4306b6",
+          "name": "India vs Brazil | 21:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fef4306b6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6fef4306b6",
+                  "name": "India vs Brazil",
+                  "streams": [
+                    {
+                      "id": "st-6fef4306b6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-236a016404",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e9da2b35e9434dc6bcb5626c7e9b3c50/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "India",
+            "team_b": "Brazil",
+            "logo_a": "https://sta.vnres.co/file/common/20260929/705d1a1b1eb532bc7ea002915b95101f.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260929/2123bd06baaef69f0f277d6f4e0a3810.png",
+            "time": "21:00:00",
+            "date": "03/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwnj4xryo_ff20628f_20261002.png?v=ff20628f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -817,6 +889,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "pl-d5620fd457",
+          "name": "Việt Nam vs Thái Lan | 07:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5620fd457",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d5620fd457",
+                  "name": "Việt Nam vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "st-d5620fd457",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-36e5210ab8",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/51cc499d1fb84b1287ca214d86b57736/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chung Kết Cầu Mây ASIAD",
+            "team_a": "Việt Nam",
+            "team_b": "Thái Lan",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
+            "time": "07:00:00",
+            "date": "03/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1ffa074a5224d17a66fffa89ef5cdf9_c78cbdd2_20261002.png?v=c78cbdd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "pl-feb6f8ce08",
           "name": "Vakifbank Nữ vs Besiktas Nữ | 18:00 03/10",
