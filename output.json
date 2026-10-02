@@ -829,83 +829,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-68b6d53c52",
-          "name": "Pakistan vs Iran | 14:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-68b6d53c52",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-68b6d53c52",
-                  "name": "Pakistan vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-68b6d53c52",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e2bc8ecd01",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0396f8c2324a4210ae4f793c2ab3500b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Pakistan",
-            "team_b": "Iran",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/06141001b4a7358a800dda6c8c174a66.png!w80",
-            "time": "14:00:00",
-            "date": "02/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d4f18ef3e68248199654f87160d38b23_8cebe0a9_20261002.png?v=8cebe0a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1837951cdf",
           "name": "Việt Nam vs Indonesia | 17:00 02/10",
