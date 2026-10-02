@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-68d6339749",
-          "name": "Kazakhstan vs Moldova | 21:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-68d6339749",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-68d6339749",
-                  "name": "Kazakhstan vs Moldova",
-                  "streams": [
-                    {
-                      "id": "st-68d6339749",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0de59c6c9d",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5f39e0f78ea4454db45bf7bdb16bf537/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Kazakhstan",
-            "team_b": "Moldova",
-            "logo_a": "https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/3f13cf4ddf6fc50c0d39a1d5aeb57dd8.png!w80",
-            "time": "21:00:00",
-            "date": "02/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1ylokq0j_0f0a1bfe_20261002.png?v=0f0a1bfe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2f78452277",
           "name": "Cyprus vs Armenia | 23:00 02/10",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwnj4xryo_ff20628f_20261002.png?v=ff20628f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b6f5df2e12",
+          "name": "Croatia vs England | 23:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b6f5df2e12",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b6f5df2e12",
+                  "name": "Croatia vs England",
+                  "streams": [
+                    {
+                      "id": "st-b6f5df2e12",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3286473e34",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/09078b665457470580c09316bf0b033e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Croatia",
+            "team_b": "England",
+            "logo_a": "https://sta.vnres.co/file/common/20260929/0dd224173cbbce9636adbc9e309aec6f.png",
+            "logo_b": "https://sta.vnres.co/file/common/20260929/cd0d92bcaa8dfadcb883fee2b2bae582.png",
+            "time": "23:00:00",
+            "date": "03/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6dgnemoj_81b6bc00_20261002.png?v=81b6bc00",
             "width": 1600,
             "height": 1200
           }
