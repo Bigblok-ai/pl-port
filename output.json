@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-36d08fb996",
-          "name": "North Korea Women vs Japan Women | 17:30 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-36d08fb996",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-36d08fb996",
-                  "name": "North Korea Women vs Japan Women",
-                  "streams": [
-                    {
-                      "id": "st-36d08fb996",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-529365025c",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/47ff9f2f026e4d678e480c8ef73cc562/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Women's Asian Games",
-            "team_a": "North Korea Women",
-            "team_b": "Japan Women",
-            "logo_a": "https://img0.aiscore.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w80",
-            "time": "17:30:00",
-            "date": "02/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1gh9v70dmoe_879651b8_20261002.png?v=879651b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-af1e3c5362",
           "name": "Al-Wasl SC vs Ittihad Kalba FC | 20:15 02/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "21:00:00",
             "date": "02/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
