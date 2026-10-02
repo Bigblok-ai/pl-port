@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ef134c35b4",
-          "name": "Thailand vs Philippines | 16:40 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef134c35b4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ef134c35b4",
-                  "name": "Thailand vs Philippines",
-                  "streams": [
-                    {
-                      "id": "st-ef134c35b4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf8a44a15e",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a46d7d8a91a54133adaf7e6d032e0e1c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Thailand",
-            "team_b": "Philippines",
-            "logo_a": "https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
-            "time": "16:40:00",
-            "date": "02/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh875e9qwz_59d7a76c_20261002.png?v=59d7a76c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-36d08fb996",
           "name": "North Korea Women vs Japan Women | 17:30 02/10",
