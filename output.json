@@ -962,6 +962,78 @@
           }
         },
         {
+          "id": "pl-6b288a3560",
+          "name": "Qatar vs Hàn Quốc | 08:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b288a3560",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6b288a3560",
+                  "name": "Qatar vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-6b288a3560",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d14f77f07",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6ea52fef6da84575bc5a26ba908c4935/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Qatar",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w80",
+            "time": "08:00:00",
+            "date": "03/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e0a0aca861e94d2783476963f9ac15bd_e1a19605_20261002.png?v=e1a19605",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-58c4ee63ea",
           "name": "Trung Quốc vs Pakistan | 14:00 03/10",
           "type": "single",
