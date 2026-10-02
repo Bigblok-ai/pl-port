@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0d2915478e",
-          "name": "China Women vs South Korea Women | 13:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0d2915478e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0d2915478e",
-                  "name": "China Women vs South Korea Women",
-                  "streams": [
-                    {
-                      "id": "st-0d2915478e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d493a0874e",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7045d4ff93854c14b8b37d84d64ff311/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Women's Asian Games",
-            "team_a": "China Women",
-            "team_b": "South Korea Women",
-            "logo_a": "https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80",
-            "time": "13:00:00",
-            "date": "02/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66h8z2g3qo9_de031394_20261002.png?v=de031394",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d85a0dd027",
           "name": "Vietnam vs Pakistan | 16:00 02/10",
