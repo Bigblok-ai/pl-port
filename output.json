@@ -764,8 +764,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-8925c00112",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-84dbff8632",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/8e3830288fb84444b2314de84ba5c4ae/index.m3u8",
@@ -795,7 +795,7 @@
             "logo_b": "https://sta.vnres.co/file/common/20260929/9531f846975ba84472e147fd8c37275f.png",
             "time": "20:00:00",
             "date": "03/10",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1106,6 +1106,78 @@
           }
         },
         {
+          "id": "pl-549ba1b267",
+          "name": "Nhật Bản vs Iran | 17:20 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-549ba1b267",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-549ba1b267",
+                  "name": "Nhật Bản vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-549ba1b267",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25b239665e",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9ebf9b79758e46cfaebfedcc8dc4a674/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games HCV",
+            "team_a": "Nhật Bản",
+            "team_b": "Iran",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/06141001b4a7358a800dda6c8c174a66.png!w80",
+            "time": "17:20:00",
+            "date": "03/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9c530eb305f34981aecc45ef8196db37_f962bc3d_20261002.png?v=f962bc3d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-feb6f8ce08",
           "name": "Vakifbank Nữ vs Besiktas Nữ | 18:00 03/10",
           "type": "single",
@@ -1133,8 +1205,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-9e1caedf58",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-5416a39876",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/7bb50df1b6454aad80df7372e20b97a7/index.m3u8",
@@ -1164,7 +1236,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
             "time": "18:00:00",
             "date": "03/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
