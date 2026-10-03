@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-58c4ee63ea",
-          "name": "Trung Quốc vs Pakistan | 14:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58c4ee63ea",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-58c4ee63ea",
-                  "name": "Trung Quốc vs Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-58c4ee63ea",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d59be2d53",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/314476d9151449c28e0df687f4325047/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Trung Quốc",
-            "team_b": "Pakistan",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80",
-            "time": "14:00:00",
-            "date": "03/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6a197b5c00924e67a3f9fa8a38560330_df62dcef_20261003.png?v=df62dcef",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e3ae2b9c83",
           "name": "\"Đài Loan TQ vs Việt Nam | 17:00 03/10",
