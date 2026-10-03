@@ -11,44 +11,44 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-a83f2f1bc5",
-          "name": "Switzerland vs Slovenia | 01:45 04/10",
+          "id": "pl-dd793602ef",
+          "name": "Argentina vs Burkina Faso | 07:00 04/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-a83f2f1bc5",
+              "id": "src-dd793602ef",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-a83f2f1bc5",
-                  "name": "Switzerland vs Slovenia",
+                  "id": "ct-dd793602ef",
+                  "name": "Argentina vs Burkina Faso",
                   "streams": [
                     {
-                      "id": "st-a83f2f1bc5",
+                      "id": "st-dd793602ef",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-ace807d4b0",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-337f86fe61",
+                          "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0706eadc5f684f09a9c45188e73ed6cd/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/c0c8402120fe4463abfd3c0e366f76ac/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,94 +68,22 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Switzerland",
-            "team_b": "Slovenia",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/a99e389a0921b70b567fd9c3f4510591.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/19c780446224a6bb692ced736d8009fa.png",
-            "time": "01:45:00",
+            "league": "International Friendly",
+            "team_a": "Argentina",
+            "team_b": "Burkina Faso",
+            "logo_a": "https://img.sports-data.online/football/team/e5e5e0f67481324ebdbd65d65890b2b8.png",
+            "logo_b": "https://img.sports-data.online/football/team/f430088f4b4e68c28f0043ac07ab93b3.png",
+            "time": "07:00:00",
             "date": "04/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
+            "blv": "LÝ LONG",
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8yppqo9_05046ed3_20261004.png?v=05046ed3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6a311bb20b",
-          "name": "Spain vs Czechia | 01:45 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a311bb20b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6a311bb20b",
-                  "name": "Spain vs Czechia",
-                  "streams": [
-                    {
-                      "id": "st-6a311bb20b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d7fd26a2e",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c720ff99c017499a9a4b04bdbfd1b345/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Spain",
-            "team_b": "Czechia",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/c9ab934c9ff00a42174245081924b57c.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/68376c9fb5d1d1df0dcd92695e0d7b67.png",
-            "time": "01:45:00",
-            "date": "04/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2p4drep_a472e069_20261004.png?v=a472e069",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvw5ymoj_ed59d8ab_20261004.png?v=ed59d8ab",
             "width": 1600,
             "height": 1200
           }
