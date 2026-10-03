@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6fef4306b6",
-          "name": "India vs Brazil | 21:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6fef4306b6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6fef4306b6",
-                  "name": "India vs Brazil",
-                  "streams": [
-                    {
-                      "id": "st-6fef4306b6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eb550fbff2",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e9da2b35e9434dc6bcb5626c7e9b3c50/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "India",
-            "team_b": "Brazil",
-            "logo_a": "https://sta.vnres.co/file/common/20260929/705d1a1b1eb532bc7ea002915b95101f.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260929/2123bd06baaef69f0f277d6f4e0a3810.png",
-            "time": "21:00:00",
-            "date": "03/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwnj4xryo_ff20628f_20261003.png?v=ff20628f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b6f5df2e12",
           "name": "Croatia vs England | 23:00 03/10",
