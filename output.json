@@ -591,6 +591,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5aab31196f",
+          "name": "Portugal vs Norway | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5aab31196f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5aab31196f",
+                  "name": "Portugal vs Norway",
+                  "streams": [
+                    {
+                      "id": "st-5aab31196f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf26f067c0",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c0a1cbb19daa48a4a9dfcef675425c64/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Portugal",
+            "team_b": "Norway",
+            "logo_a": "https://sta.vnres.co/file/common/20261002/dc1bd1ddba0abef95c9fab7939d9405b.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261002/a2cdd97acf7c9da26ad3578148724817.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn422pqdy_dd1c8489_20261004.png?v=dd1c8489",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-90cfdf4623",
+          "name": "Greece vs Germany | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-90cfdf4623",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-90cfdf4623",
+                  "name": "Greece vs Germany",
+                  "streams": [
+                    {
+                      "id": "st-90cfdf4623",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0eee4145ea",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3228c25f7e67449fb8eed6d4ddc512ce/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Greece",
+            "team_b": "Germany",
+            "logo_a": "https://sta.vnres.co/file/common/20261002/f10a9d853b386391f0eed7dc0a40d643.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261002/96feab5fd841489c5e3789805fd32d32.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyl88eryk_f73f5268_20261004.png?v=f73f5268",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8891e125f8",
+          "name": "Netherlands vs Serbia | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8891e125f8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8891e125f8",
+                  "name": "Netherlands vs Serbia",
+                  "streams": [
+                    {
+                      "id": "st-8891e125f8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-86a0eb6fa6",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e9bccd8b74e24976becf02698b20f157/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Netherlands",
+            "team_b": "Serbia",
+            "logo_a": "https://sta.vnres.co/file/common/20261002/2305a7799a3925e34c2c148c1263e2ad.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261002/3aea1dc2e7c91e0c85152bd29db64e2e.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89yyjqwz_20d385f2_20261004.png?v=20d385f2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
