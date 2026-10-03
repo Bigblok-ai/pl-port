@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "pl-a83f2f1bc5",
+          "name": "Switzerland vs Slovenia | 01:45 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a83f2f1bc5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a83f2f1bc5",
+                  "name": "Switzerland vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "st-a83f2f1bc5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ace807d4b0",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0706eadc5f684f09a9c45188e73ed6cd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Switzerland",
+            "team_b": "Slovenia",
+            "logo_a": "https://sta.vnres.co/file/common/20261001/a99e389a0921b70b567fd9c3f4510591.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261001/19c780446224a6bb692ced736d8009fa.png",
+            "time": "01:45:00",
+            "date": "04/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8yppqo9_05046ed3_20261004.png?v=05046ed3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-6a311bb20b",
           "name": "Spain vs Czechia | 01:45 04/10",
           "type": "single",
@@ -156,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2p4drep_a472e069_20261004.png?v=a472e069",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-a83f2f1bc5",
-          "name": "Switzerland vs Slovenia | 01:45 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a83f2f1bc5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a83f2f1bc5",
-                  "name": "Switzerland vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "st-a83f2f1bc5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ace807d4b0",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0706eadc5f684f09a9c45188e73ed6cd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Switzerland",
-            "team_b": "Slovenia",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/a99e389a0921b70b567fd9c3f4510591.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/19c780446224a6bb692ced736d8009fa.png",
-            "time": "01:45:00",
-            "date": "04/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8yppqo9_05046ed3_20261004.png?v=05046ed3",
             "width": 1600,
             "height": 1200
           }
