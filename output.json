@@ -591,6 +591,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6e9a94f678",
+          "name": "Kosovo vs Austria | 23:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e9a94f678",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6e9a94f678",
+                  "name": "Kosovo vs Austria",
+                  "streams": [
+                    {
+                      "id": "st-6e9a94f678",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c83753a70b",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5449405df9e84c7f8eff058a5ff0c0c2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Kosovo",
+            "team_b": "Austria",
+            "logo_a": "https://sta.vnres.co/file/common/20261001/5ce71ef291c8cfa27eac0f1960486470.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261001/893827726ea8a4df2cf7db2ec8f04321.png",
+            "time": "23:00:00",
+            "date": "04/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjxyyzm2w_abd85526_20261003.png?v=abd85526",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
