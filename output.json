@@ -746,8 +746,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-91c6d7ddb9",
-          "name": "Thái Lan vs Ấn Độ | 11:00 03/10",
+          "id": "pl-58c4ee63ea",
+          "name": "Trung Quốc vs Pakistan | 14:00 03/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -757,78 +757,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91c6d7ddb9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-91c6d7ddb9",
-                  "name": "Thái Lan vs Ấn Độ",
-                  "streams": [
-                    {
-                      "id": "st-91c6d7ddb9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-94e2e2dc5d",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d38d7dbbdeb64778a299a13af37330b8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Thái Lan",
-            "team_b": "Ấn Độ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/3e9126e77f86c6fd0f04f67c8f149712.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/cd44171aa5aeb84d7375aa924d4fe543.png!w80",
-            "time": "11:00:00",
-            "date": "03/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/24ecc940d4f04a3eaf149b745ca6a923_a07d4d7d_20261003.png?v=a07d4d7d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-58c4ee63ea",
-          "name": "Trung Quốc vs Pakistan | 14:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -877,7 +805,7 @@
             "time": "14:00:00",
             "date": "03/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
