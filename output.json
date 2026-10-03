@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b0b2be1d05",
-          "name": "Hong Kong vs Cambodia | 17:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b0b2be1d05",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b0b2be1d05",
-                  "name": "Hong Kong vs Cambodia",
-                  "streams": [
-                    {
-                      "id": "st-b0b2be1d05",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd24518a7b",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/faf0323383d748c0823999a7d7b79473/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Hong Kong",
-            "team_b": "Cambodia",
-            "logo_a": "https://sta.vnres.co/file/common/20261002/91a80f58f89ac6422bbbf080147640fd.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261002/9eb37f8c249e5fd4f183182ab50d5252.png",
-            "time": "17:00:00",
-            "date": "03/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghkvln9r6o_9c704a2a_20261003.png?v=9c704a2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-dafe34d6e0",
           "name": "South Korea U23 vs Japan U23 | 17:30 03/10",
@@ -732,6 +660,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h616z0q86_e418df75_20261003.png?v=e418df75",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4eababd7b9",
+          "name": "Real Sociedad B vs Granada CF | 19:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4eababd7b9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4eababd7b9",
+                  "name": "Real Sociedad B vs Granada CF",
+                  "streams": [
+                    {
+                      "id": "st-4eababd7b9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f7f9a74a35",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3aac0d58ab244e808c935fcccdbbb7df/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Sociedad B",
+            "team_b": "Granada CF",
+            "logo_a": "https://img.sports-data.online/football/team/d29164c8a90c597e5333f1bf14f289f2.png",
+            "logo_b": "https://img.sports-data.online/football/team/f8ac17559f204d139563929dc7eeedeb.png",
+            "time": "19:00:00",
+            "date": "04/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg940zq82_66f47269_20261003.png?v=66f47269",
             "width": 1600,
             "height": 1200
           }
