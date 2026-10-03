@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-dafe34d6e0",
-          "name": "South Korea U23 vs Japan U23 | 17:30 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dafe34d6e0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dafe34d6e0",
-                  "name": "South Korea U23 vs Japan U23",
-                  "streams": [
-                    {
-                      "id": "st-dafe34d6e0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-61a472a896",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4e8b0bc5aa764c26b875374e994e83cf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Asian Games",
-            "team_a": "South Korea U23",
-            "team_b": "Japan U23",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/02598ff81c211b703b81e49cf632688b.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/a61540014542b80b1bc2548920a3a564.png",
-            "time": "17:30:00",
-            "date": "03/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh58633ryo_202dd0fe_20261003.png?v=202dd0fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-672644714b",
           "name": "Albacete Balompié SAD vs Eibar | 19:00 03/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "20:00:00",
             "date": "03/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -740,7 +668,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -753,10 +681,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -805,7 +733,7 @@
             "time": "20:00:00",
             "date": "03/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
