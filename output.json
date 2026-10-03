@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-549ba1b267",
-          "name": "Nhật Bản vs Iran | 17:20 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-549ba1b267",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-549ba1b267",
-                  "name": "Nhật Bản vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-549ba1b267",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25b239665e",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9ebf9b79758e46cfaebfedcc8dc4a674/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games HCV",
-            "team_a": "Nhật Bản",
-            "team_b": "Iran",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/06141001b4a7358a800dda6c8c174a66.png!w80",
-            "time": "17:20:00",
-            "date": "03/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9c530eb305f34981aecc45ef8196db37_f962bc3d_20261003.png?v=f962bc3d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f542188bf8",
           "name": "Nilufer Bld. Nữ vs Eczacibasi Nữ | 20:00 03/10",
