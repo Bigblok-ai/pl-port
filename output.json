@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f542188bf8",
-          "name": "Nilufer Bld. Nữ vs Eczacibasi Nữ | 20:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f542188bf8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f542188bf8",
-                  "name": "Nilufer Bld. Nữ vs Eczacibasi Nữ",
-                  "streams": [
-                    {
-                      "id": "st-f542188bf8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67715adaaa",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4f4ca130001b4d378b922bf641b6120b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sultanlar Ligi Nữ",
-            "team_a": "Nilufer Bld. Nữ",
-            "team_b": "Eczacibasi Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b44ed2e934bbbae323265d36aeaa6d29.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png!w80",
-            "time": "20:00:00",
-            "date": "03/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/25e14d4604ed43f5aebf3f8d0cb23cdc_359e36b8_20261003.png?v=359e36b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4e8ab66f9f",
           "name": "Fenerbahce Nữ vs Manisa BB Women | 17:00 04/10",
