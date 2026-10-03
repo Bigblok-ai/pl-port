@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e3ae2b9c83",
-          "name": "\"Đài Loan TQ vs Việt Nam | 17:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e3ae2b9c83",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e3ae2b9c83",
-                  "name": "\"Đài Loan TQ vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-e3ae2b9c83",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d57352d5d8",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/35df9e6f01bd4c4da75d05f83d683940/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "\"Đài Loan TQ",
-            "team_b": "Việt Nam",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/dd0a8169c1c22efabb56434f3631159b.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80",
-            "time": "17:00:00",
-            "date": "03/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6854344e79334a88b21ffc6ae2f7218e_f364d520_20261003.png?v=f364d520",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-549ba1b267",
           "name": "Nhật Bản vs Iran | 17:20 03/10",
