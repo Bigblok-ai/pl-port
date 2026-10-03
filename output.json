@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-b6f5df2e12",
-          "name": "Croatia vs England | 23:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b6f5df2e12",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b6f5df2e12",
-                  "name": "Croatia vs England",
-                  "streams": [
-                    {
-                      "id": "st-b6f5df2e12",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3286473e34",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/09078b665457470580c09316bf0b033e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Croatia",
-            "team_b": "England",
-            "logo_a": "https://sta.vnres.co/file/common/20260929/0dd224173cbbce9636adbc9e309aec6f.png",
-            "logo_b": "https://sta.vnres.co/file/common/20260929/cd0d92bcaa8dfadcb883fee2b2bae582.png",
-            "time": "23:00:00",
-            "date": "03/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6dgnemoj_81b6bc00_20261004.png?v=81b6bc00",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-046c064852",
           "name": "France U21 vs Luxembourg U21 | 00:00 04/10",
           "type": "single",
@@ -161,6 +89,78 @@
           }
         },
         {
+          "id": "pl-6a311bb20b",
+          "name": "Spain vs Czechia | 01:45 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a311bb20b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6a311bb20b",
+                  "name": "Spain vs Czechia",
+                  "streams": [
+                    {
+                      "id": "st-6a311bb20b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d7fd26a2e",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c720ff99c017499a9a4b04bdbfd1b345/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Spain",
+            "team_b": "Czechia",
+            "logo_a": "https://sta.vnres.co/file/common/20261001/c9ab934c9ff00a42174245081924b57c.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261001/68376c9fb5d1d1df0dcd92695e0d7b67.png",
+            "time": "01:45:00",
+            "date": "04/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2p4drep_a472e069_20261004.png?v=a472e069",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-a83f2f1bc5",
           "name": "Switzerland vs Slovenia | 01:45 04/10",
           "type": "single",
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8yppqo9_05046ed3_20261004.png?v=05046ed3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6a311bb20b",
-          "name": "Spain vs Czechia | 01:45 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a311bb20b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6a311bb20b",
-                  "name": "Spain vs Czechia",
-                  "streams": [
-                    {
-                      "id": "st-6a311bb20b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d7fd26a2e",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c720ff99c017499a9a4b04bdbfd1b345/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Spain",
-            "team_b": "Czechia",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/c9ab934c9ff00a42174245081924b57c.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/68376c9fb5d1d1df0dcd92695e0d7b67.png",
-            "time": "01:45:00",
-            "date": "04/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2p4drep_a472e069_20261004.png?v=a472e069",
             "width": 1600,
             "height": 1200
           }
