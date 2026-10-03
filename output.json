@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-982cfe0913",
-          "name": "China U23 vs Uzbekistan U23 | 13:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-982cfe0913",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-982cfe0913",
-                  "name": "China U23 vs Uzbekistan U23",
-                  "streams": [
-                    {
-                      "id": "st-982cfe0913",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3ed6b14407",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5b0489dd5f6d4608b23568db294b7356/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OCA Asian Games",
-            "team_a": "China U23",
-            "team_b": "Uzbekistan U23",
-            "logo_a": "https://sta.vnres.co/file/common/20261001/095833a8f2a539c9e27ac3170b659237.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261001/4c11e1347a0c4622a04fa370cd26682f.png",
-            "time": "13:00:00",
-            "date": "03/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo632m0v_4ea1794a_20261003.png?v=4ea1794a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-dafe34d6e0",
           "name": "South Korea U23 vs Japan U23 | 17:30 03/10",
