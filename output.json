@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-22b98755e2",
+          "name": "Tegevajaro Miyazaki vs RB Omiya Ardija | 17:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22b98755e2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-22b98755e2",
+                  "name": "Tegevajaro Miyazaki vs RB Omiya Ardija",
+                  "streams": [
+                    {
+                      "id": "st-22b98755e2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1b68d6912",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5451178cd2e1438cb13ae98be3293a19/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J2 League",
+            "team_a": "Tegevajaro Miyazaki",
+            "team_b": "RB Omiya Ardija",
+            "logo_a": "https://img.sports-data.online/football/team/d212b444eb151871d8fbbcafa8e36658.png",
+            "logo_b": "https://img.sports-data.online/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png",
+            "time": "17:00:00",
+            "date": "04/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h616z0q86_e418df75_20261003.png?v=e418df75",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
