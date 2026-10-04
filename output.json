@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-dd793602ef",
-          "name": "Argentina vs Burkina Faso | 07:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd793602ef",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dd793602ef",
-                  "name": "Argentina vs Burkina Faso",
-                  "streams": [
-                    {
-                      "id": "st-dd793602ef",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-337f86fe61",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c0c8402120fe4463abfd3c0e366f76ac/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Argentina",
-            "team_b": "Burkina Faso",
-            "logo_a": "https://static.flashscore.com/res/image/data/xQCUe9zB-AmY8ktbk.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/przbVIxS-tv3f3Ec6.png",
-            "time": "07:00:00",
-            "date": "04/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvw5ymoj_61dcefe4_20261004.png?v=61dcefe4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-22b98755e2",
           "name": "Tegevajaro Miyazaki vs RB Omiya Ardija | 17:00 04/10",
