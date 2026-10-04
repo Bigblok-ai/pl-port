@@ -774,83 +774,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-55352811ad",
-          "name": "THY Nữ vs Galatasaray Nữ | 23:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-55352811ad",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-55352811ad",
-                  "name": "THY Nữ vs Galatasaray Nữ",
-                  "streams": [
-                    {
-                      "id": "st-55352811ad",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5cc060d7af",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1a82d280db7f4ea2ad6e71f48ec9c1f1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sultanlar Ligi",
-            "team_a": "THY Nữ",
-            "team_b": "Galatasaray Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/c6a08c3e390a071f4143d6ea1c4f2b11.png!w80",
-            "time": "23:00:00",
-            "date": "04/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d5a0563ca4f740f6b340d4e659981f4a_946c119d_20261005.png?v=946c119d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-225c155b68",
           "name": "Vakifbank Nữ vs Eczacibasi Nữ | 23:00 06/10",
