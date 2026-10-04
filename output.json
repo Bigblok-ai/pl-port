@@ -769,6 +769,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-268b45396a",
+          "name": "France vs Belgium | 01:45 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-268b45396a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-268b45396a",
+                  "name": "France vs Belgium",
+                  "streams": [
+                    {
+                      "id": "st-268b45396a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7741d8baf8",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1c2afba3245546bdbaf2f4b35cbdc9df/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "France",
+            "team_b": "Belgium",
+            "logo_a": "https://img0.aiscore.com/football/team/70ded7a479aa84ea26b4677f99485f88.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png!w80",
+            "time": "01:45:00",
+            "date": "06/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6y112qg8_1ecfa6f9_20261005.png?v=1ecfa6f9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-70bd8ff3f6",
+          "name": "Romania vs Sweden | 01:45 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70bd8ff3f6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-70bd8ff3f6",
+                  "name": "Romania vs Sweden",
+                  "streams": [
+                    {
+                      "id": "st-70bd8ff3f6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fb5cfcab0",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9c51707bf2ef4d0e8dbf5b693f5d0bd6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Romania",
+            "team_b": "Sweden",
+            "logo_a": "https://img0.aiscore.com/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/2c0b283b96174c34bff7445f22b00618.png!w80",
+            "time": "01:45:00",
+            "date": "06/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5yyyryo_96e1e379_20261005.png?v=96e1e379",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-bc227d5fb9",
+          "name": "Italy vs Turkiye | 01:45 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc227d5fb9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bc227d5fb9",
+                  "name": "Italy vs Turkiye",
+                  "streams": [
+                    {
+                      "id": "st-bc227d5fb9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-17f5243935",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b54a0b054bbd44fdb7865a0792d0f5ca/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Italy",
+            "team_b": "Turkiye",
+            "logo_a": "https://img0.aiscore.com/football/team/775bc655c77d679c193f1982dac04668.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png!w80",
+            "time": "01:45:00",
+            "date": "06/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3vvdq82_e39705dc_20261005.png?v=e39705dc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
