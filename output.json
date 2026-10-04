@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5aab31196f",
-          "name": "Portugal vs Norway | 01:45 05/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5aab31196f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5aab31196f",
-                  "name": "Portugal vs Norway",
-                  "streams": [
-                    {
-                      "id": "st-5aab31196f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf26f067c0",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c0a1cbb19daa48a4a9dfcef675425c64/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Portugal",
-            "team_b": "Norway",
-            "logo_a": "https://sta.vnres.co/file/common/20261002/dc1bd1ddba0abef95c9fab7939d9405b.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261002/a2cdd97acf7c9da26ad3578148724817.png",
-            "time": "01:45:00",
-            "date": "05/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn422pqdy_dd1c8489_20261005.png?v=dd1c8489",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f94674aade",
           "name": "Malaysia vs Vietnam | 16:00 05/10",
