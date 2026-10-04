@@ -769,6 +769,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e5c1f0b4e5",
+          "name": "Cyprus vs Latvia | 23:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5c1f0b4e5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e5c1f0b4e5",
+                  "name": "Cyprus vs Latvia",
+                  "streams": [
+                    {
+                      "id": "st-e5c1f0b4e5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c245dab625",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a817ca9e0b47476e95ce740a07b46422/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Cyprus",
+            "team_b": "Latvia",
+            "logo_a": "https://img.sports-data.online/football/team/89b97e57cbdac50cad2c04e17463e267.crdownload",
+            "logo_b": "https://img.sports-data.online/football/team/07870f1c7aff43eaee0bb426c285a59b.png",
+            "time": "23:00:00",
+            "date": "05/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg2pp5rep_102c3060_20261004.png?v=102c3060",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
