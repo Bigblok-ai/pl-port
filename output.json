@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4eababd7b9",
-          "name": "Real Sociedad B vs Granada CF | 19:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4eababd7b9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4eababd7b9",
-                  "name": "Real Sociedad B vs Granada CF",
-                  "streams": [
-                    {
-                      "id": "st-4eababd7b9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f7f9a74a35",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3aac0d58ab244e808c935fcccdbbb7df/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Real Sociedad B",
-            "team_b": "Granada CF",
-            "logo_a": "https://img.sports-data.online/football/team/d29164c8a90c597e5333f1bf14f289f2.png",
-            "logo_b": "https://img.sports-data.online/football/team/f8ac17559f204d139563929dc7eeedeb.png",
-            "time": "19:00:00",
-            "date": "04/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg940zq82_66f47269_20261004.png?v=66f47269",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-993f318d0d",
           "name": "Azerbaijan vs Lithuania | 20:00 04/10",
