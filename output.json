@@ -752,6 +752,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-1ed7e4cadc",
+          "name": "Vietnam U17 Women vs Palestine U17 Women | 18:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ed7e4cadc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1ed7e4cadc",
+                  "name": "Vietnam U17 Women vs Palestine U17 Women",
+                  "streams": [
+                    {
+                      "id": "st-1ed7e4cadc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f3b3d16535",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/80f67ba7686347e6b6e29cc149f12b70/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CA U17W C",
+            "team_a": "Vietnam U17 Women",
+            "team_b": "Palestine U17 Women",
+            "logo_a": "https://img0.aiscore.com/football/team/a68eee511575e8f28b16f27ff608234a.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/8f50fd66c14b887b06c0a3af5bc0bd9a.png!w80",
+            "time": "18:00:00",
+            "date": "05/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgon64m0v_07e9698b_20261004.png?v=07e9698b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
