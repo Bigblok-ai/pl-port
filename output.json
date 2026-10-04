@@ -769,6 +769,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-cfcabca9f1",
+          "name": "Montenegro U21 vs Armenia U21 | 21:30 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cfcabca9f1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cfcabca9f1",
+                  "name": "Montenegro U21 vs Armenia U21",
+                  "streams": [
+                    {
+                      "id": "st-cfcabca9f1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc8bcab600",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/442a980492dd4903a107569b5a3611dc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Montenegro U21",
+            "team_b": "Armenia U21",
+            "logo_a": "https://img.sports-data.online/football/team/7f4a8eb683a50a3d83216b93bb9d9d51.png",
+            "logo_b": "https://img.sports-data.online/football/team/7581afe0fa029655726d2c3a9cc5a669.png",
+            "time": "21:30:00",
+            "date": "05/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe476gr6o_335e1293_20261004.png?v=335e1293",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
