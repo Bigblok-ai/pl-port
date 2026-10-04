@@ -591,6 +591,95 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f94674aade",
+          "name": "Malaysia vs Vietnam | 16:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f94674aade",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f94674aade",
+                  "name": "Malaysia vs Vietnam",
+                  "streams": [
+                    {
+                      "id": "st-f94674aade",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19215e4985",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17c5e5765eb948d4a68dcb001db0a707/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-a979fb3319",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/097cdeddd5f94534982e3e7e5cee7044/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Malaysia",
+            "team_b": "Vietnam",
+            "logo_a": "https://static.bongda24h.vn/Medias/icon/2026/07/28/malaysia-logo-2807160158.jpg",
+            "logo_b": "https://img0.aiscore.com/football/team/a68eee511575e8f28b16f27ff608234a.png!w80",
+            "time": "16:00:00",
+            "date": "05/10",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/655b2bf2b2f84d89b3c124d1bcee20e4_85ede278_20261004.png?v=85ede278",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
