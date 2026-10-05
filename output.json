@@ -879,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4a19c0d94d",
+          "name": "England vs Czechia | 01:45 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a19c0d94d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4a19c0d94d",
+                  "name": "England vs Czechia",
+                  "streams": [
+                    {
+                      "id": "st-4a19c0d94d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b1cbb2e57",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/39b5b3c3f1834a9690a76575301afe30/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "England",
+            "team_b": "Czechia",
+            "logo_a": "https://img0.aiscore.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png!w80",
+            "time": "01:45:00",
+            "date": "07/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6yp38q86_8880fc31_20261006.png?v=8880fc31",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2589d2d44d",
+          "name": "Croatia vs Spain | 01:45 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2589d2d44d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2589d2d44d",
+                  "name": "Croatia vs Spain",
+                  "streams": [
+                    {
+                      "id": "st-2589d2d44d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f357bc5f7b",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/44c9187d8bf34dc4ba9df2792f0bf3f4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Croatia",
+            "team_b": "Spain",
+            "logo_a": "https://img0.aiscore.com/football/team/a1b3eb19ca424555b5c61384059d21f7.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/9c1958aa257c4a318f87cb4b2d79fa11.png!w80",
+            "time": "01:45:00",
+            "date": "07/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9yjvmoe_c6e7ae88_20261006.png?v=c6e7ae88",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
