@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-df256a349a",
-          "name": "Indonesia vs Thailand | 20:00 05/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-df256a349a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-df256a349a",
-                  "name": "Indonesia vs Thailand",
-                  "streams": [
-                    {
-                      "id": "st-df256a349a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0777ceb107",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f192df60960b4e04bc76b483d4b5b6d8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Indonesia",
-            "team_b": "Thailand",
-            "logo_a": "https://img0.aiscore.com/football/team/34bb77e2d1cd0d85444b8a855d155da4.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/795d184537c4e183e50f4ae831b3e3e2.png!w80",
-            "time": "20:00:00",
-            "date": "05/10",
-            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/db6eaaab7fb842fabcddde8357fb58b2_81b1100e_20261005.png?v=81b1100e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-cfcabca9f1",
           "name": "Montenegro U21 vs Armenia U21 | 21:30 05/10",
