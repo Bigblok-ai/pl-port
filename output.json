@@ -807,6 +807,95 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b320a59cee",
+          "name": "Argentina vs Benin | 06:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b320a59cee",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b320a59cee",
+                  "name": "Argentina vs Benin",
+                  "streams": [
+                    {
+                      "id": "st-b320a59cee",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cbce8d7a88",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/dd8c98e5376e4bd38eb851e0c4831a7e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8a02d5e990",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/a96faaed11754b8a8dbc766eb53846e9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Argentina",
+            "team_b": "Benin",
+            "logo_a": "https://sta.vnres.co/file/common/20261004/65d15340f62440e61295cb1d60b72b93.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261004/ceb53cb011eea786554474552c0c4869.png",
+            "time": "06:00:00",
+            "date": "07/10",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/28b3cea516714e4b9e72a0a82df630a3_207b0f88_20261006.png?v=207b0f88",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
