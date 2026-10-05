@@ -896,6 +896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e358a74156",
+          "name": "Kazakhstan vs Faroe Islands | 21:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e358a74156",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e358a74156",
+                  "name": "Kazakhstan vs Faroe Islands",
+                  "streams": [
+                    {
+                      "id": "st-e358a74156",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0188b3f38b",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bf961f6b1d2a48bd81a9a540262ead25/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Kazakhstan",
+            "team_b": "Faroe Islands",
+            "logo_a": "https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80",
+            "time": "21:00:00",
+            "date": "06/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx8yylqo9_92bd596e_20261005.png?v=92bd596e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
