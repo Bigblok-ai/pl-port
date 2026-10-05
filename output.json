@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-ca88b3850f",
-          "name": "Japan vs New Zealand | 17:30 05/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ca88b3850f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ca88b3850f",
-                  "name": "Japan vs New Zealand",
-                  "streams": [
-                    {
-                      "id": "st-ca88b3850f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-09ce26dd61",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/019daa1149f4408690b049748e293331/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Kirin Cup",
-            "team_a": "Japan",
-            "team_b": "New Zealand",
-            "logo_a": "https://sta.vnres.co/file/common/20261003/9932f554d53914e725871257c59987d5.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261003/20b858bbb8054f16847ae31eede6840e.png",
-            "time": "17:30:00",
-            "date": "05/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvzxnmoj_7ed2bf40_20261005.png?v=7ed2bf40",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-1ed7e4cadc",
           "name": "Vietnam U17 Women vs Palestine U17 Women | 18:00 05/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -237,7 +165,7 @@
             "time": "20:00:00",
             "date": "05/10",
             "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
