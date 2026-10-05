@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-63b414d329",
+          "name": "Portugal U19 vs Netherlands U19 | 19:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-63b414d329",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-63b414d329",
+                  "name": "Portugal U19 vs Netherlands U19",
+                  "streams": [
+                    {
+                      "id": "st-63b414d329",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4120540f7e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e63dcd761546466ab3830e6a8f613ef9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Portugal U19",
+            "team_b": "Netherlands U19",
+            "logo_a": "https://img0.aiscore.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
+            "time": "19:00:00",
+            "date": "06/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv9oeqg8_1876cb73_20261005.png?v=1876cb73",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
