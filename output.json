@@ -769,6 +769,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2d9d2bb54e",
+          "name": "Uniao Leiria U23 vs Santa Clara U23 | 17:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2d9d2bb54e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2d9d2bb54e",
+                  "name": "Uniao Leiria U23 vs Santa Clara U23",
+                  "streams": [
+                    {
+                      "id": "st-2d9d2bb54e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b23c5e745",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/52143029eff9406585d80f3ddcde20b8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portuguese U23 League",
+            "team_a": "Uniao Leiria U23",
+            "team_b": "Santa Clara U23",
+            "logo_a": "https://img.sports-data.online/football/team/0dcf33de2f32bb2d72fe50250c612c31.png",
+            "logo_b": "https://img.sports-data.online/football/team/e7f496f594add2954bb58b2132e1e788.png",
+            "time": "17:00:00",
+            "date": "06/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjn3jmd7_5bdde06c_20261005.png?v=5bdde06c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
