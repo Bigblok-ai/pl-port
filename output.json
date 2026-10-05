@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-aa5fbee231",
+          "name": "Russia vs Nigeria | 23:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aa5fbee231",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aa5fbee231",
+                  "name": "Russia vs Nigeria",
+                  "streams": [
+                    {
+                      "id": "st-aa5fbee231",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf3ab11360",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d736411cec3a4127905f8e32fc351830/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Russia",
+            "team_b": "Nigeria",
+            "logo_a": "https://img0.aiscore.com/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w80",
+            "time": "23:00:00",
+            "date": "06/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgopv4m0v_26545976_20261005.png?v=26545976",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
