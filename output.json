@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-70bd8ff3f6",
-          "name": "Romania vs Sweden | 01:45 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-70bd8ff3f6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-70bd8ff3f6",
-                  "name": "Romania vs Sweden",
-                  "streams": [
-                    {
-                      "id": "st-70bd8ff3f6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1fb5cfcab0",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9c51707bf2ef4d0e8dbf5b693f5d0bd6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Romania",
-            "team_b": "Sweden",
-            "logo_a": "https://img0.aiscore.com/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/2c0b283b96174c34bff7445f22b00618.png!w80",
-            "time": "01:45:00",
-            "date": "06/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5yyyryo_96e1e379_20261006.png?v=96e1e379",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-18d8b17ac3",
           "name": "Lam Dong vs Song Lam Nghe An | 15:30 06/10",
@@ -215,8 +143,8 @@
             "league": "Portuguese U23 League",
             "team_a": "Uniao Leiria U23",
             "team_b": "Santa Clara U23",
-            "logo_a": "https://img.sports-data.online/football/team/0dcf33de2f32bb2d72fe50250c612c31.png",
-            "logo_b": "https://img.sports-data.online/football/team/e7f496f594add2954bb58b2132e1e788.png",
+            "logo_a": "https://static.flashscore.com/res/image/data/48vqcSjl-4rDTGLzC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/vi4yvYXg-CbNG2cGq.png",
             "time": "17:00:00",
             "date": "06/10",
             "blv": "LÝ LINH LỰC",
@@ -227,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjn3jmd7_5bdde06c_20261006.png?v=5bdde06c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjn3jmd7_c4216b22_20261006.png?v=c4216b22",
             "width": 1600,
             "height": 1200
           }
