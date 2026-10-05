@@ -697,6 +697,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-18d8b17ac3",
+          "name": "Lam Dong vs Song Lam Nghe An | 15:30 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18d8b17ac3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-18d8b17ac3",
+                  "name": "Lam Dong vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "st-18d8b17ac3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8d3b86fd4",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0843059c3a0842e28db6f8c5cddd2227/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Cup",
+            "team_a": "Lam Dong",
+            "team_b": "Song Lam Nghe An",
+            "logo_a": "https://img0.aiscore.com/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80",
+            "time": "15:30:00",
+            "date": "06/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey475r6o_74bce04e_20261005.png?v=74bce04e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
