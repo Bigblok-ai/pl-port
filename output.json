@@ -17,7 +17,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-1545629f67",
+          "id": "pl-df256a349a",
           "name": "Indonesia vs Thailand | 20:00 05/10",
           "type": "single",
           "display": "thumbnail-only",
@@ -32,39 +32,22 @@
           ],
           "sources": [
             {
-              "id": "src-1545629f67",
+              "id": "src-df256a349a",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-1545629f67",
+                  "id": "ct-df256a349a",
                   "name": "Indonesia vs Thailand",
                   "streams": [
                     {
-                      "id": "st-1545629f67",
+                      "id": "st-df256a349a",
                       "name": "PL",
                       "stream_links": [
-                        {
-                          "id": "lnk-cc0380c748",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/644407d51bd14058ace47d6fadbc9b2f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
                         {
                           "id": "lnk-0777ceb107",
                           "name": "LÝ LÀNG LÁ",
                           "type": "hls",
-                          "default": false,
+                          "default": true,
                           "url": "https://pull.digitalcdn.net/live/f192df60960b4e04bc76b483d4b5b6d8/index.m3u8",
                           "request_headers": [
                             {
@@ -100,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv6pdqg8_81b1100e_20261005.png?v=81b1100e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/db6eaaab7fb842fabcddde8357fb58b2_81b1100e_20261005.png?v=81b1100e",
             "width": 1600,
             "height": 1200
           }
