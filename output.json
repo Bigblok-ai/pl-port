@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-0cc12281fa",
-          "name": "China vs Tajikistan | 18:35 06/10",
+          "id": "pl-e358a74156",
+          "name": "Kazakhstan vs Faroe Islands | 21:00 06/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,78 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0cc12281fa",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0cc12281fa",
-                  "name": "China vs Tajikistan",
-                  "streams": [
-                    {
-                      "id": "st-0cc12281fa",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b5fcbe81d",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d52366f317734e1c86f5c4fb9b2a4121/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CFA Team China International Tournament",
-            "team_a": "China",
-            "team_b": "Tajikistan",
-            "logo_a": "https://sta.vnres.co/file/common/20261002/778ebceda2e986f4a9e9387c4220ed9e.png",
-            "logo_b": "https://sta.vnres.co/file/common/20261002/3c368a6f34970d32784f9ed091be2adf.png",
-            "time": "18:35:00",
-            "date": "06/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xlk4moj_9a6b565c_20261006.png?v=9a6b565c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-e358a74156",
-          "name": "Kazakhstan vs Faroe Islands | 21:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "21:00:00",
             "date": "06/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
