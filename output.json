@@ -896,6 +896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-92a0f1be4e",
+          "name": "Gnistan Helsinki vs Inter Turku | 23:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-92a0f1be4e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-92a0f1be4e",
+                  "name": "Gnistan Helsinki vs Inter Turku",
+                  "streams": [
+                    {
+                      "id": "st-92a0f1be4e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6af9b88eaa",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a43eba61462844509002a59adc9cb99f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Finnish Veikkausliiga",
+            "team_a": "Gnistan Helsinki",
+            "team_b": "Inter Turku",
+            "logo_a": "https://img.sports-data.online/football/team/a19ee4a4454087b98d1f2bb9058a337e.png",
+            "logo_b": "https://img.sports-data.online/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png",
+            "time": "23:00:00",
+            "date": "07/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgleylrep_a1a5ecc2_20261006.png?v=a1a5ecc2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
