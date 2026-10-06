@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3cc5d1cb89",
-          "name": "South Korea vs Uzbekistan | 18:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3cc5d1cb89",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3cc5d1cb89",
-                  "name": "South Korea vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "st-3cc5d1cb89",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f03935dcc0",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/eb1651ffb10f4ce7b4f65ed9b94415c0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "South Korea",
-            "team_b": "Uzbekistan",
-            "logo_a": "https://img0.aiscore.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/3016a701d47246f082016705f2f7267c.png!w80",
-            "time": "18:00:00",
-            "date": "06/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy44xgryk_23bba123_20261006.png?v=23bba123",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-03b73a8550",
           "name": "PVF-CAND FC vs Huda Hue | 18:00 06/10",
