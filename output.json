@@ -824,6 +824,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-636f080175",
+          "name": "Neftchi Fergana vs Xorazm Urganch | 21:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-636f080175",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-636f080175",
+                  "name": "Neftchi Fergana vs Xorazm Urganch",
+                  "streams": [
+                    {
+                      "id": "st-636f080175",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4863750b0c",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d76e64e57ae84e8a916cc5932f133cee/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Neftchi Fergana",
+            "team_b": "Xorazm Urganch",
+            "logo_a": "https://img.sports-data.online/football/team/0df54f53d0057c630ead3234b4a68b45.png",
+            "logo_b": "https://img.sports-data.online/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",
+            "time": "21:00:00",
+            "date": "07/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv382pmd7_285d652b_20261006.png?v=285d652b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
