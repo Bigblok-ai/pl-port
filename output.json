@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-18d8b17ac3",
-          "name": "Lam Dong vs Song Lam Nghe An | 15:30 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-18d8b17ac3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-18d8b17ac3",
-                  "name": "Lam Dong vs Song Lam Nghe An",
-                  "streams": [
-                    {
-                      "id": "st-18d8b17ac3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8d3b86fd4",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0843059c3a0842e28db6f8c5cddd2227/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "Lam Dong",
-            "team_b": "Song Lam Nghe An",
-            "logo_a": "https://img0.aiscore.com/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80",
-            "time": "15:30:00",
-            "date": "06/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey475r6o_74bce04e_20261006.png?v=74bce04e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-2d9d2bb54e",
           "name": "Uniao Leiria U23 vs Santa Clara U23 | 17:00 06/10",
           "type": "single",
@@ -377,38 +305,38 @@
           }
         },
         {
-          "id": "pl-63b414d329",
-          "name": "Portugal U19 vs Netherlands U19 | 19:00 06/10",
+          "id": "pl-0cc12281fa",
+          "name": "China vs Tajikistan | 18:35 06/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-63b414d329",
+              "id": "src-0cc12281fa",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-63b414d329",
-                  "name": "Portugal U19 vs Netherlands U19",
+                  "id": "ct-0cc12281fa",
+                  "name": "China vs Tajikistan",
                   "streams": [
                     {
-                      "id": "st-63b414d329",
+                      "id": "st-0cc12281fa",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-4120540f7e",
+                          "id": "lnk-5b5fcbe81d",
                           "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e63dcd761546466ab3830e6a8f613ef9/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/d52366f317734e1c86f5c4fb9b2a4121/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -428,22 +356,22 @@
             }
           ],
           "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Portugal U19",
-            "team_b": "Netherlands U19",
-            "logo_a": "https://img0.aiscore.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
-            "time": "19:00:00",
+            "league": "CFA Team China International Tournament",
+            "team_a": "China",
+            "team_b": "Tajikistan",
+            "logo_a": "https://sta.vnres.co/file/common/20261002/778ebceda2e986f4a9e9387c4220ed9e.png",
+            "logo_b": "https://sta.vnres.co/file/common/20261002/3c368a6f34970d32784f9ed091be2adf.png",
+            "time": "18:35:00",
             "date": "06/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv9oeqg8_1876cb73_20261006.png?v=1876cb73",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xlk4moj_9a6b565c_20261006.png?v=9a6b565c",
             "width": 1600,
             "height": 1200
           }
