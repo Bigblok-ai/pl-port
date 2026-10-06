@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5d5d0f65c0",
-          "name": "Jordan vs Venezuela | 00:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5d5d0f65c0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5d5d0f65c0",
-                  "name": "Jordan vs Venezuela",
-                  "streams": [
-                    {
-                      "id": "st-5d5d0f65c0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a3364f9645",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b9f8f5ef22804a399243a31510314c2f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Jordan",
-            "team_b": "Venezuela",
-            "logo_a": "https://img0.aiscore.com/football/team/92a6308394834fd38eadaf9105c99749.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/961b4c21ddbd460ca700c88d46e0fe3c.png!w80",
-            "time": "00:00:00",
-            "date": "07/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh58xz9ryo_1574dbca_20261007.png?v=1574dbca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4a19c0d94d",
           "name": "England vs Czechia | 01:45 07/10",
