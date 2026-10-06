@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-03b73a8550",
-          "name": "PVF-CAND FC vs Huda Hue | 18:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03b73a8550",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-03b73a8550",
-                  "name": "PVF-CAND FC vs Huda Hue",
-                  "streams": [
-                    {
-                      "id": "st-03b73a8550",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fc87a7f1b8",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/134cdac4755740149e74d42a0c5dc058/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "PVF-CAND FC",
-            "team_b": "Huda Hue",
-            "logo_a": "https://img0.aiscore.com/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg!w80",
-            "time": "18:00:00",
-            "date": "06/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4k2zm2w_ab5b681f_20261006.png?v=ab5b681f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-40102cd3ae",
-          "name": "Truong Tuoi Dong Nai vs Dong Thap | 18:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40102cd3ae",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-40102cd3ae",
-                  "name": "Truong Tuoi Dong Nai vs Dong Thap",
-                  "streams": [
-                    {
-                      "id": "st-40102cd3ae",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-86d6fcbfb7",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d0d4908e42fa44e9b7e97be65ead3c91/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Cup",
-            "team_a": "Truong Tuoi Dong Nai",
-            "team_b": "Dong Thap",
-            "logo_a": "https://img0.aiscore.com/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80",
-            "logo_b": "https://img0.aiscore.com/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80",
-            "time": "18:00:00",
-            "date": "06/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh87lw8qwz_46958b0f_20261006.png?v=46958b0f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0cc12281fa",
           "name": "China vs Tajikistan | 18:35 06/10",
@@ -965,6 +821,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghge8n7q82_f985e8ec_20261006.png?v=f985e8ec",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3592fffc59",
+          "name": "Kuching City FC vs Tampines Rovers FC | 20:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3592fffc59",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3592fffc59",
+                  "name": "Kuching City FC vs Tampines Rovers FC",
+                  "streams": [
+                    {
+                      "id": "st-3592fffc59",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d465b1aa8a",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8d54b971a09348ac8a2db9cff22c4936/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Kuching City FC",
+            "team_b": "Tampines Rovers FC",
+            "logo_a": "https://img.sports-data.online/football/team/81f5727743f8759ae7a99b8d7f2557e3.png",
+            "logo_b": "https://img.sports-data.online/football/team/23dc72567ad2999491dfe56b50f7df62.png",
+            "time": "20:00:00",
+            "date": "07/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9pv8zm7v_eb8f8924_20261006.png?v=eb8f8924",
             "width": 1600,
             "height": 1200
           }
