@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-33855c4baf",
+          "name": "Kawasaki Frontale vs Tegevajaro Miyazaki | 17:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-33855c4baf",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-33855c4baf",
+                  "name": "Kawasaki Frontale vs Tegevajaro Miyazaki",
+                  "streams": [
+                    {
+                      "id": "st-33855c4baf",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b120a8939e",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8bbe0bac1edc4682bb42a72812dc1ece/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese Emperor's Cup",
+            "team_a": "Kawasaki Frontale",
+            "team_b": "Tegevajaro Miyazaki",
+            "logo_a": "https://img.sports-data.online/football/team/937795c0851c1e794e96a5cb660fcd59.png",
+            "logo_b": "https://img.sports-data.online/football/team/d212b444eb151871d8fbbcafa8e36658.png",
+            "time": "17:00:00",
+            "date": "07/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgle3lrep_192ad2bf_20261006.png?v=192ad2bf",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
