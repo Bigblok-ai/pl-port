@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-03b73a8550",
-          "name": "Cong An Ha Noi FC vs Huda Hue | 18:00 06/10",
+          "name": "PVF-CAND FC vs Huda Hue | 18:00 06/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -253,7 +253,7 @@
               "contents": [
                 {
                   "id": "ct-03b73a8550",
-                  "name": "Cong An Ha Noi FC vs Huda Hue",
+                  "name": "PVF-CAND FC vs Huda Hue",
                   "streams": [
                     {
                       "id": "st-03b73a8550",
@@ -285,7 +285,7 @@
           ],
           "org_metadata": {
             "league": "Vietnam National Cup",
-            "team_a": "Cong An Ha Noi FC",
+            "team_a": "PVF-CAND FC",
             "team_b": "Huda Hue",
             "logo_a": "https://img0.aiscore.com/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
             "logo_b": "https://img0.aiscore.com/football/team/d183acf4e1500de34a9bb72ff77f2ecc.jpg!w80",
