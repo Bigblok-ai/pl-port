@@ -591,6 +591,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-84a5fbddb9",
+          "name": "Phong Phu Ha Nam Women vs Ha Noi Women | 16:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-84a5fbddb9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-84a5fbddb9",
+                  "name": "Phong Phu Ha Nam Women vs Ha Noi Women",
+                  "streams": [
+                    {
+                      "id": "st-84a5fbddb9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-380f21c353",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/161b11aecfa344dd808ccbe09cf9b506/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's National League",
+            "team_a": "Phong Phu Ha Nam Women",
+            "team_b": "Ha Noi Women",
+            "logo_a": "https://img.sports-data.online/football/team/2ee0214c45e742b6ae9a1107593918d5.png",
+            "logo_b": "https://img.sports-data.online/football/team/b196a9a7e627dc15cfa96268035c454e.png",
+            "time": "16:00:00",
+            "date": "08/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdn41qo9_061f6773_20261007.png?v=061f6773",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
