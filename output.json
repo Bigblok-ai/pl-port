@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2409470c0a",
+          "name": "Port FC vs Persib Bandung | 19:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2409470c0a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2409470c0a",
+                  "name": "Port FC vs Persib Bandung",
+                  "streams": [
+                    {
+                      "id": "st-2409470c0a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-834da514bd",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/68bf91c5c7da4393a7502041d8b0c843/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Port FC",
+            "team_b": "Persib Bandung",
+            "logo_a": "https://img.sports-data.online/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png",
+            "logo_b": "https://img.sports-data.online/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
+            "time": "19:00:00",
+            "date": "08/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgz7vjr51_5f6971d2_20261007.png?v=5f6971d2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
