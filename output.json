@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-28db41f9a4",
+          "name": "Vietnam U17 Women vs Northern Mariana Island U17 Women | 18:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28db41f9a4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-28db41f9a4",
+                  "name": "Vietnam U17 Women vs Northern Mariana Island U17 Women",
+                  "streams": [
+                    {
+                      "id": "st-28db41f9a4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-36f79d05e0",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b469b86cf4934fcaa9f9da02d226ec64/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC U17 Women's Asian Cup",
+            "team_a": "Vietnam U17 Women",
+            "team_b": "Northern Mariana Island U17 Women",
+            "logo_a": "https://img0.aiscore.com/football/team/a68eee511575e8f28b16f27ff608234a.png!w80",
+            "logo_b": "https://img0.aiscore.com/football/team/e339a1d3cd178c712d5c741739078b27.png!w80",
+            "time": "18:00:00",
+            "date": "08/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh9x9o0qwz_5d085061_20261007.png?v=5d085061",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
