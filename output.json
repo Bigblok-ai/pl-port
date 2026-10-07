@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8c026da851",
+          "name": "Lion City Sailors vs Cong An Ha Noi FC | 18:30 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c026da851",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8c026da851",
+                  "name": "Lion City Sailors vs Cong An Ha Noi FC",
+                  "streams": [
+                    {
+                      "id": "st-8c026da851",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa3a87f885",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1a0c3c1f3a894a729f512fde33a1146d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Lion City Sailors",
+            "team_b": "Cong An Ha Noi FC",
+            "logo_a": "https://img.sports-data.online/football/team/a17724405028a3e21a2a2372736aa757.png",
+            "logo_b": "https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png",
+            "time": "18:30:00",
+            "date": "08/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkd8ekrz8_230abfdf_20261007.png?v=230abfdf",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
