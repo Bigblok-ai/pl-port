@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6a2bdab35c",
+          "name": "HJK Helsinki vs Vaasa VPS | 22:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a2bdab35c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6a2bdab35c",
+                  "name": "HJK Helsinki vs Vaasa VPS",
+                  "streams": [
+                    {
+                      "id": "st-6a2bdab35c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a6f3164f9",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/92c5e65e2b094ee9aabba5319a72aba7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Finnish Veikkausliiga",
+            "team_a": "HJK Helsinki",
+            "team_b": "Vaasa VPS",
+            "logo_a": "https://img.sports-data.online/football/team/fd1a9c51505300dec9c26e5847114851.png",
+            "logo_b": "https://img.sports-data.online/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png",
+            "time": "22:00:00",
+            "date": "08/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxl14zqo9_d0d3c414_20261007.png?v=d0d3c414",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
