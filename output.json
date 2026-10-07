@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3592fffc59",
-          "name": "Kuching City FC vs Tampines Rovers FC | 20:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3592fffc59",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3592fffc59",
-                  "name": "Kuching City FC vs Tampines Rovers FC",
-                  "streams": [
-                    {
-                      "id": "st-3592fffc59",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d465b1aa8a",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8d54b971a09348ac8a2db9cff22c4936/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asean Club Championship Shopee Cup",
-            "team_a": "Kuching City FC",
-            "team_b": "Tampines Rovers FC",
-            "logo_a": "https://img.sports-data.online/football/team/81f5727743f8759ae7a99b8d7f2557e3.png",
-            "logo_b": "https://img.sports-data.online/football/team/23dc72567ad2999491dfe56b50f7df62.png",
-            "time": "20:00:00",
-            "date": "07/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9pv8zm7v_eb8f8924_20261007.png?v=eb8f8924",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-636f080175",
           "name": "Neftchi Fergana vs Xorazm Urganch | 21:00 07/10",
