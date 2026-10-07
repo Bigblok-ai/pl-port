@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-68cea66789",
-          "name": "Sanfrecce Hiroshima vs Iwaki FC | 16:30 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-68cea66789",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-68cea66789",
-                  "name": "Sanfrecce Hiroshima vs Iwaki FC",
-                  "streams": [
-                    {
-                      "id": "st-68cea66789",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af30aa44e8",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4d78e3263f4547e5a8ea6972189b0730/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese Emperor's Cup",
-            "team_a": "Sanfrecce Hiroshima",
-            "team_b": "Iwaki FC",
-            "logo_a": "https://img.sports-data.online/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
-            "logo_b": "https://img.sports-data.online/football/team/fe52c67f0590ffcce6879aebfd39f165.png",
-            "time": "16:30:00",
-            "date": "07/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl6x14moe_b3e65fb8_20261007.png?v=b3e65fb8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-33855c4baf",
           "name": "Kawasaki Frontale vs Tegevajaro Miyazaki | 17:00 07/10",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "19:00:00",
             "date": "07/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "19:00:00",
             "date": "07/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
