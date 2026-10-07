@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-de62bef28b",
+          "name": "CFR Cluj vs FC Universitatea Cluj | 00:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-de62bef28b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-de62bef28b",
+                  "name": "CFR Cluj vs FC Universitatea Cluj",
+                  "streams": [
+                    {
+                      "id": "st-de62bef28b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e90ad9010",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6eafa903661843e0a8517ec664343993/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Super Liga",
+            "team_a": "CFR Cluj",
+            "team_b": "FC Universitatea Cluj",
+            "logo_a": "https://img.sports-data.online/football/team/6f927eb040bdd5c972a9343fd9c8b873.png",
+            "logo_b": "https://img.sports-data.online/football/team/74c37787bcf9656e1372913981f69859.png",
+            "time": "00:30:00",
+            "date": "09/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6379r6o_95373658_20261008.png?v=95373658",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
