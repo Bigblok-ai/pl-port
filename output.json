@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-e2c2e4fb7a",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-787ca7b017",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/d29b3ffef2a842308918ee86c0a80b38/index.m3u8",
@@ -363,8 +363,8 @@
             "logo_b": "https://img.sports-data.online/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png",
             "time": "20:10:00",
             "date": "08/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "blv": "LÝ LINH LỰC",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -404,8 +404,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-4a6f3164f9",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-32e63965ca",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/92c5e65e2b094ee9aabba5319a72aba7/index.m3u8",
@@ -435,7 +435,7 @@
             "logo_b": "https://img.sports-data.online/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png",
             "time": "22:00:00",
             "date": "08/10",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
           },
