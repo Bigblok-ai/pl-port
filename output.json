@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-cade2ca411",
+          "name": "Borussia Dortmund vs SV Werder Bremen | 01:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cade2ca411",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cade2ca411",
+                  "name": "Borussia Dortmund vs SV Werder Bremen",
+                  "streams": [
+                    {
+                      "id": "st-cade2ca411",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f6a7d860a",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/25af3d1f6bb44a54a1485a07f2e08635/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Borussia Dortmund",
+            "team_b": "SV Werder Bremen",
+            "logo_a": "https://img.sports-data.online/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
+            "logo_b": "https://img.sports-data.online/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png",
+            "time": "01:30:00",
+            "date": "10/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4654lr8k_6ae2770d_20261009.png?v=6ae2770d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
