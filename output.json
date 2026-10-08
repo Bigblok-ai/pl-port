@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7051f0d569",
+          "name": "West Ham United vs Queens Park Rangers | 02:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7051f0d569",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7051f0d569",
+                  "name": "West Ham United vs Queens Park Rangers",
+                  "streams": [
+                    {
+                      "id": "st-7051f0d569",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b6251a43ca",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/79cdcb5379a847ad8cab452161debf01/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Championship",
+            "team_a": "West Ham United",
+            "team_b": "Queens Park Rangers",
+            "logo_a": "https://img.sports-data.online/football/team/d71ebda5c7fbca9093a1c2978c46f619.png",
+            "logo_b": "https://img.sports-data.online/football/team/701e0713c180fa36266b425447d2f9c0.png",
+            "time": "02:00:00",
+            "date": "10/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyo167ryk_87475964_20261009.png?v=87475964",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
