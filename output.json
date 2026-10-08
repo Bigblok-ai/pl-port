@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "19:00:00",
             "date": "08/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -804,6 +804,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6z8wgqg8_df15a06d_20261008.png?v=df15a06d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-086801ef04",
+          "name": "Qingdao Hainiu vs Beijing Guoan | 18:35 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-086801ef04",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-086801ef04",
+                  "name": "Qingdao Hainiu vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "st-086801ef04",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a0a1d2c725",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/42bbba643b7b4b0e9ebd72e279f86036/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Qingdao Hainiu",
+            "team_b": "Beijing Guoan",
+            "logo_a": "https://img.sports-data.online/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",
+            "logo_b": "https://img.sports-data.online/football/team/e7af298237651113dfeafc32ff734a24.png",
+            "time": "18:35:00",
+            "date": "09/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvvnnvmd7_18f56000_20261008.png?v=18f56000",
             "width": 1600,
             "height": 1200
           }
