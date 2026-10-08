@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5309bf8da9",
+          "name": "Persatuan sepak bola Indonesia Kediri vs Madura United | 15:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5309bf8da9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5309bf8da9",
+                  "name": "Persatuan sepak bola Indonesia Kediri vs Madura United",
+                  "streams": [
+                    {
+                      "id": "st-5309bf8da9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0ef7db6e3f",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/023fb034a2ee4bfa92c89cd77ee43339/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indonesian Super League",
+            "team_a": "Persatuan sepak bola Indonesia Kediri",
+            "team_b": "Madura United",
+            "logo_a": "https://img.sports-data.online/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png",
+            "logo_b": "https://img.sports-data.online/football/team/320ff18ba51acdf34c92311dec8186a7.png",
+            "time": "15:30:00",
+            "date": "09/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnog2xqvy_633e3948_20261008.png?v=633e3948",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
