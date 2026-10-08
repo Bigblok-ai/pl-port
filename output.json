@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-405ba8e8c4",
-          "name": "KuPs vs AC Oulu | 23:00 08/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-405ba8e8c4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-405ba8e8c4",
-                  "name": "KuPs vs AC Oulu",
-                  "streams": [
-                    {
-                      "id": "st-405ba8e8c4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9e1ddf5bd",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3ce29d5a046544218962a0c6ef3b88f9/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Finnish Veikkausliiga",
-            "team_a": "KuPs",
-            "team_b": "AC Oulu",
-            "logo_a": "https://img.sports-data.online/football/team/1fced0158de1169e9bc3209f4ab98e84.png",
-            "logo_b": "https://img.sports-data.online/football/team/348fa7d49029584354427690fe88f874.png",
-            "time": "23:00:00",
-            "date": "08/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl6x34moe_cb60454b_20261009.png?v=cb60454b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-de62bef28b",
           "name": "CFR Cluj vs FC Universitatea Cluj | 00:30 09/10",
