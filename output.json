@@ -1023,6 +1023,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5534a32c63",
+          "name": "FC Augsburg vs FC Bayern Munich | 20:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5534a32c63",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5534a32c63",
+                  "name": "FC Augsburg vs FC Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-5534a32c63",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3435f9622",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/dbd491bed1fc4f108c3282d0e8923599/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "FC Augsburg",
+            "team_b": "FC Bayern Munich",
+            "logo_a": "https://img.sports-data.online/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png",
+            "logo_b": "https://img.sports-data.online/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
+            "time": "20:30:00",
+            "date": "10/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5ln2qdy_8830acf6_20261009.png?v=8830acf6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d3c58d8cb3",
+          "name": "1. FSV Mainz 05 vs Bayer 04 Leverkusen | 20:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d3c58d8cb3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d3c58d8cb3",
+                  "name": "1. FSV Mainz 05 vs Bayer 04 Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-d3c58d8cb3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d8fa283d2",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b8793d2c12bb4823be9733b8ef7f75d2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "1. FSV Mainz 05",
+            "team_b": "Bayer 04 Leverkusen",
+            "logo_a": "https://img.sports-data.online/football/team/25df2ab8d6c975b4218480a23ace9285.png",
+            "logo_b": "https://img.sports-data.online/football/team/f15ae3ec9b2d7888180a6c8cf4b137e8.png",
+            "time": "20:30:00",
+            "date": "10/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k08vqwz_a71310af_20261009.png?v=a71310af",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
