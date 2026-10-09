@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p4l5m7v_072744a9_20261009.png?v=072744a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-ce1f247b70",
-          "name": "Kashima Antlers vs Gamba Osaka | 17:00 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ce1f247b70",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ce1f247b70",
-                  "name": "Kashima Antlers vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "st-ce1f247b70",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5f48e1fa5",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d1d083087c9a4c138930b4e7faf786b3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kashima Antlers",
-            "team_b": "Gamba Osaka",
-            "logo_a": "https://img.sports-data.online/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
-            "logo_b": "https://img.sports-data.online/football/team/91008a96b5de8c75376d17057f89890e.png",
-            "time": "17:00:00",
-            "date": "09/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6z8wgqg8_df15a06d_20261009.png?v=df15a06d",
             "width": 1600,
             "height": 1200
           }
