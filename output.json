@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-699670aa0d",
-          "name": "Kashiwa Reysol vs Vissel Kobe | 17:00 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-699670aa0d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-699670aa0d",
-                  "name": "Kashiwa Reysol vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "st-699670aa0d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b89d3a5379",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7d560d4e78fc47488f6ed4c0746b01e0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kashiwa Reysol",
-            "team_b": "Vissel Kobe",
-            "logo_a": "https://img.sports-data.online/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
-            "logo_b": "https://img.sports-data.online/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-            "time": "17:00:00",
-            "date": "09/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p4l5m7v_072744a9_20261009.png?v=072744a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-086801ef04",
           "name": "Qingdao Hainiu vs Beijing Guoan | 18:35 09/10",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "20:50:00",
             "date": "09/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
