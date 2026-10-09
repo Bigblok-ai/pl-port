@@ -1464,6 +1464,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4f74e43eca",
+          "name": "Novara Nữ vs Bergamo Nữ | 23:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4f74e43eca",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4f74e43eca",
+                  "name": "Novara Nữ vs Bergamo Nữ",
+                  "streams": [
+                    {
+                      "id": "st-4f74e43eca",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-614f947c91",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4f022404211c4980955d1e48f3a2e856/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Novara Nữ",
+            "team_b": "Bergamo Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/d0ad50ec4ff54c286d5701d818730b97.png!w60",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/f6aa304d2393655042a33474b0305617.png!w30",
+            "time": "23:00:00",
+            "date": "11/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d50910f5cc944ceab3a5a397ee86e48_5b42a53a_20261009.png?v=5b42a53a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
