@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4a2dda19a6",
-          "name": "Galatasaray vs Kasimpasa | 00:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a2dda19a6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4a2dda19a6",
-                  "name": "Galatasaray vs Kasimpasa",
-                  "streams": [
-                    {
-                      "id": "st-4a2dda19a6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e98af39244",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/32612a78a786455190219d0660f1b6d6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Super League",
-            "team_a": "Galatasaray",
-            "team_b": "Kasimpasa",
-            "logo_a": "https://img.sports-data.online/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png",
-            "logo_b": "https://img.sports-data.online/football/team/483f6ade158f44eb24849b6076377355.png",
-            "time": "00:00:00",
-            "date": "10/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgw29jr51_8a38116e_20261010.png?v=8a38116e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-de7acea7e9",
           "name": "Al Nassr vs Diraiyah | 01:00 10/10",
