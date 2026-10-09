@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c420ef304e",
-          "name": "Al Fateh vs Al Ahli SC | 21:55 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c420ef304e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c420ef304e",
-                  "name": "Al Fateh vs Al Ahli SC",
-                  "streams": [
-                    {
-                      "id": "st-c420ef304e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-810a1184c6",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/97067ce9d06c44aebade16273dda11d6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Fateh",
-            "team_b": "Al Ahli SC",
-            "logo_a": "https://img.sports-data.online/football/team/ae23ea18931ebe834ef6fe4799572e7f.png",
-            "logo_b": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
-            "time": "21:55:00",
-            "date": "09/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph41j8nr8k_e9eeaa5d_20261009.png?v=e9eeaa5d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-585cc760ff",
           "name": "Eintracht Braunschweig vs Holstein Kiel | 23:30 09/10",
