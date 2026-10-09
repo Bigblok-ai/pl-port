@@ -1167,6 +1167,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f635066f29",
+          "name": "Inter Milan vs Parma | 23:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f635066f29",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f635066f29",
+                  "name": "Inter Milan vs Parma",
+                  "streams": [
+                    {
+                      "id": "st-f635066f29",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fff49bc863",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/142eede91427476b8d9a230ea52f6c42/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Inter Milan",
+            "team_b": "Parma",
+            "logo_a": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
+            "logo_b": "https://img.sports-data.online/football/team/9fadd87d190982c8082dddf1567e0b9b.png",
+            "time": "23:00:00",
+            "date": "10/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnd4ddm0v_ae55bf46_20261009.png?v=ae55bf46",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
