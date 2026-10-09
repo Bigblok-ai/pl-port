@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ba13f752cd",
+          "name": "Hoang Anh Gia Lai vs SHB Da Nang | 17:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba13f752cd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ba13f752cd",
+                  "name": "Hoang Anh Gia Lai vs SHB Da Nang",
+                  "streams": [
+                    {
+                      "id": "st-ba13f752cd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4ce8d7be8f",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2521d4ae795c4bd59f5445d53d46c71d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hoang Anh Gia Lai",
+            "team_b": "SHB Da Nang",
+            "logo_a": "https://img.sports-data.online/football/team/df2ae58b9e658494b940b0bd782901b8.png",
+            "logo_b": "https://img.sports-data.online/football/team/9eec5ce9b0aa3a7010cf0de17509948a.png",
+            "time": "17:00:00",
+            "date": "10/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5lxv7ql0_745f2c91_20261009.png?v=745f2c91",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
