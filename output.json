@@ -1320,6 +1320,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f5a30e7a99",
+          "name": "Conegliano Nữ vs UYBA Busto Arsizio Nữ | 01:30 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f5a30e7a99",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f5a30e7a99",
+                  "name": "Conegliano Nữ vs UYBA Busto Arsizio Nữ",
+                  "streams": [
+                    {
+                      "id": "st-f5a30e7a99",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3691ae5ef3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d4c1b0424d174dc9b80f5a132182b935/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Conegliano Nữ",
+            "team_b": "UYBA Busto Arsizio Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b3bcdb0236b8f0a249ad08f13f717dbc.png!w30",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/63079acf375b478671e2c7a788777f87.png!w30",
+            "time": "01:30:00",
+            "date": "11/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/19bfaa19eb8542a5aaf9540d09bea86f_0d4ceb09_20261009.png?v=0d4ceb09",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
