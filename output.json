@@ -1239,6 +1239,239 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e74c4ff6e0",
+          "name": "Manchester United vs Tottenham Hotspur | 23:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e74c4ff6e0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e74c4ff6e0",
+                  "name": "Manchester United vs Tottenham Hotspur",
+                  "streams": [
+                    {
+                      "id": "st-e74c4ff6e0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b9ac93dc0",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bdf8aa61bac24422b1ef9319e7e314ba/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c801fa588f",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/ff831873c9e14649b729ce51bbab442c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Manchester United",
+            "team_b": "Tottenham Hotspur",
+            "logo_a": "https://img.sports-data.online/football/team/d39ce586fd7278342dde33b3090b3f75.png",
+            "logo_b": "https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png",
+            "time": "23:30:00",
+            "date": "10/10",
+            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9xn5r1g_7b354a58_20261009.png?v=7b354a58",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b34e6e8dbd",
+          "name": "FC Barcelona vs Getafe | 23:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b34e6e8dbd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b34e6e8dbd",
+                  "name": "FC Barcelona vs Getafe",
+                  "streams": [
+                    {
+                      "id": "st-b34e6e8dbd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1468eec54b",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/404ef1c12a874532b903607950f92c98/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "FC Barcelona",
+            "team_b": "Getafe",
+            "logo_a": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+            "logo_b": "https://img.sports-data.online/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
+            "time": "23:30:00",
+            "date": "10/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4e97ryo_688391f4_20261009.png?v=688391f4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-22112d69d6",
+          "name": "RB Leipzig vs Eintracht Frankfurt | 23:30 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22112d69d6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-22112d69d6",
+                  "name": "RB Leipzig vs Eintracht Frankfurt",
+                  "streams": [
+                    {
+                      "id": "st-22112d69d6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2191d1be39",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/83a204b1fbf849a594f40c15d0231779/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "RB Leipzig",
+            "team_b": "Eintracht Frankfurt",
+            "logo_a": "https://img.sports-data.online/football/team/c166a220bf20977df2bd82fc067696f5.png",
+            "logo_b": "https://img.sports-data.online/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",
+            "time": "23:30:00",
+            "date": "10/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgkeggr51_e718581b_20261009.png?v=e718581b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
