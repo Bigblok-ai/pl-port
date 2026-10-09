@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "02:00:00",
             "date": "10/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1325,6 +1325,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgkeggr51_e718581b_20261010.png?v=e718581b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-be8140070a",
+          "name": "Napoli vs Frosinone | 01:45 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-be8140070a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-be8140070a",
+                  "name": "Napoli vs Frosinone",
+                  "streams": [
+                    {
+                      "id": "st-be8140070a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de21d7a681",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b44d7279228d49c79fcfb71177ff2426/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Napoli",
+            "team_b": "Frosinone",
+            "logo_a": "https://img.sports-data.online/football/team/37ed13d27edccd30e053167962c02b3a.png",
+            "logo_b": "https://img.sports-data.online/football/team/93c278d5d8d1d5e2d390ff686359963d.png",
+            "time": "01:45:00",
+            "date": "11/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1j7ozq0j_b5f443dd_20261010.png?v=b5f443dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5953ecebe5",
+          "name": "Paris Saint Germain vs Le Mans | 01:45 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5953ecebe5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5953ecebe5",
+                  "name": "Paris Saint Germain vs Le Mans",
+                  "streams": [
+                    {
+                      "id": "st-5953ecebe5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9823c81a07",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/dc7970dff7f14a9cac09060d7fdf23d2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Le Mans",
+            "logo_a": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
+            "logo_b": "https://img.sports-data.online/football/team/5de17e3d35ef312559baf1f8c0b0b585.png",
+            "time": "01:45:00",
+            "date": "11/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9evkr1g_b67f21f0_20261010.png?v=b67f21f0",
             "width": 1600,
             "height": 1200
           }
