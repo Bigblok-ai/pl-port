@@ -879,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8c52acf431",
+          "name": "XM Hai Phong FC vs CLB Thanh Hoa | 18:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c52acf431",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8c52acf431",
+                  "name": "XM Hai Phong FC vs CLB Thanh Hoa",
+                  "streams": [
+                    {
+                      "id": "st-8c52acf431",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e175280e0",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d314da97e47d42aca6354ae04127e4a1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "XM Hai Phong FC",
+            "team_b": "CLB Thanh Hoa",
+            "logo_a": "https://img.sports-data.online/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png",
+            "logo_b": "https://img.sports-data.online/football/team/56ce2ac5d2d7477de4df40e27bcdfd7b.png",
+            "time": "18:00:00",
+            "date": "10/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxekdmd7_97e51fb3_20261009.png?v=97e51fb3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-71f3994125",
+          "name": "Thep Xanh Nam Dinh FC vs Ninh Binh FC | 18:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-71f3994125",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-71f3994125",
+                  "name": "Thep Xanh Nam Dinh FC vs Ninh Binh FC",
+                  "streams": [
+                    {
+                      "id": "st-71f3994125",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2fbc5c422f",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4f40d156ca9e4883803e53d426d875a2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Thep Xanh Nam Dinh FC",
+            "team_b": "Ninh Binh FC",
+            "logo_a": "https://img.sports-data.online/football/team/bc5db4dd418cb566a4475649876b55bb.png",
+            "logo_b": "https://img.sports-data.online/football/team/5452226660be0829fdb40967dd4b0b77.png",
+            "time": "18:00:00",
+            "date": "10/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1nxy6q0j_d780d892_20261009.png?v=d780d892",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
