@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-de7acea7e9",
-          "name": "Al Nassr vs Diraiyah | 01:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-de7acea7e9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-de7acea7e9",
-                  "name": "Al Nassr vs Diraiyah",
-                  "streams": [
-                    {
-                      "id": "st-de7acea7e9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9dbf68722a",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ae308669ee1942a1a20967cb32d74f79/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Nassr",
-            "team_b": "Diraiyah",
-            "logo_a": "https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png",
-            "logo_b": "https://img.sports-data.online/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png",
-            "time": "01:00:00",
-            "date": "10/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1pj44q0j_542f3e52_20261010.png?v=542f3e52",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-cade2ca411",
           "name": "Borussia Dortmund vs SV Werder Bremen | 01:30 10/10",
