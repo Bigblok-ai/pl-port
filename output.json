@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-14eab4cf9b",
-          "name": "Zhejiang Professional FC vs Shanghai Port | 19:00 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14eab4cf9b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-14eab4cf9b",
-                  "name": "Zhejiang Professional FC vs Shanghai Port",
-                  "streams": [
-                    {
-                      "id": "st-14eab4cf9b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5781ae6354",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9a78763306d8488a96bb27de33953aa8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Zhejiang Professional FC",
-            "team_b": "Shanghai Port",
-            "logo_a": "https://img.sports-data.online/football/team/cc1aef5e69e8d01ba3d3712f24040347.png",
-            "logo_b": "https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png",
-            "time": "19:00:00",
-            "date": "09/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h66ll9q86_5ec27695_20261009.png?v=5ec27695",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a1f07bce6f",
           "name": "Al Kholood vs Al Qadsiah | 20:50 09/10",
