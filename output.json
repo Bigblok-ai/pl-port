@@ -1095,6 +1095,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0e35f98c6d",
+          "name": "Sunderland vs Brighton Hove Albion | 21:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0e35f98c6d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0e35f98c6d",
+                  "name": "Sunderland vs Brighton Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-0e35f98c6d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c67c603d51",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6d2fce7d3a9e441b8a39bed917f68e2c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Sunderland",
+            "team_b": "Brighton Hove Albion",
+            "logo_a": "https://img.sports-data.online/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
+            "logo_b": "https://img.sports-data.online/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
+            "time": "21:00:00",
+            "date": "10/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdpjwqo9_58cb1074_20261009.png?v=58cb1074",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5afa9fff22",
+          "name": "Chelsea vs Bournemouth AFC | 21:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5afa9fff22",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5afa9fff22",
+                  "name": "Chelsea vs Bournemouth AFC",
+                  "streams": [
+                    {
+                      "id": "st-5afa9fff22",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e227aa696",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9a8c3f1b6fe14574a3ce83cc0451b681/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Chelsea",
+            "team_b": "Bournemouth AFC",
+            "logo_a": "https://img.sports-data.online/football/team/a0cf8f551e9440acb3f4ff533dcc58a4.png",
+            "logo_b": "https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png",
+            "time": "21:00:00",
+            "date": "10/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5ydqdy_d629160e_20261009.png?v=d629160e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fbdfd591bb",
+          "name": "Aston Villa vs Brentford | 21:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbdfd591bb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fbdfd591bb",
+                  "name": "Aston Villa vs Brentford",
+                  "streams": [
+                    {
+                      "id": "st-fbdfd591bb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-38fd015e99",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c4dc693e58bf459fbfa004af832dcb12/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Aston Villa",
+            "team_b": "Brentford",
+            "logo_a": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
+            "logo_b": "https://img.sports-data.online/football/team/60f1c7788be3148a370dbf59f914abfe.png",
+            "time": "21:00:00",
+            "date": "10/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvdowjmd7_53f5c2aa_20261009.png?v=53f5c2aa",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
