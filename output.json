@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-0e35f98c6d",
-          "name": "Sunderland vs Brighton Hove Albion | 21:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e35f98c6d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0e35f98c6d",
-                  "name": "Sunderland vs Brighton Hove Albion",
-                  "streams": [
-                    {
-                      "id": "st-0e35f98c6d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c67c603d51",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6d2fce7d3a9e441b8a39bed917f68e2c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Sunderland",
-            "team_b": "Brighton Hove Albion",
-            "logo_a": "https://img.sports-data.online/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "logo_b": "https://img.sports-data.online/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
-            "time": "21:00:00",
-            "date": "10/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdpjwqo9_58cb1074_20261010.png?v=58cb1074",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-f635066f29",
           "name": "Inter Milan vs Parma | 23:00 10/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -237,7 +165,7 @@
             "time": "23:30:00",
             "date": "10/10",
             "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
