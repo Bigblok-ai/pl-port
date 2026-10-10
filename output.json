@@ -1256,6 +1256,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-aeabf6531f",
+          "name": "Como vs AS Roma | 17:30 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aeabf6531f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aeabf6531f",
+                  "name": "Como vs AS Roma",
+                  "streams": [
+                    {
+                      "id": "st-aeabf6531f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-85ff0a6274",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/871664e8f87a4116b600eea4cc2582d1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Como",
+            "team_b": "AS Roma",
+            "logo_a": "https://img.sports-data.online/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",
+            "logo_b": "https://img.sports-data.online/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png",
+            "time": "17:30:00",
+            "date": "11/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8gheo47wr6o_7c6fe4d3_20261010.png?v=7c6fe4d3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
