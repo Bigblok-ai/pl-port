@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f635066f29",
-          "name": "Inter Milan vs Parma | 23:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f635066f29",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f635066f29",
-                  "name": "Inter Milan vs Parma",
-                  "streams": [
-                    {
-                      "id": "st-f635066f29",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fff49bc863",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/142eede91427476b8d9a230ea52f6c42/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Inter Milan",
-            "team_b": "Parma",
-            "logo_a": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
-            "logo_b": "https://img.sports-data.online/football/team/9fadd87d190982c8082dddf1567e0b9b.png",
-            "time": "23:00:00",
-            "date": "10/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnd4ddm0v_ae55bf46_20261011.png?v=ae55bf46",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e74c4ff6e0",
           "name": "Manchester United vs Tottenham Hotspur | 23:30 10/10",
@@ -1270,6 +1198,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg9174q82_aad2d90a_20261011.png?v=aad2d90a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-41b0f07cd9",
+          "name": "Al Shabab vs Al Taawoun | 01:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41b0f07cd9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-41b0f07cd9",
+                  "name": "Al Shabab vs Al Taawoun",
+                  "streams": [
+                    {
+                      "id": "st-41b0f07cd9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a376e1bbe3",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5442d2c972e4415e8f7db553ad02e1e8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Shabab",
+            "team_b": "Al Taawoun",
+            "logo_a": "https://img.sports-data.online/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",
+            "logo_b": "https://img.sports-data.online/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+            "time": "01:00:00",
+            "date": "12/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv9dn7md7_9e043067_20261011.png?v=9e043067",
             "width": 1600,
             "height": 1200
           }
