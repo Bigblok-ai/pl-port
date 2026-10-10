@@ -1040,6 +1040,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8a906ab6e7",
+          "name": "Cagliari vs Juventus | 01:45 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8a906ab6e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8a906ab6e7",
+                  "name": "Cagliari vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-8a906ab6e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c9e0392d87",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f973dd3d8ace4a5c9b0bbd3ef5d41315/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Cagliari",
+            "team_b": "Juventus",
+            "logo_a": "https://img.sports-data.online/football/team/dba65c184e03c860ed919ce192b86c5e.png",
+            "logo_b": "https://img.sports-data.online/football/team/dc0e43b95c6676c54415bac168472aa4.png",
+            "time": "01:45:00",
+            "date": "12/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d3opql0_251a39ca_20261011.png?v=251a39ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a27c317ec1",
+          "name": "Troyes vs Marseille | 01:45 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a27c317ec1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a27c317ec1",
+                  "name": "Troyes vs Marseille",
+                  "streams": [
+                    {
+                      "id": "st-a27c317ec1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f944c5468",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4a4b13a95d8b4120a6b394fd756c9ca3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Troyes",
+            "team_b": "Marseille",
+            "logo_a": "https://img.sports-data.online/football/team/951a522c131e8d2a0a32185858ba6300.png",
+            "logo_b": "https://img.sports-data.online/football/team/0dc4b45524350a50a4d3276a2525693f.png",
+            "time": "01:45:00",
+            "date": "12/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgdokerep_32c6f2a1_20261011.png?v=32c6f2a1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
