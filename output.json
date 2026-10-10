@@ -1328,6 +1328,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-90ac7bc46d",
+          "name": "Real Sociedad vs RC Deportivo | 21:15 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-90ac7bc46d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-90ac7bc46d",
+                  "name": "Real Sociedad vs RC Deportivo",
+                  "streams": [
+                    {
+                      "id": "st-90ac7bc46d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a844c09f5",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9efb796a4bb343c4b2b33c1c8178b7d9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Sociedad",
+            "team_b": "RC Deportivo",
+            "logo_a": "https://img.sports-data.online/football/team/579db6e95905545973035e6eab8df2cd.png",
+            "logo_b": "https://img.sports-data.online/football/team/d7f9ac6cceee4a1d472eea59be7f8581.png",
+            "time": "21:15:00",
+            "date": "11/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk165r51_4e37c5a9_20261010.png?v=4e37c5a9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
