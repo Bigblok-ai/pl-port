@@ -1201,6 +1201,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-237fe9c743",
+          "name": "Real Betis vs CA Osasuna | 23:30 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-237fe9c743",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-237fe9c743",
+                  "name": "Real Betis vs CA Osasuna",
+                  "streams": [
+                    {
+                      "id": "st-237fe9c743",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7d835dd5f",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cd4729482a994ce1a93b6e17f9c6c3ec/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Betis",
+            "team_b": "CA Osasuna",
+            "logo_a": "https://img.sports-data.online/football/team/018e260ad68bdad741c61e3171c4c608.png",
+            "logo_b": "https://img.sports-data.online/football/team/c2050b940076df70b2ad0a6103c50df4.png",
+            "time": "23:30:00",
+            "date": "11/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg9174q82_aad2d90a_20261010.png?v=aad2d90a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
