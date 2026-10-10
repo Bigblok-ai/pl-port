@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-8c52acf431",
-          "name": "XM Hai Phong FC vs CLB Thanh Hoa | 18:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8c52acf431",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8c52acf431",
-                  "name": "XM Hai Phong FC vs CLB Thanh Hoa",
-                  "streams": [
-                    {
-                      "id": "st-8c52acf431",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8e175280e0",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d314da97e47d42aca6354ae04127e4a1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "XM Hai Phong FC",
-            "team_b": "CLB Thanh Hoa",
-            "logo_a": "https://img.sports-data.online/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png",
-            "logo_b": "https://img.sports-data.online/football/team/56ce2ac5d2d7477de4df40e27bcdfd7b.png",
-            "time": "18:00:00",
-            "date": "10/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxekdmd7_97e51fb3_20261010.png?v=97e51fb3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-71f3994125",
-          "name": "Thep Xanh Nam Dinh FC vs Ninh Binh FC | 18:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-71f3994125",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-71f3994125",
-                  "name": "Thep Xanh Nam Dinh FC vs Ninh Binh FC",
-                  "streams": [
-                    {
-                      "id": "st-71f3994125",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2fbc5c422f",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4f40d156ca9e4883803e53d426d875a2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Thep Xanh Nam Dinh FC",
-            "team_b": "Ninh Binh FC",
-            "logo_a": "https://img.sports-data.online/football/team/bc5db4dd418cb566a4475649876b55bb.png",
-            "logo_b": "https://img.sports-data.online/football/team/5452226660be0829fdb40967dd4b0b77.png",
-            "time": "18:00:00",
-            "date": "10/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1nxy6q0j_d780d892_20261010.png?v=d780d892",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f6f1382f48",
           "name": "Arsenal vs Leeds United | 18:30 10/10",
@@ -233,8 +89,8 @@
           }
         },
         {
-          "id": "pl-7c16af272c",
-          "name": "Rayo Vallecano vs Athletic Club | 19:00 10/10",
+          "id": "pl-5534a32c63",
+          "name": "FC Augsburg vs FC Bayern Munich | 20:30 10/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -244,78 +100,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7c16af272c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7c16af272c",
-                  "name": "Rayo Vallecano vs Athletic Club",
-                  "streams": [
-                    {
-                      "id": "st-7c16af272c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dba59d5ebb",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8b9c6bec5ac04dc1a70872046db47911/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Rayo Vallecano",
-            "team_b": "Athletic Club",
-            "logo_a": "https://img.sports-data.online/football/team/5005d8feab109ce64e40beb98073cc1f.png",
-            "logo_b": "https://img.sports-data.online/football/team/abbb31d42c55612737713aac6567a226.png",
-            "time": "19:00:00",
-            "date": "10/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6n9enq86_bcf307de_20261010.png?v=bcf307de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-5534a32c63",
-          "name": "FC Augsburg vs FC Bayern Munich | 20:30 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -364,7 +148,7 @@
             "time": "20:30:00",
             "date": "10/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +220,7 @@
             "time": "20:30:00",
             "date": "10/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1397,6 +1181,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh90e1lm7v_b0e90f63_20261010.png?v=b0e90f63",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-60446fbcf6",
+          "name": "Hull City vs Everton | 20:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60446fbcf6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-60446fbcf6",
+                  "name": "Hull City vs Everton",
+                  "streams": [
+                    {
+                      "id": "st-60446fbcf6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-225f25a092",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5873f0af18484edf967dfa33ad70b5d8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Hull City",
+            "team_b": "Everton",
+            "logo_a": "https://img.sports-data.online/football/team/262691204102d2200797f0ac34efb316.png",
+            "logo_b": "https://img.sports-data.online/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png",
+            "time": "20:00:00",
+            "date": "11/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6zj4kqg8_31bacea2_20261010.png?v=31bacea2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-09fd473b6a",
+          "name": "Lazio vs Monza | 20:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-09fd473b6a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-09fd473b6a",
+                  "name": "Lazio vs Monza",
+                  "streams": [
+                    {
+                      "id": "st-09fd473b6a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-134f54ca00",
+                          "name": "NHÀ ĐÀI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Lazio",
+            "team_b": "Monza",
+            "logo_a": "https://img.sports-data.online/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
+            "logo_b": "https://img.sports-data.online/football/team/18ccab720cfda6be0c39fef579c13c5a.png",
+            "time": "20:00:00",
+            "date": "11/10",
+            "blv": "NHÀ ĐÀI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnd4jdm0v_c8008f64_20261010.png?v=c8008f64",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e0f84bc783",
+          "name": "Crystal Palace vs Nottingham Forest | 20:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e0f84bc783",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e0f84bc783",
+                  "name": "Crystal Palace vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "st-e0f84bc783",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3ef290235",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8b462c6fc93d4f009afcb417f6e1a3ca/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Crystal Palace",
+            "team_b": "Nottingham Forest",
+            "logo_a": "https://img.sports-data.online/football/team/42396d18444156e640c37476c2b41b93.png",
+            "logo_b": "https://img.sports-data.online/football/team/62572999d107f777efa4aeb907443527.png",
+            "time": "20:00:00",
+            "date": "11/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dkg4qwz_d9996b43_20261010.png?v=d9996b43",
             "width": 1600,
             "height": 1200
           }
