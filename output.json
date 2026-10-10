@@ -1428,8 +1428,8 @@
           }
         },
         {
-          "id": "pl-4f74e43eca",
-          "name": "Novara Nữ vs Bergamo Nữ | 23:00 11/10",
+          "id": "pl-fbeacc0eca",
+          "name": "Besiktas Nữ vs Fenerbahce Nữ | 23:00 11/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1443,23 +1443,23 @@
           ],
           "sources": [
             {
-              "id": "src-4f74e43eca",
+              "id": "src-fbeacc0eca",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-4f74e43eca",
-                  "name": "Novara Nữ vs Bergamo Nữ",
+                  "id": "ct-fbeacc0eca",
+                  "name": "Besiktas Nữ vs Fenerbahce Nữ",
                   "streams": [
                     {
-                      "id": "st-4f74e43eca",
+                      "id": "st-fbeacc0eca",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-614f947c91",
+                          "id": "lnk-964e63f4e7",
                           "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4f022404211c4980955d1e48f3a2e856/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/25b740ba8a4a455182830f7f4ca2b317/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1479,11 +1479,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Serie A",
-            "team_a": "Novara Nữ",
-            "team_b": "Bergamo Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/d0ad50ec4ff54c286d5701d818730b97.png!w60",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/f6aa304d2393655042a33474b0305617.png!w30",
+            "league": "Sultanlar Ligi",
+            "team_a": "Besiktas Nữ",
+            "team_b": "Fenerbahce Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
             "time": "23:00:00",
             "date": "11/10",
             "blv": "LÝ LIỀU LĨNH",
@@ -1494,7 +1494,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d50910f5cc944ceab3a5a397ee86e48_5b42a53a_20261011.png?v=5b42a53a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d4f9b37c19ec4a238f13b6950e83566e_23728d11_20261011.png?v=23728d11",
             "width": 1600,
             "height": 1200
           }
