@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,150 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdpjwqo9_58cb1074_20261010.png?v=58cb1074",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-5afa9fff22",
-          "name": "Chelsea vs Bournemouth AFC | 21:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5afa9fff22",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5afa9fff22",
-                  "name": "Chelsea vs Bournemouth AFC",
-                  "streams": [
-                    {
-                      "id": "st-5afa9fff22",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e227aa696",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9a8c3f1b6fe14574a3ce83cc0451b681/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Chelsea",
-            "team_b": "Bournemouth AFC",
-            "logo_a": "https://img.sports-data.online/football/team/a0cf8f551e9440acb3f4ff533dcc58a4.png",
-            "logo_b": "https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png",
-            "time": "21:00:00",
-            "date": "10/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5ydqdy_d629160e_20261010.png?v=d629160e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-fbdfd591bb",
-          "name": "Aston Villa vs Brentford | 21:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fbdfd591bb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fbdfd591bb",
-                  "name": "Aston Villa vs Brentford",
-                  "streams": [
-                    {
-                      "id": "st-fbdfd591bb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-38fd015e99",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c4dc693e58bf459fbfa004af832dcb12/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Aston Villa",
-            "team_b": "Brentford",
-            "logo_a": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
-            "logo_b": "https://img.sports-data.online/football/team/60f1c7788be3148a370dbf59f914abfe.png",
-            "time": "21:00:00",
-            "date": "10/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvdowjmd7_53f5c2aa_20261010.png?v=53f5c2aa",
             "width": 1600,
             "height": 1200
           }
@@ -1342,6 +1198,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3c9bfdb05afc45e39a26d4e44c528bb3_19d307d3_20261010.png?v=19d307d3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f271e313f8",
+          "name": "Sassuolo vs AC Milan | 23:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f271e313f8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f271e313f8",
+                  "name": "Sassuolo vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "st-f271e313f8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c6bfe0149",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/357ab40fa3d7424491e654630baa8372/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Sassuolo",
+            "team_b": "AC Milan",
+            "logo_a": "https://img.sports-data.online/football/team/616bf242a532f72e970648f2ead423cf.png",
+            "logo_b": "https://img.sports-data.online/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",
+            "time": "23:00:00",
+            "date": "11/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1j7pgq0j_f74406ba_20261010.png?v=f74406ba",
             "width": 1600,
             "height": 1200
           }
