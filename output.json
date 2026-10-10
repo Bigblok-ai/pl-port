@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b34e6e8dbd",
-          "name": "FC Barcelona vs Getafe | 23:30 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b34e6e8dbd",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b34e6e8dbd",
-                  "name": "FC Barcelona vs Getafe",
-                  "streams": [
-                    {
-                      "id": "st-b34e6e8dbd",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1468eec54b",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/404ef1c12a874532b903607950f92c98/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "FC Barcelona",
-            "team_b": "Getafe",
-            "logo_a": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-            "logo_b": "https://img.sports-data.online/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "time": "23:30:00",
-            "date": "10/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4e97ryo_688391f4_20261011.png?v=688391f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-be8140070a",
           "name": "Napoli vs Frosinone | 01:45 11/10",
