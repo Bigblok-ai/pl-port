@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +364,7 @@
             "time": "19:00:00",
             "date": "10/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1405,83 +1405,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-311b868ea4",
-          "name": "Hisamitsu Springs Nữ vs Body Queenseis Nữ | 16:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-311b868ea4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-311b868ea4",
-                  "name": "Hisamitsu Springs Nữ vs Body Queenseis Nữ",
-                  "streams": [
-                    {
-                      "id": "st-311b868ea4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb2905f4c1",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/de4e8c774fc0410eb61fd2a878d4d6a2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Hisamitsu Springs Nữ",
-            "team_b": "Body Queenseis Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/30a8757bc201fed57fcb779c30bb14db.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/d368a77f41e9c3fc5fceb30b0f1f1669.png!w80",
-            "time": "16:00:00",
-            "date": "10/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/944d0095a406427c83478f40d2acd3a5_a59c60d2_20261010.png?v=a59c60d2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f5a30e7a99",
           "name": "Conegliano Nữ vs UYBA Busto Arsizio Nữ | 01:30 11/10",
