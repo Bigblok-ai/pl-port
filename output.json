@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e74c4ff6e0",
-          "name": "Manchester United vs Tottenham Hotspur | 23:30 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e74c4ff6e0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e74c4ff6e0",
-                  "name": "Manchester United vs Tottenham Hotspur",
-                  "streams": [
-                    {
-                      "id": "st-e74c4ff6e0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b9ac93dc0",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bdf8aa61bac24422b1ef9319e7e314ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c801fa588f",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/ff831873c9e14649b729ce51bbab442c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Manchester United",
-            "team_b": "Tottenham Hotspur",
-            "logo_a": "https://img.sports-data.online/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-            "logo_b": "https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png",
-            "time": "23:30:00",
-            "date": "10/10",
-            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9xn5r1g_7b354a58_20261011.png?v=7b354a58",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b34e6e8dbd",
           "name": "FC Barcelona vs Getafe | 23:30 10/10",
