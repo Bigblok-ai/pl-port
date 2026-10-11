@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-1c0b4a41c1",
-          "name": "Elche CF vs RC Celta | 19:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1c0b4a41c1",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1c0b4a41c1",
-                  "name": "Elche CF vs RC Celta",
-                  "streams": [
-                    {
-                      "id": "st-1c0b4a41c1",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63f9c373e3",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/26c9e42e8f32432f89fd60ef1b5c8d76/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Elche CF",
-            "team_b": "RC Celta",
-            "logo_a": "https://img.sports-data.online/football/team/e5ecd0553885f1a3af731758dddce2ec.png",
-            "logo_b": "https://img.sports-data.online/football/team/fd954d083ee85a6f1a3f2471dc756242.png",
-            "time": "19:00:00",
-            "date": "11/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh90e1lm7v_b0e90f63_20261011.png?v=b0e90f63",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-60446fbcf6",
           "name": "Hull City vs Everton | 20:00 11/10",
           "type": "single",
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "21:15:00",
             "date": "11/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
