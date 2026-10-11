@@ -580,6 +580,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-3ef9a8f592",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/c03114e5f0c74c22b2e2a277351ac699/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -596,7 +613,7 @@
             "logo_b": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
             "time": "22:30:00",
             "date": "11/10",
-            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "blv": "LÝ LA LÀNG, LÝ LONG, LÝ LỀNH",
             "is_live": false,
             "cate_type": "football"
           },
