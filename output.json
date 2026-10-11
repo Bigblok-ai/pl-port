@@ -951,49 +951,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-fbeacc0eca",
-          "name": "Besiktas Nữ vs Fenerbahce Nữ | 23:00 11/10",
+          "id": "pl-600df681fb",
+          "name": "Torino vs Udinese | 01:45 13/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-fbeacc0eca",
+              "id": "src-600df681fb",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-fbeacc0eca",
-                  "name": "Besiktas Nữ vs Fenerbahce Nữ",
+                  "id": "ct-600df681fb",
+                  "name": "Torino vs Udinese",
                   "streams": [
                     {
-                      "id": "st-fbeacc0eca",
+                      "id": "st-600df681fb",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-964e63f4e7",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-92876bf759",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/25b740ba8a4a455182830f7f4ca2b317/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/84dbc06a56364aba95a0578ad750b8b8/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1013,26 +1004,35 @@
             }
           ],
           "org_metadata": {
-            "league": "Sultanlar Ligi",
-            "team_a": "Besiktas Nữ",
-            "team_b": "Fenerbahce Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/143b386c53bded65ba1858b8a9ae12f9.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
-            "time": "23:00:00",
-            "date": "11/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "Italian Serie A",
+            "team_a": "Torino",
+            "team_b": "Udinese",
+            "logo_a": "https://img.sports-data.online/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png",
+            "logo_b": "https://img.sports-data.online/football/team/c7140efe06d93642fcc9805077c49aa5.png",
+            "time": "01:45:00",
+            "date": "13/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d4f9b37c19ec4a238f13b6950e83566e_23728d11_20261012.png?v=23728d11",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdldnrz8_d18aa857_20261012.png?v=d18aa857",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-7558ab6e80",
           "name": "Ziraat Bankasi vs Galatasaray | 22:00 12/10",
