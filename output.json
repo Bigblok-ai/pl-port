@@ -1201,6 +1201,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8934ed4523",
+          "name": "Real Valladolid CF vs Albacete Balompié SAD | 19:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8934ed4523",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8934ed4523",
+                  "name": "Real Valladolid CF vs Albacete Balompié SAD",
+                  "streams": [
+                    {
+                      "id": "st-8934ed4523",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-807021a5eb",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6cf8069e5f3c44d1972cd757d9c67a02/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Valladolid CF",
+            "team_b": "Albacete Balompié SAD",
+            "logo_a": "https://img.sports-data.online/football/team/fdf63461c00668597319a4f0db14dcee.png",
+            "logo_b": "https://img.sports-data.online/football/team/a2f731e9147f64082f22b9a561425308.png",
+            "time": "19:00:00",
+            "date": "12/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk2dxr51_8b37602e_20261011.png?v=8b37602e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
