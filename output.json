@@ -1040,6 +1040,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b56718a88c",
+          "name": "Ho Chi Minh City B Women vs Than KSVN Women | 16:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b56718a88c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b56718a88c",
+                  "name": "Ho Chi Minh City B Women vs Than KSVN Women",
+                  "streams": [
+                    {
+                      "id": "st-b56718a88c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc748e3f58",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/56cdb05d809c411c983542f3887b534d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's National League",
+            "team_a": "Ho Chi Minh City B Women",
+            "team_b": "Than KSVN Women",
+            "logo_a": "https://img.sports-data.online/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",
+            "logo_b": "https://img.sports-data.online/football/team/4535b4701b1056d0ddef43d6a19d8884.png",
+            "time": "16:00:00",
+            "date": "12/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61041q86_8c30e13e_20261011.png?v=8c30e13e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
