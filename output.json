@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f0d04be5cf",
-          "name": "Racing Santander vs Valencia CF | 02:00 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f0d04be5cf",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f0d04be5cf",
-                  "name": "Racing Santander vs Valencia CF",
-                  "streams": [
-                    {
-                      "id": "st-f0d04be5cf",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69eb217a35",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c056a5baaba74dc1a92079cf53a52d7a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Racing Santander",
-            "team_b": "Valencia CF",
-            "logo_a": "https://img.sports-data.online/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",
-            "logo_b": "https://img.sports-data.online/football/team/3b54543c1a584e2e9948d655142996d3.png",
-            "time": "02:00:00",
-            "date": "12/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxpk03qo9_91efb917_20261012.png?v=91efb917",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b56718a88c",
           "name": "Ho Chi Minh City B Women vs Than KSVN Women | 16:00 12/10",
