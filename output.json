@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-30cabbbb8a",
+          "name": "Coventry City vs Newcastle United | 02:00 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30cabbbb8a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30cabbbb8a",
+                  "name": "Coventry City vs Newcastle United",
+                  "streams": [
+                    {
+                      "id": "st-30cabbbb8a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-71830f4634",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/abc70c5d5fae4844ad953bd01cf311e1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Coventry City",
+            "team_b": "Newcastle United",
+            "logo_a": "https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png",
+            "logo_b": "https://img.sports-data.online/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
+            "time": "02:00:00",
+            "date": "13/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8gheo6pvr6o_35d02510_20261012.png?v=35d02510",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
