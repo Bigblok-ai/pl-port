@@ -985,6 +985,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-eb42440593",
+          "name": "Atalanta vs Venezia | 23:30 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eb42440593",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-eb42440593",
+                  "name": "Atalanta vs Venezia",
+                  "streams": [
+                    {
+                      "id": "st-eb42440593",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08fae96436",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7aba48f24802432686704d38a3ab8ad2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Atalanta",
+            "team_b": "Venezia",
+            "logo_a": "https://img.sports-data.online/football/team/43a877bf7a6f4c109f0affbf45d5f19c.png",
+            "logo_b": "https://img.sports-data.online/football/team/3e724dc0e6fffd01a630b65af348fab6.png",
+            "time": "23:30:00",
+            "date": "12/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny26nqvy_4224cd2f_20261011.png?v=4224cd2f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
