@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "pl-09fd473b6a",
+          "name": "Lazio vs Monza | 20:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-09fd473b6a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-09fd473b6a",
+                  "name": "Lazio vs Monza",
+                  "streams": [
+                    {
+                      "id": "st-09fd473b6a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-134f54ca00",
+                          "name": "NHÀ ĐÀI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Lazio",
+            "team_b": "Monza",
+            "logo_a": "https://img.sports-data.online/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
+            "logo_b": "https://img.sports-data.online/football/team/18ccab720cfda6be0c39fef579c13c5a.png",
+            "time": "20:00:00",
+            "date": "11/10",
+            "blv": "NHÀ ĐÀI",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnd4jdm0v_c8008f64_20261011.png?v=c8008f64",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-e0f84bc783",
           "name": "Crystal Palace vs Nottingham Forest | 20:00 11/10",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dkg4qwz_d9996b43_20261011.png?v=d9996b43",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-09fd473b6a",
-          "name": "Lazio vs Monza | 20:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-09fd473b6a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-09fd473b6a",
-                  "name": "Lazio vs Monza",
-                  "streams": [
-                    {
-                      "id": "st-09fd473b6a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-134f54ca00",
-                          "name": "NHÀ ĐÀI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Lazio",
-            "team_b": "Monza",
-            "logo_a": "https://img.sports-data.online/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
-            "logo_b": "https://img.sports-data.online/football/team/18ccab720cfda6be0c39fef579c13c5a.png",
-            "time": "20:00:00",
-            "date": "11/10",
-            "blv": "NHÀ ĐÀI",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnd4jdm0v_c8008f64_20261011.png?v=c8008f64",
             "width": 1600,
             "height": 1200
           }
