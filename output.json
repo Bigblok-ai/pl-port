@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-173263b193",
-          "name": "LNZ Cherkasy vs Kudrivka | 17:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-173263b193",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-173263b193",
-                  "name": "LNZ Cherkasy vs Kudrivka",
-                  "streams": [
-                    {
-                      "id": "st-173263b193",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0985b69f3c",
-                          "name": "TEST",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f8610fa0f8fe4428be5cbe279c667f35/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Premier League",
-            "team_a": "LNZ Cherkasy",
-            "team_b": "Kudrivka",
-            "logo_a": "https://img.sports-data.online/football/team/02519d3273de70817fb862c6955f11ee.png",
-            "logo_b": "https://img.sports-data.online/football/team/93a284afbe83abb6ce3cfb28479988cd.png",
-            "time": "17:00:00",
-            "date": "11/10",
-            "blv": "TEST",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkvk65rz8_6366c6af_20261011.png?v=6366c6af",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-aeabf6531f",
           "name": "Como vs AS Roma | 17:30 11/10",
