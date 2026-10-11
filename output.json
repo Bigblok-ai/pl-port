@@ -260,8 +260,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-4f944c5468",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-e251791141",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/4a4b13a95d8b4120a6b394fd756c9ca3/index.m3u8",
@@ -291,7 +291,7 @@
             "logo_b": "https://img.sports-data.online/football/team/0dc4b45524350a50a4d3276a2525693f.png",
             "time": "01:45:00",
             "date": "12/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": true,
             "cate_type": "football"
           },
@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-dfe7849814",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-69eb217a35",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/c056a5baaba74dc1a92079cf53a52d7a/index.m3u8",
@@ -363,7 +363,7 @@
             "logo_b": "https://img.sports-data.online/football/team/3b54543c1a584e2e9948d655142996d3.png",
             "time": "02:00:00",
             "date": "12/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": true,
             "cate_type": "football"
           },
