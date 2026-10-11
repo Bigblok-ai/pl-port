@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-087a3a274b",
-          "name": "Liverpool vs Manchester City | 22:30 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-087a3a274b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-087a3a274b",
-                  "name": "Liverpool vs Manchester City",
-                  "streams": [
-                    {
-                      "id": "st-087a3a274b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8981ef882f",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/17be2887724640f483c6025a5ede0176/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6bef1a1480",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/7dc888ca04bd4dc2a0334138a129a055/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3ef9a8f592",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/c03114e5f0c74c22b2e2a277351ac699/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Liverpool",
-            "team_b": "Manchester City",
-            "logo_a": "https://img.sports-data.online/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "logo_b": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "time": "22:30:00",
-            "date": "11/10",
-            "blv": "LÝ LA LÀNG, LÝ LONG, LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3c9bfdb05afc45e39a26d4e44c528bb3_19d307d3_20261012.png?v=19d307d3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f271e313f8",
           "name": "Sassuolo vs AC Milan | 23:00 11/10",
