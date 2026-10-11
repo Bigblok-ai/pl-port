@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d6edf44a5d",
-          "name": "Benfica vs Vitoria Guimaraes | 00:00 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d6edf44a5d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d6edf44a5d",
-                  "name": "Benfica vs Vitoria Guimaraes",
-                  "streams": [
-                    {
-                      "id": "st-d6edf44a5d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3d02e8f62c",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/898e07af7ea646818f7334382d53006c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese Primera Liga",
-            "team_a": "Benfica",
-            "team_b": "Vitoria Guimaraes",
-            "logo_a": "https://img.sports-data.online/football/team/78360445c12fa3fdc8b489486fff4eb6.png",
-            "logo_b": "https://img.sports-data.online/football/team/ad97b71fe0d8df0e60f7c534fee24132.png",
-            "time": "00:00:00",
-            "date": "12/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghly316moe_df99ad4f_20261012.png?v=df99ad4f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8a906ab6e7",
           "name": "Cagliari vs Juventus | 01:45 12/10",
