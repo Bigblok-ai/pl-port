@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1ff29f32a8",
-          "name": "Pakhtakor vs Al Qadsiah | 20:45 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1ff29f32a8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1ff29f32a8",
-                  "name": "Pakhtakor vs Al Qadsiah",
-                  "streams": [
-                    {
-                      "id": "st-1ff29f32a8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b0dd3aafc",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3131014900654536b09373eef17216ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Pakhtakor",
-            "team_b": "Al Qadsiah",
-            "logo_a": "https://img.sports-data.online/football/team/78dd333913352de8fc4e8b0834636245.png",
-            "logo_b": "https://img.sports-data.online/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
-            "time": "20:45:00",
-            "date": "12/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx97n0qo9_10db0ded_20261012.png?v=10db0ded",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-840f79fba8",
           "name": "Burgos CF vs Granada CF | 21:15 12/10",
@@ -1164,6 +1092,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhglgx7rep_8f76c5c1_20261012.png?v=8f76c5c1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-383ba18f17",
+          "name": "Al-Sadd Sports Club vs Al Hilal | 23:00 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-383ba18f17",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-383ba18f17",
+                  "name": "Al-Sadd Sports Club vs Al Hilal",
+                  "streams": [
+                    {
+                      "id": "st-383ba18f17",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b6676ae37",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8fd119ddede94da29cc613339035b9d5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al-Sadd Sports Club",
+            "team_b": "Al Hilal",
+            "logo_a": "https://img.sports-data.online/football/team/5c794bfbf3227563c85323bb624721ec.png",
+            "logo_b": "https://img.sports-data.online/football/team/07a555616afab7be32e00150eacf4197.png",
+            "time": "23:00:00",
+            "date": "13/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1w554q0j_b7602a0d_20261012.png?v=b7602a0d",
             "width": 1600,
             "height": 1200
           }
