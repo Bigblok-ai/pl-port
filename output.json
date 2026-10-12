@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ba85614065",
+          "name": "Muangthong United vs Phrae United FC | 18:00 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba85614065",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ba85614065",
+                  "name": "Muangthong United vs Phrae United FC",
+                  "streams": [
+                    {
+                      "id": "st-ba85614065",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c72d50b6c5",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e15a96d7bab1412593e32a600343b3db/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Thai League 2",
+            "team_a": "Muangthong United",
+            "team_b": "Phrae United FC",
+            "logo_a": "https://img.sports-data.online/football/team/3304b66faaa7843336b931db14e7fbc7.png",
+            "logo_b": "https://img.sports-data.online/football/team/c10a6d8a8c04761309ec7cf75d2814f0.png",
+            "time": "18:00:00",
+            "date": "13/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkvx0or1g_878fa490_20261012.png?v=878fa490",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
