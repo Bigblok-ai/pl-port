@@ -1421,8 +1421,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-1776525592",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-72a2e9c2b9",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a9e5805ae00243fc8a6efd9934e412f6/index.m3u8",
@@ -1452,7 +1452,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
             "time": "17:00:00",
             "date": "14/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1493,8 +1493,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a0a034b7d3",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-bd1da0020e",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/c4bef67c466d423faab00207858959dd/index.m3u8",
@@ -1524,7 +1524,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
             "time": "20:00:00",
             "date": "14/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
