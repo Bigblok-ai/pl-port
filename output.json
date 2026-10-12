@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-83e7e07461",
-          "name": "Al-Wasl SC vs Al Ahli SC | 23:00 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-83e7e07461",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-83e7e07461",
-                  "name": "Al-Wasl SC vs Al Ahli SC",
-                  "streams": [
-                    {
-                      "id": "st-83e7e07461",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff4bb16022",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/86dcd150d65b455bafd77ec7420d3cf0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Al-Wasl SC",
-            "team_b": "Al Ahli SC",
-            "logo_a": "https://img.sports-data.online/football/team/17b767b98695df2fb512e992dd8a7af4.png",
-            "logo_b": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
-            "time": "23:00:00",
-            "date": "12/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen29dr6o_36a072a1_20261013.png?v=36a072a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-eb42440593",
           "name": "Atalanta vs Venezia | 23:30 12/10",
