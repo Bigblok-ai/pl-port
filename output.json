@@ -1248,6 +1248,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-41cef13388",
+          "name": "Hà Nội Tasco Auto vs BC Thông Tin BĐ19 | 12:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41cef13388",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-41cef13388",
+                  "name": "Hà Nội Tasco Auto vs BC Thông Tin BĐ19",
+                  "streams": [
+                    {
+                      "id": "st-41cef13388",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6ec34c6110",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8d1b2c25546f47c5aa1f8f6ee750b217/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội Tasco Auto",
+            "team_b": "BC Thông Tin BĐ19",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png/250px-Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png/250px-Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "time": "12:00:00",
+            "date": "14/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5d3eb7a273bc4a59964540d940a144b3_599a7129_20261012.png?v=599a7129",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
