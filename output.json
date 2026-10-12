@@ -879,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6d701a5e1f",
+          "name": "Shanghai Port vs Daejeon Hana Citizen | 17:00 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d701a5e1f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6d701a5e1f",
+                  "name": "Shanghai Port vs Daejeon Hana Citizen",
+                  "streams": [
+                    {
+                      "id": "st-6d701a5e1f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-325baad5e1",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/db98dbdedd5e4b1e8a65c7fd97fa4a51/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Shanghai Port",
+            "team_b": "Daejeon Hana Citizen",
+            "logo_a": "https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png",
+            "logo_b": "https://img.sports-data.online/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png",
+            "time": "17:00:00",
+            "date": "13/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjdxzryo_7ff69dd8_20261012.png?v=7ff69dd8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9757dee84f",
+          "name": "Kyoto Sanga vs Ratchaburi FC | 17:00 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9757dee84f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9757dee84f",
+                  "name": "Kyoto Sanga vs Ratchaburi FC",
+                  "streams": [
+                    {
+                      "id": "st-9757dee84f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-04e01dfdf6",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e1efccd67f464bbdb031d4fbc8e74e25/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Kyoto Sanga",
+            "team_b": "Ratchaburi FC",
+            "logo_a": "https://img.sports-data.online/football/team/7d6fa50ea67cde7d66612a8189897ba5.png",
+            "logo_b": "https://img.sports-data.online/football/team/ca2b8d70931647840c78209be51763a3.png",
+            "time": "17:00:00",
+            "date": "13/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkep26rz8_9c2a7f30_20261012.png?v=9c2a7f30",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
