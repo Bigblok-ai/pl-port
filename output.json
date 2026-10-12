@@ -1179,7 +1179,7 @@
       "channels": [
         {
           "id": "pl-7558ab6e80",
-          "name": "Ziraat Bankasi vs Galatasaray | 22:00 12/10",
+          "name": "Ziraat Bankasi vs Galatasaray | 23:30 12/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1234,7 +1234,7 @@
             "team_b": "Galatasaray",
             "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png!w80",
-            "time": "22:00:00",
+            "time": "23:30:00",
             "date": "12/10",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": true,
