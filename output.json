@@ -11,44 +11,44 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-b56718a88c",
-          "name": "Ho Chi Minh City B Women vs Than KSVN Women | 15:00 12/10",
+          "id": "pl-afad2aba62",
+          "name": "Phong Phu Ha Nam Women vs Ha Noi IIWomen | 16:00 12/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-b56718a88c",
+              "id": "src-afad2aba62",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-b56718a88c",
-                  "name": "Ho Chi Minh City B Women vs Than KSVN Women",
+                  "id": "ct-afad2aba62",
+                  "name": "Phong Phu Ha Nam Women vs Ha Noi IIWomen",
                   "streams": [
                     {
-                      "id": "st-b56718a88c",
+                      "id": "st-afad2aba62",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-fc748e3f58",
+                          "id": "lnk-f45a6842d6",
                           "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/56cdb05d809c411c983542f3887b534d/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/075cba98c0734558b33baf94a0371f8d/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -69,21 +69,21 @@
           ],
           "org_metadata": {
             "league": "Women's National League",
-            "team_a": "Ho Chi Minh City B Women",
-            "team_b": "Than KSVN Women",
-            "logo_a": "https://img.sports-data.online/football/team/ec2dbd5c069753ced4b26b40d826ae60.png",
-            "logo_b": "https://img.sports-data.online/football/team/4535b4701b1056d0ddef43d6a19d8884.png",
-            "time": "15:00:00",
+            "team_a": "Phong Phu Ha Nam Women",
+            "team_b": "Ha Noi IIWomen",
+            "logo_a": "https://img.sports-data.online/football/team/2ee0214c45e742b6ae9a1107593918d5.png",
+            "logo_b": "https://img.sports-data.online/football/team/424ac25c370b644caebd91d8ba01df34.png",
+            "time": "16:00:00",
             "date": "12/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61041q86_8c30e13e_20261012.png?v=8c30e13e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4j2e6r8k_94ad5e4c_20261012.png?v=94ad5e4c",
             "width": 1600,
             "height": 1200
           }
