@@ -1536,6 +1536,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-17dd05610c",
+          "name": "Vakifbank Nữ vs Zeren Spor Women | 23:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-17dd05610c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-17dd05610c",
+                  "name": "Vakifbank Nữ vs Zeren Spor Women",
+                  "streams": [
+                    {
+                      "id": "st-17dd05610c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3653e7abe9",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e62df0792c9741c19d7d69d700a3bd0a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Vakifbank Nữ",
+            "team_b": "Zeren Spor Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/54fc4aabcc2beabb25eee5af3ee4b164.png!w80",
+            "time": "23:00:00",
+            "date": "14/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/14f6bb02e9af4e98a0a1ba5903152123_75460d64_20261012.png?v=75460d64",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a73da6e127",
+          "name": "Fenerbahce Nữ vs Goztepe Nữ | 23:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a73da6e127",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a73da6e127",
+                  "name": "Fenerbahce Nữ vs Goztepe Nữ",
+                  "streams": [
+                    {
+                      "id": "st-a73da6e127",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cda6066d5",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/aa9ddd35f2cb4746a1c35e62a0ea6bfb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Fenerbahce Nữ",
+            "team_b": "Goztepe Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/053d02b1d47e14160ce6534a12bd90ba.png!w80",
+            "time": "23:00:00",
+            "date": "14/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d7234725c4c4060a5be4348a2baf3fa_da39df13_20261012.png?v=da39df13",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
