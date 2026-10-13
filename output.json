@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-592d11dc97",
-          "name": "Newcastle Jets vs Gamba Osaka | 14:45 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-592d11dc97",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-592d11dc97",
-                  "name": "Newcastle Jets vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "st-592d11dc97",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6589dadb2a",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/933d4088892147ff9894734b9111f2d2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Newcastle Jets",
-            "team_b": "Gamba Osaka",
-            "logo_a": "https://img.sports-data.online/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
-            "logo_b": "https://img.sports-data.online/football/team/91008a96b5de8c75376d17057f89890e.png",
-            "time": "14:45:00",
-            "date": "13/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy623wryk_8da0e2d8_20261013.png?v=8da0e2d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0c1d573dee",
           "name": "Pohang Steelers vs Johor Darul Ta'zim FC | 17:00 13/10",
