@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "pl-188403b883",
+          "name": "Galatasaray vs FC Barcelona | 02:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-188403b883",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-188403b883",
+                  "name": "Galatasaray vs FC Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-188403b883",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e40e7b075",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bc8b766d90614510839ad98e90f29e2a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Galatasaray",
+            "team_b": "FC Barcelona",
+            "logo_a": "https://img.sports-data.online/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png",
+            "logo_b": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+            "time": "02:00:00",
+            "date": "14/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1pwqg8_eb8d9548_20261014.png?v=eb8d9548",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-55d84325d4",
           "name": "Atletico Madrid vs Manchester United | 02:00 14/10",
           "type": "single",
@@ -178,78 +250,6 @@
           }
         },
         {
-          "id": "pl-188403b883",
-          "name": "Galatasaray vs FC Barcelona | 02:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-188403b883",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-188403b883",
-                  "name": "Galatasaray vs FC Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-188403b883",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8e40e7b075",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bc8b766d90614510839ad98e90f29e2a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Galatasaray",
-            "team_b": "FC Barcelona",
-            "logo_a": "https://img.sports-data.online/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png",
-            "logo_b": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-            "time": "02:00:01",
-            "date": "14/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1pwqg8_eb8d9548_20261014.png?v=eb8d9548",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-29bb043bfe",
           "name": "Inter Milan vs Club Brugge | 02:00 14/10",
           "type": "single",
@@ -306,7 +306,7 @@
             "team_b": "Club Brugge",
             "logo_a": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
             "logo_b": "https://img.sports-data.online/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
-            "time": "02:00:01",
+            "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LINH LỰC",
             "is_live": true,
@@ -378,7 +378,7 @@
             "team_b": "FC Bayern Munich",
             "logo_a": "https://img.sports-data.online/football/team/2fa0840e0cb77fd66f104fa932302a72.png",
             "logo_b": "https://img.sports-data.online/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
-            "time": "02:00:01",
+            "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LÀNG LÁ",
             "is_live": true,
@@ -450,7 +450,7 @@
             "team_b": "LOSC Lille",
             "logo_a": "https://img.sports-data.online/football/team/d6f5debc456da1119256ab66462ab510.png",
             "logo_b": "https://img.sports-data.online/football/team/28e94925fdcc848f86a544a1cedcceed.png",
-            "time": "02:00:01",
+            "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LONG",
             "is_live": true,
