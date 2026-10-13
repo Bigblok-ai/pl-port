@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-383ba18f17",
-          "name": "Al-Sadd Sports Club vs Al Hilal | 23:00 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-383ba18f17",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-383ba18f17",
-                  "name": "Al-Sadd Sports Club vs Al Hilal",
-                  "streams": [
-                    {
-                      "id": "st-383ba18f17",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b6676ae37",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8fd119ddede94da29cc613339035b9d5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Al-Sadd Sports Club",
-            "team_b": "Al Hilal",
-            "logo_a": "https://img.sports-data.online/football/team/5c794bfbf3227563c85323bb624721ec.png",
-            "logo_b": "https://img.sports-data.online/football/team/07a555616afab7be32e00150eacf4197.png",
-            "time": "23:00:00",
-            "date": "13/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1w554q0j_b7602a0d_20261014.png?v=b7602a0d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f2c6c9d25c",
           "name": "RC Lens vs Sporting CP | 23:45 13/10",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +237,7 @@
             "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LA LÀNG, LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -329,10 +257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -381,7 +309,7 @@
             "time": "02:00:00",
             "date": "14/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
