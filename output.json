@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-01388f7d3a",
-          "name": "Atletico de Madrid U19 vs Manchester United U19 | 21:00 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-01388f7d3a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-01388f7d3a",
-                  "name": "Atletico de Madrid U19 vs Manchester United U19",
-                  "streams": [
-                    {
-                      "id": "st-01388f7d3a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31680b619a",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f59d81ce6ad044adb4977d3474683c9d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Atletico de Madrid U19",
-            "team_b": "Manchester United U19",
-            "logo_a": "https://img.sports-data.online/football/team/dd126282a3ed968b622055c808ad82c4.png",
-            "logo_b": "https://img.sports-data.online/football/team/44eb7130030b0be19a244dbf1927561f.png",
-            "time": "21:00:00",
-            "date": "13/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhglgx7rep_8f76c5c1_20261013.png?v=8f76c5c1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-383ba18f17",
           "name": "Al-Sadd Sports Club vs Al Hilal | 23:00 13/10",
