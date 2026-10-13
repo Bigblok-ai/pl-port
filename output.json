@@ -1040,6 +1040,366 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a3a4307d84",
+          "name": "FK Bodo/Glimt vs Borussia Dortmund | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3a4307d84",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a3a4307d84",
+                  "name": "FK Bodo/Glimt vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-a3a4307d84",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5c37e9e857",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/642ce9ce12d94793b3f084cce2654a2b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "FK Bodo/Glimt",
+            "team_b": "Borussia Dortmund",
+            "logo_a": "https://img.sports-data.online/football/team/98854ab97eadf3d2c7c6d657ad99df96.png",
+            "logo_b": "https://img.sports-data.online/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh98olkm7v_7ebb11b8_20261014.png?v=7ebb11b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-60e61a6cb8",
+          "name": "Manchester City vs Paris Saint Germain | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60e61a6cb8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-60e61a6cb8",
+                  "name": "Manchester City vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-60e61a6cb8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-46405fd467",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/dc5689ac9242406ca1b360178b2b339e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Manchester City",
+            "team_b": "Paris Saint Germain",
+            "logo_a": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
+            "logo_b": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e18wqg8_8b54810c_20261014.png?v=8b54810c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5880c2e4bc",
+          "name": "AS Roma vs Real Madrid | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5880c2e4bc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5880c2e4bc",
+                  "name": "AS Roma vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-5880c2e4bc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d6c0483015",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8844030d214b4322b133e52601f6f089/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "AS Roma",
+            "team_b": "Real Madrid",
+            "logo_a": "https://img.sports-data.online/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png",
+            "logo_b": "https://img.sports-data.online/football/team/7dacaa934fe4be00f23c1e209b5ef947.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e19dqg8_cf40a88e_20261014.png?v=cf40a88e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4a8fb563f4",
+          "name": "Aston Villa vs Fenerbahce | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a8fb563f4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4a8fb563f4",
+                  "name": "Aston Villa vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-4a8fb563f4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b01feb0ad",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7a417c5fe29643b183edf919f0ceb5db/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Aston Villa",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
+            "logo_b": "https://img.sports-data.online/football/team/dff00f1fd4a7dd2feac000b462416867.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5p6xrep_b2c84e12_20261014.png?v=b2c84e12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d211266c99",
+          "name": "Real Betis vs FC Porto | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d211266c99",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d211266c99",
+                  "name": "Real Betis vs FC Porto",
+                  "streams": [
+                    {
+                      "id": "st-d211266c99",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a14272773a",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5b6c5551975a417ba44456ace1c42dac/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Real Betis",
+            "team_b": "FC Porto",
+            "logo_a": "https://img.sports-data.online/football/team/018e260ad68bdad741c61e3171c4c608.png",
+            "logo_b": "https://img.sports-data.online/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vyolqwz_676ae5e1_20261014.png?v=676ae5e1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
