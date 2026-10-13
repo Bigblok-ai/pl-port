@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6egp7qg8_648b60ab_20261013.png?v=648b60ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6d701a5e1f",
-          "name": "Shanghai Port vs Daejeon Hana Citizen | 17:00 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6d701a5e1f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6d701a5e1f",
-                  "name": "Shanghai Port vs Daejeon Hana Citizen",
-                  "streams": [
-                    {
-                      "id": "st-6d701a5e1f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-325baad5e1",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/db98dbdedd5e4b1e8a65c7fd97fa4a51/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Shanghai Port",
-            "team_b": "Daejeon Hana Citizen",
-            "logo_a": "https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png",
-            "logo_b": "https://img.sports-data.online/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png",
-            "time": "17:00:00",
-            "date": "13/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjdxzryo_7ff69dd8_20261013.png?v=7ff69dd8",
             "width": 1600,
             "height": 1200
           }
