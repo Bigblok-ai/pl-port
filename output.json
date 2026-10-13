@@ -968,6 +968,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d30a9f54ed",
+          "name": "LASK Linz vs Liverpool | 23:45 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d30a9f54ed",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d30a9f54ed",
+                  "name": "LASK Linz vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-d30a9f54ed",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f84c1c95a8",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f1a960028fec4350ad6baa1187bfd8cc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "LASK Linz",
+            "team_b": "Liverpool",
+            "logo_a": "https://img.sports-data.online/football/team/5d33f831f779428858138d28c9dd4480.png",
+            "logo_b": "https://img.sports-data.online/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
+            "time": "23:45:00",
+            "date": "14/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx9y63qo9_7e6bf3c8_20261013.png?v=7e6bf3c8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ef8743d647",
+          "name": "Feyenoord vs Como | 23:45 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef8743d647",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ef8743d647",
+                  "name": "Feyenoord vs Como",
+                  "streams": [
+                    {
+                      "id": "st-ef8743d647",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1abee7870c",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8a71936c8b484f0b8d99af294944df6f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Feyenoord",
+            "team_b": "Como",
+            "logo_a": "https://img.sports-data.online/football/team/44073f2d2c979a9388f98505ac3b754d.png",
+            "logo_b": "https://img.sports-data.online/football/team/5f7059f40965e5a2cc00987e6bac2f32.png",
+            "time": "23:45:00",
+            "date": "14/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlgpkqvy_ab9cd81c_20261013.png?v=ab9cd81c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
