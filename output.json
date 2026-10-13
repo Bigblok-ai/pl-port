@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "pl-f2c6c9d25c",
+          "name": "RC Lens vs Sporting CP | 23:45 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2c6c9d25c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f2c6c9d25c",
+                  "name": "RC Lens vs Sporting CP",
+                  "streams": [
+                    {
+                      "id": "st-f2c6c9d25c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-60dad95747",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6b3ab42363cc4358a71e088f1a41d3c0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "RC Lens",
+            "team_b": "Sporting CP",
+            "logo_a": "https://img.sports-data.online/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
+            "logo_b": "https://img.sports-data.online/football/team/646764e6e2fe4ca7970b9eb87c8b65af.png",
+            "time": "23:45:00",
+            "date": "13/10",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgvw85r51_4b371fdf_20261013.png?v=4b371fdf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-188403b883",
           "name": "Galatasaray vs FC Barcelona | 02:00 14/10",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1pwqg8_eb8d9548_20261013.png?v=eb8d9548",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-f2c6c9d25c",
-          "name": "RC Lens vs Sporting CP | 23:45 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f2c6c9d25c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f2c6c9d25c",
-                  "name": "RC Lens vs Sporting CP",
-                  "streams": [
-                    {
-                      "id": "st-f2c6c9d25c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60dad95747",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6b3ab42363cc4358a71e088f1a41d3c0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "RC Lens",
-            "team_b": "Sporting CP",
-            "logo_a": "https://img.sports-data.online/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
-            "logo_b": "https://img.sports-data.online/football/team/646764e6e2fe4ca7970b9eb87c8b65af.png",
-            "time": "23:45:00",
-            "date": "13/10",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgvw85r51_4b371fdf_20261013.png?v=4b371fdf",
             "width": 1600,
             "height": 1200
           }
