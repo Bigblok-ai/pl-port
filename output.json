@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f2c6c9d25c",
-          "name": "RC Lens vs Sporting CP | 23:45 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f2c6c9d25c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f2c6c9d25c",
-                  "name": "RC Lens vs Sporting CP",
-                  "streams": [
-                    {
-                      "id": "st-f2c6c9d25c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60dad95747",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6b3ab42363cc4358a71e088f1a41d3c0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "RC Lens",
-            "team_b": "Sporting CP",
-            "logo_a": "https://img.sports-data.online/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
-            "logo_b": "https://img.sports-data.online/football/team/646764e6e2fe4ca7970b9eb87c8b65af.png",
-            "time": "23:45:00",
-            "date": "13/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgvw85r51_4b371fdf_20261014.png?v=4b371fdf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-188403b883",
           "name": "Galatasaray vs FC Barcelona | 02:00 14/10",
@@ -1037,6 +965,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlgpkqvy_ab9cd81c_20261014.png?v=ab9cd81c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b18b294028",
+          "name": "Norwich City vs Southampton | 01:45 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b18b294028",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b18b294028",
+                  "name": "Norwich City vs Southampton",
+                  "streams": [
+                    {
+                      "id": "st-b18b294028",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb49d970cd",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/51fcf0d228c64586b00a385a96808b3c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Championship",
+            "team_a": "Norwich City",
+            "team_b": "Southampton",
+            "logo_a": "https://img.sports-data.online/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png",
+            "logo_b": "https://img.sports-data.online/football/team/4623d3fa1cda20d1f289dce9dc803527.png",
+            "time": "01:45:00",
+            "date": "15/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg4957rep_c5dbe83e_20261014.png?v=c5dbe83e",
             "width": 1600,
             "height": 1200
           }
