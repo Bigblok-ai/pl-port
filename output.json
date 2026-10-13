@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "pl-4dd71e53f1",
+          "name": "Bandirmaspor vs Sivasspor | 18:30 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4dd71e53f1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4dd71e53f1",
+                  "name": "Bandirmaspor vs Sivasspor",
+                  "streams": [
+                    {
+                      "id": "st-4dd71e53f1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f4c38b747a",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c8bf4ebaca304258b91c167bcdae22a4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Bandirmaspor",
+            "team_b": "Sivasspor",
+            "logo_a": "https://img.sports-data.online/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
+            "logo_b": "https://img.sports-data.online/football/team/228386b1b704899dc028000dbd27cac1.png",
+            "time": "18:30:00",
+            "date": "13/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy8yleryk_8fde424a_20261013.png?v=8fde424a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-2c13b33ed6",
           "name": "Cong An Ha Noi FC vs Kashima Antlers | 19:15 13/10",
           "type": "single",
@@ -1181,6 +1253,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx9767qo9_69aa6a41_20261013.png?v=69aa6a41",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-733809d4f3",
+          "name": "Nongbua Pitchaya FC vs Chiangmai United FC | 18:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-733809d4f3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-733809d4f3",
+                  "name": "Nongbua Pitchaya FC vs Chiangmai United FC",
+                  "streams": [
+                    {
+                      "id": "st-733809d4f3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-267be68138",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/83ae74c9895b48a0ac7104f22340de60/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Thai League 2",
+            "team_a": "Nongbua Pitchaya FC",
+            "team_b": "Chiangmai United FC",
+            "logo_a": "https://img.sports-data.online/football/team/9d077ef19824852efe128dd9ddeae68a.png",
+            "logo_b": "https://img.sports-data.online/football/team/d7947c628537b232f1dc4fc11b03076c.png",
+            "time": "18:00:00",
+            "date": "14/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxep3xqo9_3e27ede9_20261013.png?v=3e27ede9",
             "width": 1600,
             "height": 1200
           }
