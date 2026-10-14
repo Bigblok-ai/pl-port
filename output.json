@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d30a9f54ed",
-          "name": "LASK Linz vs Liverpool | 23:45 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d30a9f54ed",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d30a9f54ed",
-                  "name": "LASK Linz vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-d30a9f54ed",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f84c1c95a8",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f1a960028fec4350ad6baa1187bfd8cc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "LASK Linz",
-            "team_b": "Liverpool",
-            "logo_a": "https://img.sports-data.online/football/team/5d33f831f779428858138d28c9dd4480.png",
-            "logo_b": "https://img.sports-data.online/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "time": "23:45:00",
-            "date": "14/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx9y63qo9_7e6bf3c8_20261015.png?v=7e6bf3c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ef8743d647",
           "name": "Feyenoord vs Como | 23:45 14/10",
@@ -193,6 +121,23 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/0d75009c4be64a20b514c884a98cb1ea/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5e7e268025",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/389eaa247fd94fd08d4e778d95654a25/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
