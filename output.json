@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d1e114f2cd",
+          "name": "Gangwon FC vs Phnom Penh Crown FC | 17:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1e114f2cd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d1e114f2cd",
+                  "name": "Gangwon FC vs Phnom Penh Crown FC",
+                  "streams": [
+                    {
+                      "id": "st-d1e114f2cd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a88b147875",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/252ac23835bc4e7da6852623ed1d0ab4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Gangwon FC",
+            "team_b": "Phnom Penh Crown FC",
+            "logo_a": "https://img.sports-data.online/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
+            "logo_b": "https://img.sports-data.online/football/team/03dd1707147dbd5897a8dcae40991e2c.png",
+            "time": "17:00:00",
+            "date": "15/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgn2xvq82_42f45094_20261014.png?v=42f45094",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
