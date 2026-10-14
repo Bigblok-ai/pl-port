@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-38dd1a02f8",
+          "name": "Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | 19:15 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38dd1a02f8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-38dd1a02f8",
+                  "name": "Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "st-38dd1a02f8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-da4eec9a72",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/67ecc0c6526f42b2b1e81e4bcd5ec7f4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Preah Khan Reach Svay Rieng FC",
+            "team_b": "Shanghai Shenhua",
+            "logo_a": "https://img.sports-data.online/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",
+            "logo_b": "https://img.sports-data.online/football/team/e8327d4681b4a73c83be9fe087b30721.png",
+            "time": "19:15:00",
+            "date": "15/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy62z5ryk_4bdc453f_20261014.png?v=4bdc453f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
