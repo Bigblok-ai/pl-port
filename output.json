@@ -1167,6 +1167,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-dc064e02ac",
+          "name": "Al Ahli SC vs Al Nassr | 01:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc064e02ac",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dc064e02ac",
+                  "name": "Al Ahli SC vs Al Nassr",
+                  "streams": [
+                    {
+                      "id": "st-dc064e02ac",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ddead5d7a",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d77f8ded796c4d2a9dd822c769ff68e6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Ahli SC",
+            "team_b": "Al Nassr",
+            "logo_a": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
+            "logo_b": "https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png",
+            "time": "01:00:00",
+            "date": "16/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy4w35ryk_ced866c0_20261015.png?v=ced866c0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
