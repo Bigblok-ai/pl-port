@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -188,11 +188,11 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-5c37e9e857",
+                          "id": "lnk-ac21d2f1f7",
                           "name": "LÝ LỀNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/642ce9ce12d94793b3f084cce2654a2b/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/ac491386abf541239afb301218960a0a/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -394,6 +394,78 @@
           }
         },
         {
+          "id": "pl-4a8fb563f4",
+          "name": "Aston Villa vs Fenerbahce | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a8fb563f4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4a8fb563f4",
+                  "name": "Aston Villa vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-4a8fb563f4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b04c71fb0a",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7a417c5fe29643b183edf919f0ceb5db/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Aston Villa",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
+            "logo_b": "https://img.sports-data.online/football/team/dff00f1fd4a7dd2feac000b462416867.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5p6xrep_b2c84e12_20261015.png?v=b2c84e12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-d211266c99",
           "name": "Real Betis vs FC Porto | 02:00 15/10",
           "type": "single",
@@ -461,78 +533,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vyolqwz_676ae5e1_20261015.png?v=676ae5e1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-4a8fb563f4",
-          "name": "Aston Villa vs Fenerbahce | 02:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a8fb563f4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4a8fb563f4",
-                  "name": "Aston Villa vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-4a8fb563f4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b04c71fb0a",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7a417c5fe29643b183edf919f0ceb5db/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Aston Villa",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
-            "logo_b": "https://img.sports-data.online/football/team/dff00f1fd4a7dd2feac000b462416867.png",
-            "time": "02:00:00",
-            "date": "15/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5p6xrep_b2c84e12_20261015.png?v=b2c84e12",
             "width": 1600,
             "height": 1200
           }
