@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-75ac8b0168",
-          "name": "Nasaf Qarshi vs Al Wahda(UAE) | 20:45 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-75ac8b0168",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-75ac8b0168",
-                  "name": "Nasaf Qarshi vs Al Wahda(UAE)",
-                  "streams": [
-                    {
-                      "id": "st-75ac8b0168",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f16e41b52",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d70f55d868cf4c35ad0bb777e53bb499/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Nasaf Qarshi",
-            "team_b": "Al Wahda(UAE)",
-            "logo_a": "https://img.sports-data.online/football/team/bef3a45bcf56447c8acfb7b077820022.png",
-            "logo_b": "https://img.sports-data.online/football/team/21da55d164e80f29bdfd9f8cef55a76b.png",
-            "time": "20:45:00",
-            "date": "14/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh524j8ql0_fe403f37_20261014.png?v=fe403f37",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6fd6051c8c",
           "name": "Dynamo Makhachkala vs Zenit St. Petersburg | 22:30 14/10",
