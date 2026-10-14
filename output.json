@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-97c28bfa10",
-          "name": "Vissel Kobe vs Jeonbuk Hyundai Motors | 17:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-97c28bfa10",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-97c28bfa10",
-                  "name": "Vissel Kobe vs Jeonbuk Hyundai Motors",
-                  "streams": [
-                    {
-                      "id": "st-97c28bfa10",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-677d2e7dfc",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/dbd0a55bf2434a33b0245eed3d7d784c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Vissel Kobe",
-            "team_b": "Jeonbuk Hyundai Motors",
-            "logo_a": "https://img.sports-data.online/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-            "logo_b": "https://img.sports-data.online/football/team/ee2117f952745163fecfa4b74a6a2bea.png",
-            "time": "17:00:00",
-            "date": "14/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx9767qo9_69aa6a41_20261014.png?v=69aa6a41",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7a60ee8c11",
           "name": "Batman Petrolspor vs Istanbulspor | 18:30 14/10",
