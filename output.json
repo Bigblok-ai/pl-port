@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "02:00:00",
             "date": "15/10",
             "blv": "LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -347,6 +347,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-0ab38d545f",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/7a3478efe23c4ce5bfa317a5ad86a2ec/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -363,8 +380,8 @@
             "logo_b": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
             "time": "02:00:00",
             "date": "15/10",
-            "blv": "LÝ LONG",
-            "is_live": false,
+            "blv": "LÝ LIỀU LĨNH, LÝ LONG",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +401,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +453,7 @@
             "time": "02:00:00",
             "date": "15/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -476,8 +493,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-7b01feb0ad",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-b04c71fb0a",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/7a417c5fe29643b183edf919f0ceb5db/index.m3u8",
@@ -507,7 +524,7 @@
             "logo_b": "https://img.sports-data.online/football/team/dff00f1fd4a7dd2feac000b462416867.png",
             "time": "02:00:00",
             "date": "15/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
           },
@@ -620,8 +637,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a88b147875",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-5e7f89bcfa",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/252ac23835bc4e7da6852623ed1d0ab4/index.m3u8",
@@ -651,7 +668,7 @@
             "logo_b": "https://img.sports-data.online/football/team/03dd1707147dbd5897a8dcae40991e2c.png",
             "time": "17:00:00",
             "date": "15/10",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
           },
@@ -692,8 +709,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-da4eec9a72",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-af0e12c51e",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/67ecc0c6526f42b2b1e81e4bcd5ec7f4/index.m3u8",
@@ -723,7 +740,7 @@
             "logo_b": "https://img.sports-data.online/football/team/e8327d4681b4a73c83be9fe087b30721.png",
             "time": "19:15:00",
             "date": "15/10",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
