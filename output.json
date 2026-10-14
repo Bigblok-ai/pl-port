@@ -161,78 +161,6 @@
           }
         },
         {
-          "id": "pl-b18b294028",
-          "name": "Norwich City vs Southampton | 01:45 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b18b294028",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b18b294028",
-                  "name": "Norwich City vs Southampton",
-                  "streams": [
-                    {
-                      "id": "st-b18b294028",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb49d970cd",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/51fcf0d228c64586b00a385a96808b3c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Championship",
-            "team_a": "Norwich City",
-            "team_b": "Southampton",
-            "logo_a": "https://img.sports-data.online/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png",
-            "logo_b": "https://img.sports-data.online/football/team/4623d3fa1cda20d1f289dce9dc803527.png",
-            "time": "01:45:00",
-            "date": "15/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg4957rep_c5dbe83e_20261015.png?v=c5dbe83e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-a3a4307d84",
           "name": "FK Bodo/Glimt vs Borussia Dortmund | 02:00 15/10",
           "type": "single",
@@ -466,6 +394,78 @@
           }
         },
         {
+          "id": "pl-d211266c99",
+          "name": "Real Betis vs FC Porto | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d211266c99",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d211266c99",
+                  "name": "Real Betis vs FC Porto",
+                  "streams": [
+                    {
+                      "id": "st-d211266c99",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2bc4ffd18f",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5b6c5551975a417ba44456ace1c42dac/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Real Betis",
+            "team_b": "FC Porto",
+            "logo_a": "https://img.sports-data.online/football/team/018e260ad68bdad741c61e3171c4c608.png",
+            "logo_b": "https://img.sports-data.online/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vyolqwz_676ae5e1_20261015.png?v=676ae5e1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-4a8fb563f4",
           "name": "Aston Villa vs Fenerbahce | 02:00 15/10",
           "type": "single",
@@ -533,78 +533,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5p6xrep_b2c84e12_20261015.png?v=b2c84e12",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d211266c99",
-          "name": "Real Betis vs FC Porto | 02:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d211266c99",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d211266c99",
-                  "name": "Real Betis vs FC Porto",
-                  "streams": [
-                    {
-                      "id": "st-d211266c99",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a14272773a",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5b6c5551975a417ba44456ace1c42dac/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Real Betis",
-            "team_b": "FC Porto",
-            "logo_a": "https://img.sports-data.online/football/team/018e260ad68bdad741c61e3171c4c608.png",
-            "logo_b": "https://img.sports-data.online/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png",
-            "time": "02:00:00",
-            "date": "15/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vyolqwz_676ae5e1_20261015.png?v=676ae5e1",
             "width": 1600,
             "height": 1200
           }
