@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3b9629c374",
-          "name": "Geleximco Hưng Yên vs HCĐG Lào Cai | 15:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b9629c374",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3b9629c374",
-                  "name": "Geleximco Hưng Yên vs HCĐG Lào Cai",
-                  "streams": [
-                    {
-                      "id": "st-3b9629c374",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-08d8fad6d0",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/877d8ca1d8044b19afc1187be9979b57/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Geleximco Hưng Yên",
-            "team_b": "HCĐG Lào Cai",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "15:00:00",
-            "date": "14/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4e8be905a71a4ae5a97cedc6e1f04bf9_2b14a5c1_20261014.png?v=2b14a5c1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d7f522161a",
           "name": "VTV BĐ Long An vs Vietinbank | 17:00 14/10",
