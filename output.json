@@ -89,95 +89,6 @@
           }
         },
         {
-          "id": "pl-a0d16cb90f",
-          "name": "FK Bodo/Glimt vs Borussia Dortmund | 02:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a0d16cb90f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a0d16cb90f",
-                  "name": "FK Bodo/Glimt vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-a0d16cb90f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-362314e72d",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0d75009c4be64a20b514c884a98cb1ea/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5e7e268025",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/389eaa247fd94fd08d4e778d95654a25/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "FK Bodo/Glimt",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://static.flashscore.com/res/image/data/KKvh8Yjl-G4RlYr20.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Yiq1eU9r-WrjrBuU2.png",
-            "time": "02:00:00",
-            "date": "15/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1b8ffd860cf84a6c8ff34ea378b2a061_364703b6_20261015.png?v=364703b6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-60e61a6cb8",
           "name": "Manchester City vs Paris Saint Germain | 02:00 15/10",
           "type": "single",
@@ -334,6 +245,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e19dqg8_cf40a88e_20261015.png?v=cf40a88e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-296247d7f6",
+          "name": "Bodo Glimt vs Dortmund | 02:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-296247d7f6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-296247d7f6",
+                  "name": "Bodo Glimt vs Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-296247d7f6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d585599748",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0074468cd03c4e4da0a935b9ff3b387c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Bodo Glimt",
+            "team_b": "Dortmund",
+            "logo_a": "https://static.flashscore.com/res/image/data/KKvh8Yjl-G4RlYr20.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Yiq1eU9r-WrjrBuU2.png",
+            "time": "02:00:00",
+            "date": "15/10",
+            "blv": "LÝ LỀNH",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/89f8158cf8264346866f7c8fee497f21_364703b6_20261015.png?v=364703b6",
             "width": 1600,
             "height": 1200
           }
