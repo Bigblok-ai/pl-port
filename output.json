@@ -188,8 +188,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-267be68138",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-b963555027",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/83ae74c9895b48a0ac7104f22340de60/index.m3u8",
@@ -219,7 +219,7 @@
             "logo_b": "https://img.sports-data.online/football/team/d7947c628537b232f1dc4fc11b03076c.png",
             "time": "18:00:00",
             "date": "14/10",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-72a0ffd175",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-5f16e41b52",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/d70f55d868cf4c35ad0bb777e53bb499/index.m3u8",
@@ -363,7 +363,7 @@
             "logo_b": "https://img.sports-data.online/football/team/21da55d164e80f29bdfd9f8cef55a76b.png",
             "time": "20:45:00",
             "date": "14/10",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
           },
