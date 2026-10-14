@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ba690f9309",
-          "name": "Melbourne Victory vs FC Seoul | 14:45 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ba690f9309",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ba690f9309",
-                  "name": "Melbourne Victory vs FC Seoul",
-                  "streams": [
-                    {
-                      "id": "st-ba690f9309",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-057a12edff",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/731e06daf3214324bef38187de7b49e5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Melbourne Victory",
-            "team_b": "FC Seoul",
-            "logo_a": "https://img.sports-data.online/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
-            "logo_b": "https://img.sports-data.online/football/team/ad010af729c420626d1865ad744168d3.png",
-            "time": "14:45:00",
-            "date": "14/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxly0qdy_70d43a16_20261014.png?v=70d43a16",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-97c28bfa10",
           "name": "Vissel Kobe vs Jeonbuk Hyundai Motors | 17:00 14/10",
