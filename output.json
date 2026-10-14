@@ -1608,6 +1608,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-1cd6e8db69",
+          "name": "VTV BĐ Long An vs XMLS Thanh Hoá | 19:30 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1cd6e8db69",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1cd6e8db69",
+                  "name": "VTV BĐ Long An vs XMLS Thanh Hoá",
+                  "streams": [
+                    {
+                      "id": "st-1cd6e8db69",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f96739f515",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/15b795534ac54a06a0f296b8bd1da7f8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "VTV BĐ Long An",
+            "team_b": "XMLS Thanh Hoá",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
+            "time": "19:30:00",
+            "date": "15/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0a8f9e4094bd4b5395bf7ae251a96a7c_ae6da32a_20261014.png?v=ae6da32a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
