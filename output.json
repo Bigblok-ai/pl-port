@@ -1061,8 +1061,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6ec34c6110",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-4679efbce1",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/8d1b2c25546f47c5aa1f8f6ee750b217/index.m3u8",
@@ -1092,7 +1092,7 @@
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png/250px-Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "time": "12:00:00",
             "date": "14/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": true,
             "cate_type": "bongchuyen"
           },
@@ -1133,8 +1133,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-08d8fad6d0",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-2dd441872c",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/877d8ca1d8044b19afc1187be9979b57/index.m3u8",
@@ -1164,7 +1164,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "time": "14:30:00",
             "date": "14/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
