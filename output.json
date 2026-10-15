@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ce8df51116",
-          "name": "Al Faisaly vs Al Kholood | 20:40 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ce8df51116",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ce8df51116",
-                  "name": "Al Faisaly vs Al Kholood",
-                  "streams": [
-                    {
-                      "id": "st-ce8df51116",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-47290dd09c",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/62f890f1f16d45fe8fb4d1875f24dffd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Faisaly",
-            "team_b": "Al Kholood",
-            "logo_a": "https://img.sports-data.online/football/team/4e9f55c1006ca24b2b535054a52187e8.png",
-            "logo_b": "https://img.sports-data.online/football/team/f68cdd9a1511a39c64d451766c30c3bf.png",
-            "time": "20:40:00",
-            "date": "15/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe1owkr6o_8edbf525_20261015.png?v=8edbf525",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-cafa14b550",
           "name": "Al Hazem vs Al Fateh | 22:15 15/10",
