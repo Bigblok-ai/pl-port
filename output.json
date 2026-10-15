@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d1e114f2cd",
-          "name": "Gangwon FC vs Phnom Penh Crown FC | 17:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d1e114f2cd",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d1e114f2cd",
-                  "name": "Gangwon FC vs Phnom Penh Crown FC",
-                  "streams": [
-                    {
-                      "id": "st-d1e114f2cd",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e7f89bcfa",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/252ac23835bc4e7da6852623ed1d0ab4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Gangwon FC",
-            "team_b": "Phnom Penh Crown FC",
-            "logo_a": "https://img.sports-data.online/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
-            "logo_b": "https://img.sports-data.online/football/team/03dd1707147dbd5897a8dcae40991e2c.png",
-            "time": "17:00:00",
-            "date": "15/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgn2xvq82_42f45094_20261015.png?v=42f45094",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-38dd1a02f8",
           "name": "Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | 19:15 15/10",
@@ -593,78 +521,6 @@
           }
         },
         {
-          "id": "pl-dc064e02ac",
-          "name": "Al Ahli SC vs Al Nassr | 01:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dc064e02ac",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dc064e02ac",
-                  "name": "Al Ahli SC vs Al Nassr",
-                  "streams": [
-                    {
-                      "id": "st-dc064e02ac",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7ddead5d7a",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d77f8ded796c4d2a9dd822c769ff68e6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Ahli SC",
-            "team_b": "Al Nassr",
-            "logo_a": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
-            "logo_b": "https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png",
-            "time": "01:00:00",
-            "date": "16/10",
-            "blv": "LÝ LỀNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy4w35ryk_ced866c0_20261015.png?v=ced866c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-9e3f6760e8",
           "name": "Bournemouth AFC vs Sturm Graz | 02:00 16/10",
           "type": "single",
@@ -812,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0f56ebc387",
-          "name": "Geleximco Hưng Yên vs LB Bank Ninh Bình | 17:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0f56ebc387",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0f56ebc387",
-                  "name": "Geleximco Hưng Yên vs LB Bank Ninh Bình",
-                  "streams": [
-                    {
-                      "id": "st-0f56ebc387",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9f29a20df0",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/57cf5acf8f7b43508c4c8464d6ed81a0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Geleximco Hưng Yên",
-            "team_b": "LB Bank Ninh Bình",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png ",
-            "time": "17:00:00",
-            "date": "15/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ecd25de58a51434eb7b7fecc9b574b2b_f77d6460_20261015.png?v=f77d6460",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1cd6e8db69",
           "name": "VTV BĐ Long An vs XMLS Thanh Hoá | 19:30 15/10",
