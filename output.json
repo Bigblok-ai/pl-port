@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "22:15:00",
             "date": "15/10",
             "blv": "LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1101,6 +1101,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5056014350f0402a81f0302526956775_5e03b0e5_20261015.png?v=5e03b0e5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-40864f8cb8",
+          "name": "HCĐG Lào Cai vs LB Bank Ninh Bình | 14:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40864f8cb8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-40864f8cb8",
+                  "name": "HCĐG Lào Cai vs LB Bank Ninh Bình",
+                  "streams": [
+                    {
+                      "id": "st-40864f8cb8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89fdfe4c20",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/511374e1cf97488ab3436b9bb0bb9d2c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "HCĐG Lào Cai",
+            "team_b": "LB Bank Ninh Bình",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "time": "14:30:00",
+            "date": "17/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/378832b26a9846af84f60beb12b512e8_5d10eea8_20261015.png?v=5d10eea8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ea5e40170b",
+          "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ | 16:35 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea5e40170b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ea5e40170b",
+                  "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ",
+                  "streams": [
+                    {
+                      "id": "st-ea5e40170b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30a090bb5f",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/df888569d64f4accb4ee8c3693c67a41/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "NEC Red Rockets Nữ",
+            "team_b": "Himeji Victorina Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b037a1bf40c26a9e0bad50963dbcb8c4.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/785767cc6b5c1a87a231db426951d44c.png!w80",
+            "time": "16:35:00",
+            "date": "17/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/de39cd42ae134266a813ed0c3151be57_8fb978cb_20261015.png?v=8fb978cb",
             "width": 1600,
             "height": 1200
           }
