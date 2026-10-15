@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-dc21e3211d",
+          "name": "Holstein Kiel vs Hertha Berlin | 23:30 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc21e3211d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dc21e3211d",
+                  "name": "Holstein Kiel vs Hertha Berlin",
+                  "streams": [
+                    {
+                      "id": "st-dc21e3211d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae67596b97",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/690926cd763b448eb61535cecb7469a1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Bundesliga 2",
+            "team_a": "Holstein Kiel",
+            "team_b": "Hertha Berlin",
+            "logo_a": "https://img.sports-data.online/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png",
+            "logo_b": "https://img.sports-data.online/football/team/1f74843bf2ffff474d23d387fa240102.png",
+            "time": "23:30:00",
+            "date": "16/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe69g5r6o_91b46f73_20261015.png?v=91b46f73",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
