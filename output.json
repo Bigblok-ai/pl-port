@@ -1320,6 +1320,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-08c50f4aae",
+          "name": "Geleximco Hưng Yên vs VTV BĐ Long An | 19:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-08c50f4aae",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-08c50f4aae",
+                  "name": "Geleximco Hưng Yên vs VTV BĐ Long An",
+                  "streams": [
+                    {
+                      "id": "st-08c50f4aae",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15c8c45b0b",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/305156b5de9947b2b2000186b657cc78/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Geleximco Hưng Yên",
+            "team_b": "VTV BĐ Long An",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
+            "time": "19:30:00",
+            "date": "17/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/85b8f7c2145a4d519b1dfe4d64f00681_02868ba4_20261015.png?v=02868ba4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
