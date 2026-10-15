@@ -956,44 +956,116 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-1cd6e8db69",
-          "name": "VTV BĐ Long An vs XMLS Thanh Hoá | 19:30 15/10",
+          "id": "pl-3c03dc3210",
+          "name": "Hitachi Nữ vs Gunma Bank Green Wings Women | 12:00 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-1cd6e8db69",
+              "id": "src-3c03dc3210",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-1cd6e8db69",
-                  "name": "VTV BĐ Long An vs XMLS Thanh Hoá",
+                  "id": "ct-3c03dc3210",
+                  "name": "Hitachi Nữ vs Gunma Bank Green Wings Women",
                   "streams": [
                     {
-                      "id": "st-1cd6e8db69",
+                      "id": "st-3c03dc3210",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f96739f515",
+                          "id": "lnk-77ce91c934",
                           "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/15b795534ac54a06a0f296b8bd1da7f8/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/fe9e64e86d544f1b8fc9cab4db6838b8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Hitachi Nữ",
+            "team_b": "Gunma Bank Green Wings Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/8180ff885d2632dcb29343c4f825c3de.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
+            "time": "12:00:00",
+            "date": "17/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4ad815fd89624ef4aa034a5199139c53_3f01f790_20261015.png?v=3f01f790",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-38013c140e",
+          "name": "Hà Nội Tasco Auto vs Vietinbank | 12:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38013c140e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-38013c140e",
+                  "name": "Hà Nội Tasco Auto vs Vietinbank",
+                  "streams": [
+                    {
+                      "id": "st-38013c140e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1039cb5608",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/aaf2418d3db7410da1faaff058bda4b2/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1014,21 +1086,21 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "VTV BĐ Long An",
-            "team_b": "XMLS Thanh Hoá",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "time": "19:30:00",
-            "date": "15/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
+            "team_a": "Hà Nội Tasco Auto",
+            "team_b": "Vietinbank",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
+            "time": "12:00:00",
+            "date": "17/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
             "cate_type": "bongchuyen"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0a8f9e4094bd4b5395bf7ae251a96a7c_ae6da32a_20261015.png?v=ae6da32a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5056014350f0402a81f0302526956775_5e03b0e5_20261015.png?v=5e03b0e5",
             "width": 1600,
             "height": 1200
           }
