@@ -663,6 +663,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-81adabdc85",
+          "name": "Sydney FC vs Western Sydney Wanderers FC | 16:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-81adabdc85",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-81adabdc85",
+                  "name": "Sydney FC vs Western Sydney Wanderers FC",
+                  "streams": [
+                    {
+                      "id": "st-81adabdc85",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7b8f1ea68",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f84dac1970b047c795e050975dbb4c5e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Sydney FC",
+            "team_b": "Western Sydney Wanderers FC",
+            "logo_a": "https://img.sports-data.online/football/team/a0c772584c00e1b6efd1c421344cd005.png",
+            "logo_b": "https://img.sports-data.online/football/team/9054259e823c101ccfe523cd527c2e5b.png",
+            "time": "16:00:00",
+            "date": "16/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6kj1m2w_99c21aad_20261015.png?v=99c21aad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-02de5d6945",
+          "name": "Dong Thap vs Quy Nhon United | 17:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-02de5d6945",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-02de5d6945",
+                  "name": "Dong Thap vs Quy Nhon United",
+                  "streams": [
+                    {
+                      "id": "st-02de5d6945",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-173b2142d7",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4413c8e5950c4ae9b7bce2bebee4faf7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Dong Thap",
+            "team_b": "Quy Nhon United",
+            "logo_a": "https://img.sports-data.online/football/team/aaf7ff777567dba636caf52a05a45c31.png",
+            "logo_b": "https://img.sports-data.online/football/team/d8a1a7a944d3701818056b1632ad6ed5.png",
+            "time": "17:00:00",
+            "date": "16/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gd52r8k_88018ae1_20261015.png?v=88018ae1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-40ebe1840a",
+          "name": "Henan FC vs Tianjin Jinmen Tiger | 18:35 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40ebe1840a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-40ebe1840a",
+                  "name": "Henan FC vs Tianjin Jinmen Tiger",
+                  "streams": [
+                    {
+                      "id": "st-40ebe1840a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-717c9544ae",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bdf00c25c56140bc9652f791515f6d1a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football Super League",
+            "team_a": "Henan FC",
+            "team_b": "Tianjin Jinmen Tiger",
+            "logo_a": "https://img.sports-data.online/football/team/f336520db254da6d6d5294b720d26d83.png",
+            "logo_b": "https://img.sports-data.online/football/team/c1786665c81e5dba734d5a8c2346d69e.png",
+            "time": "18:35:00",
+            "date": "16/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h66l29q86_204e8f40_20261015.png?v=204e8f40",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f06b33c587",
+          "name": "Al Qadsiah vs Abha | 20:15 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f06b33c587",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f06b33c587",
+                  "name": "Al Qadsiah vs Abha",
+                  "streams": [
+                    {
+                      "id": "st-f06b33c587",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-025049bccb",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ccd78db10eca4b83bf9971924b1258f2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Qadsiah",
+            "team_b": "Abha",
+            "logo_a": "https://img.sports-data.online/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
+            "logo_b": "https://img.sports-data.online/football/team/a98a96581615b55fc4ea927d73036ae4.png",
+            "time": "20:15:00",
+            "date": "16/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh65z0jqg8_7f9ad87a_20261015.png?v=7f9ad87a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
