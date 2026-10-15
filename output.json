@@ -1248,6 +1248,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4514878c0c",
+          "name": "BC Thông Tin BĐ19 vs XMLS Thanh Hoá | 17:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4514878c0c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4514878c0c",
+                  "name": "BC Thông Tin BĐ19 vs XMLS Thanh Hoá",
+                  "streams": [
+                    {
+                      "id": "st-4514878c0c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5166dfa783",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5b7627a3e51d4a59918de5b8f848faf6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "BC Thông Tin BĐ19",
+            "team_b": "XMLS Thanh Hoá",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
+            "time": "17:00:00",
+            "date": "17/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6b2cb29e54834326acba15b60cf6b622_45970e56_20261015.png?v=45970e56",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
