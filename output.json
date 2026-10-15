@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cafa14b550",
-          "name": "Al Hazem vs Al Fateh | 22:15 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cafa14b550",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cafa14b550",
-                  "name": "Al Hazem vs Al Fateh",
-                  "streams": [
-                    {
-                      "id": "st-cafa14b550",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5dee197c58",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/db97e5e545684f67b3119971d3390859/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Hazem",
-            "team_b": "Al Fateh",
-            "logo_a": "https://img.sports-data.online/football/team/a2246a99fffe73bb4274e59b10d95f2d.png",
-            "logo_b": "https://img.sports-data.online/football/team/ae23ea18931ebe834ef6fe4799572e7f.png",
-            "time": "22:15:00",
-            "date": "15/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d7vm2w_234f6f09_20261016.png?v=234f6f09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-223c3b6eb8",
           "name": "Red Bull Salzburg vs AC Milan | 23:45 15/10",
