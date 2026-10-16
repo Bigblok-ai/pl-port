@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1e28f95378",
-          "name": "RC Deportivo vs Levante | 02:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1e28f95378",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1e28f95378",
-                  "name": "RC Deportivo vs Levante",
-                  "streams": [
-                    {
-                      "id": "st-1e28f95378",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27b5227f56",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/96e6703ec0a74a90a7773f8299355182/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "RC Deportivo",
-            "team_b": "Levante",
-            "logo_a": "https://img.sports-data.online/football/team/d7f9ac6cceee4a1d472eea59be7f8581.png",
-            "logo_b": "https://img.sports-data.online/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png",
-            "time": "02:00:00",
-            "date": "17/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xj8r6o_8c0d4078_20261017.png?v=8c0d4078",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-070ba0ac26",
           "name": "CLB Thanh Hoa vs Thep Xanh Nam Dinh FC | 17:00 17/10",
