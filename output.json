@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-198442ba6d",
-          "name": "Eintracht Frankfurt vs FC Köln | 01:30 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-198442ba6d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-198442ba6d",
-                  "name": "Eintracht Frankfurt vs FC Köln",
-                  "streams": [
-                    {
-                      "id": "st-198442ba6d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27083bb07c",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9d63e7b7329e4a83998a17d5e4d7429b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Eintracht Frankfurt",
-            "team_b": "FC Köln",
-            "logo_a": "https://img.sports-data.online/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",
-            "logo_b": "https://img.sports-data.online/football/team/887b7663a0d47031528921d9972ae3a6.png",
-            "time": "01:30:00",
-            "date": "17/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyo2loryk_00c01ea4_20261017.png?v=00c01ea4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1e28f95378",
           "name": "RC Deportivo vs Levante | 02:00 17/10",
