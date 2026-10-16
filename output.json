@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-849af5dacb",
+          "name": "Hong Linh Ha Tinh vs Song Lam Nghe An | 18:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-849af5dacb",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-849af5dacb",
+                  "name": "Hong Linh Ha Tinh vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "st-849af5dacb",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-152117eb68",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/017e5f9ec0324aeabbec3256bf3d82f4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hong Linh Ha Tinh",
+            "team_b": "Song Lam Nghe An",
+            "logo_a": "https://img.sports-data.online/football/team/83dd94c5ca68e8f9a3980f036afcb511.png",
+            "logo_b": "https://img.sports-data.online/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
+            "time": "18:00:00",
+            "date": "17/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj48x1m2w_78d3f77b_20261016.png?v=78d3f77b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
