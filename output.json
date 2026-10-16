@@ -1394,6 +1394,78 @@
           }
         },
         {
+          "id": "pl-b2846a9ccd",
+          "name": "Hà Nội Tasco Auto vs LB Bank Ninh Bình | 12:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2846a9ccd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b2846a9ccd",
+                  "name": "Hà Nội Tasco Auto vs LB Bank Ninh Bình",
+                  "streams": [
+                    {
+                      "id": "st-b2846a9ccd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-14c82d3f10",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4527332db83f45e3b8c870d9fba1bc5e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội Tasco Auto",
+            "team_b": "LB Bank Ninh Bình",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "time": "12:00:00",
+            "date": "18/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45678b260ab345ecafa6eaf06f3b74e4_5bcd3b1c_20261016.png?v=5bcd3b1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-7708f869b0",
           "name": "Astemo Rivale vs Gunma Bank Green Wings | 12:00 18/10",
           "type": "single",
@@ -1461,6 +1533,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5a71b25a8dcd4e7f9f022f020195f42d_606b2b45_20261016.png?v=606b2b45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1542f9679d",
+          "name": "Vietinbank vs XMLS Thanh Hoá | 14:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1542f9679d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1542f9679d",
+                  "name": "Vietinbank vs XMLS Thanh Hoá",
+                  "streams": [
+                    {
+                      "id": "st-1542f9679d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-59e469c002",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8790d25452ba4ec8a6e7c9b8439e45c3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Vietinbank",
+            "team_b": "XMLS Thanh Hoá",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
+            "time": "14:30:00",
+            "date": "18/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/17e8cfddfb404d799da83f22c6e0144a_427aa925_20261016.png?v=427aa925",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f015771332",
+          "name": "HCĐG Lào Cai vs VTV BĐ Long An | 17:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f015771332",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f015771332",
+                  "name": "HCĐG Lào Cai vs VTV BĐ Long An",
+                  "streams": [
+                    {
+                      "id": "st-f015771332",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aba9f38ada",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/de1b69e6c42d4ab0979f137ca3fc67b1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "HCĐG Lào Cai",
+            "team_b": "VTV BĐ Long An",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
+            "time": "17:00:00",
+            "date": "18/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/89c8dc08d06f46a69353623305c8aefa_45ca2bd5_20261016.png?v=45ca2bd5",
             "width": 1600,
             "height": 1200
           }
