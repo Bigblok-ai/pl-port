@@ -11,23 +11,23 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
           "id": "pl-81adabdc85",
-          "name": "Sydney FC vs Western Sydney Wanderers FC",
+          "name": "Sydney FC vs Western Sydney Wanderers FC | 16:00 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -73,10 +73,10 @@
             "team_b": "Western Sydney Wanderers FC",
             "logo_a": "https://img.sports-data.online/football/team/a0c772584c00e1b6efd1c421344cd005.png",
             "logo_b": "https://img.sports-data.online/football/team/9054259e823c101ccfe523cd527c2e5b.png",
-            "time": "",
-            "date": "",
+            "time": "16:00:00",
+            "date": "16/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-02de5d6945",
-          "name": "Dong Thap vs Quy Nhon United",
+          "name": "Dong Thap vs Quy Nhon United | 17:00 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Quy Nhon United",
             "logo_a": "https://img.sports-data.online/football/team/aaf7ff777567dba636caf52a05a45c31.png",
             "logo_b": "https://img.sports-data.online/football/team/d8a1a7a944d3701818056b1632ad6ed5.png",
-            "time": "",
-            "date": "",
+            "time": "17:00:00",
+            "date": "16/10",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -162,7 +162,7 @@
         },
         {
           "id": "pl-40ebe1840a",
-          "name": "Henan FC vs Tianjin Jinmen Tiger",
+          "name": "Henan FC vs Tianjin Jinmen Tiger | 18:35 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,8 +217,8 @@
             "team_b": "Tianjin Jinmen Tiger",
             "logo_a": "https://img.sports-data.online/football/team/f336520db254da6d6d5294b720d26d83.png",
             "logo_b": "https://img.sports-data.online/football/team/c1786665c81e5dba734d5a8c2346d69e.png",
-            "time": "",
-            "date": "",
+            "time": "18:35:00",
+            "date": "16/10",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-f06b33c587",
-          "name": "Al Qadsiah vs Abha",
+          "name": "Al Qadsiah vs Abha | 20:15 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -289,8 +289,8 @@
             "team_b": "Abha",
             "logo_a": "https://img.sports-data.online/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
             "logo_b": "https://img.sports-data.online/football/team/a98a96581615b55fc4ea927d73036ae4.png",
-            "time": "",
-            "date": "",
+            "time": "20:15:00",
+            "date": "16/10",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
@@ -306,7 +306,7 @@
         },
         {
           "id": "pl-b190e35af5",
-          "name": "Al-Ahli Sports Club(Qatar) vs Al-Wakrah Sports Club",
+          "name": "Al-Ahli Sports Club(Qatar) vs Al-Wakrah Sports Club | 21:30 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -361,8 +361,8 @@
             "team_b": "Al-Wakrah Sports Club",
             "logo_a": "https://img.sports-data.online/football/team/99b9e5475b90aa5b91fe68685bcd5e78.png",
             "logo_b": "https://img.sports-data.online/football/team/7dc879cf9017e0afa51a45de8aab7ec4.png",
-            "time": "",
-            "date": "",
+            "time": "21:30:00",
+            "date": "16/10",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -378,7 +378,7 @@
         },
         {
           "id": "pl-dc21e3211d",
-          "name": "Holstein Kiel vs Hertha Berlin",
+          "name": "Holstein Kiel vs Hertha Berlin | 23:30 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,8 +433,8 @@
             "team_b": "Hertha Berlin",
             "logo_a": "https://img.sports-data.online/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png",
             "logo_b": "https://img.sports-data.online/football/team/1f74843bf2ffff474d23d387fa240102.png",
-            "time": "",
-            "date": "",
+            "time": "23:30:00",
+            "date": "16/10",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -450,7 +450,7 @@
         },
         {
           "id": "pl-198442ba6d",
-          "name": "Eintracht Frankfurt vs FC Köln",
+          "name": "Eintracht Frankfurt vs FC Köln | 01:30 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -505,8 +505,8 @@
             "team_b": "FC Köln",
             "logo_a": "https://img.sports-data.online/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",
             "logo_b": "https://img.sports-data.online/football/team/887b7663a0d47031528921d9972ae3a6.png",
-            "time": "",
-            "date": "",
+            "time": "01:30:00",
+            "date": "17/10",
             "blv": "LÝ LỀNH",
             "is_live": false,
             "cate_type": "football"
@@ -522,7 +522,7 @@
         },
         {
           "id": "pl-1e28f95378",
-          "name": "RC Deportivo vs Levante",
+          "name": "RC Deportivo vs Levante | 02:00 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -577,8 +577,8 @@
             "team_b": "Levante",
             "logo_a": "https://img.sports-data.online/football/team/d7f9ac6cceee4a1d472eea59be7f8581.png",
             "logo_b": "https://img.sports-data.online/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png",
-            "time": "",
-            "date": "",
+            "time": "02:00:00",
+            "date": "17/10",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -588,942 +588,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xj8r6o_8c0d4078_20261016.png?v=8c0d4078",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-070ba0ac26",
-          "name": "CLB Thanh Hoa vs Thep Xanh Nam Dinh FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-070ba0ac26",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-070ba0ac26",
-                  "name": "CLB Thanh Hoa vs Thep Xanh Nam Dinh FC",
-                  "streams": [
-                    {
-                      "id": "st-070ba0ac26",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1aae87a9ed",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/dca643967dcd47458e54d087ca0b6f81/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "CLB Thanh Hoa",
-            "team_b": "Thep Xanh Nam Dinh FC",
-            "logo_a": "https://img.sports-data.online/football/team/56ce2ac5d2d7477de4df40e27bcdfd7b.png",
-            "logo_b": "https://img.sports-data.online/football/team/bc5db4dd418cb566a4475649876b55bb.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey3k1r6o_7efddb75_20261016.png?v=7efddb75",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-849af5dacb",
-          "name": "Hong Linh Ha Tinh vs Song Lam Nghe An",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-849af5dacb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-849af5dacb",
-                  "name": "Hong Linh Ha Tinh vs Song Lam Nghe An",
-                  "streams": [
-                    {
-                      "id": "st-849af5dacb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-152117eb68",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/017e5f9ec0324aeabbec3256bf3d82f4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hong Linh Ha Tinh",
-            "team_b": "Song Lam Nghe An",
-            "logo_a": "https://img.sports-data.online/football/team/83dd94c5ca68e8f9a3980f036afcb511.png",
-            "logo_b": "https://img.sports-data.online/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj48x1m2w_78d3f77b_20261016.png?v=78d3f77b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-ef44b409a2",
-          "name": "Everton vs Chelsea",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef44b409a2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ef44b409a2",
-                  "name": "Everton vs Chelsea",
-                  "streams": [
-                    {
-                      "id": "st-ef44b409a2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-547774c23c",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1074cc11c345493d91c2f19316b992e2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Everton",
-            "team_b": "Chelsea",
-            "logo_a": "https://img.sports-data.online/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png",
-            "logo_b": "https://img.sports-data.online/football/team/a0cf8f551e9440acb3f4ff533dcc58a4.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LA LÀNG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzklzr51_bb9daf70_20261016.png?v=bb9daf70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-9b62fe76ec",
-          "name": "RCD Espanyol de Barcelona vs Atletico Madrid",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9b62fe76ec",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9b62fe76ec",
-                  "name": "RCD Espanyol de Barcelona vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-9b62fe76ec",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-44ef6356a8",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/13c077b847754979ac848747896bbb74/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "RCD Espanyol de Barcelona",
-            "team_b": "Atletico Madrid",
-            "logo_a": "https://img.sports-data.online/football/team/214049d4df11756a2eb21bbd8266e2a1.png",
-            "logo_b": "https://img.sports-data.online/football/team/390977b0421bce136c562057ea171ecf.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LINH LỰC",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjep09m2w_aacabcd4_20261016.png?v=aacabcd4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-a741923383",
-          "name": "1. FC Union Berlin vs Borussia Dortmund",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a741923383",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a741923383",
-                  "name": "1. FC Union Berlin vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-a741923383",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0816328e79",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/adf592146e0b40b08dd12b2bce32768a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "1. FC Union Berlin",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://img.sports-data.online/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
-            "logo_b": "https://img.sports-data.online/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l42qdy_fb0b3e59_20261016.png?v=fb0b3e59",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-f73126a691",
-          "name": "Brentford vs Liverpool",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f73126a691",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f73126a691",
-                  "name": "Brentford vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-f73126a691",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bc1936e15",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/48a93ad684be40d380b316e8cf4e8acc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Brentford",
-            "team_b": "Liverpool",
-            "logo_a": "https://img.sports-data.online/football/team/60f1c7788be3148a370dbf59f914abfe.png",
-            "logo_b": "https://img.sports-data.online/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LỀNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61nvyq86_c9e887df_20261016.png?v=c9e887df",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-5ba06042bc",
-          "name": "Fulham vs Hull City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5ba06042bc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5ba06042bc",
-                  "name": "Fulham vs Hull City",
-                  "streams": [
-                    {
-                      "id": "st-5ba06042bc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c8ac2bba0",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0792d6e6a08c4c22b50f7b8b4a2365ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Fulham",
-            "team_b": "Hull City",
-            "logo_a": "https://img.sports-data.online/football/team/29982511f1ea861967c3e6478d6a8a68.png",
-            "logo_b": "https://img.sports-data.online/football/team/262691204102d2200797f0ac34efb316.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LINH LỰC",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1jo0pq0j_cd762f2a_20261016.png?v=cd762f2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-2ba6a16cfb",
-          "name": "Manchester City vs Ipswich Town",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2ba6a16cfb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2ba6a16cfb",
-                  "name": "Manchester City vs Ipswich Town",
-                  "streams": [
-                    {
-                      "id": "st-2ba6a16cfb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51f192e15e",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a6fad7c88c8c4b98879ca0b67343ab8c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Manchester City",
-            "team_b": "Ipswich Town",
-            "logo_a": "https://img.sports-data.online/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-            "logo_b": "https://img.sports-data.online/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdepkm2w_e39991ac_20261016.png?v=e39991ac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-13833e3389",
-          "name": "RC Strasbourg Alsace vs Paris Saint Germain",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-13833e3389",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-13833e3389",
-                  "name": "RC Strasbourg Alsace vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-13833e3389",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d481463d21",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7d67e225aaa549b38718e4737243e77e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "RC Strasbourg Alsace",
-            "team_b": "Paris Saint Germain",
-            "logo_a": "https://img.sports-data.online/football/team/998db478bf7c06d5817bf846987a0d0a.png",
-            "logo_b": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d8olql0_c302ba5c_20261016.png?v=c302ba5c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-3afc222c25",
-          "name": "Bologna vs Inter Milan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3afc222c25",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3afc222c25",
-                  "name": "Bologna vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "st-3afc222c25",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4606daa7d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/36f7866fa9b3404d869ebe360a679dc1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Bologna",
-            "team_b": "Inter Milan",
-            "logo_a": "https://img.sports-data.online/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
-            "logo_b": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d39zql0_2d35317e_20261016.png?v=2d35317e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-773dc6818c",
-          "name": "Real Betis vs FC Barcelona",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-773dc6818c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-773dc6818c",
-                  "name": "Real Betis vs FC Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-773dc6818c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-233f44ba86",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a7c90f994d2d4dcca6cf5d795845bf7a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Real Betis",
-            "team_b": "FC Barcelona",
-            "logo_a": "https://img.sports-data.online/football/team/018e260ad68bdad741c61e3171c4c608.png",
-            "logo_b": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LA LÀNG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1oz2eq0j_4f3cb09d_20261016.png?v=4f3cb09d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6c38b42cb8",
-          "name": "Newcastle United vs Aston Villa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c38b42cb8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6c38b42cb8",
-                  "name": "Newcastle United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-6c38b42cb8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-61c04cd0be",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/80029ac94da54a4b96bc279ca19e30ff/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Newcastle United",
-            "team_b": "Aston Villa",
-            "logo_a": "https://img.sports-data.online/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
-            "logo_b": "https://img.sports-data.online/football/team/a3c32d6a906083118cac2cb796edaab3.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldz1lmoe_b2179d70_20261016.png?v=b2179d70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-7af025d204",
-          "name": "FC Bayern Munich vs RB Leipzig",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7af025d204",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7af025d204",
-                  "name": "FC Bayern Munich vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-7af025d204",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23d9a0b58e",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b53bffcd6879477d9250c522f939f3af/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "FC Bayern Munich",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://img.sports-data.online/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
-            "logo_b": "https://img.sports-data.online/football/team/c166a220bf20977df2bd82fc067696f5.png",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LỀNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgkejgr51_5edf2aee_20261016.png?v=5edf2aee",
             "width": 1600,
             "height": 1200
           }
@@ -1539,7 +603,7 @@
       "channels": [
         {
           "id": "pl-3c03dc3210",
-          "name": "Hitachi Nữ vs Gunma Bank Green Wings Women",
+          "name": "Hitachi Nữ vs Gunma Bank Green Wings Women | 12:00 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1594,8 +658,8 @@
             "team_b": "Gunma Bank Green Wings Women",
             "logo_a": "https://img0.aiscore.com/volleyball/team/8180ff885d2632dcb29343c4f825c3de.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
-            "time": "",
-            "date": "",
+            "time": "12:00:00",
+            "date": "17/10",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1611,7 +675,7 @@
         },
         {
           "id": "pl-38013c140e",
-          "name": "Hà Nội Tasco Auto vs Vietinbank",
+          "name": "Hà Nội Tasco Auto vs Vietinbank | 12:00 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1666,8 +730,8 @@
             "team_b": "Vietinbank",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
-            "time": "",
-            "date": "",
+            "time": "12:00:00",
+            "date": "17/10",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1683,7 +747,7 @@
         },
         {
           "id": "pl-40864f8cb8",
-          "name": "HCĐG Lào Cai vs LB Bank Ninh Bình",
+          "name": "HCĐG Lào Cai vs LB Bank Ninh Bình | 14:30 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1738,8 +802,8 @@
             "team_b": "LB Bank Ninh Bình",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "time": "",
-            "date": "",
+            "time": "14:30:00",
+            "date": "17/10",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1755,7 +819,7 @@
         },
         {
           "id": "pl-ea5e40170b",
-          "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ",
+          "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ | 16:35 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1810,8 +874,8 @@
             "team_b": "Himeji Victorina Nữ",
             "logo_a": "https://img0.aiscore.com/volleyball/team/b037a1bf40c26a9e0bad50963dbcb8c4.png!w80",
             "logo_b": "https://img0.aiscore.com/volleyball/team/785767cc6b5c1a87a231db426951d44c.png!w80",
-            "time": "",
-            "date": "",
+            "time": "16:35:00",
+            "date": "17/10",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1827,7 +891,7 @@
         },
         {
           "id": "pl-4514878c0c",
-          "name": "BC Thông Tin BĐ19 vs XMLS Thanh Hoá",
+          "name": "BC Thông Tin BĐ19 vs XMLS Thanh Hoá | 17:00 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1882,8 +946,8 @@
             "team_b": "XMLS Thanh Hoá",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "time": "",
-            "date": "",
+            "time": "17:00:00",
+            "date": "17/10",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1899,7 +963,7 @@
         },
         {
           "id": "pl-08c50f4aae",
-          "name": "Geleximco Hưng Yên vs VTV BĐ Long An",
+          "name": "Geleximco Hưng Yên vs VTV BĐ Long An | 19:30 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1954,8 +1018,8 @@
             "team_b": "VTV BĐ Long An",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
-            "time": "",
-            "date": "",
+            "time": "19:30:00",
+            "date": "17/10",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
