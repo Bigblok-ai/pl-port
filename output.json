@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a741923383",
+          "name": "1. FC Union Berlin vs Borussia Dortmund | 20:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a741923383",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a741923383",
+                  "name": "1. FC Union Berlin vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-a741923383",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0816328e79",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/adf592146e0b40b08dd12b2bce32768a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "1. FC Union Berlin",
+            "team_b": "Borussia Dortmund",
+            "logo_a": "https://img.sports-data.online/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
+            "logo_b": "https://img.sports-data.online/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
+            "time": "20:30:00",
+            "date": "17/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l42qdy_fb0b3e59_20261016.png?v=fb0b3e59",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
