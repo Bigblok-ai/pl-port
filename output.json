@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9b62fe76ec",
+          "name": "RCD Espanyol de Barcelona vs Atletico Madrid | 19:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b62fe76ec",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9b62fe76ec",
+                  "name": "RCD Espanyol de Barcelona vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-9b62fe76ec",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-44ef6356a8",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/13c077b847754979ac848747896bbb74/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "RCD Espanyol de Barcelona",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://img.sports-data.online/football/team/214049d4df11756a2eb21bbd8266e2a1.png",
+            "logo_b": "https://img.sports-data.online/football/team/390977b0421bce136c562057ea171ecf.png",
+            "time": "19:00:00",
+            "date": "17/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjep09m2w_aacabcd4_20261016.png?v=aacabcd4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
