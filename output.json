@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "23:30:00",
             "date": "16/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -948,6 +948,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d8olql0_c302ba5c_20261016.png?v=c302ba5c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3afc222c25",
+          "name": "Bologna vs Inter Milan | 23:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3afc222c25",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3afc222c25",
+                  "name": "Bologna vs Inter Milan",
+                  "streams": [
+                    {
+                      "id": "st-3afc222c25",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e4606daa7d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/36f7866fa9b3404d869ebe360a679dc1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Bologna",
+            "team_b": "Inter Milan",
+            "logo_a": "https://img.sports-data.online/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+            "logo_b": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
+            "time": "23:00:00",
+            "date": "17/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d39zql0_2d35317e_20261016.png?v=2d35317e",
             "width": 1600,
             "height": 1200
           }
