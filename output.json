@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-40ebe1840a",
-          "name": "Henan FC vs Tianjin Jinmen Tiger | 18:35 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40ebe1840a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-40ebe1840a",
-                  "name": "Henan FC vs Tianjin Jinmen Tiger",
-                  "streams": [
-                    {
-                      "id": "st-40ebe1840a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-717c9544ae",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bdf00c25c56140bc9652f791515f6d1a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Henan FC",
-            "team_b": "Tianjin Jinmen Tiger",
-            "logo_a": "https://img.sports-data.online/football/team/f336520db254da6d6d5294b720d26d83.png",
-            "logo_b": "https://img.sports-data.online/football/team/c1786665c81e5dba734d5a8c2346d69e.png",
-            "time": "18:35:00",
-            "date": "16/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h66l29q86_204e8f40_20261016.png?v=204e8f40",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f06b33c587",
           "name": "Al Qadsiah vs Abha | 20:15 16/10",
