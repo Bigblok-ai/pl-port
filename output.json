@@ -1680,6 +1680,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-27fe6e8ff2",
+          "name": "Zeren Spor Women vs Fenerbahce Nữ | 19:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-27fe6e8ff2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-27fe6e8ff2",
+                  "name": "Zeren Spor Women vs Fenerbahce Nữ",
+                  "streams": [
+                    {
+                      "id": "st-27fe6e8ff2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7fd36cc40e",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/91fa764170e340358c4487ebfa75c5c9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Zeren Spor Women",
+            "team_b": "Fenerbahce Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/54fc4aabcc2beabb25eee5af3ee4b164.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
+            "time": "19:00:00",
+            "date": "18/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fd7434cf879e4224b97d420c667659c8_92b476c5_20261016.png?v=92b476c5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-571e5ab0a9",
+          "name": "\"BC Thông Tin BĐ19 vs Geleximco Hưng Yên \" | 19:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-571e5ab0a9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-571e5ab0a9",
+                  "name": "\"BC Thông Tin BĐ19 vs Geleximco Hưng Yên \"",
+                  "streams": [
+                    {
+                      "id": "st-571e5ab0a9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a56457fa7",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5f40df7da7eb4e8d8c9860d34e5fb4d3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "\"BC Thông Tin BĐ19",
+            "team_b": "Geleximco Hưng Yên \"",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
+            "time": "19:30:00",
+            "date": "18/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ecfd571bb3464809b08de98a3b1566c4_7303495e_20261016.png?v=7303495e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-def595c447",
+          "name": "Eczacibasi Nữ vs Vakifbank Nữ | 22:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-def595c447",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-def595c447",
+                  "name": "Eczacibasi Nữ vs Vakifbank Nữ",
+                  "streams": [
+                    {
+                      "id": "st-def595c447",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2c9bf1c63",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ad9e24bf66874cc082e59eab4a73fe79/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Eczacibasi Nữ",
+            "team_b": "Vakifbank Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "time": "22:00:00",
+            "date": "18/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9335917d0b994a188f8625a4dc7a441f_38d475b2_20261016.png?v=38d475b2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
