@@ -1167,6 +1167,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d4a87c7f44",
+          "name": "AS Roma vs Genoa | 01:45 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d4a87c7f44",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d4a87c7f44",
+                  "name": "AS Roma vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-d4a87c7f44",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81ee002cf4",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4a5a741a812c4c33ae8e32ff4686c302/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "AS Roma",
+            "team_b": "Genoa",
+            "logo_a": "https://img.sports-data.online/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png",
+            "logo_b": "https://img.sports-data.online/football/team/51474fb68c7da46b9c20ebddccec7766.png",
+            "time": "01:45:00",
+            "date": "18/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1j76zq0j_5eccd278_20261017.png?v=5eccd278",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
