@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "18:00:00",
             "date": "17/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1164,6 +1164,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkxz3kr1g_f82b6c23_20261017.png?v=f82b6c23",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-58247fc164",
+          "name": "Ninh Binh FC vs Hoang Anh Gia Lai | 18:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58247fc164",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-58247fc164",
+                  "name": "Ninh Binh FC vs Hoang Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "st-58247fc164",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9672bedfc",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cf2938c3e793404fa7b54adf06ecd098/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Ninh Binh FC",
+            "team_b": "Hoang Anh Gia Lai",
+            "logo_a": "https://img.sports-data.online/football/team/5452226660be0829fdb40967dd4b0b77.png",
+            "logo_b": "https://img.sports-data.online/football/team/df2ae58b9e658494b940b0bd782901b8.png",
+            "time": "18:00:00",
+            "date": "18/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6792vqg8_455df7f7_20261017.png?v=455df7f7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-92bdc0dc8c",
+          "name": "Bac Ninh vs Truong Tuoi Dong Nai | 18:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-92bdc0dc8c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-92bdc0dc8c",
+                  "name": "Bac Ninh vs Truong Tuoi Dong Nai",
+                  "streams": [
+                    {
+                      "id": "st-92bdc0dc8c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5875721a7e",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/703f91874f634ed1b1272e6fa75ce68f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Bac Ninh",
+            "team_b": "Truong Tuoi Dong Nai",
+            "logo_a": "https://img.sports-data.online/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
+            "logo_b": "https://img.sports-data.online/football/team/a9741c7972e214b1c312092c8b51acd8.png",
+            "time": "18:00:00",
+            "date": "18/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv14vqvy_c63ea6bb_20261017.png?v=c63ea6bb",
             "width": 1600,
             "height": 1200
           }
