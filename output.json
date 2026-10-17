@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ef44b409a2",
-          "name": "Everton vs Chelsea | 18:30 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef44b409a2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ef44b409a2",
-                  "name": "Everton vs Chelsea",
-                  "streams": [
-                    {
-                      "id": "st-ef44b409a2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-547774c23c",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1074cc11c345493d91c2f19316b992e2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Everton",
-            "team_b": "Chelsea",
-            "logo_a": "https://img.sports-data.online/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png",
-            "logo_b": "https://img.sports-data.online/football/team/a0cf8f551e9440acb3f4ff533dcc58a4.png",
-            "time": "18:30:00",
-            "date": "17/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzklzr51_bb9daf70_20261017.png?v=bb9daf70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a741923383",
           "name": "1. FC Union Berlin vs Borussia Dortmund | 20:30 17/10",
