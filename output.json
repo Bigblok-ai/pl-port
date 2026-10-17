@@ -1250,8 +1250,8 @@
           }
         },
         {
-          "id": "pl-38013c140e",
-          "name": "Hà Nội Tasco Auto vs Vietinbank | 12:00 17/10",
+          "id": "pl-40864f8cb8",
+          "name": "HCĐG Lào Cai vs LB Bank Ninh Bình | 14:30 17/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1261,78 +1261,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-38013c140e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-38013c140e",
-                  "name": "Hà Nội Tasco Auto vs Vietinbank",
-                  "streams": [
-                    {
-                      "id": "st-38013c140e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1039cb5608",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/aaf2418d3db7410da1faaff058bda4b2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Hà Nội Tasco Auto",
-            "team_b": "Vietinbank",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
-            "time": "12:00:00",
-            "date": "17/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5056014350f0402a81f0302526956775_5e03b0e5_20261017.png?v=5e03b0e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-40864f8cb8",
-          "name": "HCĐG Lào Cai vs LB Bank Ninh Bình | 14:30 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1381,7 +1309,7 @@
             "time": "14:30:00",
             "date": "17/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
