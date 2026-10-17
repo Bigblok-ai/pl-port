@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-13833e3389",
-          "name": "RC Strasbourg Alsace vs Paris Saint Germain | 22:15 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-13833e3389",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-13833e3389",
-                  "name": "RC Strasbourg Alsace vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-13833e3389",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d481463d21",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7d67e225aaa549b38718e4737243e77e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "French Ligue 1",
-            "team_a": "RC Strasbourg Alsace",
-            "team_b": "Paris Saint Germain",
-            "logo_a": "https://img.sports-data.online/football/team/998db478bf7c06d5817bf846987a0d0a.png",
-            "logo_b": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
-            "time": "22:15:00",
-            "date": "17/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d8olql0_c302ba5c_20261018.png?v=c302ba5c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3afc222c25",
           "name": "Bologna vs Inter Milan | 23:00 17/10",
