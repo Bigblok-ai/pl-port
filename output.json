@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-849af5dacb",
-          "name": "Hong Linh Ha Tinh vs Song Lam Nghe An | 18:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-849af5dacb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-849af5dacb",
-                  "name": "Hong Linh Ha Tinh vs Song Lam Nghe An",
-                  "streams": [
-                    {
-                      "id": "st-849af5dacb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-152117eb68",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/017e5f9ec0324aeabbec3256bf3d82f4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hong Linh Ha Tinh",
-            "team_b": "Song Lam Nghe An",
-            "logo_a": "https://img.sports-data.online/football/team/83dd94c5ca68e8f9a3980f036afcb511.png",
-            "logo_b": "https://img.sports-data.online/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
-            "time": "18:00:00",
-            "date": "17/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj48x1m2w_78d3f77b_20261017.png?v=78d3f77b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ef44b409a2",
           "name": "Everton vs Chelsea | 18:30 17/10",
@@ -1236,6 +1164,239 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg84ojq82_ec782400_20261017.png?v=ec782400",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b8c8a0a46f",
+          "name": "Bournemouth AFC vs Sunderland | 20:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8c8a0a46f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b8c8a0a46f",
+                  "name": "Bournemouth AFC vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-b8c8a0a46f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef5d839121",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4f641e2188634d3c9766acbb552c9b79/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Bournemouth AFC",
+            "team_b": "Sunderland",
+            "logo_a": "https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png",
+            "logo_b": "https://img.sports-data.online/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
+            "time": "20:00:00",
+            "date": "18/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldz8lmoe_bebf2fab_20261017.png?v=bebf2fab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8452212bb8",
+          "name": "Leeds United vs Manchester United | 20:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8452212bb8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8452212bb8",
+                  "name": "Leeds United vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-8452212bb8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-50ac0f0ad2",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/29d4c62a89c8476b89f323d5cd7c6e1b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-511a113b2a",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/b7cff091130d44dea654ac9b4131767e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Leeds United",
+            "team_b": "Manchester United",
+            "logo_a": "https://img.sports-data.online/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
+            "logo_b": "https://img.sports-data.online/football/team/d39ce586fd7278342dde33b3090b3f75.png",
+            "time": "20:00:00",
+            "date": "18/10",
+            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e0faa62045824d7698bd2ce95fda9dc3_c386d9e8_20261017.png?v=c386d9e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e216cbeb88",
+          "name": "Brighton Hove Albion vs Crystal Palace | 20:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e216cbeb88",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e216cbeb88",
+                  "name": "Brighton Hove Albion vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-e216cbeb88",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-62cd9ba794",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6fff3903e16d41aa89a120c90977d0ae/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Brighton Hove Albion",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://img.sports-data.online/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
+            "logo_b": "https://img.sports-data.online/football/team/42396d18444156e640c37476c2b41b93.png",
+            "time": "20:00:00",
+            "date": "18/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdvwgrz8_4dd7f525_20261017.png?v=4dd7f525",
             "width": 1600,
             "height": 1200
           }
