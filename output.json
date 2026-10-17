@@ -1112,6 +1112,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f820731970",
+          "name": "Real Madrid vs Sevilla FC | 02:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f820731970",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f820731970",
+                  "name": "Real Madrid vs Sevilla FC",
+                  "streams": [
+                    {
+                      "id": "st-f820731970",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b9b61fc02",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/51123c6c3b1d4b8db4012e2118a7e2e6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Madrid",
+            "team_b": "Sevilla FC",
+            "logo_a": "https://img.sports-data.online/football/team/7dacaa934fe4be00f23c1e209b5ef947.png",
+            "logo_b": "https://img.sports-data.online/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png",
+            "time": "02:00:00",
+            "date": "19/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnj1vzm0v_3f01ba93_20261018.png?v=3f01ba93",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
