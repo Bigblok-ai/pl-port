@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f3dfd6da30",
-          "name": "Hannover 96 vs FC St. Pauli | 01:30 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3dfd6da30",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f3dfd6da30",
-                  "name": "Hannover 96 vs FC St. Pauli",
-                  "streams": [
-                    {
-                      "id": "st-f3dfd6da30",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f9cd0d264",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/af703829c7a5413297326179d843b512/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German Bundesliga 2",
-            "team_a": "Hannover 96",
-            "team_b": "FC St. Pauli",
-            "logo_a": "https://img.sports-data.online/football/team/1800be60204966114d63970b5d0873da.png",
-            "logo_b": "https://img.sports-data.online/football/team/65503b155488a643de688e8dfa849b1f.png",
-            "time": "01:30:00",
-            "date": "18/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkx1e7r1g_3b22b783_20261018.png?v=3b22b783",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d4a87c7f44",
           "name": "AS Roma vs Genoa | 01:45 18/10",
