@@ -1167,49 +1167,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-ea5e40170b",
-          "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ | 16:35 17/10",
+          "id": "pl-c2b9506bff",
+          "name": "Cong An Ha Noi FC vs Hanoi FC | 19:15 18/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-ea5e40170b",
+              "id": "src-c2b9506bff",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-ea5e40170b",
-                  "name": "NEC Red Rockets Nữ vs Himeji Victorina Nữ",
+                  "id": "ct-c2b9506bff",
+                  "name": "Cong An Ha Noi FC vs Hanoi FC",
                   "streams": [
                     {
-                      "id": "st-ea5e40170b",
+                      "id": "st-c2b9506bff",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-30a090bb5f",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-096839d5f3",
+                          "name": "LÝ LỀNH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/df888569d64f4accb4ee8c3693c67a41/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/b356df533c09468cb9e37ab9d32c9fe1/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1229,26 +1220,35 @@
             }
           ],
           "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "NEC Red Rockets Nữ",
-            "team_b": "Himeji Victorina Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b037a1bf40c26a9e0bad50963dbcb8c4.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/785767cc6b5c1a87a231db426951d44c.png!w80",
-            "time": "16:35:00",
-            "date": "17/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "Vietnam National Champion League",
+            "team_a": "Cong An Ha Noi FC",
+            "team_b": "Hanoi FC",
+            "logo_a": "https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png",
+            "logo_b": "https://img.sports-data.online/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png",
+            "time": "19:15:00",
+            "date": "18/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/de39cd42ae134266a813ed0c3151be57_8fb978cb_20261017.png?v=8fb978cb",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg84ojq82_ec782400_20261017.png?v=ec782400",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-08c50f4aae",
           "name": "Geleximco Hưng Yên vs VTV BĐ Long An | 19:30 17/10",
@@ -1257,10 +1257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1309,7 +1309,7 @@
             "time": "19:30:00",
             "date": "17/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
