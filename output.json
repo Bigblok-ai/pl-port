@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "pl-5ba06042bc",
-          "name": "Fulham vs Hull City | 21:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5ba06042bc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5ba06042bc",
-                  "name": "Fulham vs Hull City",
-                  "streams": [
-                    {
-                      "id": "st-5ba06042bc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c8ac2bba0",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0792d6e6a08c4c22b50f7b8b4a2365ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Fulham",
-            "team_b": "Hull City",
-            "logo_a": "https://img.sports-data.online/football/team/29982511f1ea861967c3e6478d6a8a68.png",
-            "logo_b": "https://img.sports-data.online/football/team/262691204102d2200797f0ac34efb316.png",
-            "time": "21:00:00",
-            "date": "17/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1jo0pq0j_cd762f2a_20261017.png?v=cd762f2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-2ba6a16cfb",
           "name": "Manchester City vs Ipswich Town | 21:00 17/10",
           "type": "single",
@@ -384,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +364,7 @@
             "time": "23:30:00",
             "date": "17/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
