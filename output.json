@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3afc222c25",
-          "name": "Bologna vs Inter Milan | 23:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3afc222c25",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3afc222c25",
-                  "name": "Bologna vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "st-3afc222c25",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4606daa7d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/36f7866fa9b3404d869ebe360a679dc1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Bologna",
-            "team_b": "Inter Milan",
-            "logo_a": "https://img.sports-data.online/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
-            "logo_b": "https://img.sports-data.online/football/team/aa2245702c40f77799a5ad4b119581a8.png",
-            "time": "23:00:00",
-            "date": "17/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d39zql0_2d35317e_20261018.png?v=2d35317e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-773dc6818c",
           "name": "Real Betis vs FC Barcelona | 23:30 17/10",
@@ -1253,6 +1181,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3ko4q1z_30abcc59_20261018.png?v=30abcc59",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-66cf49d494",
+          "name": "Al Fateh vs Al Khaleej | 01:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-66cf49d494",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-66cf49d494",
+                  "name": "Al Fateh vs Al Khaleej",
+                  "streams": [
+                    {
+                      "id": "st-66cf49d494",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05c0a224ff",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/011d5e1f23384e2097c43fc500bedaf4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Fateh",
+            "team_b": "Al Khaleej",
+            "logo_a": "https://img.sports-data.online/football/team/ae23ea18931ebe834ef6fe4799572e7f.png",
+            "logo_b": "https://img.sports-data.online/football/team/6d48cbd483dee74ed9aef387bb082d64.png",
+            "time": "01:00:00",
+            "date": "19/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6l80vmoj_f3064ddd_20261018.png?v=f3064ddd",
             "width": 1600,
             "height": 1200
           }
