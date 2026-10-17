@@ -1400,6 +1400,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-32ad85af6c",
+          "name": "Lorient vs AS Monaco | 22:15 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-32ad85af6c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-32ad85af6c",
+                  "name": "Lorient vs AS Monaco",
+                  "streams": [
+                    {
+                      "id": "st-32ad85af6c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77932fdb93",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17d98351418d442590fc1c896e804e1a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Lorient",
+            "team_b": "AS Monaco",
+            "logo_a": "https://img.sports-data.online/football/team/b593727321793084b1f7804aebedc31a.png",
+            "logo_b": "https://img.sports-data.online/football/team/693af0d277fe3179594695614dce8666.png",
+            "time": "22:15:00",
+            "date": "18/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdjzzrz8_4305e1c9_20261017.png?v=4305e1c9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
