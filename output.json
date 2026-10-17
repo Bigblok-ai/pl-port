@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-070ba0ac26",
-          "name": "CLB Thanh Hoa vs Thep Xanh Nam Dinh FC | 17:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-070ba0ac26",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-070ba0ac26",
-                  "name": "CLB Thanh Hoa vs Thep Xanh Nam Dinh FC",
-                  "streams": [
-                    {
-                      "id": "st-070ba0ac26",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1aae87a9ed",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/dca643967dcd47458e54d087ca0b6f81/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "CLB Thanh Hoa",
-            "team_b": "Thep Xanh Nam Dinh FC",
-            "logo_a": "https://img.sports-data.online/football/team/56ce2ac5d2d7477de4df40e27bcdfd7b.png",
-            "logo_b": "https://img.sports-data.online/football/team/bc5db4dd418cb566a4475649876b55bb.png",
-            "time": "17:00:00",
-            "date": "17/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey3k1r6o_7efddb75_20261017.png?v=7efddb75",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-849af5dacb",
           "name": "Hong Linh Ha Tinh vs Song Lam Nghe An | 18:00 17/10",
