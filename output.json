@@ -1172,83 +1172,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3c03dc3210",
-          "name": "Astemo Rivale Ibaraki Nữ vs Gunma Bank Green Wings Women | 12:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3c03dc3210",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3c03dc3210",
-                  "name": "Astemo Rivale Ibaraki Nữ vs Gunma Bank Green Wings Women",
-                  "streams": [
-                    {
-                      "id": "st-3c03dc3210",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77ce91c934",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fe9e64e86d544f1b8fc9cab4db6838b8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Astemo Rivale Ibaraki Nữ",
-            "team_b": "Gunma Bank Green Wings Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/0rpuWOAr-6FZ2yXJ6.png",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
-            "time": "12:00:00",
-            "date": "17/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4ad815fd89624ef4aa034a5199139c53_606b2b45_20261017.png?v=606b2b45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-40864f8cb8",
           "name": "HCĐG Lào Cai vs LB Bank Ninh Bình | 14:30 17/10",
