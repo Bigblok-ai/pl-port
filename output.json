@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-a741923383",
-          "name": "1. FC Union Berlin vs Borussia Dortmund | 20:30 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a741923383",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a741923383",
-                  "name": "1. FC Union Berlin vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-a741923383",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0816328e79",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/adf592146e0b40b08dd12b2bce32768a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "1. FC Union Berlin",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://img.sports-data.online/football/team/45ab4c846b0d4df5b002c571b16112dc.png",
-            "logo_b": "https://img.sports-data.online/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
-            "time": "20:30:00",
-            "date": "17/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l42qdy_fb0b3e59_20261017.png?v=fb0b3e59",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-f73126a691",
           "name": "Brentford vs Liverpool | 21:00 17/10",
           "type": "single",
@@ -384,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +364,7 @@
             "time": "23:00:00",
             "date": "17/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1469,6 +1397,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdjzzrz8_4305e1c9_20261017.png?v=4305e1c9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-db7a03ec9f",
+          "name": "Nottingham Forest vs Arsenal | 22:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db7a03ec9f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-db7a03ec9f",
+                  "name": "Nottingham Forest vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-db7a03ec9f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1f250698c",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cb0fb784d06a4665b6ceb98376207269/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Nottingham Forest",
+            "team_b": "Arsenal",
+            "logo_a": "https://img.sports-data.online/football/team/62572999d107f777efa4aeb907443527.png",
+            "logo_b": "https://img.sports-data.online/football/team/d6f5debc456da1119256ab66462ab510.png",
+            "time": "22:30:00",
+            "date": "18/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p0eem7v_b4d1d603_20261017.png?v=b4d1d603",
             "width": 1600,
             "height": 1200
           }
