@@ -394,78 +394,6 @@
           }
         },
         {
-          "id": "pl-e216cbeb88",
-          "name": "Brighton Hove Albion vs Crystal Palace | 20:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e216cbeb88",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e216cbeb88",
-                  "name": "Brighton Hove Albion vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "st-e216cbeb88",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-62cd9ba794",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6fff3903e16d41aa89a120c90977d0ae/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Brighton Hove Albion",
-            "team_b": "Crystal Palace",
-            "logo_a": "https://img.sports-data.online/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",
-            "logo_b": "https://img.sports-data.online/football/team/42396d18444156e640c37476c2b41b93.png",
-            "time": "20:00:00",
-            "date": "18/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdvwgrz8_4dd7f525_20261018.png?v=4dd7f525",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-89e039e623",
           "name": "Bayer 04 Leverkusen vs SC Freiburg | 20:30 18/10",
           "type": "single",
@@ -493,8 +421,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-25700c2b6f",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-b45d3281c6",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/ae964a35a0d84358a5cffda56d79e879/index.m3u8",
@@ -524,7 +452,7 @@
             "logo_b": "https://img.sports-data.online/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
             "time": "20:30:00",
             "date": "18/10",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
