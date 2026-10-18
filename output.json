@@ -1078,8 +1078,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6a56457fa7",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-785f746304",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/5f40df7da7eb4e8d8c9860d34e5fb4d3/index.m3u8",
@@ -1109,7 +1109,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
             "time": "19:30:00",
             "date": "18/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
