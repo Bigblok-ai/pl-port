@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6792vqg8_455df7f7_20261018.png?v=455df7f7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-92bdc0dc8c",
-          "name": "Bac Ninh vs Truong Tuoi Dong Nai | 18:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-92bdc0dc8c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-92bdc0dc8c",
-                  "name": "Bac Ninh vs Truong Tuoi Dong Nai",
-                  "streams": [
-                    {
-                      "id": "st-92bdc0dc8c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5875721a7e",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/703f91874f634ed1b1272e6fa75ce68f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Bac Ninh",
-            "team_b": "Truong Tuoi Dong Nai",
-            "logo_a": "https://img.sports-data.online/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
-            "logo_b": "https://img.sports-data.online/football/team/a9741c7972e214b1c312092c8b51acd8.png",
-            "time": "18:00:00",
-            "date": "18/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv14vqvy_c63ea6bb_20261018.png?v=c63ea6bb",
             "width": 1600,
             "height": 1200
           }
