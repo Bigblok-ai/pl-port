@@ -901,83 +901,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1542f9679d",
-          "name": "Vietinbank vs XMLS Thanh Hoá | 14:30 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1542f9679d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1542f9679d",
-                  "name": "Vietinbank vs XMLS Thanh Hoá",
-                  "streams": [
-                    {
-                      "id": "st-1542f9679d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-59e469c002",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8790d25452ba4ec8a6e7c9b8439e45c3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Vietinbank",
-            "team_b": "XMLS Thanh Hoá",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "time": "14:30:00",
-            "date": "18/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/17e8cfddfb404d799da83f22c6e0144a_427aa925_20261018.png?v=427aa925",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f015771332",
           "name": "HCĐG Lào Cai vs VTV BĐ Long An | 17:00 18/10",
