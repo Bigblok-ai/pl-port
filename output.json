@@ -17,167 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-b8c8a0a46f",
-          "name": "Bournemouth AFC vs Sunderland | 20:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8c8a0a46f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b8c8a0a46f",
-                  "name": "Bournemouth AFC vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-b8c8a0a46f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef5d839121",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4f641e2188634d3c9766acbb552c9b79/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Bournemouth AFC",
-            "team_b": "Sunderland",
-            "logo_a": "https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png",
-            "logo_b": "https://img.sports-data.online/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
-            "time": "20:00:00",
-            "date": "18/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldz8lmoe_bebf2fab_20261018.png?v=bebf2fab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-8452212bb8",
-          "name": "Leeds United vs Manchester United | 20:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8452212bb8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8452212bb8",
-                  "name": "Leeds United vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-8452212bb8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-50ac0f0ad2",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/29d4c62a89c8476b89f323d5cd7c6e1b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-511a113b2a",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/b7cff091130d44dea654ac9b4131767e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Leeds United",
-            "team_b": "Manchester United",
-            "logo_a": "https://img.sports-data.online/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
-            "logo_b": "https://img.sports-data.online/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-            "time": "20:00:00",
-            "date": "18/10",
-            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e0faa62045824d7698bd2ce95fda9dc3_c386d9e8_20261018.png?v=c386d9e8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-89e039e623",
           "name": "Bayer 04 Leverkusen vs SC Freiburg | 20:30 18/10",
           "type": "single",
@@ -257,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +148,7 @@
             "time": "22:15:00",
             "date": "18/10",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -329,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -381,7 +220,7 @@
             "time": "22:30:00",
             "date": "18/10",
             "blv": "LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -829,7 +668,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -914,10 +753,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -966,7 +805,7 @@
             "time": "22:00:00",
             "date": "18/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
