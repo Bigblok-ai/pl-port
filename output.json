@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f0a3358e4c",
+          "name": "Monza vs Cagliari | 23:30 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f0a3358e4c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f0a3358e4c",
+                  "name": "Monza vs Cagliari",
+                  "streams": [
+                    {
+                      "id": "st-f0a3358e4c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d48024dfec",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/89fa950b20c24025b08cf43f86b3a746/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Monza",
+            "team_b": "Cagliari",
+            "logo_a": "https://img.sports-data.online/football/team/18ccab720cfda6be0c39fef579c13c5a.png",
+            "logo_b": "https://img.sports-data.online/football/team/dba65c184e03c860ed919ce192b86c5e.png",
+            "time": "23:30:00",
+            "date": "19/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywg07ryk_36b06f60_20261018.png?v=36b06f60",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
