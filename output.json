@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c2b9506bff",
-          "name": "Cong An Ha Noi FC vs Hanoi FC | 19:15 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c2b9506bff",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c2b9506bff",
-                  "name": "Cong An Ha Noi FC vs Hanoi FC",
-                  "streams": [
-                    {
-                      "id": "st-c2b9506bff",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-096839d5f3",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b356df533c09468cb9e37ab9d32c9fe1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Cong An Ha Noi FC",
-            "team_b": "Hanoi FC",
-            "logo_a": "https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png",
-            "logo_b": "https://img.sports-data.online/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png",
-            "time": "19:15:00",
-            "date": "18/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg84ojq82_ec782400_20261018.png?v=ec782400",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b8c8a0a46f",
           "name": "Bournemouth AFC vs Sunderland | 20:00 18/10",
