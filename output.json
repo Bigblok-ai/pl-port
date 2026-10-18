@@ -663,6 +663,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-91e2d008e3",
+          "name": "Al Fayha vs Al Ahli SC | 22:05 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-91e2d008e3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-91e2d008e3",
+                  "name": "Al Fayha vs Al Ahli SC",
+                  "streams": [
+                    {
+                      "id": "st-91e2d008e3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3d78d9ebe",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a242a6ba3ff641bdac3cbc49d64a6739/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Fayha",
+            "team_b": "Al Ahli SC",
+            "logo_a": "https://img.sports-data.online/football/team/2b0b85fcec97994a4758002512957d7a.png",
+            "logo_b": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
+            "time": "22:05:00",
+            "date": "19/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgkd0vrep_0d77f9e1_20261018.png?v=0d77f9e1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
