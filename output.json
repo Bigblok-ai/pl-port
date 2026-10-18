@@ -896,6 +896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0db2e39480",
+          "name": "Cong An Ho Chi Minh City vs The Cong-Viettel | 18:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0db2e39480",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0db2e39480",
+                  "name": "Cong An Ho Chi Minh City vs The Cong-Viettel",
+                  "streams": [
+                    {
+                      "id": "st-0db2e39480",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c8256b1501",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/95b12125215242469c25d47874e6a996/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Cong An Ho Chi Minh City",
+            "team_b": "The Cong-Viettel",
+            "logo_a": "https://img.sports-data.online/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png",
+            "logo_b": "https://img.sports-data.online/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
+            "time": "18:00:00",
+            "date": "19/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9v5g1m7v_bd66845c_20261018.png?v=bd66845c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
