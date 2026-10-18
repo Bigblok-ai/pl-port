@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-89e039e623",
-          "name": "Bayer 04 Leverkusen vs SC Freiburg | 20:30 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-89e039e623",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-89e039e623",
-                  "name": "Bayer 04 Leverkusen vs SC Freiburg",
-                  "streams": [
-                    {
-                      "id": "st-89e039e623",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b45d3281c6",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ae964a35a0d84358a5cffda56d79e879/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Bayer 04 Leverkusen",
-            "team_b": "SC Freiburg",
-            "logo_a": "https://img.sports-data.online/football/team/f15ae3ec9b2d7888180a6c8cf4b137e8.png",
-            "logo_b": "https://img.sports-data.online/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
-            "time": "20:30:00",
-            "date": "18/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1o5y6q0j_e19e3a20_20261018.png?v=e19e3a20",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-32ad85af6c",
           "name": "Lorient vs AS Monaco | 22:15 18/10",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "23:00:00",
             "date": "18/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
