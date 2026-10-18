@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fd06948909",
-          "name": "Juventus vs Lazio | 01:45 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd06948909",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fd06948909",
-                  "name": "Juventus vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-fd06948909",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-912b9fd86e",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4de258eae22344929cf3b0b5f1aa5f78/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Juventus",
-            "team_b": "Lazio",
-            "logo_a": "https://img.sports-data.online/football/team/dc0e43b95c6676c54415bac168472aa4.png",
-            "logo_b": "https://img.sports-data.online/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png",
-            "time": "01:45:00",
-            "date": "19/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdop9qo9_35946ee8_20261019.png?v=35946ee8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f820731970",
           "name": "Real Madrid vs Sevilla FC | 02:00 19/10",
