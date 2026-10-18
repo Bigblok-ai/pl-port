@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-52f22ceada",
-          "name": "AC Milan vs Atalanta | 23:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-52f22ceada",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-52f22ceada",
-                  "name": "AC Milan vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "st-52f22ceada",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af37bb1ad4",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/955226bd022d438089d4e535ec29dc58/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "AC Milan",
-            "team_b": "Atalanta",
-            "logo_a": "https://img.sports-data.online/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",
-            "logo_b": "https://img.sports-data.online/football/team/43a877bf7a6f4c109f0affbf45d5f19c.png",
-            "time": "23:00:00",
-            "date": "18/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3ko4q1z_30abcc59_20261019.png?v=30abcc59",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-66cf49d494",
           "name": "Al Fateh vs Al Khaleej | 01:00 19/10",
@@ -588,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywg07ryk_36b06f60_20261019.png?v=36b06f60",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-899d92b9f7",
+          "name": "Al Hilal vs Al Hazem | 01:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-899d92b9f7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-899d92b9f7",
+                  "name": "Al Hilal vs Al Hazem",
+                  "streams": [
+                    {
+                      "id": "st-899d92b9f7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-878af41705",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e2dd387c7505415e9f2e5f507e4109df/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Hilal",
+            "team_b": "Al Hazem",
+            "logo_a": "https://img.sports-data.online/football/team/07a555616afab7be32e00150eacf4197.png",
+            "logo_b": "https://img.sports-data.online/football/team/a2246a99fffe73bb4274e59b10d95f2d.png",
+            "time": "01:00:00",
+            "date": "20/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxed60qo9_faad0e7f_20261019.png?v=faad0e7f",
             "width": 1600,
             "height": 1200
           }
