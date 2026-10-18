@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-571e5ab0a9",
-          "name": "\"BC Thông Tin BĐ19 vs Geleximco Hưng Yên \" | 20:30 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-571e5ab0a9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-571e5ab0a9",
-                  "name": "\"BC Thông Tin BĐ19 vs Geleximco Hưng Yên \"",
-                  "streams": [
-                    {
-                      "id": "st-571e5ab0a9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-785f746304",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5f40df7da7eb4e8d8c9860d34e5fb4d3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "\"BC Thông Tin BĐ19",
-            "team_b": "Geleximco Hưng Yên \"",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
-            "time": "20:30:00",
-            "date": "18/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ecfd571bb3464809b08de98a3b1566c4_7303495e_20261018.png?v=7303495e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-def595c447",
           "name": "Eczacibasi Nữ vs Vakifbank Nữ | 22:00 18/10",
