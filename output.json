@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-db7a03ec9f",
-          "name": "Nottingham Forest vs Arsenal | 22:30 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db7a03ec9f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-db7a03ec9f",
-                  "name": "Nottingham Forest vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-db7a03ec9f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a1f250698c",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cb0fb784d06a4665b6ceb98376207269/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Nottingham Forest",
-            "team_b": "Arsenal",
-            "logo_a": "https://img.sports-data.online/football/team/62572999d107f777efa4aeb907443527.png",
-            "logo_b": "https://img.sports-data.online/football/team/d6f5debc456da1119256ab66462ab510.png",
-            "time": "22:30:00",
-            "date": "18/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p0eem7v_b4d1d603_20261019.png?v=b4d1d603",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-52f22ceada",
           "name": "AC Milan vs Atalanta | 23:00 18/10",
