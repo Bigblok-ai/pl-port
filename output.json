@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-58247fc164",
-          "name": "Ninh Binh FC vs Hoang Anh Gia Lai | 18:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58247fc164",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-58247fc164",
-                  "name": "Ninh Binh FC vs Hoang Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "st-58247fc164",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9672bedfc",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cf2938c3e793404fa7b54adf06ecd098/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Ninh Binh FC",
-            "team_b": "Hoang Anh Gia Lai",
-            "logo_a": "https://img.sports-data.online/football/team/5452226660be0829fdb40967dd4b0b77.png",
-            "logo_b": "https://img.sports-data.online/football/team/df2ae58b9e658494b940b0bd782901b8.png",
-            "time": "18:00:00",
-            "date": "18/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6792vqg8_455df7f7_20261018.png?v=455df7f7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c2b9506bff",
           "name": "Cong An Ha Noi FC vs Hanoi FC | 19:15 18/10",
