@@ -824,6 +824,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6b458e7d95",
+          "name": "Minerva Punjab vs Mumbai City FC | 21:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b458e7d95",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6b458e7d95",
+                  "name": "Minerva Punjab vs Mumbai City FC",
+                  "streams": [
+                    {
+                      "id": "st-6b458e7d95",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-62611124f4",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9d99e9572a55402cbc43aa305987a4ce/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian Super League",
+            "team_a": "Minerva Punjab",
+            "team_b": "Mumbai City FC",
+            "logo_a": "https://img.sports-data.online/football/team/4e120222885562430b61627e85374a80.png",
+            "logo_b": "https://img.sports-data.online/football/team/e1389bf32867c3b93e09fc194cb545d8.png",
+            "time": "21:00:00",
+            "date": "19/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllh45g26qvy_73616a63_20261018.png?v=73616a63",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -934,8 +1006,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f2c9bf1c63",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-65a146f37d",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/ad9e24bf66874cc082e59eab4a73fe79/index.m3u8",
@@ -965,7 +1037,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
             "time": "22:00:00",
             "date": "18/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
