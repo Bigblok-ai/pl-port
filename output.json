@@ -591,6 +591,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0935265000",
+          "name": "Tottenham Hotspur vs Coventry City | 02:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0935265000",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0935265000",
+                  "name": "Tottenham Hotspur vs Coventry City",
+                  "streams": [
+                    {
+                      "id": "st-0935265000",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-081333d31c",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/beff19f3d89c4ff1b978d1c6889b666b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Tottenham Hotspur",
+            "team_b": "Coventry City",
+            "logo_a": "https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png",
+            "logo_b": "https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png",
+            "time": "02:00:00",
+            "date": "20/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdv1grz8_95de3655_20261019.png?v=95de3655",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e8958d7c4e",
+          "name": "Getafe vs Rayo Vallecano | 02:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e8958d7c4e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e8958d7c4e",
+                  "name": "Getafe vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-e8958d7c4e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a23986f2f5",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0bc713fe6a5343eaa215a3fcd3c120c8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Getafe",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://img.sports-data.online/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
+            "logo_b": "https://img.sports-data.online/football/team/5005d8feab109ce64e40beb98073cc1f.png",
+            "time": "02:00:00",
+            "date": "20/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k1e1qwz_5c369d51_20261019.png?v=5c369d51",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
