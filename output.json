@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-def595c447",
-          "name": "Eczacibasi Nữ vs Vakifbank Nữ | 22:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-def595c447",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-def595c447",
-                  "name": "Eczacibasi Nữ vs Vakifbank Nữ",
-                  "streams": [
-                    {
-                      "id": "st-def595c447",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-65a146f37d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ad9e24bf66874cc082e59eab4a73fe79/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sultanlar Ligi",
-            "team_a": "Eczacibasi Nữ",
-            "team_b": "Vakifbank Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/2fe3dacd8ef0883c8d995fac5b72b97a.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
-            "time": "22:00:00",
-            "date": "18/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9335917d0b994a188f8625a4dc7a441f_38d475b2_20261019.png?v=38d475b2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fbc1c2c84a",
           "name": "Hà Nội Tasco Auto vs XMLS Thanh Hoá | 12:00 19/10",
