@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d976459bc3",
-          "name": "Karagumruk vs Ankara Keciorengucu | 21:00 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d976459bc3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d976459bc3",
-                  "name": "Karagumruk vs Ankara Keciorengucu",
-                  "streams": [
-                    {
-                      "id": "st-d976459bc3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e3d3f7d68",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b9b4a345bb184cdcad9660bab2d63241/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Karagumruk",
-            "team_b": "Ankara Keciorengucu",
-            "logo_a": "https://img.sports-data.online/football/team/0d3eabc5ecaf407ef8dc5cae3840930d.png",
-            "logo_b": "https://img.sports-data.online/football/team/8c04d7e93c287878ef0ddc9f8d214491.png",
-            "time": "21:00:00",
-            "date": "19/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnynglm0v_dcf83318_20261019.png?v=dcf83318",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-91e2d008e3",
           "name": "Al Fayha vs Al Ahli | 22:05 19/10",
