@@ -519,6 +519,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4d875ebdc4",
+          "name": "Isenmulang Kalteng vs Java United F.C. | 15:30 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4d875ebdc4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4d875ebdc4",
+                  "name": "Isenmulang Kalteng vs Java United F.C.",
+                  "streams": [
+                    {
+                      "id": "st-4d875ebdc4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bf127f2cb",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/93a2b358ca2243c79cb750fa5ff8f401/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indonesian Super League",
+            "team_a": "Isenmulang Kalteng",
+            "team_b": "Java United F.C.",
+            "logo_a": "https://img.sports-data.online/football/team/f73c1ea9dfcd122654135c3c80d2d2be.png",
+            "logo_b": "https://img.sports-data.online/football/team/ea7dbf964cabadda453a005b21ba87b5.png",
+            "time": "15:30:00",
+            "date": "20/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjy0jmd7_9158ae69_20261019.png?v=9158ae69",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d47c2e6801",
+          "name": "FC Porto U19 vs PSV Eindhoven U19 | 18:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d47c2e6801",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d47c2e6801",
+                  "name": "FC Porto U19 vs PSV Eindhoven U19",
+                  "streams": [
+                    {
+                      "id": "st-d47c2e6801",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7c9d1be724",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cfc5d6666e584b0080d4f351026b0328/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "FC Porto U19",
+            "team_b": "PSV Eindhoven U19",
+            "logo_a": "https://img.sports-data.online/football/team/b572dd2ea0433f892aba8d78d2e97bc8.png",
+            "logo_b": "https://img.sports-data.online/football/team/bb1ee3913de6db06451968adf4d89a29.png",
+            "time": "18:00:00",
+            "date": "20/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh676pyqg8_a6243d16_20261019.png?v=a6243d16",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
