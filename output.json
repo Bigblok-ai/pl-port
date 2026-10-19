@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-899d92b9f7",
-          "name": "Al Hilal vs Al Hazem | 01:00 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-899d92b9f7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-899d92b9f7",
-                  "name": "Al Hilal vs Al Hazem",
-                  "streams": [
-                    {
-                      "id": "st-899d92b9f7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-878af41705",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e2dd387c7505415e9f2e5f507e4109df/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Hilal",
-            "team_b": "Al Hazem",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlx8orz84/image/small",
-            "time": "01:00:00",
-            "date": "20/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxed60qo9_a44dfdb2_20261020.png?v=a44dfdb2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0935265000",
           "name": "Tottenham vs Coventry City | 02:00 20/10",
