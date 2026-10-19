@@ -524,7 +524,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -537,10 +537,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -557,8 +557,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-aef1a5a569",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-b6a58d1b37",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/66809b975e4c4dde860fd256d80c857a/index.m3u8",
@@ -588,8 +588,8 @@
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
             "time": "12:00:00",
             "date": "19/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "blv": "LÝ LÊN LỬA",
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -701,8 +701,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-c49c99d7f7",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-6646ac1702",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/911f37af10b84121ab3fc2dbb69ce680/index.m3u8",
@@ -732,7 +732,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
             "time": "17:00:00",
             "date": "19/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
