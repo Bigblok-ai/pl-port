@@ -503,8 +503,8 @@
             "league": "Indonesian Super League",
             "team_a": "Isenmulang Kalteng",
             "team_b": "Java United F.C.",
-            "logo_a": "https://img.sports-data.online/football/team/f73c1ea9dfcd122654135c3c80d2d2be.png",
-            "logo_b": "https://img.sports-data.online/football/team/ea7dbf964cabadda453a005b21ba87b5.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh324grepz/image/small",
             "time": "15:30:00",
             "date": "20/10",
             "blv": "LÝ LINH LỰC",
@@ -515,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjy0jmd7_9158ae69_20261019.png?v=9158ae69",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjy0jmd7_5437cb7b_20261019.png?v=5437cb7b",
             "width": 1600,
             "height": 1200
           }
@@ -575,8 +575,8 @@
             "league": "UEFA Youth League",
             "team_a": "FC Porto U19",
             "team_b": "PSV Eindhoven U19",
-            "logo_a": "https://img.sports-data.online/football/team/b572dd2ea0433f892aba8d78d2e97bc8.png",
-            "logo_b": "https://img.sports-data.online/football/team/bb1ee3913de6db06451968adf4d89a29.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvy6vrepz/image/small",
             "time": "18:00:00",
             "date": "20/10",
             "blv": "LÝ LÊN LỬA",
@@ -587,14 +587,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh676pyqg8_a6243d16_20261019.png?v=a6243d16",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh676pyqg8_ae00cd9a_20261019.png?v=ae00cd9a",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-abcc59c155",
-          "name": "Dewa United FC vs Persatuan Sepakbola Indonesia Jepara | 19:00 20/10",
+          "name": "Dewa United vs Persijap Jepara | 19:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -613,7 +613,7 @@
               "contents": [
                 {
                   "id": "ct-abcc59c155",
-                  "name": "Dewa United FC vs Persatuan Sepakbola Indonesia Jepara",
+                  "name": "Dewa United vs Persijap Jepara",
                   "streams": [
                     {
                       "id": "st-abcc59c155",
@@ -645,10 +645,10 @@
           ],
           "org_metadata": {
             "league": "Indonesian Super League",
-            "team_a": "Dewa United FC",
-            "team_b": "Persatuan Sepakbola Indonesia Jepara",
-            "logo_a": "https://img.sports-data.online/football/team/76db1148a0e8a7c8e98ab05814cab691.png",
-            "logo_b": "https://img.sports-data.online/football/team/f4bd932b7d276a93696f4491f334c932.png",
+            "team_a": "Dewa United",
+            "team_b": "Persijap Jepara",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hldwdrz84/image/small",
             "time": "19:00:00",
             "date": "20/10",
             "blv": "LÝ LIỀU LĨNH",
@@ -659,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyk8g6ryk_eb73a113_20261019.png?v=eb73a113",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyk8g6ryk_60236bba_20261019.png?v=60236bba",
             "width": 1600,
             "height": 1200
           }
@@ -719,8 +719,8 @@
             "league": "UEFA Youth League",
             "team_a": "Liverpool U19",
             "team_b": "Villarreal U19",
-            "logo_a": "https://img.sports-data.online/football/team/739d0996bb928d288e8cd91ff93832bb.png",
-            "logo_b": "https://img.sports-data.online/football/team/d16f412de3e66377647bcec0d10ebd08.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7pho54xm2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hjy0q86p/image/small",
             "time": "21:00:00",
             "date": "20/10",
             "blv": "LÝ LÀNG LÁ",
@@ -731,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9v9jdm7v_c5ec6ecf_20261019.png?v=c5ec6ecf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9v9jdm7v_8c2fa891_20261019.png?v=8c2fa891",
             "width": 1600,
             "height": 1200
           }
@@ -791,8 +791,8 @@
             "league": "Saudi Professional League",
             "team_a": "Al Taawoun",
             "team_b": "Al Qadsiah",
-            "logo_a": "https://img.sports-data.online/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
-            "logo_b": "https://img.sports-data.online/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/zp5rzghj93nq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh5p0qg8n/image/small",
             "time": "22:10:00",
             "date": "20/10",
             "blv": "LÝ LONG",
@@ -803,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph41jlnr8k_cb3419fc_20261019.png?v=cb3419fc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph41jlnr8k_3303e0c0_20261019.png?v=3303e0c0",
             "width": 1600,
             "height": 1200
           }
