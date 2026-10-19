@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fbc1c2c84a",
-          "name": "Hà Nội Tasco Auto vs XMLS Thanh Hoá | 12:00 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fbc1c2c84a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fbc1c2c84a",
-                  "name": "Hà Nội Tasco Auto vs XMLS Thanh Hoá",
-                  "streams": [
-                    {
-                      "id": "st-fbc1c2c84a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b6a58d1b37",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/66809b975e4c4dde860fd256d80c857a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Hà Nội Tasco Auto",
-            "team_b": "XMLS Thanh Hoá",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "time": "12:00:00",
-            "date": "19/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/80bbe727344745c494728dc24aa23c92_0598e090_20261019.png?v=0598e090",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-13c082ad49",
           "name": "LB Bank Ninh Bình vs VTV BĐ Long An | 14:30 19/10",
