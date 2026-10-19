@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-91e2d008e3",
-          "name": "Al Fayha vs Al Ahli | 22:05 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91e2d008e3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-91e2d008e3",
-                  "name": "Al Fayha vs Al Ahli",
-                  "streams": [
-                    {
-                      "id": "st-91e2d008e3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b3d78d9ebe",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a242a6ba3ff641bdac3cbc49d64a6739/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Fayha",
-            "team_b": "Al Ahli",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4dnq1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
-            "time": "22:05:00",
-            "date": "19/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgkd0vrep_e34b1e26_20261020.png?v=e34b1e26",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f0a3358e4c",
           "name": "Monza vs Cagliari | 23:30 19/10",
