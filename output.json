@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-91e2d008e3",
-          "name": "Al Fayha vs Al Ahli SC | 22:05 19/10",
+          "name": "Al Fayha vs Al Ahli | 22:05 19/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -109,7 +109,7 @@
               "contents": [
                 {
                   "id": "ct-91e2d008e3",
-                  "name": "Al Fayha vs Al Ahli SC",
+                  "name": "Al Fayha vs Al Ahli",
                   "streams": [
                     {
                       "id": "st-91e2d008e3",
@@ -142,9 +142,9 @@
           "org_metadata": {
             "league": "Saudi Professional League",
             "team_a": "Al Fayha",
-            "team_b": "Al Ahli SC",
-            "logo_a": "https://img.sports-data.online/football/team/2b0b85fcec97994a4758002512957d7a.png",
-            "logo_b": "https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
+            "team_b": "Al Ahli",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4dnq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
             "time": "22:05:00",
             "date": "19/10",
             "blv": "LÝ LÀNG LÁ",
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgkd0vrep_0d77f9e1_20261019.png?v=0d77f9e1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgkd0vrep_e34b1e26_20261019.png?v=e34b1e26",
             "width": 1600,
             "height": 1200
           }
@@ -215,8 +215,8 @@
             "league": "Italian Serie A",
             "team_a": "Monza",
             "team_b": "Cagliari",
-            "logo_a": "https://img.sports-data.online/football/team/18ccab720cfda6be0c39fef579c13c5a.png",
-            "logo_b": "https://img.sports-data.online/football/team/dba65c184e03c860ed919ce192b86c5e.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn42er510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
             "time": "23:30:00",
             "date": "19/10",
             "blv": "LÝ LỀNH",
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywg07ryk_36b06f60_20261019.png?v=36b06f60",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywg07ryk_ecdb80a1_20261019.png?v=ecdb80a1",
             "width": 1600,
             "height": 1200
           }
@@ -287,8 +287,8 @@
             "league": "Saudi Professional League",
             "team_a": "Al Hilal",
             "team_b": "Al Hazem",
-            "logo_a": "https://img.sports-data.online/football/team/07a555616afab7be32e00150eacf4197.png",
-            "logo_b": "https://img.sports-data.online/football/team/a2246a99fffe73bb4274e59b10d95f2d.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlx8orz84/image/small",
             "time": "01:00:00",
             "date": "20/10",
             "blv": "LÝ LÀNG LÁ",
@@ -299,14 +299,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxed60qo9_faad0e7f_20261019.png?v=faad0e7f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxed60qo9_a44dfdb2_20261019.png?v=a44dfdb2",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-0935265000",
-          "name": "Tottenham Hotspur vs Coventry City | 02:00 20/10",
+          "name": "Tottenham vs Coventry City | 02:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -325,7 +325,7 @@
               "contents": [
                 {
                   "id": "ct-0935265000",
-                  "name": "Tottenham Hotspur vs Coventry City",
+                  "name": "Tottenham vs Coventry City",
                   "streams": [
                     {
                       "id": "st-0935265000",
@@ -357,10 +357,10 @@
           ],
           "org_metadata": {
             "league": "English Premier League",
-            "team_a": "Tottenham Hotspur",
+            "team_a": "Tottenham",
             "team_b": "Coventry City",
-            "logo_a": "https://img.sports-data.online/football/team/8b22ab4041e666b996a2d96f20dea707.png",
-            "logo_b": "https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
             "time": "02:00:00",
             "date": "20/10",
             "blv": "LÝ LỀNH",
@@ -371,14 +371,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdv1grz8_95de3655_20261019.png?v=95de3655",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdv1grz8_734bd880_20261019.png?v=734bd880",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-e8958d7c4e",
-          "name": "Getafe vs Rayo Vallecano | 02:00 20/10",
+          "name": "Getafe vs Vallecano | 02:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -397,7 +397,7 @@
               "contents": [
                 {
                   "id": "ct-e8958d7c4e",
-                  "name": "Getafe vs Rayo Vallecano",
+                  "name": "Getafe vs Vallecano",
                   "streams": [
                     {
                       "id": "st-e8958d7c4e",
@@ -430,9 +430,9 @@
           "org_metadata": {
             "league": "Spanish La Liga",
             "team_a": "Getafe",
-            "team_b": "Rayo Vallecano",
-            "logo_a": "https://img.sports-data.online/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "logo_b": "https://img.sports-data.online/football/team/5005d8feab109ce64e40beb98073cc1f.png",
+            "team_b": "Vallecano",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhp88qwzv/image/small",
             "time": "02:00:00",
             "date": "20/10",
             "blv": "LÝ LONG",
@@ -443,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k1e1qwz_5c369d51_20261019.png?v=5c369d51",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k1e1qwz_26cf974b_20261019.png?v=26cf974b",
             "width": 1600,
             "height": 1200
           }
