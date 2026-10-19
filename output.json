@@ -663,49 +663,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-7740a5c544",
-          "name": "HCĐG Lào Cai vs BC Thông Tin BĐ19 | 19:30 19/10",
+          "id": "pl-18f1612e02",
+          "name": "Liverpool U19 vs Villarreal U19 | 21:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-7740a5c544",
+              "id": "src-18f1612e02",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-7740a5c544",
-                  "name": "HCĐG Lào Cai vs BC Thông Tin BĐ19",
+                  "id": "ct-18f1612e02",
+                  "name": "Liverpool U19 vs Villarreal U19",
                   "streams": [
                     {
-                      "id": "st-7740a5c544",
+                      "id": "st-18f1612e02",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-dacad879ba",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-cb36cd324e",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ecbee0a9f2db4db8ab101c0180d06967/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/eac6d901d2124ca798266abee53ea0cc/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -725,22 +716,22 @@
             }
           ],
           "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "HCĐG Lào Cai",
-            "team_b": "BC Thông Tin BĐ19",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "19:30:00",
-            "date": "19/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "UEFA Youth League",
+            "team_a": "Liverpool U19",
+            "team_b": "Villarreal U19",
+            "logo_a": "https://img.sports-data.online/football/team/739d0996bb928d288e8cd91ff93832bb.png",
+            "logo_b": "https://img.sports-data.online/football/team/d16f412de3e66377647bcec0d10ebd08.png",
+            "time": "21:00:00",
+            "date": "20/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ff2e7bddb21a4fa79671b9ec28df61b7_383cb177_20261019.png?v=383cb177",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9v9jdm7v_c5ec6ecf_20261019.png?v=c5ec6ecf",
             "width": 1600,
             "height": 1200
           }
