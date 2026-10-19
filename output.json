@@ -629,8 +629,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6842ade146",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-174352f302",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/c037a97b4e694fb89acb6880aa2a19af/index.m3u8",
@@ -660,7 +660,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
             "time": "14:30:00",
             "date": "19/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
