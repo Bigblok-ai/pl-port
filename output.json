@@ -807,6 +807,366 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-68a566c179",
+          "name": "Paris Saint Germain vs FC Barcelona | 02:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-68a566c179",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-68a566c179",
+                  "name": "Paris Saint Germain vs FC Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-68a566c179",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-edea6927c3",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/24dfccf804034fc592aeba14022d2c5a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Paris Saint Germain",
+            "team_b": "FC Barcelona",
+            "logo_a": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
+            "logo_b": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+            "time": "02:00:00",
+            "date": "21/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3347cc1848e04c7e8126dd47d441048c_f60cd7a3_20261020.png?v=f60cd7a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-62b2fc838c",
+          "name": "Man City vs AEK Athens | 02:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62b2fc838c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-62b2fc838c",
+                  "name": "Man City vs AEK Athens",
+                  "streams": [
+                    {
+                      "id": "st-62b2fc838c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e0144b1dd5",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/30f2ece57a19418b929d2debf1c1dbe6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Man City",
+            "team_b": "AEK Athens",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh9y8ql07/image/small",
+            "time": "02:00:00",
+            "date": "21/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn8yezm0v_268623bb_20261020.png?v=268623bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6be5e73058",
+          "name": "AS Roma vs Slovan Bratislava | 02:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6be5e73058",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6be5e73058",
+                  "name": "AS Roma vs Slovan Bratislava",
+                  "streams": [
+                    {
+                      "id": "st-6be5e73058",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-23112f9e92",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/97e6bf4905d5496aadcae224d7242349/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "AS Roma",
+            "team_b": "Slovan Bratislava",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phel7m2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhyy4md7o/image/small",
+            "time": "02:00:00",
+            "date": "21/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn8yp1m0v_1c2f846c_20261020.png?v=1c2f846c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fbbb7fa0d1",
+          "name": "PSG vs Barcelona | 02:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbbb7fa0d1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fbbb7fa0d1",
+                  "name": "PSG vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-fbbb7fa0d1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-63691c8bed",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/51b1d9c677ae42e496b80b4c4ee708a8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "PSG",
+            "team_b": "Barcelona",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
+            "time": "02:00:00",
+            "date": "21/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkey2zrz8_6a9f2fe9_20261020.png?v=6a9f2fe9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5105314b1d",
+          "name": "Liverpool vs Villarreal | 02:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5105314b1d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5105314b1d",
+                  "name": "Liverpool vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-5105314b1d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-33b4adf384",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3bc8368733e243a2b6c6909dd5ce6e66/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Liverpool",
+            "team_b": "Villarreal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
+            "time": "02:00:00",
+            "date": "21/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vyn1qwz_7ba58051_20261020.png?v=7ba58051",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
