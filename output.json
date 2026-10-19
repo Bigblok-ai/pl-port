@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-58d13bd33c",
+          "name": "Al Taawoun vs Al Qadsiah | 22:10 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58d13bd33c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-58d13bd33c",
+                  "name": "Al Taawoun vs Al Qadsiah",
+                  "streams": [
+                    {
+                      "id": "st-58d13bd33c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f0c7b7153",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/774e1849232e4a129a07c11dfdfc1de3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Taawoun",
+            "team_b": "Al Qadsiah",
+            "logo_a": "https://img.sports-data.online/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+            "logo_b": "https://img.sports-data.online/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
+            "time": "22:10:00",
+            "date": "20/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph41jlnr8k_cb3419fc_20261019.png?v=cb3419fc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
