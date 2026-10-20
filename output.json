@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fbbb7fa0d1",
-          "name": "PSG vs Barcelona | 02:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fbbb7fa0d1",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fbbb7fa0d1",
-                  "name": "PSG vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-fbbb7fa0d1",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63691c8bed",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/51b1d9c677ae42e496b80b4c4ee708a8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "PSG",
-            "team_b": "Barcelona",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-            "time": "02:00:00",
-            "date": "21/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkey2zrz8_6a9f2fe9_20261021.png?v=6a9f2fe9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-237262a8db",
           "name": "Kawasaki Frontale vs Vissel Kobe | 17:00 21/10",
