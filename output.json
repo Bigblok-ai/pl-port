@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-58d13bd33c",
-          "name": "Al Taawoun vs Al Qadsiah | 22:10 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58d13bd33c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-58d13bd33c",
-                  "name": "Al Taawoun vs Al Qadsiah",
-                  "streams": [
-                    {
-                      "id": "st-58d13bd33c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f0c7b7153",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/774e1849232e4a129a07c11dfdfc1de3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Taawoun",
-            "team_b": "Al Qadsiah",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/zp5rzghj93nq82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh5p0qg8n/image/small",
-            "time": "22:10:00",
-            "date": "20/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph41jlnr8k_3303e0c0_20261021.png?v=3303e0c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b331dc9b84",
           "name": "Fenerbahce vs Slavia | 23:45 20/10",
