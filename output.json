@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4d875ebdc4",
-          "name": "Isenmulang Kalteng vs Java United F.C. | 15:30 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4d875ebdc4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4d875ebdc4",
-                  "name": "Isenmulang Kalteng vs Java United F.C.",
-                  "streams": [
-                    {
-                      "id": "st-4d875ebdc4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bf127f2cb",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/93a2b358ca2243c79cb750fa5ff8f401/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indonesian Super League",
-            "team_a": "Isenmulang Kalteng",
-            "team_b": "Java United F.C.",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh324grepz/image/small",
-            "time": "15:30:00",
-            "date": "20/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjy0jmd7_5437cb7b_20261020.png?v=5437cb7b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d47c2e6801",
           "name": "FC Porto U19 vs PSV Eindhoven U19 | 18:00 20/10",
