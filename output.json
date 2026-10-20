@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-8288712b78",
-          "name": "Al Nassr vs Neom SC | 01:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8288712b78",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8288712b78",
-                  "name": "Al Nassr vs Neom SC",
-                  "streams": [
-                    {
-                      "id": "st-8288712b78",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-49270dda89",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ddc5c5a5d9924823bea742181a066a3e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Nassr",
-            "team_b": "Neom SC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jh1ld0qwzv/image/small",
-            "time": "01:00:00",
-            "date": "21/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghljdpnmoe_4373344a_20261021.png?v=4373344a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-68a566c179",
           "name": "Paris Saint Germain vs FC Barcelona | 02:00 21/10",
