@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-abcc59c155",
-          "name": "Dewa United vs Persijap Jepara | 19:00 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-abcc59c155",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-abcc59c155",
-                  "name": "Dewa United vs Persijap Jepara",
-                  "streams": [
-                    {
-                      "id": "st-abcc59c155",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-17d0a375bf",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c41f2215a7fd4755b2dae55560da4575/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indonesian Super League",
-            "team_a": "Dewa United",
-            "team_b": "Persijap Jepara",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hldwdrz84/image/small",
-            "time": "19:00:00",
-            "date": "20/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyk8g6ryk_60236bba_20261020.png?v=60236bba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-18f1612e02",
           "name": "Liverpool U19 vs Villarreal U19 | 21:00 20/10",
