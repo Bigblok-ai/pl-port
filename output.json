@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-68a566c179",
-          "name": "Paris Saint Germain vs FC Barcelona | 02:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-68a566c179",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-68a566c179",
-                  "name": "Paris Saint Germain vs FC Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-68a566c179",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-edea6927c3",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/24dfccf804034fc592aeba14022d2c5a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Paris Saint Germain",
-            "team_b": "FC Barcelona",
-            "logo_a": "https://img.sports-data.online/football/team/3b720f181ce9993f9422d276acf7b292.png",
-            "logo_b": "https://img.sports-data.online/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-            "time": "02:00:00",
-            "date": "21/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3347cc1848e04c7e8126dd47d441048c_f60cd7a3_20261021.png?v=f60cd7a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fbbb7fa0d1",
           "name": "PSG vs Barcelona | 02:00 21/10",
