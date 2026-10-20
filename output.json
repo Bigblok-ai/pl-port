@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-237262a8db",
+          "name": "Kawasaki Frontale vs Vissel Kobe | 17:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-237262a8db",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-237262a8db",
+                  "name": "Kawasaki Frontale vs Vissel Kobe",
+                  "streams": [
+                    {
+                      "id": "st-237262a8db",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bed828e24c",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bf5c364759ed48b89be79d1526e7e39a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Kawasaki Frontale",
+            "team_b": "Vissel Kobe",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho65ryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhd7kmd7o/image/small",
+            "time": "17:00:00",
+            "date": "21/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnde69m0v_8fcefd27_20261020.png?v=8fcefd27",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
