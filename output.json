@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -306,7 +306,7 @@
         },
         {
           "id": "pl-62b2fc838c",
-          "name": "Manchester City vs AEK Athens | 02:00 21/10",
+          "name": "Man City vs AEK Athens | 02:00 21/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -325,7 +325,7 @@
               "contents": [
                 {
                   "id": "ct-62b2fc838c",
-                  "name": "Manchester City vs AEK Athens",
+                  "name": "Man City vs AEK Athens",
                   "streams": [
                     {
                       "id": "st-62b2fc838c",
@@ -357,7 +357,7 @@
           ],
           "org_metadata": {
             "league": "UEFA Champions League",
-            "team_a": "Manchester City",
+            "team_a": "Man City",
             "team_b": "AEK Athens",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh9y8ql07/image/small",
@@ -450,7 +450,7 @@
         },
         {
           "id": "pl-fbbb7fa0d1",
-          "name": "Paris Saint Germain vs Barcelona | 02:00 21/10",
+          "name": "PSG vs Barcelona | 02:00 21/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -469,7 +469,7 @@
               "contents": [
                 {
                   "id": "ct-fbbb7fa0d1",
-                  "name": "Paris Saint Germain vs Barcelona",
+                  "name": "PSG vs Barcelona",
                   "streams": [
                     {
                       "id": "st-fbbb7fa0d1",
@@ -501,7 +501,7 @@
           ],
           "org_metadata": {
             "league": "UEFA Champions League",
-            "team_a": "Paris Saint Germain",
+            "team_a": "PSG",
             "team_b": "Barcelona",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
@@ -528,10 +528,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -580,7 +580,7 @@
             "time": "02:00:00",
             "date": "21/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
