@@ -1608,6 +1608,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-75c6dd25c3",
+          "name": "LB Bank Ninh Bình vs Vietinbank | 19:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75c6dd25c3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-75c6dd25c3",
+                  "name": "LB Bank Ninh Bình vs Vietinbank",
+                  "streams": [
+                    {
+                      "id": "st-75c6dd25c3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afb399edf8",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/325d756ed97d45f59964a07fea55ba03/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LB Bank Ninh Bình",
+            "team_b": "Vietinbank",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
+            "time": "19:30:00",
+            "date": "22/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/762578918a6144afb6b67a5f1f22bcc3_d6ca6337_20261021.png?v=d6ca6337",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
