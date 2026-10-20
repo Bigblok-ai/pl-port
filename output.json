@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d47c2e6801",
-          "name": "FC Porto U19 vs PSV Eindhoven U19 | 18:00 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d47c2e6801",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d47c2e6801",
-                  "name": "FC Porto U19 vs PSV Eindhoven U19",
-                  "streams": [
-                    {
-                      "id": "st-d47c2e6801",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c9d1be724",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cfc5d6666e584b0080d4f351026b0328/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "FC Porto U19",
-            "team_b": "PSV Eindhoven U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvy6vrepz/image/small",
-            "time": "18:00:00",
-            "date": "20/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh676pyqg8_ae00cd9a_20261020.png?v=ae00cd9a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-abcc59c155",
           "name": "Dewa United vs Persijap Jepara | 19:00 20/10",
