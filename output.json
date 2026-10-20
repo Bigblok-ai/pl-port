@@ -577,7 +577,7 @@
             "team_b": "Villarreal",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
-            "time": "02:00:00",
+            "time": "02:00:01",
             "date": "21/10",
             "blv": "LÝ LÊN LỬA",
             "is_live": true,
@@ -1461,6 +1461,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9b65d06b4e754219a54ff282b14090bd_3102100d_20261021.png?v=3102100d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-596593062d",
+          "name": "Hà Nội Tasco Auto vs Geleximco Hưng Yên | 12:00 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-596593062d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-596593062d",
+                  "name": "Hà Nội Tasco Auto vs Geleximco Hưng Yên",
+                  "streams": [
+                    {
+                      "id": "st-596593062d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd2bcf3cb8",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f3cd4c77a84944b6a7bff6eb9f715149/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội Tasco Auto",
+            "team_b": "Geleximco Hưng Yên",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
+            "time": "12:00:00",
+            "date": "22/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a68d64390a7e431f9005d8fc71baf8fd_47da89a0_20261021.png?v=47da89a0",
             "width": 1600,
             "height": 1200
           }
