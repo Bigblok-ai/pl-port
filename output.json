@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a9e2d2cec5",
+          "name": "Como U19 vs Manchester Utd U19 | 18:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a9e2d2cec5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a9e2d2cec5",
+                  "name": "Como U19 vs Manchester Utd U19",
+                  "streams": [
+                    {
+                      "id": "st-a9e2d2cec5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8010545566",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ce9c79bf1b23479ca4ab4d1b92403e4f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "Como U19",
+            "team_b": "Manchester Utd U19",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdeh6dz6r510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlnx2qwzv/image/small",
+            "time": "18:00:00",
+            "date": "21/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5l75dql0_27beed3c_20261020.png?v=27beed3c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
