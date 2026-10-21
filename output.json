@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b100dd640b",
-          "name": "Real Madrid U19 vs RB Leipzig U19 | 21:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b100dd640b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b100dd640b",
-                  "name": "Real Madrid U19 vs RB Leipzig U19",
-                  "streams": [
-                    {
-                      "id": "st-b100dd640b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35d9c1e71e",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ec63859ff1f34aa99002fe299ade03d2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Real Madrid U19",
-            "team_b": "RB Leipzig U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy4x8q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh09npmd7o/image/small",
-            "time": "21:00:00",
-            "date": "21/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg7go4r51_45ad77ff_20261021.png?v=45ad77ff",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-89db75d437",
           "name": "Al-Anwar Club vs Al-Wehda FC | 22:00 21/10",
@@ -827,7 +755,7 @@
         },
         {
           "id": "pl-93d35862c6",
-          "name": "Gia Định vs PVF-CAND FC | 18:00 22/10",
+          "name": "Xuan Thien Phu Tho vs PVF-CAND FC | 18:00 22/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -846,7 +774,7 @@
               "contents": [
                 {
                   "id": "ct-93d35862c6",
-                  "name": "Gia Định vs PVF-CAND FC",
+                  "name": "Xuan Thien Phu Tho vs PVF-CAND FC",
                   "streams": [
                     {
                       "id": "st-93d35862c6",
@@ -878,7 +806,7 @@
           ],
           "org_metadata": {
             "league": "Vietnam National First Class League",
-            "team_a": "Gia Định",
+            "team_a": "Xuan Thien Phu Tho",
             "team_b": "PVF-CAND FC",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhedgxqwzv/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nhz48vmd7o/image/small",
