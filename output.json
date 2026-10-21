@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-1c9391a28f",
+          "name": "Al Hazem vs Al Fayha | 20:40 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c9391a28f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1c9391a28f",
+                  "name": "Al Hazem vs Al Fayha",
+                  "streams": [
+                    {
+                      "id": "st-1c9391a28f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3179e089ab",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/31829b62e9094954b9cbde3fb1e65c68/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Hazem",
+            "team_b": "Al Fayha",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlx8orz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4dnq1zp/image/small",
+            "time": "20:40:00",
+            "date": "22/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5odwxql0_b28d105b_20261021.png?v=b28d105b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
