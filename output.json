@@ -755,7 +755,7 @@
         },
         {
           "id": "pl-93d35862c6",
-          "name": "Xuan Thien Phu Tho vs PVF-CAND FC | 18:00 22/10",
+          "name": "Gia Định vs PVF-CAND FC | 18:00 22/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -774,7 +774,7 @@
               "contents": [
                 {
                   "id": "ct-93d35862c6",
-                  "name": "Xuan Thien Phu Tho vs PVF-CAND FC",
+                  "name": "Gia Định vs PVF-CAND FC",
                   "streams": [
                     {
                       "id": "st-93d35862c6",
@@ -806,7 +806,7 @@
           ],
           "org_metadata": {
             "league": "Vietnam National First Class League",
-            "team_a": "Xuan Thien Phu Tho",
+            "team_a": "Gia Định",
             "team_b": "PVF-CAND FC",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhedgxqwzv/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nhz48vmd7o/image/small",
