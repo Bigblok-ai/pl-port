@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a82c2b96b1",
-          "name": "Levante vs Athletic Bilbao | 01:00 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a82c2b96b1",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a82c2b96b1",
-                  "name": "Levante vs Athletic Bilbao",
-                  "streams": [
-                    {
-                      "id": "st-a82c2b96b1",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d76bebc97b",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b067b6aa97bf48919bfac3f4f500fd90/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Levante",
-            "team_b": "Athletic Bilbao",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9z9q82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-            "time": "01:00:00",
-            "date": "22/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg41verep_4b145899_20261022.png?v=4b145899",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5590fb720d",
           "name": "Real Madrid vs RB Leipzig | 02:00 22/10",
