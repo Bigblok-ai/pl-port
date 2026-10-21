@@ -896,6 +896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a094bc713f",
+          "name": "Văn Hiến vs Đồng Tháp | 17:00 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a094bc713f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a094bc713f",
+                  "name": "Văn Hiến vs Đồng Tháp",
+                  "streams": [
+                    {
+                      "id": "st-a094bc713f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-80df91af92",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4a9ee907bfb1448e952a9fcbd142c4bb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Văn Hiến",
+            "team_b": "Đồng Tháp",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4wxymoep/image/small",
+            "time": "17:00:00",
+            "date": "22/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvx84kmd7_2cf6bdfc_20261021.png?v=2cf6bdfc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
