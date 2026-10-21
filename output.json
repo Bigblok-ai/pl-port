@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8e32b12fc2",
+          "name": "Công An Hà Nội vs Thanh Hóa | 19:15 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8e32b12fc2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8e32b12fc2",
+                  "name": "Công An Hà Nội vs Thanh Hóa",
+                  "streams": [
+                    {
+                      "id": "st-8e32b12fc2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-503b46928d",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/02d32b317ef8433996880f7e6fa311a5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Công An Hà Nội",
+            "team_b": "Thanh Hóa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8kw3q86p/image/small",
+            "time": "19:15:00",
+            "date": "22/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnlpwvm0v_aca95218_20261021.png?v=aca95218",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
