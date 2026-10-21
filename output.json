@@ -1040,6 +1040,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-26d1eb2899",
+          "name": "Juventus vs Rennes | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26d1eb2899",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-26d1eb2899",
+                  "name": "Juventus vs Rennes",
+                  "streams": [
+                    {
+                      "id": "st-26d1eb2899",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-47b081bcf7",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/36bfe574f8d34690923d02ca05462f70/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "Juventus",
+            "team_b": "Rennes",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhyzvql07/image/small",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh52l8nql0_6d42d325_20261021.png?v=6d42d325",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3178e8d5d0",
+          "name": "OFI Crete vs Bayer Leverkusen | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3178e8d5d0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3178e8d5d0",
+                  "name": "OFI Crete vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-3178e8d5d0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10fdd5b72d",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2d0c7568506545feb6df943aba983a08/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "OFI Crete",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7hegvqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkjpzjr1g_1cfa3c06_20261021.png?v=1cfa3c06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-53cf47bd27",
+          "name": "Lech Poznan vs Sunderland | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-53cf47bd27",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-53cf47bd27",
+                  "name": "Lech Poznan vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-53cf47bd27",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20f389b596",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ddbad4c9671b413fb6d0a81e16eaa0ed/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "Lech Poznan",
+            "team_b": "Sunderland",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghj25m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlv8wqvy_c647bd20_20261021.png?v=c647bd20",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
