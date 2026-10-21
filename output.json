@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-237262a8db",
-          "name": "Kawasaki Frontale vs Vissel Kobe | 17:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-237262a8db",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-237262a8db",
-                  "name": "Kawasaki Frontale vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "st-237262a8db",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bed828e24c",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bf5c364759ed48b89be79d1526e7e39a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kawasaki Frontale",
-            "team_b": "Vissel Kobe",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho65ryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhd7kmd7o/image/small",
-            "time": "17:00:00",
-            "date": "21/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnde69m0v_8fcefd27_20261021.png?v=8fcefd27",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a9e2d2cec5",
           "name": "Como U19 vs Manchester Utd U19 | 18:00 21/10",
@@ -1051,8 +979,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-35ebcacfb7",
-          "name": "LB Bank Ninh Bình vs BC Thông Tin BĐ19 | 17:00 21/10",
+          "id": "pl-55a41f0f30",
+          "name": "Vietinbank vs HCĐG Lào Cai | 19:30 21/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1062,78 +990,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35ebcacfb7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-35ebcacfb7",
-                  "name": "LB Bank Ninh Bình vs BC Thông Tin BĐ19",
-                  "streams": [
-                    {
-                      "id": "st-35ebcacfb7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0f324180b",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f4eac61ac59f4c2da898c430de54063c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LB Bank Ninh Bình",
-            "team_b": "BC Thông Tin BĐ19",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "17:00:00",
-            "date": "21/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aa8e284c72424089ac01003401344d62_fd0217c9_20261021.png?v=fd0217c9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-55a41f0f30",
-          "name": "Vietinbank vs HCĐG Lào Cai | 19:30 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1182,7 +1038,7 @@
             "time": "19:30:00",
             "date": "21/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
