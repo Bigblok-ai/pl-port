@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "23:45:00",
             "date": "21/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "23:45:00",
             "date": "21/10",
             "blv": "LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "23:45:00",
             "date": "21/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1262,6 +1262,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/762578918a6144afb6b67a5f1f22bcc3_d6ca6337_20261021.png?v=d6ca6337",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-07ed48c01e",
+          "name": "Denso Airybees Nữ vs Hisamitsu Springs Nữ | 17:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07ed48c01e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-07ed48c01e",
+                  "name": "Denso Airybees Nữ vs Hisamitsu Springs Nữ",
+                  "streams": [
+                    {
+                      "id": "st-07ed48c01e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-477bfd3402",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17a6a692b53e4feba1b8a3a6aa829432/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Denso Airybees Nữ",
+            "team_b": "Hisamitsu Springs Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/36c10a4e1bc7d9a17ab47df2d74661a5.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/30a8757bc201fed57fcb779c30bb14db.png!w80",
+            "time": "17:00:00",
+            "date": "23/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d300a4960a014ef9b293e3af10524096_d1a1e383_20261021.png?v=d1a1e383",
             "width": 1600,
             "height": 1200
           }
