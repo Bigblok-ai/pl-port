@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-429fb85543",
-          "name": "Hoffenheim vs OL | 02:00 23/10",
+          "name": "Hoffenheim vs Lyon | 02:00 23/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -37,7 +37,7 @@
               "contents": [
                 {
                   "id": "ct-429fb85543",
-                  "name": "Hoffenheim vs OL",
+                  "name": "Hoffenheim vs Lyon",
                   "streams": [
                     {
                       "id": "st-429fb85543",
@@ -70,7 +70,7 @@
           "org_metadata": {
             "league": "UEFA Europa League",
             "team_a": "Hoffenheim",
-            "team_b": "OL",
+            "team_b": "Lyon",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small",
             "time": "02:00:00",
