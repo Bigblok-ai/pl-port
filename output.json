@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-074ab2cdeb",
-          "name": "XMLS Thanh Hoá vs HCĐG Lào Cai | 17:00 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-074ab2cdeb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-074ab2cdeb",
-                  "name": "XMLS Thanh Hoá vs HCĐG Lào Cai",
-                  "streams": [
-                    {
-                      "id": "st-074ab2cdeb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d3e2b5540f",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ce9e8ea592d745c19bac29a1be3f8288/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "XMLS Thanh Hoá",
-            "team_b": "HCĐG Lào Cai",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "17:00:00",
-            "date": "22/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/423cf08e7e654e5c9c96c1b703a78f8a_e845610c_20261022.png?v=e845610c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-75c6dd25c3",
           "name": "LB Bank Ninh Bình vs Vietinbank | 19:30 22/10",
