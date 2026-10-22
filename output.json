@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5acaff0896",
+          "name": "Al Faisaly vs Al Nassr | 20:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5acaff0896",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5acaff0896",
+                  "name": "Al Faisaly vs Al Nassr",
+                  "streams": [
+                    {
+                      "id": "st-5acaff0896",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-944b20c277",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1535b0b796e0489ebe80efa2eb3e6b3d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Faisaly",
+            "team_b": "Al Nassr",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phyzpm2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
+            "time": "20:30:00",
+            "date": "23/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpz8er51_8b2a822b_20261022.png?v=8b2a822b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
