@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "pl-d1813894f7",
+          "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1813894f7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d1813894f7",
+                  "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-d1813894f7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b70dd9e1a",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0b785556ff1f4aec86d6060fbad6be99/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hoàng Anh Gia Lai",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
+            "time": "17:00:00",
+            "date": "23/10",
+            "blv": "LÝ LỀNH",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1xovryo_5f7d9e89_20261023.png?v=5f7d9e89",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-7d5b9ed12c",
           "name": "Brisbane Roar vs Perth Glory | 16:00 23/10",
           "type": "single",
@@ -300,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkv72lr1g_ad68a79a_20261023.png?v=ad68a79a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d1813894f7",
-          "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d1813894f7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d1813894f7",
-                  "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
-                  "streams": [
-                    {
-                      "id": "st-d1813894f7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7b70dd9e1a",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0b785556ff1f4aec86d6060fbad6be99/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hoàng Anh Gia Lai",
-            "team_b": "Sông Lam Nghệ An",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
-            "time": "17:00:00",
-            "date": "23/10",
-            "blv": "LÝ LỀNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1xovryo_5f7d9e89_20261023.png?v=5f7d9e89",
             "width": 1600,
             "height": 1200
           }
