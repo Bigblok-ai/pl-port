@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1c9391a28f",
-          "name": "Al Hazem vs Al Fayha | 20:40 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1c9391a28f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1c9391a28f",
-                  "name": "Al Hazem vs Al Fayha",
-                  "streams": [
-                    {
-                      "id": "st-1c9391a28f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6afab698e",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/31829b62e9094954b9cbde3fb1e65c68/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Hazem",
-            "team_b": "Al Fayha",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlx8orz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4dnq1zp/image/small",
-            "time": "20:40:00",
-            "date": "22/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5odwxql0_b28d105b_20261022.png?v=b28d105b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-eef26a59a0",
           "name": "FC Kairat vs Panathinaikos | 21:30 22/10",
