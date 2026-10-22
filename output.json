@@ -11,299 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-429fb85543",
-          "name": "Hoffenheim vs Lyon | 02:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-429fb85543",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-429fb85543",
-                  "name": "Hoffenheim vs Lyon",
-                  "streams": [
-                    {
-                      "id": "st-429fb85543",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ef3137cc4",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3f213597922f4b068d48d4ce673840c0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Hoffenheim",
-            "team_b": "Lyon",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small",
-            "time": "02:00:00",
-            "date": "23/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn8lv2m0v_1e67b324_20261023.png?v=1e67b324",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-509e33ce1f",
-          "name": "AFC Bournemouth vs Milan | 02:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-509e33ce1f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-509e33ce1f",
-                  "name": "AFC Bournemouth vs Milan",
-                  "streams": [
-                    {
-                      "id": "st-509e33ce1f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0707a30203",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/52553b6a9ea545db970bdb4c88deb0ab/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "AFC Bournemouth",
-            "team_b": "Milan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
-            "time": "02:00:00",
-            "date": "23/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlvepqvy_f0dac624_20261023.png?v=f0dac624",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-2a5af07caf",
-          "name": "Besiktas JK vs Crystal Palace | 02:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a5af07caf",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2a5af07caf",
-                  "name": "Besiktas JK vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "st-2a5af07caf",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b31910be75",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/20f92ad582b4471097202b41ce891b77/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Besiktas JK",
-            "team_b": "Crystal Palace",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhdpgqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small",
-            "time": "02:00:00",
-            "date": "23/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8v74oqwz_f3e12d6c_20261023.png?v=f3e12d6c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d1813894f7",
-          "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d1813894f7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d1813894f7",
-                  "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
-                  "streams": [
-                    {
-                      "id": "st-d1813894f7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7b70dd9e1a",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0b785556ff1f4aec86d6060fbad6be99/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hoàng Anh Gia Lai",
-            "team_b": "Sông Lam Nghệ An",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
-            "time": "17:00:00",
-            "date": "23/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1xovryo_5f7d9e89_20261023.png?v=5f7d9e89",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7d5b9ed12c",
           "name": "Brisbane Roar vs Perth Glory | 16:00 23/10",
@@ -372,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkv72lr1g_ad68a79a_20261023.png?v=ad68a79a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d1813894f7",
+          "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1813894f7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d1813894f7",
+                  "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-d1813894f7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b70dd9e1a",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0b785556ff1f4aec86d6060fbad6be99/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hoàng Anh Gia Lai",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
+            "time": "17:00:00",
+            "date": "23/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1xovryo_5f7d9e89_20261023.png?v=5f7d9e89",
             "width": 1600,
             "height": 1200
           }
