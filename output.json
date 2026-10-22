@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-26d1eb2899",
-          "name": "Juventus vs Rennes | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-26d1eb2899",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-26d1eb2899",
-                  "name": "Juventus vs Rennes",
-                  "streams": [
-                    {
-                      "id": "st-26d1eb2899",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-47b081bcf7",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/36bfe574f8d34690923d02ca05462f70/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Juventus",
-            "team_b": "Rennes",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhyzvql07/image/small",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh52l8nql0_6d42d325_20261023.png?v=6d42d325",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-429fb85543",
           "name": "Hoffenheim vs OL | 02:00 23/10",
