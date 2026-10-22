@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7d5b9ed12c",
+          "name": "Brisbane Roar vs Perth Glory | 16:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d5b9ed12c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7d5b9ed12c",
+                  "name": "Brisbane Roar vs Perth Glory",
+                  "streams": [
+                    {
+                      "id": "st-7d5b9ed12c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d81a5554d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3e3776bb232248828693f9bdb3a91119/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Brisbane Roar",
+            "team_b": "Perth Glory",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh74x3r1ge/image/small",
+            "time": "16:00:00",
+            "date": "23/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkv72lr1g_ad68a79a_20261022.png?v=ad68a79a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
