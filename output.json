@@ -1184,6 +1184,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2599bee898",
+          "name": "Dortmund vs Eintracht Frankfurt | 23:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2599bee898",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2599bee898",
+                  "name": "Dortmund vs Eintracht Frankfurt",
+                  "streams": [
+                    {
+                      "id": "st-2599bee898",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6891696c",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d63c088071254e439490ed25992af946/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Dortmund",
+            "team_b": "Eintracht Frankfurt",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7henvqdyj/image/small",
+            "time": "23:30:00",
+            "date": "24/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl0dp6q1z_a3c87f7d_20261023.png?v=a3c87f7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9fec1bb332",
+          "name": "Chelsea vs Tottenham | 23:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9fec1bb332",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9fec1bb332",
+                  "name": "Chelsea vs Tottenham",
+                  "streams": [
+                    {
+                      "id": "st-9fec1bb332",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-560f2a3378",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6c73d02de0bd4699bcd163d3052986a1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Chelsea",
+            "team_b": "Tottenham",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
+            "time": "23:30:00",
+            "date": "24/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8gheo62pr6o_21a5fc2d_20261023.png?v=21a5fc2d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
