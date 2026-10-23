@@ -896,6 +896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ea28eca9a6",
+          "name": "RB Leipzig vs Elversberg | 20:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea28eca9a6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ea28eca9a6",
+                  "name": "RB Leipzig vs Elversberg",
+                  "streams": [
+                    {
+                      "id": "st-ea28eca9a6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7333c26545",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/23444cbeedf741feb56e732c591182b1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "RB Leipzig",
+            "team_b": "Elversberg",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hdleqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hop0q0j6/image/small",
+            "time": "20:30:00",
+            "date": "24/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvo482md7_ab5b959b_20261023.png?v=ab5b959b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
