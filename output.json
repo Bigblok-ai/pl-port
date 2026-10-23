@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3b0062e7ad",
-          "name": "VfL Bochum vs Wolfsburg | 23:30 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b0062e7ad",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3b0062e7ad",
-                  "name": "VfL Bochum vs Wolfsburg",
-                  "streams": [
-                    {
-                      "id": "st-3b0062e7ad",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-262ec99be5",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/161803b5ebfd413a828027c5059b84e4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German Bundesliga 2",
-            "team_a": "VfL Bochum",
-            "team_b": "Wolfsburg",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhy10qvy9/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhdnkmd7o/image/small",
-            "time": "23:30:00",
-            "date": "23/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8kj3kqwz_050264f6_20261024.png?v=050264f6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-92c99932a6",
           "name": "Al Qadsiah vs Al Hilal | 01:00 24/10",
