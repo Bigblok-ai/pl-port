@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-5acaff0896",
-          "name": "Al Faisaly vs Al Nassr | 20:30 23/10",
+          "name": "Al Faisaly vs Al Nassr",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Al Nassr",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phyzpm2wd/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
-            "time": "20:30:00",
-            "date": "23/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": true,
             "cate_type": "football"
