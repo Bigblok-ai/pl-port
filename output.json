@@ -1697,6 +1697,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-01d60c04c6",
+          "name": "Vakifbank Nữ vs Galatasaray Nữ | 18:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-01d60c04c6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-01d60c04c6",
+                  "name": "Vakifbank Nữ vs Galatasaray Nữ",
+                  "streams": [
+                    {
+                      "id": "st-01d60c04c6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-58f41919ee",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9b6f7866aabc46f9a8ca795948d48c28/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Vakifbank Nữ",
+            "team_b": "Galatasaray Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/c6a08c3e390a071f4143d6ea1c4f2b11.png!w80",
+            "time": "18:00:00",
+            "date": "25/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/94298c5a9e3e482f895add18087119a5_dd61e626_20261023.png?v=dd61e626",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
