@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b145d323a8",
+          "name": "Melbourne Victory vs Melbourne City | 15:40 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b145d323a8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b145d323a8",
+                  "name": "Melbourne Victory vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-b145d323a8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a85882677a",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/93072ec7af7844abb3ed670a0b0c86ff/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Melbourne Victory",
+            "team_b": "Melbourne City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/n54qllh25jvqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw29eqdyj/image/small",
+            "time": "15:40:00",
+            "date": "24/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkzl0prz8_2cab771f_20261023.png?v=2cab771f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
