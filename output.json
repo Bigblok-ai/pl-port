@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-159e7ee994",
-          "name": "Al Ittihad(KSA) vs Diraiyah | 22:30 23/10",
+          "name": "Al Ittihad(KSA) vs Diraiyah",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Diraiyah",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66ho8e1qo9j/image/small",
-            "time": "22:30:00",
-            "date": "23/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": true,
             "cate_type": "football"
@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-3b0062e7ad",
-          "name": "VfL Bochum vs Wolfsburg | 23:30 23/10",
+          "name": "VfL Bochum vs Wolfsburg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Wolfsburg",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhy10qvy9/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhdnkmd7o/image/small",
-            "time": "23:30:00",
-            "date": "23/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LỀNH",
             "is_live": true,
             "cate_type": "football"
