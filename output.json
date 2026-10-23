@@ -1256,6 +1256,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f18406b067",
+          "name": "Atl. Madrid vs Dep. La Coruna | 02:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f18406b067",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f18406b067",
+                  "name": "Atl. Madrid vs Dep. La Coruna",
+                  "streams": [
+                    {
+                      "id": "st-f18406b067",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e01309ac98",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1ae4eba89d12498fbde5230fafb364f8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Atl. Madrid",
+            "team_b": "Dep. La Coruna",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small",
+            "time": "02:00:00",
+            "date": "25/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk145r51_8a693e60_20261024.png?v=8a693e60",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
