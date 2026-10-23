@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-173e9f40d2",
-          "name": "Thể Công Viettel vs TDTT Bắc Ninh | 19:15 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-173e9f40d2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-173e9f40d2",
-                  "name": "Thể Công Viettel vs TDTT Bắc Ninh",
-                  "streams": [
-                    {
-                      "id": "st-173e9f40d2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-84b7d1f298",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1db6519f92304d768484c2db6c61c996/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Thể Công Viettel",
-            "team_b": "TDTT Bắc Ninh",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small",
-            "time": "19:15:00",
-            "date": "23/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkp5wnr1g_f54a1e4f_20261023.png?v=f54a1e4f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5acaff0896",
           "name": "Al Faisaly vs Al Nassr | 20:30 23/10",
