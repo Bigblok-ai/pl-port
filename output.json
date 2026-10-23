@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cb72c77444",
-          "name": "Becamex Hồ Chí Minh vs Thai Nguyen | 18:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cb72c77444",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cb72c77444",
-                  "name": "Becamex Hồ Chí Minh vs Thai Nguyen",
-                  "streams": [
-                    {
-                      "id": "st-cb72c77444",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b22894272",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a769403518684e0a82d54ddeb6e6fccf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Becamex Hồ Chí Minh",
-            "team_b": "Thai Nguyen",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkhxn5dqg8n/image/small",
-            "time": "18:00:00",
-            "date": "23/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1y80ryo_4319b32e_20261023.png?v=4319b32e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-173e9f40d2",
           "name": "Thể Công Viettel vs TDTT Bắc Ninh | 19:15 23/10",
