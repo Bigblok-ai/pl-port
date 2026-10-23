@@ -1184,6 +1184,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d8d8f15535",
+          "name": "Lazio vs Parma | 01:45 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8d8f15535",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d8d8f15535",
+                  "name": "Lazio vs Parma",
+                  "streams": [
+                    {
+                      "id": "st-d8d8f15535",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3e01b9411",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/855cc95708f145cab6dcc65d4028cd1c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Lazio",
+            "team_b": "Parma",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small",
+            "time": "01:45:00",
+            "date": "25/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4joxor8k_a5ee5d40_20261024.png?v=a5ee5d40",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
