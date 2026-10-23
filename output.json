@@ -8,5 +8,1320 @@
     "type": "cover",
     "url": "https://phalang.live/favicon.png"
   },
-  "groups": []
+  "groups": [
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-7d5b9ed12c",
+          "name": "Brisbane Roar vs Perth Glory | 16:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d5b9ed12c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7d5b9ed12c",
+                  "name": "Brisbane Roar vs Perth Glory",
+                  "streams": [
+                    {
+                      "id": "st-7d5b9ed12c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d81a5554d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3e3776bb232248828693f9bdb3a91119/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Brisbane Roar",
+            "team_b": "Perth Glory",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh74x3r1ge/image/small",
+            "time": "16:00:00",
+            "date": "23/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkv72lr1g_ad68a79a_20261023.png?v=ad68a79a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d1813894f7",
+          "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1813894f7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d1813894f7",
+                  "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-d1813894f7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b70dd9e1a",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0b785556ff1f4aec86d6060fbad6be99/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hoàng Anh Gia Lai",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
+            "time": "17:00:00",
+            "date": "23/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1xovryo_5f7d9e89_20261023.png?v=5f7d9e89",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cb72c77444",
+          "name": "Becamex Hồ Chí Minh vs Thai Nguyen | 18:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb72c77444",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cb72c77444",
+                  "name": "Becamex Hồ Chí Minh vs Thai Nguyen",
+                  "streams": [
+                    {
+                      "id": "st-cb72c77444",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b22894272",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a769403518684e0a82d54ddeb6e6fccf/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Becamex Hồ Chí Minh",
+            "team_b": "Thai Nguyen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkhxn5dqg8n/image/small",
+            "time": "18:00:00",
+            "date": "23/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1y80ryo_4319b32e_20261023.png?v=4319b32e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-173e9f40d2",
+          "name": "Thể Công Viettel vs TDTT Bắc Ninh | 19:15 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-173e9f40d2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-173e9f40d2",
+                  "name": "Thể Công Viettel vs TDTT Bắc Ninh",
+                  "streams": [
+                    {
+                      "id": "st-173e9f40d2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-84b7d1f298",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1db6519f92304d768484c2db6c61c996/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Thể Công Viettel",
+            "team_b": "TDTT Bắc Ninh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small",
+            "time": "19:15:00",
+            "date": "23/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkp5wnr1g_f54a1e4f_20261023.png?v=f54a1e4f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5acaff0896",
+          "name": "Al Faisaly vs Al Nassr | 20:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5acaff0896",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5acaff0896",
+                  "name": "Al Faisaly vs Al Nassr",
+                  "streams": [
+                    {
+                      "id": "st-5acaff0896",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-944b20c277",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1535b0b796e0489ebe80efa2eb3e6b3d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Faisaly",
+            "team_b": "Al Nassr",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phyzpm2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
+            "time": "20:30:00",
+            "date": "23/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpz8er51_8b2a822b_20261023.png?v=8b2a822b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-159e7ee994",
+          "name": "Al Ittihad(KSA) vs Diraiyah | 22:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-159e7ee994",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-159e7ee994",
+                  "name": "Al Ittihad(KSA) vs Diraiyah",
+                  "streams": [
+                    {
+                      "id": "st-159e7ee994",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a7650919d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/362723a1966440edac01b57876323007/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Ittihad(KSA)",
+            "team_b": "Diraiyah",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66ho8e1qo9j/image/small",
+            "time": "22:30:00",
+            "date": "23/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1pjg4q0j_0d815516_20261023.png?v=0d815516",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3b0062e7ad",
+          "name": "VfL Bochum vs Wolfsburg | 23:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3b0062e7ad",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3b0062e7ad",
+                  "name": "VfL Bochum vs Wolfsburg",
+                  "streams": [
+                    {
+                      "id": "st-3b0062e7ad",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-262ec99be5",
+                          "name": "LÝ LỀNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/161803b5ebfd413a828027c5059b84e4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Bundesliga 2",
+            "team_a": "VfL Bochum",
+            "team_b": "Wolfsburg",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhy10qvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhdnkmd7o/image/small",
+            "time": "23:30:00",
+            "date": "23/10",
+            "blv": "LÝ LỀNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8kj3kqwz_050264f6_20261023.png?v=050264f6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-92c99932a6",
+          "name": "Al Qadsiah vs Al Hilal | 01:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-92c99932a6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-92c99932a6",
+                  "name": "Al Qadsiah vs Al Hilal",
+                  "streams": [
+                    {
+                      "id": "st-92c99932a6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9495b87b4a",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/42914045b4f146d29dfa1f17b0ea45f6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Qadsiah",
+            "team_b": "Al Hilal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh5p0qg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
+            "time": "01:00:00",
+            "date": "24/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy4wx5ryk_57261f44_20261023.png?v=57261f44",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4398ec7ecc",
+          "name": "Stuttgart vs B. Monchengladbach | 01:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4398ec7ecc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4398ec7ecc",
+                  "name": "Stuttgart vs B. Monchengladbach",
+                  "streams": [
+                    {
+                      "id": "st-4398ec7ecc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ad30eed78",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f241d70e88934b5787187ec1ad2421ee/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Stuttgart",
+            "team_b": "B. Monchengladbach",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh9o4r1ge/image/small",
+            "time": "01:30:00",
+            "date": "24/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyo2ndryk_6e1aff3f_20261023.png?v=6e1aff3f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f954358159",
+          "name": "Ipswich vs Nott'm Forest | 02:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f954358159",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f954358159",
+                  "name": "Ipswich vs Nott'm Forest",
+                  "streams": [
+                    {
+                      "id": "st-f954358159",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bbfed7b12e",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cad223593b1f4200a66d5e0215fe66be/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Ipswich",
+            "team_b": "Nott'm Forest",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
+            "time": "02:00:00",
+            "date": "24/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghndj0em0v_718b43de_20261023.png?v=718b43de",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-07ed48c01e",
+          "name": "Denso Airybees Nữ vs Hisamitsu Springs Nữ | 17:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07ed48c01e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-07ed48c01e",
+                  "name": "Denso Airybees Nữ vs Hisamitsu Springs Nữ",
+                  "streams": [
+                    {
+                      "id": "st-07ed48c01e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-477bfd3402",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17a6a692b53e4feba1b8a3a6aa829432/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Denso Airybees Nữ",
+            "team_b": "Hisamitsu Springs Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/36c10a4e1bc7d9a17ab47df2d74661a5.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/30a8757bc201fed57fcb779c30bb14db.png!w80",
+            "time": "17:00:00",
+            "date": "23/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d300a4960a014ef9b293e3af10524096_d1a1e383_20261023.png?v=d1a1e383",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8047b4351c",
+          "name": "Gunma Bank Green Wings Women vs Prestige Aranmare | 11:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8047b4351c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8047b4351c",
+                  "name": "Gunma Bank Green Wings Women vs Prestige Aranmare",
+                  "streams": [
+                    {
+                      "id": "st-8047b4351c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08abe2f887",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c08de2f387d54c8bb69d50e1e9fbb535/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Gunma Bank Green Wings Women",
+            "team_b": "Prestige Aranmare",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/576f85e1abac99403642b1ec18fd0709.png!w80",
+            "time": "11:00:00",
+            "date": "24/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6c068148843243a695ced6856242d955_b76b131c_20261023.png?v=b76b131c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0e4f8f0263",
+          "name": "LB Bank Ninh Bình vs Geleximco Hưng Yên | 12:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0e4f8f0263",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0e4f8f0263",
+                  "name": "LB Bank Ninh Bình vs Geleximco Hưng Yên",
+                  "streams": [
+                    {
+                      "id": "st-0e4f8f0263",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c9f7e5a184",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a2c0e1e3a0f14ded85ff9a32cbdfcb37/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LB Bank Ninh Bình",
+            "team_b": "Geleximco Hưng Yên",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
+            "time": "12:00:00",
+            "date": "24/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/138d0b7d9d9841d3b0de1b9d92637c33_5225188c_20261023.png?v=5225188c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-834baf5780",
+          "name": "HCĐG Lào Cai vs Hà Nội Tasco Auto | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-834baf5780",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-834baf5780",
+                  "name": "HCĐG Lào Cai vs Hà Nội Tasco Auto",
+                  "streams": [
+                    {
+                      "id": "st-834baf5780",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-393331dc84",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/10be1de5051d4ae3a63ac8c709f09920/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "HCĐG Lào Cai",
+            "team_b": "Hà Nội Tasco Auto",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png ",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1408381a8afe495388a9d314d6ed1c2b_eac4716e_20261023.png?v=eac4716e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8b7f827e0c",
+          "name": "XMLS Thanh Hoá vs Vietinbank | 17:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b7f827e0c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8b7f827e0c",
+                  "name": "XMLS Thanh Hoá vs Vietinbank",
+                  "streams": [
+                    {
+                      "id": "st-8b7f827e0c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6edab56149",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/01e56446ac584fa4b0c6550a99511126/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "XMLS Thanh Hoá",
+            "team_b": "Vietinbank",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
+            "time": "17:00:00",
+            "date": "24/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4d0d8e43cbe84902bcd55aee3b6d7d2c_29c9c6fa_20261023.png?v=29c9c6fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-56e72291fe",
+          "name": "VTV BĐ Long An vs BC Thông Tin BĐ19 | 19:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-56e72291fe",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-56e72291fe",
+                  "name": "VTV BĐ Long An vs BC Thông Tin BĐ19",
+                  "streams": [
+                    {
+                      "id": "st-56e72291fe",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fcc81ba9cf",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bf4d19c984d94120a43cee2133eb639a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "VTV BĐ Long An",
+            "team_b": "BC Thông Tin BĐ19",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "time": "19:30:00",
+            "date": "24/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c0ece3d776414076b908a88927dc316b_7f57de02_20261023.png?v=7f57de02",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-19aad92fbc",
+          "name": "Monza Nữ vs UYBA Busto Arsizio Nữ | 21:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-19aad92fbc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-19aad92fbc",
+                  "name": "Monza Nữ vs UYBA Busto Arsizio Nữ",
+                  "streams": [
+                    {
+                      "id": "st-19aad92fbc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-156fe48eb6",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5c89f6f864a645b69a59647e01831591/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A1",
+            "team_a": "Monza Nữ",
+            "team_b": "UYBA Busto Arsizio Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/d2779f958e235932b10f919178fe9395.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/63079acf375b478671e2c7a788777f87.png!w80",
+            "time": "21:00:00",
+            "date": "24/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3b31c96770574c6fb888df54b7d3a9a8_681f5212_20261023.png?v=681f5212",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fb130ef968",
+          "name": "Conegliano Nữ vs Scandicci Nữ | 23:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb130ef968",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fb130ef968",
+                  "name": "Conegliano Nữ vs Scandicci Nữ",
+                  "streams": [
+                    {
+                      "id": "st-fb130ef968",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f09e9e90e6",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8fdcd7da94a144f09b1137f11ca51041/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super Cup Women",
+            "team_a": "Conegliano Nữ",
+            "team_b": "Scandicci Nữ",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b3bcdb0236b8f0a249ad08f13f717dbc.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/2328124576ecb552d4dec1c1c6d363a3.png!w80",
+            "time": "23:00:00",
+            "date": "24/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/abff24cf49304659905f0d7c840680eb_6c1e5303_20261023.png?v=6c1e5303",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
 }
