@@ -17,150 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-de86aa6b93",
-          "name": "Arsenal vs Everton | 21:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-de86aa6b93",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-de86aa6b93",
-                  "name": "Arsenal vs Everton",
-                  "streams": [
-                    {
-                      "id": "st-de86aa6b93",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fbcfc4e24d",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2a9c2b005418411292e93652ea44d90b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Arsenal",
-            "team_b": "Everton",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
-            "time": "21:00:00",
-            "date": "24/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywo29ryk_b0dee363_20261024.png?v=b0dee363",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-8fa2b2a718",
-          "name": "Coventry City vs Fulham | 21:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8fa2b2a718",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8fa2b2a718",
-                  "name": "Coventry City vs Fulham",
-                  "streams": [
-                    {
-                      "id": "st-8fa2b2a718",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e40506ef20",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/73d500c09e0045b6b2be917265c20259/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Coventry City",
-            "team_b": "Fulham",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz23r510/image/small",
-            "time": "21:00:00",
-            "date": "24/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dk00qwz_8b8a455d_20261024.png?v=8b8a455d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-ecef177099",
           "name": "Napoli vs AS Roma | 23:00 24/10",
           "type": "single",
@@ -240,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +148,7 @@
             "time": "23:30:00",
             "date": "24/10",
             "blv": "LÝ LỀNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +220,7 @@
             "time": "23:30:00",
             "date": "24/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
