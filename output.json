@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-8b7f827e0c",
-          "name": "XMLS Thanh Hoá vs Vietinbank | 17:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b7f827e0c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8b7f827e0c",
-                  "name": "XMLS Thanh Hoá vs Vietinbank",
-                  "streams": [
-                    {
-                      "id": "st-8b7f827e0c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6edab56149",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/01e56446ac584fa4b0c6550a99511126/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "XMLS Thanh Hoá",
-            "team_b": "Vietinbank",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
-            "time": "17:00:00",
-            "date": "24/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4d0d8e43cbe84902bcd55aee3b6d7d2c_29c9c6fa_20261024.png?v=29c9c6fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-56e72291fe",
           "name": "VTV BĐ Long An vs BC Thông Tin BĐ19 | 19:30 24/10",
