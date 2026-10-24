@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-9ed0269f69",
-          "name": "VIỆT NAM vs BOSNIA | 14:30 24/10",
+          "id": "pl-b145d323a8",
+          "name": "Melbourne Victory vs Melbourne City | 15:40 24/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,78 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9ed0269f69",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9ed0269f69",
-                  "name": "VIỆT NAM vs BOSNIA",
-                  "streams": [
-                    {
-                      "id": "st-9ed0269f69",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7cb4b108b1",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/440bdf2c0e9745199389bf51893888bc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "VIỆT NAM",
-            "team_b": "BOSNIA",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
-            "time": "14:30:00",
-            "date": "24/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2d06f8137d8847e8821027b004c4d894_51d621da_20261024.png?v=51d621da",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-b145d323a8",
-          "name": "Melbourne Victory vs Melbourne City | 15:40 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "15:40:00",
             "date": "24/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
