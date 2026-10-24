@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -237,7 +237,7 @@
             "time": "18:30:00",
             "date": "24/10",
             "blv": "LÝ LA LÀNG, LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1109,6 +1109,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnoge9qvy_7daa345c_20261024.png?v=7daa345c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-18490d4706",
+          "name": "Ninh Bình vs Hồ Chí Minh | 18:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18490d4706",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-18490d4706",
+                  "name": "Ninh Bình vs Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-18490d4706",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-259828dd9d",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/211c4c09dccf48e8a83cbd43eca60dd5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Ninh Bình",
+            "team_b": "Hồ Chí Minh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small",
+            "time": "18:00:00",
+            "date": "25/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxl21nqo9_84052c49_20261024.png?v=84052c49",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5679a33626",
+          "name": "SHB Đà Nẵng vs Hà Nội FC | 18:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5679a33626",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5679a33626",
+                  "name": "SHB Đà Nẵng vs Hà Nội FC",
+                  "streams": [
+                    {
+                      "id": "st-5679a33626",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-476616c6db",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a18179ee07bc44d9b724e9bbe5fe7aa0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "SHB Đà Nẵng",
+            "team_b": "Hà Nội FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9k9ryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghen9wmoep/image/small",
+            "time": "18:00:00",
+            "date": "25/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl67x7moe_f9adac01_20261024.png?v=f9adac01",
             "width": 1600,
             "height": 1200
           }
