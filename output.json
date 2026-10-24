@@ -1610,6 +1610,150 @@
           }
         },
         {
+          "id": "pl-274aa20150",
+          "name": "LB Bank Ninh Bình vs XMLS Thanh Hoá | 12:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-274aa20150",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-274aa20150",
+                  "name": "LB Bank Ninh Bình vs XMLS Thanh Hoá",
+                  "streams": [
+                    {
+                      "id": "st-274aa20150",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f66f3cf64",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4b0e9bb515c0492e99164d1b999c9437/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LB Bank Ninh Bình",
+            "team_b": "XMLS Thanh Hoá",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
+            "time": "12:00:00",
+            "date": "25/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/90841255029f4cd487705c37cc1d27e4_a66a8280_20261024.png?v=a66a8280",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-12ad27e3bd",
+          "name": "Vietinbank vs Geleximco Hưng Yên | 14:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-12ad27e3bd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-12ad27e3bd",
+                  "name": "Vietinbank vs Geleximco Hưng Yên",
+                  "streams": [
+                    {
+                      "id": "st-12ad27e3bd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-952a8b07c5",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/97d02cb82fe64f228fb09f7c2fd80a76/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Vietinbank",
+            "team_b": "Geleximco Hưng Yên",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/9/9d/Logo_Vietinbank.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
+            "time": "14:30:00",
+            "date": "25/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29963c69756a472b872931a9c44b3ce6_319fbb54_20261024.png?v=319fbb54",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-01d60c04c6",
           "name": "Vakifbank Nữ vs Galatasaray Nữ | 18:00 25/10",
           "type": "single",
