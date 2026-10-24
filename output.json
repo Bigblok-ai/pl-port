@@ -953,6 +953,78 @@
           }
         },
         {
+          "id": "pl-2e5fca4812",
+          "name": "VIỆT NAM vs MAURITIUS | 20:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2e5fca4812",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2e5fca4812",
+                  "name": "VIỆT NAM vs MAURITIUS",
+                  "streams": [
+                    {
+                      "id": "st-2e5fca4812",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6bf1e81d0",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/955af2a67c5449a9a67e74561d8334ba/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "U15 WORCUP",
+            "team_a": "VIỆT NAM",
+            "team_b": "MAURITIUS",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mauritius_flag_300.png/330px-Mauritius_flag_300.png",
+            "time": "20:00:00",
+            "date": "25/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ae5faeb162e3436099d9ecd1c6d8ac53_595c3b85_20261024.png?v=595c3b85",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-66d27fb023",
           "name": "Athletic Bilbao vs Getafe | 20:00 25/10",
           "type": "single",
@@ -1754,6 +1826,78 @@
           }
         },
         {
+          "id": "pl-39ed26ca7a",
+          "name": "VTV BĐ Long An vs HCĐG Lào Cai | 17:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-39ed26ca7a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-39ed26ca7a",
+                  "name": "VTV BĐ Long An vs HCĐG Lào Cai",
+                  "streams": [
+                    {
+                      "id": "st-39ed26ca7a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab7096b5e8",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/02ed70adbb6f40ed996980c3399fca85/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "VTV BĐ Long An",
+            "team_b": "HCĐG Lào Cai",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "time": "17:00:00",
+            "date": "25/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9392988fc59b42ec9249e5be95db62ca_786006a4_20261024.png?v=786006a4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-01d60c04c6",
           "name": "Vakifbank Nữ vs Galatasaray Nữ | 18:00 25/10",
           "type": "single",
@@ -1821,6 +1965,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/94298c5a9e3e482f895add18087119a5_dd61e626_20261024.png?v=dd61e626",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3260e44d99",
+          "name": "BC Thông Tin BĐ19 vs Hà Nội Tasco Auto | 19:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3260e44d99",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3260e44d99",
+                  "name": "BC Thông Tin BĐ19 vs Hà Nội Tasco Auto",
+                  "streams": [
+                    {
+                      "id": "st-3260e44d99",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d5411ddbff",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/23dda6f435604e41a6fbc974cbeaa260/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "BC Thông Tin BĐ19",
+            "team_b": "Hà Nội Tasco Auto",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png ",
+            "time": "19:30:00",
+            "date": "25/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a9c7134699ce44fb94b0af2d106cb5ce_182c55e1_20261024.png?v=182c55e1",
             "width": 1600,
             "height": 1200
           }
