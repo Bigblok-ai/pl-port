@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "14:30:00",
             "date": "24/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1195,8 +1195,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-0e4f8f0263",
-          "name": "LB Bank Ninh Bình vs Geleximco Hưng Yên | 12:00 24/10",
+          "id": "pl-834baf5780",
+          "name": "HCĐG Lào Cai vs Hà Nội Tasco Auto | 14:30 24/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1206,78 +1206,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e4f8f0263",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0e4f8f0263",
-                  "name": "LB Bank Ninh Bình vs Geleximco Hưng Yên",
-                  "streams": [
-                    {
-                      "id": "st-0e4f8f0263",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c9f7e5a184",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a2c0e1e3a0f14ded85ff9a32cbdfcb37/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LB Bank Ninh Bình",
-            "team_b": "Geleximco Hưng Yên",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png",
-            "time": "12:00:00",
-            "date": "24/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/138d0b7d9d9841d3b0de1b9d92637c33_5225188c_20261024.png?v=5225188c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-834baf5780",
-          "name": "HCĐG Lào Cai vs Hà Nội Tasco Auto | 14:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1326,7 +1254,7 @@
             "time": "14:30:00",
             "date": "24/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
