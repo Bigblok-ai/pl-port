@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-34bf3a6d83",
+          "name": "Barcelona vs Real Madrid | 03:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-34bf3a6d83",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-34bf3a6d83",
+                  "name": "Barcelona vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-34bf3a6d83",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db60ca79fd",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e03be58fda8d4f3bb09578d47ec18c73/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Real Madrid",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small",
+            "time": "03:00:00",
+            "date": "26/10",
+            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvo1w0md7_e3634f27_20261025.png?v=e3634f27",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
