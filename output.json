@@ -1261,7 +1261,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1346,10 +1346,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1398,7 +1398,7 @@
             "time": "19:30:00",
             "date": "24/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -1438,8 +1438,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-156fe48eb6",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-640354933a",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/5c89f6f864a645b69a59647e01831591/index.m3u8",
@@ -1469,7 +1469,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/63079acf375b478671e2c7a788777f87.png!w80",
             "time": "21:00:00",
             "date": "24/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1510,8 +1510,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f09e9e90e6",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-84cdfab548",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/8fdcd7da94a144f09b1137f11ca51041/index.m3u8",
@@ -1541,7 +1541,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/2328124576ecb552d4dec1c1c6d363a3.png!w80",
             "time": "23:00:00",
             "date": "24/10",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
