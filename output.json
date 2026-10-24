@@ -1388,83 +1388,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-19aad92fbc",
-          "name": "Monza Nữ vs UYBA Busto Arsizio Nữ | 21:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-19aad92fbc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-19aad92fbc",
-                  "name": "Monza Nữ vs UYBA Busto Arsizio Nữ",
-                  "streams": [
-                    {
-                      "id": "st-19aad92fbc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-640354933a",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5c89f6f864a645b69a59647e01831591/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serie A1",
-            "team_a": "Monza Nữ",
-            "team_b": "UYBA Busto Arsizio Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/d2779f958e235932b10f919178fe9395.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/63079acf375b478671e2c7a788777f87.png!w80",
-            "time": "21:00:00",
-            "date": "24/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3b31c96770574c6fb888df54b7d3a9a8_681f5212_20261024.png?v=681f5212",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fb130ef968",
           "name": "Conegliano Nữ vs Scandicci Nữ | 23:00 24/10",
