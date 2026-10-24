@@ -1112,49 +1112,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-8047b4351c",
-          "name": "Gunma Bank Green Wings Women vs Prestige Aranmare | 11:00 24/10",
+          "id": "pl-2b585fb55e",
+          "name": "VIỆT NAM vs BRUNEI | 13:15 25/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-8047b4351c",
+              "id": "src-2b585fb55e",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-8047b4351c",
-                  "name": "Gunma Bank Green Wings Women vs Prestige Aranmare",
+                  "id": "ct-2b585fb55e",
+                  "name": "VIỆT NAM vs BRUNEI",
                   "streams": [
                     {
-                      "id": "st-8047b4351c",
+                      "id": "st-2b585fb55e",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-08abe2f887",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-eb141e4e74",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c08de2f387d54c8bb69d50e1e9fbb535/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/3e1fc04bf9f24b8aab104160827a3a6c/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1174,26 +1165,35 @@
             }
           ],
           "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Gunma Bank Green Wings Women",
-            "team_b": "Prestige Aranmare",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/576f85e1abac99403642b1ec18fd0709.png!w80",
-            "time": "11:00:00",
-            "date": "24/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "U15 WORCUP",
+            "team_a": "VIỆT NAM",
+            "team_b": "BRUNEI",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
+            "logo_b": "https://img.magnific.com/vector-cao-cap/quoc-ky-brunei-minh-hoa-vector_769373-93.jpg?semt=ais_hybrid&w=740&q=80",
+            "time": "13:15:00",
+            "date": "25/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6c068148843243a695ced6856242d955_b76b131c_20261024.png?v=b76b131c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/77e8c5014ccc49cabe59e799e7317168_237031c7_20261024.png?v=237031c7",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-0e4f8f0263",
           "name": "LB Bank Ninh Bình vs Geleximco Hưng Yên | 12:00 24/10",
