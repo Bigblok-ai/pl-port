@@ -1388,83 +1388,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fb130ef968",
-          "name": "Conegliano Nữ vs Scandicci Nữ | 23:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fb130ef968",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fb130ef968",
-                  "name": "Conegliano Nữ vs Scandicci Nữ",
-                  "streams": [
-                    {
-                      "id": "st-fb130ef968",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-84cdfab548",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8fdcd7da94a144f09b1137f11ca51041/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Super Cup Women",
-            "team_a": "Conegliano Nữ",
-            "team_b": "Scandicci Nữ",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/b3bcdb0236b8f0a249ad08f13f717dbc.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/2328124576ecb552d4dec1c1c6d363a3.png!w80",
-            "time": "23:00:00",
-            "date": "24/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/abff24cf49304659905f0d7c840680eb_6c1e5303_20261025.png?v=6c1e5303",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-538c8788ac",
           "name": "Gunma Bank Green Wings Women vs Prestige Aranmare Women | 11:00 25/10",
