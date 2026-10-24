@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3976e58d2e",
-          "name": "Como vs Sassuolo | 20:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3976e58d2e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3976e58d2e",
-                  "name": "Como vs Sassuolo",
-                  "streams": [
-                    {
-                      "id": "st-3976e58d2e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-29aafa288e",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1c4168b2393d4aefbb45859c38759b8c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Como",
-            "team_b": "Sassuolo",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small",
-            "time": "20:00:00",
-            "date": "24/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6z3jyqg8_c73eeb80_20261024.png?v=c73eeb80",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ea28eca9a6",
           "name": "RB Leipzig vs Elversberg | 20:30 24/10",
