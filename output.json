@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c07c9a65d5",
+          "name": "Celta vs Real Betis | 22:15 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c07c9a65d5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c07c9a65d5",
+                  "name": "Celta vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-c07c9a65d5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a65dbee274",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e829c802ea1f43a98c4bdc6f56f99faf/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Celta",
+            "team_b": "Real Betis",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
+            "time": "22:15:00",
+            "date": "25/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh591glql0_d89f4e9e_20261024.png?v=d89f4e9e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
