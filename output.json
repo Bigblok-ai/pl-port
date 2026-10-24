@@ -1388,83 +1388,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-56e72291fe",
-          "name": "VTV BĐ Long An vs BC Thông Tin BĐ19 | 19:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-56e72291fe",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-56e72291fe",
-                  "name": "VTV BĐ Long An vs BC Thông Tin BĐ19",
-                  "streams": [
-                    {
-                      "id": "st-56e72291fe",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fcc81ba9cf",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bf4d19c984d94120a43cee2133eb639a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "VTV BĐ Long An",
-            "team_b": "BC Thông Tin BĐ19",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "19:30:00",
-            "date": "24/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c0ece3d776414076b908a88927dc316b_7f57de02_20261024.png?v=7f57de02",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-19aad92fbc",
           "name": "Monza Nữ vs UYBA Busto Arsizio Nữ | 21:00 24/10",
