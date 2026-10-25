@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -372,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkv1xzrz8_0e477d06_20261025.png?v=0e477d06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-98e21cba5e",
+          "name": "NEC Nijmegen vs Groningen | 20:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-98e21cba5e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-98e21cba5e",
+                  "name": "NEC Nijmegen vs Groningen",
+                  "streams": [
+                    {
+                      "id": "st-98e21cba5e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77ac1fe120",
+                          "name": "TEST",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/789bcb72ca694348af13e188b80919e5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Netherlands Eredivisie",
+            "team_a": "NEC Nijmegen",
+            "team_b": "Groningen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4yzrepz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phe0xm2wd/image/small",
+            "time": "20:30:00",
+            "date": "25/10",
+            "blv": "TEST",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxd742qo9_7386abd8_20261025.png?v=7386abd8",
             "width": 1600,
             "height": 1200
           }
