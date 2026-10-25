@@ -1250,78 +1250,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-538c8788ac",
-          "name": "Gunma Bank Green Wings Women vs Prestige Aranmare Women | 11:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-538c8788ac",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-538c8788ac",
-                  "name": "Gunma Bank Green Wings Women vs Prestige Aranmare Women",
-                  "streams": [
-                    {
-                      "id": "st-538c8788ac",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74dcd752a1",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b2fec8adc4e148a5a44b7b6e218c4583/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Gunma Bank Green Wings Women",
-            "team_b": "Prestige Aranmare Women",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/576f85e1abac99403642b1ec18fd0709.png!w80",
-            "time": "11:00:00",
-            "date": "25/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/15aa572687ed430f8f04625f4d830478_b76b131c_20261025.png?v=b76b131c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-274aa20150",
           "name": "LB Bank Ninh Bình vs XMLS Thanh Hoá | 12:00 25/10",
           "type": "single",
@@ -1401,10 +1329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1453,7 +1381,7 @@
             "time": "14:30:00",
             "date": "25/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
