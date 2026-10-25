@@ -953,6 +953,78 @@
           }
         },
         {
+          "id": "pl-d685a637af",
+          "name": "VIỆT NAM - vs IRAN | 12:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d685a637af",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d685a637af",
+                  "name": "VIỆT NAM - vs IRAN",
+                  "streams": [
+                    {
+                      "id": "st-d685a637af",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-35f4f0c28e",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/768bcce9a3cc43afa8f99273d32e59d5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "U15 WORCUP",
+            "team_a": "VIỆT NAM -",
+            "team_b": "IRAN",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+            "time": "12:00:00",
+            "date": "26/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/574f47d536df4cacb80e795e99dc3ecc_36f5813a_20261025.png?v=36f5813a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-a71abb7380",
           "name": "FC Lochin vs FarDU | 17:00 26/10",
           "type": "single",
@@ -1025,6 +1097,78 @@
           }
         },
         {
+          "id": "pl-7000acbd76",
+          "name": "VIỆT NAM vs GUYANA | 18:45 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7000acbd76",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7000acbd76",
+                  "name": "VIỆT NAM vs GUYANA",
+                  "streams": [
+                    {
+                      "id": "st-7000acbd76",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf67042974",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e878710c12de4d64bb588c247f581186/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "U15 WORCUP",
+            "team_a": "VIỆT NAM",
+            "team_b": "GUYANA",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/330px-Flag_of_Guyana.svg.png",
+            "time": "18:45:00",
+            "date": "26/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e4353c81f7884a1d90d1eb13c0ea6a1e_cff11569_20261025.png?v=cff11569",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-5ee7953df8",
           "name": "Persija Jakarta vs Persik Kediri | 19:00 26/10",
           "type": "single",
@@ -1092,6 +1236,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw3y9wryo_c3f745c2_20261025.png?v=c3f745c2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f00f10112c",
+          "name": "Neftchi Fergana vs Al Ittihad(KSA) | 20:45 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f00f10112c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f00f10112c",
+                  "name": "Neftchi Fergana vs Al Ittihad(KSA)",
+                  "streams": [
+                    {
+                      "id": "st-f00f10112c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-899d68c26c",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f08efc5c52c940aa8eb6f624076d23c5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Neftchi Fergana",
+            "team_b": "Al Ittihad(KSA)",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small",
+            "time": "20:45:00",
+            "date": "26/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen29kr6o_81caf289_20261025.png?v=81caf289",
             "width": 1600,
             "height": 1200
           }
