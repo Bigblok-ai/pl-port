@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2b585fb55e",
-          "name": "VIỆT NAM vs BRUNEI | 13:15 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2b585fb55e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2b585fb55e",
-                  "name": "VIỆT NAM vs BRUNEI",
-                  "streams": [
-                    {
-                      "id": "st-2b585fb55e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eb141e4e74",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3e1fc04bf9f24b8aab104160827a3a6c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "VIỆT NAM",
-            "team_b": "BRUNEI",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://img.magnific.com/vector-cao-cap/quoc-ky-brunei-minh-hoa-vector_769373-93.jpg?semt=ais_hybrid&w=740&q=80",
-            "time": "13:15:00",
-            "date": "25/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/77e8c5014ccc49cabe59e799e7317168_237031c7_20261025.png?v=237031c7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-18490d4706",
           "name": "Ninh Bình vs Hồ Chí Minh | 18:00 25/10",
@@ -1244,83 +1172,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-274aa20150",
-          "name": "LB Bank Ninh Bình vs XMLS Thanh Hoá | 12:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-274aa20150",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-274aa20150",
-                  "name": "LB Bank Ninh Bình vs XMLS Thanh Hoá",
-                  "streams": [
-                    {
-                      "id": "st-274aa20150",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f66f3cf64",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4b0e9bb515c0492e99164d1b999c9437/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LB Bank Ninh Bình",
-            "team_b": "XMLS Thanh Hoá",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/e/e3/Logo_XMLS_Thanh_H%C3%B3a.png/250px-Logo_XMLS_Thanh_H%C3%B3a.png",
-            "time": "12:00:00",
-            "date": "25/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/90841255029f4cd487705c37cc1d27e4_a66a8280_20261025.png?v=a66a8280",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-12ad27e3bd",
           "name": "Vietinbank vs Geleximco Hưng Yên | 14:30 25/10",
