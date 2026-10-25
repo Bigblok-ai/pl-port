@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d229208026",
-          "name": "Lecce vs Juventus | 00:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d229208026",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d229208026",
-                  "name": "Lecce vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-d229208026",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-483233eaae",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c44d4e029aa24c8f921e7033f1c2622b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Lecce",
-            "team_b": "Juventus",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvnwrz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "time": "00:00:00",
-            "date": "26/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgej9oq82_56c9c76f_20261026.png?v=56c9c76f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5acdf14024",
           "name": "Real Sociedad vs Levante | 00:30 26/10",
