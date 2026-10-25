@@ -824,6 +824,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9adf5af060",
+          "name": "PSG vs OL | 02:30 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9adf5af060",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9adf5af060",
+                  "name": "PSG vs OL",
+                  "streams": [
+                    {
+                      "id": "st-9adf5af060",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f6df15ceb",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d0d8ac2e4c9340df8166744f538e3e94/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "PSG",
+            "team_b": "OL",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small",
+            "time": "02:30:00",
+            "date": "27/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgepl4q82_84917fe7_20261026.png?v=84917fe7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
