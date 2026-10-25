@@ -908,8 +908,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-d9d99a7594",
-                          "name": "LÝ LỀNH",
+                          "id": "lnk-f21aa47c1c",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/61fe7dec98bf4ce48d79bf21438b9e5b/index.m3u8",
@@ -939,7 +939,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
             "time": "02:45:00",
             "date": "26/10",
-            "blv": "LÝ LỀNH",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
