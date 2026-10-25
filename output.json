@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-66d27fb023",
-          "name": "Athletic Bilbao vs Getafe | 20:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-66d27fb023",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-66d27fb023",
-                  "name": "Athletic Bilbao vs Getafe",
-                  "streams": [
-                    {
-                      "id": "st-66d27fb023",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf5556d938",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/471a1bd8b5144545a3800b383901242c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Athletic Bilbao",
-            "team_b": "Getafe",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz33r510/image/small",
-            "time": "20:00:00",
-            "date": "25/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkv1xzrz8_0e477d06_20261025.png?v=0e477d06",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-546201fe53",
           "name": "Crystal Palace vs Newcastle | 21:00 25/10",
@@ -1316,83 +1244,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3260e44d99",
-          "name": "BC Thông Tin BĐ19 vs Hà Nội Tasco Auto | 19:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3260e44d99",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3260e44d99",
-                  "name": "BC Thông Tin BĐ19 vs Hà Nội Tasco Auto",
-                  "streams": [
-                    {
-                      "id": "st-3260e44d99",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d5411ddbff",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/23dda6f435604e41a6fbc974cbeaa260/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026 (Chung kết)",
-            "team_a": "BC Thông Tin BĐ19",
-            "team_b": "Hà Nội Tasco Auto",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/0/02/Logo_Binh_ch%E1%BB%A7ng_Th%C3%B4ng_tin_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png ",
-            "time": "19:30:00",
-            "date": "25/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a9c7134699ce44fb94b0af2d106cb5ce_182c55e1_20261025.png?v=182c55e1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8af5510755",
           "name": "Fenerbahce Nữ vs Eczacibasi Nữ | 23:00 25/10",
