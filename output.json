@@ -1023,6 +1023,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a71abb7380",
+          "name": "FC Lochin vs FarDU | 17:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a71abb7380",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a71abb7380",
+                  "name": "FC Lochin vs FarDU",
+                  "streams": [
+                    {
+                      "id": "st-a71abb7380",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-713e3219e6",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6142451830304e1abbd92e66d98ad5ee/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Pro League",
+            "team_a": "FC Lochin",
+            "team_b": "FarDU",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whv6j8ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh37l9repz/image/small",
+            "time": "17:00:00",
+            "date": "26/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhge6vgrep_4f666b96_20261025.png?v=4f666b96",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5ee7953df8",
+          "name": "Persija Jakarta vs Persik Kediri | 19:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5ee7953df8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5ee7953df8",
+                  "name": "Persija Jakarta vs Persik Kediri",
+                  "streams": [
+                    {
+                      "id": "st-5ee7953df8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ee244bd8c1",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/18f8bd709abe4f23a88bc321cc1c058a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indonesian Super League",
+            "team_a": "Persija Jakarta",
+            "team_b": "Persik Kediri",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergpho7p8r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8yomo4h741nq0j6/image/small",
+            "time": "19:00:00",
+            "date": "26/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw3y9wryo_c3f745c2_20261025.png?v=c3f745c2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
