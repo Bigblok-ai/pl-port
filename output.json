@@ -1176,6 +1176,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b8d6450794",
+          "name": "\"Ziraat Bankasi vs Gaziantep Genclik \" | 23:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8d6450794",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b8d6450794",
+                  "name": "\"Ziraat Bankasi vs Gaziantep Genclik \"",
+                  "streams": [
+                    {
+                      "id": "st-b8d6450794",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd5f1c940a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fb601b588b3048bd9a4c942873a3d5bc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Efeler Ligi",
+            "team_a": "\"Ziraat Bankasi",
+            "team_b": "Gaziantep Genclik \"",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png!w80",
+            "time": "23:00:00",
+            "date": "27/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/488ff0d2bc4544b39622e6a080104e3a_d403d014_20261025.png?v=d403d014",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
