@@ -11,227 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-546201fe53",
-          "name": "Crystal Palace vs Newcastle | 21:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-546201fe53",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-546201fe53",
-                  "name": "Crystal Palace vs Newcastle",
-                  "streams": [
-                    {
-                      "id": "st-546201fe53",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4d91ae6131",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a6713c3640a149bbb61959fe08fb62c6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Crystal Palace",
-            "team_b": "Newcastle",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
-            "time": "21:00:00",
-            "date": "25/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6zjg9qg8_9e757cf9_20261025.png?v=9e757cf9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-95acea3fc9",
-          "name": "Man Utd vs AFC Bournemouth | 21:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-95acea3fc9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-95acea3fc9",
-                  "name": "Man Utd vs AFC Bournemouth",
-                  "streams": [
-                    {
-                      "id": "st-95acea3fc9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1943a0986a",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/827200ec691c47888de80abaaa15ee6e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Man Utd",
-            "team_b": "AFC Bournemouth",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
-            "time": "21:00:00",
-            "date": "25/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9xg8r1g_a9ad048d_20261025.png?v=a9ad048d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-0beaef1fed",
-          "name": "Liverpool vs Brighton | 21:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0beaef1fed",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0beaef1fed",
-                  "name": "Liverpool vs Brighton",
-                  "streams": [
-                    {
-                      "id": "st-0beaef1fed",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a820ea30fc",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d523193584d34d65b0f958d45587c1f2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Liverpool",
-            "team_b": "Brighton",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
-            "time": "21:00:00",
-            "date": "25/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwl4dwryo_db1b903c_20261025.png?v=db1b903c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7ad6785d84",
           "name": "Hoffenheim vs Bayer Leverkusen | 21:30 25/10",
@@ -1236,6 +1020,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh58yk1ryo_803bef8d_20261025.png?v=803bef8d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-745f6aa704",
+          "name": "Al Ahli vs Al Gharafa | 23:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-745f6aa704",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-745f6aa704",
+                  "name": "Al Ahli vs Al Gharafa",
+                  "streams": [
+                    {
+                      "id": "st-745f6aa704",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9fd1dbf60",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/22b687b601ec43e3ad44102b16a6ac58/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al Ahli",
+            "team_b": "Al Gharafa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergpho0nlr8k0/image/small",
+            "time": "23:00:00",
+            "date": "26/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl5o7kmoe_3b4035bb_20261025.png?v=3b4035bb",
             "width": 1600,
             "height": 1200
           }
