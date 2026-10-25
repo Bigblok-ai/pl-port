@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ec0db7da05",
-          "name": "Udinese vs Milan | 02:45 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec0db7da05",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ec0db7da05",
-                  "name": "Udinese vs Milan",
-                  "streams": [
-                    {
-                      "id": "st-ec0db7da05",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f21aa47c1c",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/61fe7dec98bf4ce48d79bf21438b9e5b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Udinese",
-            "team_b": "Milan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
-            "time": "02:45:00",
-            "date": "26/10",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1j7lzq0j_a01a980e_20261026.png?v=a01a980e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-34bf3a6d83",
           "name": "Barcelona vs Real Madrid | 03:00 26/10",
