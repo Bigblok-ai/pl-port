@@ -1172,83 +1172,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-39ed26ca7a",
-          "name": "VTV BĐ Long An vs HCĐG Lào Cai | 17:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-39ed26ca7a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-39ed26ca7a",
-                  "name": "VTV BĐ Long An vs HCĐG Lào Cai",
-                  "streams": [
-                    {
-                      "id": "st-39ed26ca7a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab7096b5e8",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/02ed70adbb6f40ed996980c3399fca85/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "VTV BĐ Long An",
-            "team_b": "HCĐG Lào Cai",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/af/Logo_H%C3%B3a_ch%E1%BA%A5t_%C4%90%E1%BB%A9c_Giang_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "17:00:00",
-            "date": "25/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9392988fc59b42ec9249e5be95db62ca_786006a4_20261025.png?v=786006a4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-01d60c04c6",
           "name": "Vakifbank Nữ vs Galatasaray Nữ | 18:00 25/10",
