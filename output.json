@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d8f559e944",
-          "name": "Freiburg vs Bayern Munich | 23:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d8f559e944",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d8f559e944",
-                  "name": "Freiburg vs Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-d8f559e944",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6c190db16f",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2e580826b23d467aaf3b48ae8c677a41/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Freiburg",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh924r1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
-            "time": "23:30:00",
-            "date": "25/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6jgl4qg8_79461b34_20261026.png?v=79461b34",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-ff020e73eb",
-          "name": "Sunderland vs Leeds United | 23:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff020e73eb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ff020e73eb",
-                  "name": "Sunderland vs Leeds United",
-                  "streams": [
-                    {
-                      "id": "st-ff020e73eb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5987564ee8",
-                          "name": "LÝ LỀNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e19ad05b24de471a8860987cb1004cd1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Sunderland",
-            "team_b": "Leeds United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
-            "time": "23:30:00",
-            "date": "25/10",
-            "blv": "LÝ LỀNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h68nkomoj_178e4a13_20261026.png?v=178e4a13",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d229208026",
           "name": "Lecce vs Juventus | 00:00 26/10",
@@ -1020,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen22kr6o_f8b73ddc_20261026.png?v=f8b73ddc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b759d85f8c",
+          "name": "Galatasaray vs Fenerbahce | 01:30 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b759d85f8c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b759d85f8c",
+                  "name": "Galatasaray vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-b759d85f8c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ee0cee300",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3345c8a14f484eb1ba9c98ae4f007d8e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Super League",
+            "team_a": "Galatasaray",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hp66qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhdpymd7o/image/small",
+            "time": "01:30:00",
+            "date": "27/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgp6dnrep_657baccd_20261026.png?v=657baccd",
             "width": 1600,
             "height": 1200
           }
