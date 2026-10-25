@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-2e5fca4812",
-          "name": "VIỆT NAM vs MAURITIUS | 20:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2e5fca4812",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2e5fca4812",
-                  "name": "VIỆT NAM vs MAURITIUS",
-                  "streams": [
-                    {
-                      "id": "st-2e5fca4812",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f6bf1e81d0",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/955af2a67c5449a9a67e74561d8334ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "VIỆT NAM",
-            "team_b": "MAURITIUS",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mauritius_flag_300.png/330px-Mauritius_flag_300.png",
-            "time": "20:00:00",
-            "date": "25/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ae5faeb162e3436099d9ecd1c6d8ac53_595c3b85_20261025.png?v=595c3b85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-66d27fb023",
           "name": "Athletic Bilbao vs Getafe | 20:00 25/10",
           "type": "single",
@@ -384,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +364,7 @@
             "time": "21:30:00",
             "date": "25/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
