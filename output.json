@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-10d14b90bd",
+          "name": "Beijing Guoan vs Jeonbuk Hyundai | 19:15 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-10d14b90bd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-10d14b90bd",
+                  "name": "Beijing Guoan vs Jeonbuk Hyundai",
+                  "streams": [
+                    {
+                      "id": "st-10d14b90bd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd0f1a6b03",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e625818649434640b47937d4813471cc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Beijing Guoan",
+            "team_b": "Jeonbuk Hyundai",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whlxkryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd42repz/image/small",
+            "time": "19:15:00",
+            "date": "27/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh983l6m7v_e77bb20e_20261026.png?v=e77bb20e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
