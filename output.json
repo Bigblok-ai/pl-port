@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-fe2a769060",
+          "name": "Lâm Đồng vs PVF-CAND FC | 15:30 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe2a769060",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fe2a769060",
+                  "name": "Lâm Đồng vs PVF-CAND FC",
+                  "streams": [
+                    {
+                      "id": "st-fe2a769060",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1c62f0e41",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0e6e0cea29924075af6126d47157bd94/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Lâm Đồng",
+            "team_b": "PVF-CAND FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg9nkr6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nhz48vmd7o/image/small",
+            "time": "15:30:00",
+            "date": "27/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv3k0qvy_c84488ce_20261026.png?v=c84488ce",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
