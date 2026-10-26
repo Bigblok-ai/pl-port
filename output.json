@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-fe50a5c813",
+          "name": "Fleetwood Town vs Arsenal | 03:00 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe50a5c813",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fe50a5c813",
+                  "name": "Fleetwood Town vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-fe50a5c813",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1447eb04a7",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17b3822c62cc419a8b23d2a4e7baeab2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Cup",
+            "team_a": "Fleetwood Town",
+            "team_b": "Arsenal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghkvlq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "time": "03:00:00",
+            "date": "28/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjy48wr51_14006c4f_20261027.png?v=14006c4f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
