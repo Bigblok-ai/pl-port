@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d685a637af",
-          "name": "VIỆT NAM - vs IRAN | 12:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d685a637af",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d685a637af",
-                  "name": "VIỆT NAM - vs IRAN",
-                  "streams": [
-                    {
-                      "id": "st-d685a637af",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35f4f0c28e",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/768bcce9a3cc43afa8f99273d32e59d5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "VIỆT NAM -",
-            "team_b": "IRAN",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
-            "time": "12:00:00",
-            "date": "26/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/574f47d536df4cacb80e795e99dc3ecc_36f5813a_20261026.png?v=36f5813a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a71abb7380",
           "name": "FC Lochin vs FarDU | 17:00 26/10",
