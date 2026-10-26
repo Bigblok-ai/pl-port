@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b759d85f8c",
-          "name": "Galatasaray vs Fenerbahce | 01:30 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b759d85f8c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b759d85f8c",
-                  "name": "Galatasaray vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-b759d85f8c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ee0cee300",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3345c8a14f484eb1ba9c98ae4f007d8e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Super League",
-            "team_a": "Galatasaray",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hp66qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhdpymd7o/image/small",
-            "time": "01:30:00",
-            "date": "27/10",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgp6dnrep_657baccd_20261027.png?v=657baccd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6f62ef87d9",
           "name": "QUẢ BÓNG VÀNG 2026 vs QUẢ BÓNG VÀNG 2026 | 02:00 27/10",
