@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-9adf5af060",
-          "name": "PSG vs OL | 02:30 27/10",
+          "name": "PSG vs Lyon | 02:30 27/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -253,7 +253,7 @@
               "contents": [
                 {
                   "id": "ct-9adf5af060",
-                  "name": "PSG vs OL",
+                  "name": "PSG vs Lyon",
                   "streams": [
                     {
                       "id": "st-9adf5af060",
@@ -286,7 +286,7 @@
           "org_metadata": {
             "league": "French Ligue 1",
             "team_a": "PSG",
-            "team_b": "OL",
+            "team_b": "Lyon",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg8lmojx/image/small",
             "time": "02:30:00",
@@ -876,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk97vlr1g_aba114f2_20261027.png?v=aba114f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4443175585",
+          "name": "Dortmund vs Werder Bremen | 02:45 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4443175585",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4443175585",
+                  "name": "Dortmund vs Werder Bremen",
+                  "streams": [
+                    {
+                      "id": "st-4443175585",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-92bb291f65",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/42bbf91ee6c648129d2e934b17ec8bb8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "DFB Pokal",
+            "team_a": "Dortmund",
+            "team_b": "Werder Bremen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small",
+            "time": "02:45:00",
+            "date": "28/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxlpglqo9_906c5213_20261027.png?v=906c5213",
             "width": 1600,
             "height": 1200
           }
