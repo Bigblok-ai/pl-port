@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6f62ef87d9",
-          "name": "QUẢ BÓNG VÀNG 2026 vs QUẢ BÓNG VÀNG 2026 | 02:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6f62ef87d9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6f62ef87d9",
-                  "name": "QUẢ BÓNG VÀNG 2026 vs QUẢ BÓNG VÀNG 2026",
-                  "streams": [
-                    {
-                      "id": "st-6f62ef87d9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aea93b9245",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7f65c92463d847469d853d60f752de24/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Quả bóng vàng thế giới 2026",
-            "team_a": "QUẢ BÓNG VÀNG 2026",
-            "team_b": "QUẢ BÓNG VÀNG 2026",
-            "logo_a": "https://png.pngtree.com/png-vector/20230915/ourmid/pngtree-3d-rendering-sequential-golden-soccer-ball-rotating-perspective-view-png-image_10086397.png",
-            "logo_b": "https://png.pngtree.com/png-vector/20230915/ourmid/pngtree-3d-rendering-sequential-golden-soccer-ball-rotating-perspective-view-png-image_10086397.png",
-            "time": "02:00:00",
-            "date": "27/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/852e3a6884274c44a12d380ee9cc7219_4f529822_20261027.png?v=4f529822",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fe2a769060",
           "name": "Lâm Đồng vs PVF-CAND FC | 15:30 27/10",
