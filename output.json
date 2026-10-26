@@ -807,6 +807,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-48e8690372",
+          "name": "Văn Hiến vs Gia Định | 17:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-48e8690372",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-48e8690372",
+                  "name": "Văn Hiến vs Gia Định",
+                  "streams": [
+                    {
+                      "id": "st-48e8690372",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c387213ee",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f2285c18975d4274a58d1820596185e7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Văn Hiến",
+            "team_b": "Gia Định",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhedgxqwzv/image/small",
+            "time": "17:00:00",
+            "date": "27/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh672gnqg8_e7ab4796_20261026.png?v=e7ab4796",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e3af183a91",
+          "name": "Shanghai Port vs Công An Hà Nội | 17:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3af183a91",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e3af183a91",
+                  "name": "Shanghai Port vs Công An Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-e3af183a91",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-97c6d2d5b8",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bed0d5820fd34c71b05cc1c8886b607a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Shanghai Port",
+            "team_b": "Công An Hà Nội",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
+            "time": "17:00:00",
+            "date": "27/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgn2wyq82_5ff4c3a3_20261026.png?v=5ff4c3a3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
