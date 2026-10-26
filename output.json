@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a71abb7380",
-          "name": "FC Lochin vs FarDU | 17:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a71abb7380",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a71abb7380",
-                  "name": "FC Lochin vs FarDU",
-                  "streams": [
-                    {
-                      "id": "st-a71abb7380",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-713e3219e6",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6142451830304e1abbd92e66d98ad5ee/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Pro League",
-            "team_a": "FC Lochin",
-            "team_b": "FarDU",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whv6j8ryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh37l9repz/image/small",
-            "time": "17:00:00",
-            "date": "26/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhge6vgrep_4f666b96_20261026.png?v=4f666b96",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7000acbd76",
           "name": "VIỆT NAM vs GUYANA | 18:45 26/10",
