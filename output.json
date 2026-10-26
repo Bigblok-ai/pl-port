@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7000acbd76",
-          "name": "VIỆT NAM vs GUYANA | 18:45 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7000acbd76",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7000acbd76",
-                  "name": "VIỆT NAM vs GUYANA",
-                  "streams": [
-                    {
-                      "id": "st-7000acbd76",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf67042974",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e878710c12de4d64bb588c247f581186/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "VIỆT NAM",
-            "team_b": "GUYANA",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/330px-Flag_of_Guyana.svg.png",
-            "time": "18:45:00",
-            "date": "26/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e4353c81f7884a1d90d1eb13c0ea6a1e_cff11569_20261026.png?v=cff11569",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5ee7953df8",
           "name": "Persija Jakarta vs Persik Kediri | 19:00 26/10",
