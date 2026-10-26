@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-bc1a83ac60",
-          "name": "ATK Mohun Bagan vs Chennaiyin FC | 21:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc1a83ac60",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bc1a83ac60",
-                  "name": "ATK Mohun Bagan vs Chennaiyin FC",
-                  "streams": [
-                    {
-                      "id": "st-bc1a83ac60",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3b01543832",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ce0134f0866a4c16b718d459604b46b1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "ATK Mohun Bagan",
-            "team_b": "Chennaiyin FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh34zlql07/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jh4o4eqwzv/image/small",
-            "time": "21:00:00",
-            "date": "26/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh58yk1ryo_803bef8d_20261026.png?v=803bef8d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-745f6aa704",
           "name": "Al Ahli vs Al Gharafa | 23:00 26/10",
