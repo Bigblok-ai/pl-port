@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-70be81c742",
-          "name": "Copenhagen vs Odense BK | 01:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-70be81c742",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-70be81c742",
-                  "name": "Copenhagen vs Odense BK",
-                  "streams": [
-                    {
-                      "id": "st-70be81c742",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a99baefeed",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cc55063cc01f4624b7a15fbded550852/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Danish Superliga",
-            "team_a": "Copenhagen",
-            "team_b": "Odense BK",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjl2r8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd3em2wd/image/small",
-            "time": "01:00:00",
-            "date": "27/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3400q1z_4f8b5198_20261027.png?v=4f8b5198",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b759d85f8c",
           "name": "Galatasaray vs Fenerbahce | 01:30 27/10",
