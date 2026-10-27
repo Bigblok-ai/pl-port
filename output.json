@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-5a71a1a33f",
+          "name": "Man City vs Brighton | 02:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5a71a1a33f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5a71a1a33f",
+                  "name": "Man City vs Brighton",
+                  "streams": [
+                    {
+                      "id": "st-5a71a1a33f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2331516d44",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0218308db3274075ad0502da530b92c1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Cup",
+            "team_a": "Man City",
+            "team_b": "Brighton",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
+            "time": "02:30:00",
+            "date": "29/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekh2zo82rep_66c26fbf_20261028.png?v=66c26fbf",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
