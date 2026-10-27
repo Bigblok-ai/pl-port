@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-33f7db6d29",
+          "name": "Erbil vs Al-Ettifaq | 21:30 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-33f7db6d29",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-33f7db6d29",
+                  "name": "Erbil vs Al-Ettifaq",
+                  "streams": [
+                    {
+                      "id": "st-33f7db6d29",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-46d72129f4",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/60e9bc6906744017b8d11131989ca220/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "GCC Champions League",
+            "team_a": "Erbil",
+            "team_b": "Al-Ettifaq",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlejwqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllhlkwqvy9/image/small",
+            "time": "21:30:00",
+            "date": "28/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66h8z5neqo9_d35bb125_20261027.png?v=d35bb125",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
