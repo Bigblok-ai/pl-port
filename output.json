@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-16009c66d5",
-          "name": "Becamex Hồ Chí Minh vs Than Quảng Ninh | 18:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-16009c66d5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-16009c66d5",
-                  "name": "Becamex Hồ Chí Minh vs Than Quảng Ninh",
-                  "streams": [
-                    {
-                      "id": "st-16009c66d5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f7393f09f4",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/adca3e75a7844d97a7a739e56f4cb594/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Becamex Hồ Chí Minh",
-            "team_b": "Than Quảng Ninh",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh6nkryk0/image/small",
-            "time": "18:00:00",
-            "date": "27/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9vg3vm7v_6f0a0d63_20261027.png?v=6f0a0d63",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-10d14b90bd",
           "name": "Beijing Guoan vs Jeonbuk Hyundai | 19:15 27/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "21:30:00",
             "date": "27/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
