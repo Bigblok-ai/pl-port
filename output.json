@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c90c39bc06",
+          "name": "Hung Yen vs Huda Huế | 18:00 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c90c39bc06",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c90c39bc06",
+                  "name": "Hung Yen vs Huda Huế",
+                  "streams": [
+                    {
+                      "id": "st-c90c39bc06",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dbe8e7e068",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1fb5316754044757b4f4a314c136ca17/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Hung Yen",
+            "team_b": "Huda Huế",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h9k60q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh96p9repz/image/small",
+            "time": "18:00:00",
+            "date": "28/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1o6kryo_630dfa15_20261027.png?v=630dfa15",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
