@@ -1104,6 +1104,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b8c421612b",
+          "name": "TP. Hồ Chí Minh vs Công An TP.HCM | 20:00 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8c421612b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b8c421612b",
+                  "name": "TP. Hồ Chí Minh vs Công An TP.HCM",
+                  "streams": [
+                    {
+                      "id": "st-b8c421612b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a7ddf22e3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/79db1d8e0c144f358decc009d2ee80ed/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "TP. Hồ Chí Minh",
+            "team_b": "Công An TP.HCM",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "time": "20:00:00",
+            "date": "28/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/908b071bc0f64995b648d749592478d8_0ac13466_20261027.png?v=0ac13466",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
