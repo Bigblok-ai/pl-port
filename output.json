@@ -960,6 +960,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9533872222",
+          "name": "Sanest Khánh Hoà vs Hà Nội | 14:30 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9533872222",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9533872222",
+                  "name": "Sanest Khánh Hoà vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-9533872222",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cac71c20c7",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9f8e37db7fa64751bac445560ea0e027/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Sanest Khánh Hoà",
+            "team_b": "Hà Nội",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "time": "14:30:00",
+            "date": "28/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4aebe7f2a5cd44e18306c9a5c73c83cf_16c6d57b_20261027.png?v=16c6d57b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0f03d54b72",
+          "name": "Biên Phòng MB vs Đà Nẵng | 17:00 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0f03d54b72",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0f03d54b72",
+                  "name": "Biên Phòng MB vs Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-0f03d54b72",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9e4ab6025",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d6a42b66bb3d478da8c7d3cbaed7ae59/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Biên Phòng MB",
+            "team_b": "Đà Nẵng",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "time": "17:00:00",
+            "date": "28/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/da5ce47f89bd4099bbf2411dc976bf0c_d03483b6_20261027.png?v=d03483b6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
