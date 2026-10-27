@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7e7f517cea",
+          "name": "Nasaf Qarshi vs Al Kuwait SC | 20:45 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7e7f517cea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7e7f517cea",
+                  "name": "Nasaf Qarshi vs Al Kuwait SC",
+                  "streams": [
+                    {
+                      "id": "st-7e7f517cea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d89e9ffc9",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/63081187617543df8d10120e4fd6746e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Nasaf Qarshi",
+            "team_b": "Al Kuwait SC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phl2gm2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hl21grz84/image/small",
+            "time": "20:45:00",
+            "date": "28/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy6212ryk_d139c58d_20261027.png?v=d139c58d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
