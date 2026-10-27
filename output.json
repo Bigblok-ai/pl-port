@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-0ed093a616",
-          "name": "Essen vs RB Leipzig | 00:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ed093a616",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0ed093a616",
-                  "name": "Essen vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-0ed093a616",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-379ff1e5d6",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e2033070ecd34030aebfea7d070dde4b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "DFB Pokal",
-            "team_a": "Essen",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09ho78rz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdleqo9j/image/small",
-            "time": "00:00:00",
-            "date": "28/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkpxovr1g_32c253c4_20261028.png?v=32c253c4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-39e3b860c2",
           "name": "Sassuolo vs Lazio | 00:30 28/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "02:45:00",
             "date": "28/10",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
