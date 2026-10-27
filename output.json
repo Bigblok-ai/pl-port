@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-39e3b860c2",
-          "name": "Sassuolo vs Lazio | 00:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-39e3b860c2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-39e3b860c2",
-                  "name": "Sassuolo vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-39e3b860c2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-efb6557959",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/964cef5c427442d19589315a92826bd8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Sassuolo",
-            "team_b": "Lazio",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small",
-            "time": "00:30:00",
-            "date": "28/10",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk97vlr1g_aba114f2_20261028.png?v=aba114f2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4443175585",
           "name": "Dortmund vs Werder Bremen | 02:45 28/10",
