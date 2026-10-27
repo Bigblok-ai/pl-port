@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6a993c60ac",
-          "name": "Shabab Al Ahli vs Esteghlal Tehran | 23:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a993c60ac",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6a993c60ac",
-                  "name": "Shabab Al Ahli vs Esteghlal Tehran",
-                  "streams": [
-                    {
-                      "id": "st-6a993c60ac",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-952e3f9bfc",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1173ded30d4f43b4b8d7fba0090410b1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Shabab Al Ahli",
-            "team_b": "Esteghlal Tehran",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphoevor8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn4y5r510/image/small",
-            "time": "23:00:00",
-            "date": "27/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhv2447md7_95eb0b32_20261028.png?v=95eb0b32",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0ed093a616",
           "name": "Essen vs RB Leipzig | 00:00 28/10",
@@ -1028,83 +956,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b8d6450794",
-          "name": "\"Ziraat Bankasi vs Gaziantep Genclik \" | 23:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8d6450794",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b8d6450794",
-                  "name": "\"Ziraat Bankasi vs Gaziantep Genclik \"",
-                  "streams": [
-                    {
-                      "id": "st-b8d6450794",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd5f1c940a",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fb601b588b3048bd9a4c942873a3d5bc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Efeler Ligi",
-            "team_a": "\"Ziraat Bankasi",
-            "team_b": "Gaziantep Genclik \"",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/478edb8500366a631aa46b8079b721d2.png!w80",
-            "time": "23:00:00",
-            "date": "27/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/488ff0d2bc4544b39622e6a080104e3a_d403d014_20261028.png?v=d403d014",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5362371d0a",
           "name": "Thể Công Tân Cảng vs LP Bank Ninh Bình | 12:00 28/10",
