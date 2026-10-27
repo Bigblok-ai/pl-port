@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv3k0qvy_c84488ce_20261027.png?v=c84488ce",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-48e8690372",
-          "name": "Văn Hiến vs Gia Định | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-48e8690372",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-48e8690372",
-                  "name": "Văn Hiến vs Gia Định",
-                  "streams": [
-                    {
-                      "id": "st-48e8690372",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1c387213ee",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f2285c18975d4274a58d1820596185e7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Văn Hiến",
-            "team_b": "Gia Định",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhedgxqwzv/image/small",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh672gnqg8_e7ab4796_20261027.png?v=e7ab4796",
             "width": 1600,
             "height": 1200
           }
