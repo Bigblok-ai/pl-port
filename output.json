@@ -879,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-cc00661f60",
+          "name": "Venezia vs Inter | 00:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc00661f60",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cc00661f60",
+                  "name": "Venezia vs Inter",
+                  "streams": [
+                    {
+                      "id": "st-cc00661f60",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6bcb93de21",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7a6ca4b81b72409aa544429b24816a79/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Venezia",
+            "team_b": "Inter",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+            "time": "00:30:00",
+            "date": "29/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnewg6qdy_b9ea1559_20261028.png?v=b9ea1559",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a1b22d415d",
+          "name": "Milan vs Bologna | 00:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a1b22d415d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a1b22d415d",
+                  "name": "Milan vs Bologna",
+                  "streams": [
+                    {
+                      "id": "st-a1b22d415d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-288d349d0a",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f8670fdf9ce949fab6699e127e50ff0b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Milan",
+            "team_b": "Bologna",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
+            "time": "00:30:00",
+            "date": "29/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywgw7ryk_f4538f0e_20261028.png?v=f4538f0e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
