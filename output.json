@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "19:15:00",
             "date": "27/10",
             "blv": "LÃM LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1173,6 +1173,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/908b071bc0f64995b648d749592478d8_0ac13466_20261027.png?v=0ac13466",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9bfc68dd15",
+          "name": "Thể Công Tân Cảng vs Hà Nội | 12:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9bfc68dd15",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9bfc68dd15",
+                  "name": "Thể Công Tân Cảng vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-9bfc68dd15",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3db7c5a5f0",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8d3e15132a734266b4827fc669d86f7b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Thể Công Tân Cảng",
+            "team_b": "Hà Nội",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "time": "12:00:00",
+            "date": "29/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26009f7b108748b5a4d4f63a20179964_25ee746a_20261027.png?v=25ee746a",
             "width": 1600,
             "height": 1200
           }
