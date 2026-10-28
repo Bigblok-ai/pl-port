@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ef80d2d9fd",
+          "name": "Frosinone vs Lecce | 00:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef80d2d9fd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ef80d2d9fd",
+                  "name": "Frosinone vs Lecce",
+                  "streams": [
+                    {
+                      "id": "st-ef80d2d9fd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d20555bef3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/49a329ae5f984928a12f807c9afd3bfe/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Frosinone",
+            "team_b": "Lecce",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvnwrz84/image/small",
+            "time": "00:30:00",
+            "date": "30/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p6ddm7v_15bb28da_20261029.png?v=15bb28da",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
