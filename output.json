@@ -1178,8 +1178,8 @@
           }
         },
         {
-          "id": "pl-0f03d54b72",
-          "name": "Biên Phòng MB vs Đà Nẵng | 17:00 28/10",
+          "id": "pl-d5ca7e687e",
+          "name": "Biên Phòng MB vs TP.HCM | 17:00 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1193,23 +1193,23 @@
           ],
           "sources": [
             {
-              "id": "src-0f03d54b72",
+              "id": "src-d5ca7e687e",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-0f03d54b72",
-                  "name": "Biên Phòng MB vs Đà Nẵng",
+                  "id": "ct-d5ca7e687e",
+                  "name": "Biên Phòng MB vs TP.HCM",
                   "streams": [
                     {
-                      "id": "st-0f03d54b72",
+                      "id": "st-d5ca7e687e",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-d9e4ab6025",
+                          "id": "lnk-fe9fe6adc2",
                           "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d6a42b66bb3d478da8c7d3cbaed7ae59/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/a37fa64f5ad846b8bfa9a0006be35c15/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1231,9 +1231,9 @@
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
             "team_a": "Biên Phòng MB",
-            "team_b": "Đà Nẵng",
+            "team_b": "TP.HCM",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
             "time": "17:00:00",
             "date": "28/10",
             "blv": "LÃM LÀNG",
@@ -1244,14 +1244,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/da5ce47f89bd4099bbf2411dc976bf0c_d03483b6_20261028.png?v=d03483b6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ce2684e56cc46538308bed1886de366_7fd46135_20261028.png?v=7fd46135",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-b8c421612b",
-          "name": "TP. Hồ Chí Minh vs Công An TP.HCM | 20:00 28/10",
+          "name": "Sanest Khánh Hòa vs Công an TP.HCM | 20:00 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1270,7 +1270,7 @@
               "contents": [
                 {
                   "id": "ct-b8c421612b",
-                  "name": "TP. Hồ Chí Minh vs Công An TP.HCM",
+                  "name": "Sanest Khánh Hòa vs Công an TP.HCM",
                   "streams": [
                     {
                       "id": "st-b8c421612b",
@@ -1302,9 +1302,9 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "TP. Hồ Chí Minh",
-            "team_b": "Công An TP.HCM",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "team_a": "Sanest Khánh Hòa",
+            "team_b": "Công an TP.HCM",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
             "time": "20:00:00",
             "date": "28/10",
@@ -1316,7 +1316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/908b071bc0f64995b648d749592478d8_0ac13466_20261028.png?v=0ac13466",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/908b071bc0f64995b648d749592478d8_a2d70257_20261028.png?v=a2d70257",
             "width": 1600,
             "height": 1200
           }
