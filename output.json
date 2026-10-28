@@ -1248,6 +1248,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9f0c74f765",
+          "name": "NEC Red Rockets Nữ vs M. Tel Aviv | 16:35 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f0c74f765",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9f0c74f765",
+                  "name": "NEC Red Rockets Nữ vs M. Tel Aviv",
+                  "streams": [
+                    {
+                      "id": "st-9f0c74f765",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ea7e8fe596",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7ec204c1f2e64b89a6bfcdc282e97dc2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "NEC Red Rockets Nữ",
+            "team_b": "M. Tel Aviv",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/b037a1bf40c26a9e0bad50963dbcb8c4.png!w60",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/17748f0eec20662e518e0169c4c36d97.png!w30",
+            "time": "16:35:00",
+            "date": "30/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/25e3e1c8fb2e4ec99217c0ec78b1d39a_f4a8aafb_20261028.png?v=f4a8aafb",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
