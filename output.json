@@ -116,8 +116,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-5c53267eb1",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-2c0f2457b3",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/fae8ecaa24474e12b3aa549cb39f5013/index.m3u8",
@@ -147,7 +147,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
             "time": "17:00:00",
             "date": "28/10",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1133,8 +1133,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-fe9fe6adc2",
-                          "name": "LÃM LÀNG",
+                          "id": "lnk-13ebfdc5bb",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a37fa64f5ad846b8bfa9a0006be35c15/index.m3u8",
@@ -1164,7 +1164,7 @@
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
             "time": "17:00:00",
             "date": "28/10",
-            "blv": "LÃM LÀNG",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
