@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f04da5aee5",
-          "name": "Thể Công Viettel vs Seoul FC | 19:15 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f04da5aee5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f04da5aee5",
-                  "name": "Thể Công Viettel vs Seoul FC",
-                  "streams": [
-                    {
-                      "id": "st-f04da5aee5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cef42194a7",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c6c94aec7446485297aaefb895f4c90d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Thể Công Viettel",
-            "team_b": "Seoul FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd18m2wd/image/small",
-            "time": "19:15:00",
-            "date": "28/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8v03zqwz_c4a7bdf6_20261028.png?v=c4a7bdf6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-245384b6e1",
           "name": "FC Goa vs SC Delhi | 21:00 28/10",
