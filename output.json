@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ad16185817",
+          "name": "Gangwon FC vs Kuching City FC | 17:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad16185817",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ad16185817",
+                  "name": "Gangwon FC vs Kuching City FC",
+                  "streams": [
+                    {
+                      "id": "st-ad16185817",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-11b8388fa6",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4d87307fbd5441f9a5624874faeea117/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Gangwon FC",
+            "team_b": "Kuching City FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h78n0q0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghgzx3r6od/image/small",
+            "time": "17:00:00",
+            "date": "29/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkjyqvy_db5d403c_20261028.png?v=db5d403c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
