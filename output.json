@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-f1df24cdc2",
-          "name": "U15 VIỆT NAM vs U15 RWANDA | 15:45 28/10",
+          "name": "U15 VIỆT NAM vs U15 RWANDA",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "U15 RWANDA",
             "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/330px-Flag_of_Rwanda.svg.png",
-            "time": "15:45:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-38fd561a94",
-          "name": "Gamba Osaka vs Buriram United | 17:00 28/10",
+          "name": "Gamba Osaka vs Buriram United",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Buriram United",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwxnryk0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
-            "time": "17:00:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
@@ -162,7 +162,7 @@
         },
         {
           "id": "pl-c90c39bc06",
-          "name": "Hung Yen vs Huda Huế | 18:00 28/10",
+          "name": "Hung Yen vs Huda Huế",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,8 +217,8 @@
             "team_b": "Huda Huế",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h9k60q86p/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh96p9repz/image/small",
-            "time": "18:00:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-f04da5aee5",
-          "name": "Thể Công Viettel vs Seoul FC | 19:15 28/10",
+          "name": "Thể Công Viettel vs Seoul FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -289,8 +289,8 @@
             "team_b": "Seoul FC",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd18m2wd/image/small",
-            "time": "19:15:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -306,7 +306,7 @@
         },
         {
           "id": "pl-7e7f517cea",
-          "name": "Nasaf Qarshi vs Al Kuwait SC | 20:45 28/10",
+          "name": "Nasaf Qarshi vs Al Kuwait SC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -361,8 +361,8 @@
             "team_b": "Al Kuwait SC",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phl2gm2wd/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hl21grz84/image/small",
-            "time": "20:45:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -378,7 +378,7 @@
         },
         {
           "id": "pl-33f7db6d29",
-          "name": "Erbil vs Al-Ettifaq | 21:30 28/10",
+          "name": "Erbil vs Al-Ettifaq",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,8 +433,8 @@
             "team_b": "Al-Ettifaq",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlejwqwzv/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllhlkwqvy9/image/small",
-            "time": "21:30:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -450,7 +450,7 @@
         },
         {
           "id": "pl-b835be3f8c",
-          "name": "Al Nahda vs Al-Rayyan SC | 23:00 28/10",
+          "name": "Al Nahda vs Al-Rayyan SC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -505,8 +505,8 @@
             "team_b": "Al-Rayyan SC",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3403qg8n/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1h391pmojx/image/small",
-            "time": "23:00:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -522,7 +522,7 @@
         },
         {
           "id": "pl-cc00661f60",
-          "name": "Venezia vs Inter | 00:30 29/10",
+          "name": "Venezia vs Inter",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -577,8 +577,8 @@
             "team_b": "Inter",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
-            "time": "00:30:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
@@ -594,7 +594,7 @@
         },
         {
           "id": "pl-a1b22d415d",
-          "name": "Milan vs Bologna | 00:30 29/10",
+          "name": "Milan vs Bologna",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -649,8 +649,8 @@
             "team_b": "Bologna",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
-            "time": "00:30:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
@@ -666,7 +666,7 @@
         },
         {
           "id": "pl-5a71a1a33f",
-          "name": "Man City vs Brighton | 02:30 29/10",
+          "name": "Man City vs Brighton",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -721,8 +721,8 @@
             "team_b": "Brighton",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
-            "time": "02:30:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": false,
             "cate_type": "football"
@@ -738,7 +738,7 @@
         },
         {
           "id": "pl-3aaf2a5fd7",
-          "name": "Genoa vs Juventus | 02:45 29/10",
+          "name": "Genoa vs Juventus",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -793,8 +793,8 @@
             "team_b": "Juventus",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "time": "02:45:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
@@ -810,7 +810,7 @@
         },
         {
           "id": "pl-ad75165101",
-          "name": "AFC Bournemouth vs Aston Villa | 02:45 29/10",
+          "name": "AFC Bournemouth vs Aston Villa",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -865,8 +865,8 @@
             "team_b": "Aston Villa",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
-            "time": "02:45:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
@@ -882,7 +882,7 @@
         },
         {
           "id": "pl-66130f31f2",
-          "name": "Bayern Munich vs FC Magdeburg | 02:45 29/10",
+          "name": "Bayern Munich vs FC Magdeburg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -937,8 +937,8 @@
             "team_b": "FC Magdeburg",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh1w6ryox/image/small",
-            "time": "02:45:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -954,7 +954,7 @@
         },
         {
           "id": "pl-487a1de250",
-          "name": "Liverpool vs Chelsea | 03:00 29/10",
+          "name": "Liverpool vs Chelsea",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1009,8 +1009,8 @@
             "team_b": "Chelsea",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small",
-            "time": "03:00:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -1020,6 +1020,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zhv0gwkql0_47eb035d_20261028.png?v=47eb035d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ad16185817",
+          "name": "Gangwon FC vs Kuching City FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad16185817",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ad16185817",
+                  "name": "Gangwon FC vs Kuching City FC",
+                  "streams": [
+                    {
+                      "id": "st-ad16185817",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-11b8388fa6",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4d87307fbd5441f9a5624874faeea117/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Gangwon FC",
+            "team_b": "Kuching City FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h78n0q0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghgzx3r6od/image/small",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkjyqvy_db5d403c_20261028.png?v=db5d403c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-63899fa9d5",
+          "name": "Shanghai Shenhua vs Machida Zelvia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-63899fa9d5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-63899fa9d5",
+                  "name": "Shanghai Shenhua vs Machida Zelvia",
+                  "streams": [
+                    {
+                      "id": "st-63899fa9d5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6c372528f9",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6eca7ba6442347288452e0c32b9e2ff7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Shanghai Shenhua",
+            "team_b": "Machida Zelvia",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohlwdn5q1z_86d01a53_20261028.png?v=86d01a53",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-87060fc4e7",
+          "name": "Krylya Sovetov vs Dynamo Makhachkala",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87060fc4e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-87060fc4e7",
+                  "name": "Krylya Sovetov vs Dynamo Makhachkala",
+                  "streams": [
+                    {
+                      "id": "st-87060fc4e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-86cf315393",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5db8cc3306234e85906beaf5027b1d4b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Cup",
+            "team_a": "Krylya Sovetov",
+            "team_b": "Dynamo Makhachkala",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh42dryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzghz9dyq82w/image/small",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4655pr8k_2440b4d4_20261028.png?v=2440b4d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fb6a5a5553",
+          "name": "Inter Turku vs HJK Helsinki",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb6a5a5553",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fb6a5a5553",
+                  "name": "Inter Turku vs HJK Helsinki",
+                  "streams": [
+                    {
+                      "id": "st-fb6a5a5553",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30f051bd43",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/27f366bb1fe14cd3b4720947a9028c06/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Finnish Veikkausliiga",
+            "team_a": "Inter Turku",
+            "team_b": "HJK Helsinki",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnwnq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4zprepz/image/small",
+            "time": "",
+            "date": "",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey08lr6o_6bccf84e_20261028.png?v=6bccf84e",
             "width": 1600,
             "height": 1200
           }
@@ -1107,7 +1395,7 @@
         },
         {
           "id": "pl-9533872222",
-          "name": "Ninh Bình vs Đà Nẵng | 14:30 28/10",
+          "name": "Ninh Bình vs Đà Nẵng",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1162,8 +1450,8 @@
             "team_b": "Đà Nẵng",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "time": "14:30:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1179,7 +1467,7 @@
         },
         {
           "id": "pl-d5ca7e687e",
-          "name": "Biên Phòng MB vs TP.HCM | 17:00 28/10",
+          "name": "Biên Phòng MB vs TP.HCM",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1234,8 +1522,8 @@
             "team_b": "TP.HCM",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
-            "time": "17:00:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1251,7 +1539,7 @@
         },
         {
           "id": "pl-b8c421612b",
-          "name": "Sanest Khánh Hòa vs Công an TP.HCM | 20:00 28/10",
+          "name": "Sanest Khánh Hòa vs Công an TP.HCM",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1306,8 +1594,8 @@
             "team_b": "Công an TP.HCM",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
-            "time": "20:00:00",
-            "date": "28/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1323,7 +1611,7 @@
         },
         {
           "id": "pl-9bfc68dd15",
-          "name": "Thể Công Tân Cảng vs Ninh Bình | 12:00 29/10",
+          "name": "Thể Công Tân Cảng vs Ninh Bình",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1378,8 +1666,8 @@
             "team_b": "Ninh Bình",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "time": "12:00:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1395,7 +1683,7 @@
         },
         {
           "id": "pl-86e89d9786",
-          "name": "Biên Phòng MB vs Đà Nẵng | 14:30 29/10",
+          "name": "Biên Phòng MB vs Đà Nẵng",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1450,8 +1738,8 @@
             "team_b": "Đà Nẵng",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "time": "14:30:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1467,7 +1755,7 @@
         },
         {
           "id": "pl-3418b00e94",
-          "name": "Sanest Khánh Hoà vs Hà Nội | 17:00 29/10",
+          "name": "Sanest Khánh Hoà vs Hà Nội",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1522,8 +1810,8 @@
             "team_b": "Hà Nội",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png ",
-            "time": "17:00:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "bongchuyen"
@@ -1539,7 +1827,7 @@
         },
         {
           "id": "pl-26a6ad0bb4",
-          "name": "TP. Hồ Chí Minh vs Công An TP.HCM | 19:30 29/10",
+          "name": "TP. Hồ Chí Minh vs Công An TP.HCM",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1594,8 +1882,8 @@
             "team_b": "Công An TP.HCM",
             "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
-            "time": "19:30:00",
-            "date": "29/10",
+            "time": "",
+            "date": "",
             "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "bongchuyen"
