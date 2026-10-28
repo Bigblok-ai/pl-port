@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cc00661f60",
-          "name": "Venezia vs Inter | 00:30 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc00661f60",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cc00661f60",
-                  "name": "Venezia vs Inter",
-                  "streams": [
-                    {
-                      "id": "st-cc00661f60",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6bcb93de21",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7a6ca4b81b72409aa544429b24816a79/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Venezia",
-            "team_b": "Inter",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
-            "time": "00:30:00",
-            "date": "29/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnewg6qdy_b9ea1559_20261029.png?v=b9ea1559",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a1b22d415d",
           "name": "Milan vs Bologna | 00:30 29/10",
