@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f1df24cdc2",
-          "name": "U15 VIỆT NAM vs U15 RWANDA | 15:45 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f1df24cdc2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f1df24cdc2",
-                  "name": "U15 VIỆT NAM vs U15 RWANDA",
-                  "streams": [
-                    {
-                      "id": "st-f1df24cdc2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4db35a9d27",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3a9515b504b94d9d8e28038944e8a2dd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 WORCUP",
-            "team_a": "U15 VIỆT NAM",
-            "team_b": "U15 RWANDA",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/330px-Flag_of_Rwanda.svg.png",
-            "time": "15:45:00",
-            "date": "28/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c664f743e2114b51aa37e870003dd9c4_d34c8a62_20261028.png?v=d34c8a62",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-38fd561a94",
           "name": "Gamba Osaka vs Buriram United | 17:00 28/10",
