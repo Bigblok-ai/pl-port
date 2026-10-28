@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b835be3f8c",
-          "name": "Al Nahda vs Al-Rayyan SC | 23:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b835be3f8c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b835be3f8c",
-                  "name": "Al Nahda vs Al-Rayyan SC",
-                  "streams": [
-                    {
-                      "id": "st-b835be3f8c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2a9791a7a2",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/809e4de38e3f4d3d9f0d1374dbfec19e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Al Nahda",
-            "team_b": "Al-Rayyan SC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3403qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1h391pmojx/image/small",
-            "time": "23:00:00",
-            "date": "28/10",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh983zgm7v_36b88eda_20261029.png?v=36b88eda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-cc00661f60",
           "name": "Venezia vs Inter | 00:30 29/10",
@@ -948,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p6ddm7v_15bb28da_20261029.png?v=15bb28da",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9236dcacb3",
+          "name": "Al Nassr vs Al Kholood | 01:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9236dcacb3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9236dcacb3",
+                  "name": "Al Nassr vs Al Kholood",
+                  "streams": [
+                    {
+                      "id": "st-9236dcacb3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d1923518e",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/20d08e39236e4abab238ca3b22d78da5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Nassr",
+            "team_b": "Al Kholood",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
+            "time": "01:00:00",
+            "date": "30/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d36m2w_73319ba9_20261029.png?v=73319ba9",
             "width": 1600,
             "height": 1200
           }
