@@ -1034,8 +1034,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-5362371d0a",
-          "name": "Thể Công Tân Cảng vs Hà Nội | 12:00 28/10",
+          "id": "pl-9533872222",
+          "name": "Ninh Bình vs Đà Nẵng | 14:30 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1045,78 +1045,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5362371d0a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5362371d0a",
-                  "name": "Thể Công Tân Cảng vs Hà Nội",
-                  "streams": [
-                    {
-                      "id": "st-5362371d0a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-39ee4173f6",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/29d94ba5c19249b2b43f7d882bcb3e88/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Thể Công Tân Cảng",
-            "team_b": "Hà Nội",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
-            "time": "12:00:00",
-            "date": "28/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c94a5ef4674148fd9232c20244eaffb0_25ee746a_20261028.png?v=25ee746a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-9533872222",
-          "name": "Ninh Bình vs Đà Nẵng | 14:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1165,7 +1093,7 @@
             "time": "14:30:00",
             "date": "28/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
