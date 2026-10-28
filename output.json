@@ -377,8 +377,8 @@
           }
         },
         {
-          "id": "pl-33f7db6d29",
-          "name": "Erbil vs Al-Ettifaq | 21:30 28/10",
+          "id": "pl-245384b6e1",
+          "name": "FC Goa vs SC Delhi | 21:00 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -392,23 +392,23 @@
           ],
           "sources": [
             {
-              "id": "src-33f7db6d29",
+              "id": "src-245384b6e1",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-33f7db6d29",
-                  "name": "Erbil vs Al-Ettifaq",
+                  "id": "ct-245384b6e1",
+                  "name": "FC Goa vs SC Delhi",
                   "streams": [
                     {
-                      "id": "st-33f7db6d29",
+                      "id": "st-245384b6e1",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-46d72129f4",
+                          "id": "lnk-719c0dffec",
                           "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/60e9bc6906744017b8d11131989ca220/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/061236a0962b45ec826f6d15ad0adc1e/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -428,12 +428,12 @@
             }
           ],
           "org_metadata": {
-            "league": "GCC Champions League",
-            "team_a": "Erbil",
-            "team_b": "Al-Ettifaq",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlejwqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllhlkwqvy9/image/small",
-            "time": "21:30:00",
+            "league": "Indian Super League",
+            "team_a": "FC Goa",
+            "team_b": "SC Delhi",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlw4xrz84/image/small",
+            "time": "21:00:00",
             "date": "28/10",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
@@ -443,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66h8z5neqo9_d35bb125_20261028.png?v=d35bb125",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh8ld4lr1g_eacd871c_20261028.png?v=eacd871c",
             "width": 1600,
             "height": 1200
           }
