@@ -980,8 +980,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6c372528f9",
-                          "name": "LÝ LONG",
+                          "id": "lnk-933c4f050d",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/6eca7ba6442347288452e0c32b9e2ff7/index.m3u8",
@@ -1011,7 +1011,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small",
             "time": "19:15:00",
             "date": "29/10",
-            "blv": "LÝ LONG",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1041,10 +1041,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1093,7 +1093,7 @@
             "time": "20:00:00",
             "date": "28/10",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
