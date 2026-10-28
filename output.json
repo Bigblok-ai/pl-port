@@ -1035,7 +1035,7 @@
       "channels": [
         {
           "id": "pl-5362371d0a",
-          "name": "Thể Công Tân Cảng vs LP Bank Ninh Bình | 12:00 28/10",
+          "name": "Thể Công Tân Cảng vs Hà Nội | 12:00 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1054,7 +1054,7 @@
               "contents": [
                 {
                   "id": "ct-5362371d0a",
-                  "name": "Thể Công Tân Cảng vs LP Bank Ninh Bình",
+                  "name": "Thể Công Tân Cảng vs Hà Nội",
                   "streams": [
                     {
                       "id": "st-5362371d0a",
@@ -1087,9 +1087,9 @@
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
             "team_a": "Thể Công Tân Cảng",
-            "team_b": "LP Bank Ninh Bình",
+            "team_b": "Hà Nội",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
             "time": "12:00:00",
             "date": "28/10",
             "blv": "LÝ LIỀU LĨNH",
@@ -1100,14 +1100,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c94a5ef4674148fd9232c20244eaffb0_ad934e3e_20261028.png?v=ad934e3e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c94a5ef4674148fd9232c20244eaffb0_25ee746a_20261028.png?v=25ee746a",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-9533872222",
-          "name": "Sanest Khánh Hoà vs Hà Nội | 14:30 28/10",
+          "name": "Ninh Bình vs Đà Nẵng | 14:30 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1126,7 +1126,7 @@
               "contents": [
                 {
                   "id": "ct-9533872222",
-                  "name": "Sanest Khánh Hoà vs Hà Nội",
+                  "name": "Ninh Bình vs Đà Nẵng",
                   "streams": [
                     {
                       "id": "st-9533872222",
@@ -1158,10 +1158,10 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Sanest Khánh Hoà",
-            "team_b": "Hà Nội",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "team_a": "Ninh Bình",
+            "team_b": "Đà Nẵng",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
             "time": "14:30:00",
             "date": "28/10",
             "blv": "LÝ LÊN LỬA",
@@ -1172,7 +1172,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4aebe7f2a5cd44e18306c9a5c73c83cf_16c6d57b_20261028.png?v=16c6d57b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4aebe7f2a5cd44e18306c9a5c73c83cf_3b802578_20261028.png?v=3b802578",
             "width": 1600,
             "height": 1200
           }
