@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-38fd561a94",
-          "name": "Gamba Osaka vs Buriram United | 17:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-38fd561a94",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-38fd561a94",
-                  "name": "Gamba Osaka vs Buriram United",
-                  "streams": [
-                    {
-                      "id": "st-38fd561a94",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c0f2457b3",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fae8ecaa24474e12b3aa549cb39f5013/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Gamba Osaka",
-            "team_b": "Buriram United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwxnryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
-            "time": "17:00:00",
-            "date": "28/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgve3or51_8180bf5c_20261028.png?v=8180bf5c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c90c39bc06",
           "name": "Hung Yen vs Huda Huế | 18:00 28/10",
