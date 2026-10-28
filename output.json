@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-245384b6e1",
-          "name": "FC Goa vs SC Delhi | 21:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-245384b6e1",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-245384b6e1",
-                  "name": "FC Goa vs SC Delhi",
-                  "streams": [
-                    {
-                      "id": "st-245384b6e1",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-719c0dffec",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/061236a0962b45ec826f6d15ad0adc1e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "FC Goa",
-            "team_b": "SC Delhi",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlw4xrz84/image/small",
-            "time": "21:00:00",
-            "date": "28/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh8ld4lr1g_eacd871c_20261028.png?v=eacd871c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-62ac4a9304",
           "name": "U15 VIỆT NAM vs U15 NICARAGUA | 22:30 28/10",
@@ -948,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4655pr8k_2440b4d4_20261028.png?v=2440b4d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fb6a5a5553",
+          "name": "Inter Turku vs HJK Helsinki | 23:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb6a5a5553",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fb6a5a5553",
+                  "name": "Inter Turku vs HJK Helsinki",
+                  "streams": [
+                    {
+                      "id": "st-fb6a5a5553",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-312874675c",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/27f366bb1fe14cd3b4720947a9028c06/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Finnish Veikkausliiga",
+            "team_a": "Inter Turku",
+            "team_b": "HJK Helsinki",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnwnq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4zprepz/image/small",
+            "time": "23:00:00",
+            "date": "29/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey08lr6o_6bccf84e_20261028.png?v=6bccf84e",
             "width": 1600,
             "height": 1200
           }
