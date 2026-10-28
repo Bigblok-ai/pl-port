@@ -1323,7 +1323,7 @@
         },
         {
           "id": "pl-9bfc68dd15",
-          "name": "Thể Công Tân Cảng vs Hà Nội | 12:00 29/10",
+          "name": "Thể Công Tân Cảng vs Ninh Bình | 12:00 29/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1342,7 +1342,7 @@
               "contents": [
                 {
                   "id": "ct-9bfc68dd15",
-                  "name": "Thể Công Tân Cảng vs Hà Nội",
+                  "name": "Thể Công Tân Cảng vs Ninh Bình",
                   "streams": [
                     {
                       "id": "st-9bfc68dd15",
@@ -1375,9 +1375,9 @@
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
             "team_a": "Thể Công Tân Cảng",
-            "team_b": "Hà Nội",
+            "team_b": "Ninh Bình",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
             "time": "12:00:00",
             "date": "29/10",
             "blv": "LÝ LIỀU LĨNH",
@@ -1388,7 +1388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26009f7b108748b5a4d4f63a20179964_25ee746a_20261028.png?v=25ee746a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26009f7b108748b5a4d4f63a20179964_ad934e3e_20261028.png?v=ad934e3e",
             "width": 1600,
             "height": 1200
           }
