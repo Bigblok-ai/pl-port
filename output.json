@@ -1395,7 +1395,7 @@
         },
         {
           "id": "pl-86e89d9786",
-          "name": "LP Bank Ninh Bình vs Đà Nẵng | 14:30 29/10",
+          "name": "Biên Phòng MB vs Đà Nẵng | 14:30 29/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1414,7 +1414,7 @@
               "contents": [
                 {
                   "id": "ct-86e89d9786",
-                  "name": "LP Bank Ninh Bình vs Đà Nẵng",
+                  "name": "Biên Phòng MB vs Đà Nẵng",
                   "streams": [
                     {
                       "id": "st-86e89d9786",
@@ -1446,9 +1446,9 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LP Bank Ninh Bình",
+            "team_a": "Biên Phòng MB",
             "team_b": "Đà Nẵng",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
             "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
             "time": "14:30:00",
             "date": "29/10",
@@ -1460,14 +1460,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6075479626eb4d2baf979e381a1d5c16_3b802578_20261028.png?v=3b802578",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6075479626eb4d2baf979e381a1d5c16_d03483b6_20261028.png?v=d03483b6",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-3418b00e94",
-          "name": "Sanest Khánh Hoà vs Công An TP.HCM | 17:00 29/10",
+          "name": "Sanest Khánh Hoà vs Hà Nội | 17:00 29/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1486,7 +1486,7 @@
               "contents": [
                 {
                   "id": "ct-3418b00e94",
-                  "name": "Sanest Khánh Hoà vs Công An TP.HCM",
+                  "name": "Sanest Khánh Hoà vs Hà Nội",
                   "streams": [
                     {
                       "id": "st-3418b00e94",
@@ -1519,9 +1519,9 @@
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
             "team_a": "Sanest Khánh Hoà",
-            "team_b": "Công An TP.HCM",
+            "team_b": "Hà Nội",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png ",
             "time": "17:00:00",
             "date": "29/10",
             "blv": "LÃM LÀNG",
@@ -1532,14 +1532,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0aa76c939d6d4dfe956a5565b35a913e_a2d70257_20261028.png?v=a2d70257",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0aa76c939d6d4dfe956a5565b35a913e_72665f46_20261028.png?v=72665f46",
             "width": 1600,
             "height": 1200
           }
         },
         {
           "id": "pl-26a6ad0bb4",
-          "name": "Biên Phòng MB vs TP. Hồ Chí Minh | 19:30 29/10",
+          "name": "TP. Hồ Chí Minh vs Công An TP.HCM | 19:30 29/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1558,7 +1558,7 @@
               "contents": [
                 {
                   "id": "ct-26a6ad0bb4",
-                  "name": "Biên Phòng MB vs TP. Hồ Chí Minh",
+                  "name": "TP. Hồ Chí Minh vs Công An TP.HCM",
                   "streams": [
                     {
                       "id": "st-26a6ad0bb4",
@@ -1590,10 +1590,10 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Biên Phòng MB",
-            "team_b": "TP. Hồ Chí Minh",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "team_a": "TP. Hồ Chí Minh",
+            "team_b": "Công An TP.HCM",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
             "time": "19:30:00",
             "date": "29/10",
             "blv": "LÝ LIỀU LĨNH",
@@ -1604,7 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d08cbe993a5a46358e95688479d52742_7fd46135_20261028.png?v=7fd46135",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d08cbe993a5a46358e95688479d52742_0ac13466_20261028.png?v=0ac13466",
             "width": 1600,
             "height": 1200
           }
