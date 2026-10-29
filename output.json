@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c7492af668",
-          "name": "U15 Việt Nam vs U15 Cuba | 14:30 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c7492af668",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c7492af668",
-                  "name": "U15 Việt Nam vs U15 Cuba",
-                  "streams": [
-                    {
-                      "id": "st-c7492af668",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1e31070774",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f6838fc8fb624dc6b1e9f84c6defbdd0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 World Cup",
-            "team_a": "U15 Việt Nam",
-            "team_b": "U15 Cuba",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/330px-Flag_of_Cuba.svg.png",
-            "time": "14:30:00",
-            "date": "29/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d12d37905d0c422492e3670358141810_80eaf003_20261029.png?v=80eaf003",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ad16185817",
           "name": "Gangwon FC vs Kuching City FC | 17:00 29/10",
