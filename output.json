@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7692a6c3b1",
+          "name": "Villarreal vs Espanyol | 03:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7692a6c3b1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7692a6c3b1",
+                  "name": "Villarreal vs Espanyol",
+                  "streams": [
+                    {
+                      "id": "st-7692a6c3b1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b2aac1cd64",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9516f994469440c9989417f19dd757d2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Villarreal",
+            "team_b": "Espanyol",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzzpr510/image/small",
+            "time": "03:00:00",
+            "date": "31/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xp3r6o_291135ad_20261030.png?v=291135ad",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
