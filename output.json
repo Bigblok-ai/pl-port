@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -156,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d36m2w_73319ba9_20261030.png?v=73319ba9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-299ba8f6ae",
-          "name": "Sporting Braga vs FC Famalicao | 01:45 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-299ba8f6ae",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-299ba8f6ae",
-                  "name": "Sporting Braga vs FC Famalicao",
-                  "streams": [
-                    {
-                      "id": "st-299ba8f6ae",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8e9dbfd11a",
-                          "name": "TEST",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/56094af3f04e49618d790ede9b287ae8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portuguese League Cup",
-            "team_a": "Sporting Braga",
-            "team_b": "FC Famalicao",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoojr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1h3yk3mojx/image/small",
-            "time": "01:45:00",
-            "date": "30/10",
-            "blv": "TEST",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgp2z4r51_f629047c_20261030.png?v=f629047c",
             "width": 1600,
             "height": 1200
           }
