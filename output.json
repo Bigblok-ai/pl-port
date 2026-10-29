@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d8fa63a0cc",
+          "name": "Le Havre FC vs PSG | 01:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8fa63a0cc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d8fa63a0cc",
+                  "name": "Le Havre FC vs PSG",
+                  "streams": [
+                    {
+                      "id": "st-d8fa63a0cc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-78e2c9715b",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8887705b1fde4f66b3882c87b907ed17/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Le Havre FC",
+            "team_b": "PSG",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hnj7mojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "time": "01:00:00",
+            "date": "31/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9pxwlm7v_2dbac7c6_20261030.png?v=2dbac7c6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
