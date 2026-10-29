@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9236dcacb3",
-          "name": "Al Nassr vs Al Kholood | 01:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9236dcacb3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9236dcacb3",
-                  "name": "Al Nassr vs Al Kholood",
-                  "streams": [
-                    {
-                      "id": "st-9236dcacb3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5d1923518e",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/20d08e39236e4abab238ca3b22d78da5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Nassr",
-            "team_b": "Al Kholood",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
-            "time": "01:00:00",
-            "date": "30/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d36m2w_73319ba9_20261030.png?v=73319ba9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3f575fc942",
           "name": "Fiorentina vs Atalanta | 02:45 30/10",
