@@ -960,6 +960,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f2e137c777",
+          "name": "Thể Công Tân Cảng vs Đà Nẵng | 12:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2e137c777",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f2e137c777",
+                  "name": "Thể Công Tân Cảng vs Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-f2e137c777",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8af99ff118",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f7aa9bf3117746c49c76455439ff2a46/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Thể Công Tân Cảng",
+            "team_b": "Đà Nẵng",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "time": "12:00:00",
+            "date": "31/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5ea4ab1a4a4c4dc1ac965ce52d364ff7_cac340f9_20261029.png?v=cac340f9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2d133c2a19",
+          "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women | 12:05 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2d133c2a19",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2d133c2a19",
+                  "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women",
+                  "streams": [
+                    {
+                      "id": "st-2d133c2a19",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77eb0dd477",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/49c19e781a504a7ba5a39932586bde72/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Okayama Seagulls Women",
+            "team_b": "Gunma Bank Green Wings Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/169fae0ddcb6499096a67545f9803822.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
+            "time": "12:05:00",
+            "date": "31/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0ff4daf744e542a29c61e5922b0609b4_dc3c5916_20261029.png?v=dc3c5916",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-81d63f9dd0",
+          "name": "Hà Nội vs Công An TP.HCM | 14:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-81d63f9dd0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-81d63f9dd0",
+                  "name": "Hà Nội vs Công An TP.HCM",
+                  "streams": [
+                    {
+                      "id": "st-81d63f9dd0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-976e103db6",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e6710734032b41c09fa6aa6193f5aff7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội",
+            "team_b": "Công An TP.HCM",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png ",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "time": "14:30:00",
+            "date": "31/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/03b6292e3ada43508121f1fcee0f78bf_3bf915bf_20261029.png?v=3bf915bf",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
