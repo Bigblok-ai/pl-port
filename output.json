@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0a3a3275e0",
+          "name": "Northeast United vs Bengaluru | 21:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0a3a3275e0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0a3a3275e0",
+                  "name": "Northeast United vs Bengaluru",
+                  "streams": [
+                    {
+                      "id": "st-0a3a3275e0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9899ccc33",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e5218057b1064837a8c05abf058f58ec/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian Super League",
+            "team_a": "Northeast United",
+            "team_b": "Bengaluru",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7pho7oom2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllhek23qvy9/image/small",
+            "time": "21:00:00",
+            "date": "30/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvg53moj_66f8267e_20261029.png?v=66f8267e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
