@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-52ff818313",
-          "name": "U15 Việt Nam vs U15 Azerbaijan | 22:30 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-52ff818313",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-52ff818313",
-                  "name": "U15 Việt Nam vs U15 Azerbaijan",
-                  "streams": [
-                    {
-                      "id": "st-52ff818313",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff0e8790b2",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fe5c4c505cf4488ea19e400cb53a9b5c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U15 World Cup",
-            "team_a": "U15 Việt Nam",
-            "team_b": "U15 Azerbaijan",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Roundel_of_Azerbaijan.svg/250px-Roundel_of_Azerbaijan.svg.png",
-            "time": "22:30:00",
-            "date": "29/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ce6af6d0ab2e48c3bfd1e9c14a6f125f_177f9d82_20261029.png?v=177f9d82",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-fb6a5a5553",
           "name": "Inter Turku vs HJK Helsinki | 23:00 29/10",
