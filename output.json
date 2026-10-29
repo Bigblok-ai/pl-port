@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-86e89d9786",
-          "name": "Biên Phòng MB vs Đà Nẵng | 14:30 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-86e89d9786",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-86e89d9786",
-                  "name": "Biên Phòng MB vs Đà Nẵng",
-                  "streams": [
-                    {
-                      "id": "st-86e89d9786",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07bc0dd6c8",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c0f8095e3e824ce8b3f898fe57402b5d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Biên Phòng MB",
-            "team_b": "Đà Nẵng",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "time": "14:30:00",
-            "date": "29/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6075479626eb4d2baf979e381a1d5c16_d03483b6_20261029.png?v=d03483b6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3418b00e94",
           "name": "Sanest Khánh Hoà vs Hà Nội | 17:00 29/10",
