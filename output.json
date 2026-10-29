@@ -1176,6 +1176,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6fe60eb24e",
+          "name": "LP Bank Ninh Bình vs TP. Hồ Chí Minh | 17:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fe60eb24e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6fe60eb24e",
+                  "name": "LP Bank Ninh Bình vs TP. Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-6fe60eb24e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1968bc711e",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b000873f94af455da6effc4304eb0b2d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LP Bank Ninh Bình",
+            "team_b": "TP. Hồ Chí Minh",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%B…svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "time": "17:00:00",
+            "date": "31/10",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c081b8051ec14779a39f397885e5323b_9d58cf09_20261029.png?v=9d58cf09",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-13700a3747",
+          "name": "Sanest Khánh Hòa vs Biên Phòng MB | 19:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13700a3747",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-13700a3747",
+                  "name": "Sanest Khánh Hòa vs Biên Phòng MB",
+                  "streams": [
+                    {
+                      "id": "st-13700a3747",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a14bf14f9",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/13984891b238412e9ebf5587cf0dff2f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Sanest Khánh Hòa",
+            "team_b": "Biên Phòng MB",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
+            "time": "19:30:00",
+            "date": "31/10",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4c331656c0bc4eab8067e75ac3c7f448_02de3180_20261029.png?v=02de3180",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
