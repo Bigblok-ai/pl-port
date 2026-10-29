@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-87060fc4e7",
-          "name": "Krylya Sovetov vs Dynamo Makhachkala | 21:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87060fc4e7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-87060fc4e7",
-                  "name": "Krylya Sovetov vs Dynamo Makhachkala",
-                  "streams": [
-                    {
-                      "id": "st-87060fc4e7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-86cf315393",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5db8cc3306234e85906beaf5027b1d4b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Cup",
-            "team_a": "Krylya Sovetov",
-            "team_b": "Dynamo Makhachkala",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh42dryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzghz9dyq82w/image/small",
-            "time": "21:00:00",
-            "date": "29/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4655pr8k_2440b4d4_20261029.png?v=2440b4d4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-52ff818313",
           "name": "U15 Việt Nam vs U15 Azerbaijan | 22:30 29/10",
