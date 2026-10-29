@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-af0ba76d25",
+          "name": "Abha vs Al Ittihad(KSA) | 19:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-af0ba76d25",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-af0ba76d25",
+                  "name": "Abha vs Al Ittihad(KSA)",
+                  "streams": [
+                    {
+                      "id": "st-af0ba76d25",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3b2cdba1bd",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cd62e47d954543f78326ac38d5854cbc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Abha",
+            "team_b": "Al Ittihad(KSA)",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoopzqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small",
+            "time": "19:30:00",
+            "date": "30/10",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d3vm2w_17eb5d45_20261029.png?v=17eb5d45",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
