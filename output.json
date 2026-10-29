@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-63899fa9d5",
-          "name": "Shanghai Shenhua vs Machida Zelvia | 19:15 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-63899fa9d5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-63899fa9d5",
-                  "name": "Shanghai Shenhua vs Machida Zelvia",
-                  "streams": [
-                    {
-                      "id": "st-63899fa9d5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-933c4f050d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6eca7ba6442347288452e0c32b9e2ff7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Shanghai Shenhua",
-            "team_b": "Machida Zelvia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small",
-            "time": "19:15:00",
-            "date": "29/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohlwdn5q1z_86d01a53_20261029.png?v=86d01a53",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-87060fc4e7",
           "name": "Krylya Sovetov vs Dynamo Makhachkala | 21:00 29/10",
