@@ -17,152 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-3f575fc942",
-          "name": "Fiorentina vs Atalanta",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3f575fc942",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3f575fc942",
-                  "name": "Fiorentina vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "st-3f575fc942",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8a009015aa",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8bf33ff699ac43d1ad26f6e3ba79682d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Fiorentina",
-            "team_b": "Atalanta",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phyw6m2wd/image/small",
-            "time": "",
-            "date": "",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3k6gq1z_1ea89061_20261030.png?v=1ea89061",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-9e54308c85",
-          "name": "Everton vs Newcastle",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9e54308c85",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9e54308c85",
-                  "name": "Everton vs Newcastle",
-                  "streams": [
-                    {
-                      "id": "st-9e54308c85",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-64a76902b0",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f8c9737cfeb1443793dacf00a9202d51/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Football League Cup",
-            "team_a": "Everton",
-            "team_b": "Newcastle",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
-            "time": "",
-            "date": "",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h54x6vrz8_58e9d3f8_20261030.png?v=58e9d3f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-9236dcacb3",
-          "name": "Al Nassr vs Al Kholood",
+          "name": "Al Nassr vs Al Kholood | 01:00 30/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,8 +73,8 @@
             "team_b": "Al Kholood",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
-            "time": "",
-            "date": "",
+            "time": "01:00:00",
+            "date": "30/10",
             "blv": "LÝ LA LÀNG",
             "is_live": true,
             "cate_type": "football"
@@ -228,6 +84,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj6d36m2w_73319ba9_20261030.png?v=73319ba9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3f575fc942",
+          "name": "Fiorentina vs Atalanta | 02:45 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3f575fc942",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3f575fc942",
+                  "name": "Fiorentina vs Atalanta",
+                  "streams": [
+                    {
+                      "id": "st-3f575fc942",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a009015aa",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8bf33ff699ac43d1ad26f6e3ba79682d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Fiorentina",
+            "team_b": "Atalanta",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phyw6m2wd/image/small",
+            "time": "02:45:00",
+            "date": "30/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3k6gq1z_1ea89061_20261030.png?v=1ea89061",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9e54308c85",
+          "name": "Everton vs Newcastle | 02:45 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9e54308c85",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9e54308c85",
+                  "name": "Everton vs Newcastle",
+                  "streams": [
+                    {
+                      "id": "st-9e54308c85",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-64a76902b0",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f8c9737cfeb1443793dacf00a9202d51/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Cup",
+            "team_a": "Everton",
+            "team_b": "Newcastle",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+            "time": "02:45:00",
+            "date": "30/10",
+            "blv": "LÃM LÀNG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h54x6vrz8_58e9d3f8_20261030.png?v=58e9d3f8",
             "width": 1600,
             "height": 1200
           }
