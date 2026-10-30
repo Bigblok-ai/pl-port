@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5783fd1f9b",
-          "name": "Konyaspor vs Galatasaray | 00:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5783fd1f9b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5783fd1f9b",
-                  "name": "Konyaspor vs Galatasaray",
-                  "streams": [
-                    {
-                      "id": "st-5783fd1f9b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f17e984e24",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bc97aef74d114cb5aa6a68a1476a3c8d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Super League",
-            "team_a": "Konyaspor",
-            "team_b": "Galatasaray",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhdlpr1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hp66qo9j/image/small",
-            "time": "00:00:00",
-            "date": "31/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghed3ozr6o_f84249c0_20261031.png?v=f84249c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d8fa63a0cc",
           "name": "Le Havre FC vs PSG | 01:00 31/10",
