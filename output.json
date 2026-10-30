@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-8d3533d816",
-          "name": "Diraiyah vs Neom SC | 21:50 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8d3533d816",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8d3533d816",
-                  "name": "Diraiyah vs Neom SC",
-                  "streams": [
-                    {
-                      "id": "st-8d3533d816",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f030d9ad0b",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/78e784a302654412be73386969bbceaa/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Diraiyah",
-            "team_b": "Neom SC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66ho8e1qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jh1ld0qwzv/image/small",
-            "time": "21:50:00",
-            "date": "30/10",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8pdzwqwz_90bcbf6c_20261030.png?v=90bcbf6c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-139b790c8f",
           "name": "CSKA 1948 Sofia vs Spartak Varna | 22:00 30/10",
