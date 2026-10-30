@@ -1069,8 +1069,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-406cdeeda9",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-765b095816",
+                          "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/802cd5acdac04b92aa9735b5bda92b26/index.m3u8",
@@ -1100,7 +1100,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small",
             "time": "21:30:00",
             "date": "31/10",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LẠNH LÙNG",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1181,78 +1181,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne56yqdy_66c26fbf_20261030.png?v=66c26fbf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-c46ac2c7f0",
-          "name": "Hull City vs Ipswich | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c46ac2c7f0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c46ac2c7f0",
-                  "name": "Hull City vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-c46ac2c7f0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1aa1c5bf69",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ac8ff1e277104078a189d3266ee59f32/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Hull City",
-            "team_b": "Ipswich",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4d9ryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61n0pq86_40bb9dd2_20261030.png?v=40bb9dd2",
             "width": 1600,
             "height": 1200
           }
