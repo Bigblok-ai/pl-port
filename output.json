@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0a3a3275e0",
-          "name": "Northeast United vs Bengaluru | 21:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a3a3275e0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0a3a3275e0",
-                  "name": "Northeast United vs Bengaluru",
-                  "streams": [
-                    {
-                      "id": "st-0a3a3275e0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9899ccc33",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e5218057b1064837a8c05abf058f58ec/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "Northeast United",
-            "team_b": "Bengaluru",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7pho7oom2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllhek23qvy9/image/small",
-            "time": "21:00:00",
-            "date": "30/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdvg53moj_66f8267e_20261030.png?v=66f8267e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8d3533d816",
           "name": "Diraiyah vs Neom SC | 21:50 30/10",
@@ -1982,6 +1910,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/919b069398294911aa33a30790f9472c_6eb7618d_20261030.png?v=6eb7618d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a0ab68fa31",
+          "name": "Afyon Bld. Yuntas Women vs Vakifbank Women | 19:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0ab68fa31",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a0ab68fa31",
+                  "name": "Afyon Bld. Yuntas Women vs Vakifbank Women",
+                  "streams": [
+                    {
+                      "id": "st-a0ab68fa31",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9024976dde",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/524a322300b54483a147238af60b4a86/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Afyon Bld. Yuntas Women",
+            "team_b": "Vakifbank Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/55b1b12b58960538a68e82e514bc6470.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "time": "19:00:00",
+            "date": "01/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5b68e0b503a45f0bc0914d414281a41_d1c0a09a_20261030.png?v=d1c0a09a",
             "width": 1600,
             "height": 1200
           }
