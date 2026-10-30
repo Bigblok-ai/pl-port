@@ -1112,6 +1112,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6c024cc9bf",
+          "name": "Tottenham vs Crystal Palace | 00:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c024cc9bf",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6c024cc9bf",
+                  "name": "Tottenham vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-6c024cc9bf",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-560d81c032",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a732401341cb40cfb871433f674fdb4d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Tottenham",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small",
+            "time": "00:30:00",
+            "date": "01/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p05jm7v_17f28952_20261031.png?v=17f28952",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a98334d1f1",
+          "name": "Bayern Munich vs Dortmund | 00:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a98334d1f1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a98334d1f1",
+                  "name": "Bayern Munich vs Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-a98334d1f1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81ffdd520a",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/125e1af1b59540efb8d590269b9a2b82/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Bayern Munich",
+            "team_b": "Dortmund",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "time": "00:30:00",
+            "date": "01/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh594eoql0_8a8d5118_20261031.png?v=8a8d5118",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a47b1c9226",
+          "name": "Real Betis vs Malaga | 00:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a47b1c9226",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a47b1c9226",
+                  "name": "Real Betis vs Malaga",
+                  "streams": [
+                    {
+                      "id": "st-a47b1c9226",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd48e20f50",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d9261fc223e84938bef5c9998b9bad4a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Betis",
+            "team_b": "Malaga",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4eerepz/image/small",
+            "time": "00:30:00",
+            "date": "01/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl02gwq1z_b41f7737_20261031.png?v=b41f7737",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
