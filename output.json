@@ -1699,6 +1699,78 @@
           }
         },
         {
+          "id": "pl-41089bcfc1",
+          "name": "Thể Công Tân Cảng vs Công an TP.HCM | 12:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41089bcfc1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-41089bcfc1",
+                  "name": "Thể Công Tân Cảng vs Công an TP.HCM",
+                  "streams": [
+                    {
+                      "id": "st-41089bcfc1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1dcae02e8e",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2fc5299e26fd4f5a9f08de41165405b0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Thể Công Tân Cảng",
+            "team_b": "Công an TP.HCM",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "time": "12:00:00",
+            "date": "01/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/41e79fe3cb144c7cb8b188a8bf6d1ef6_a3cd9e34_20261030.png?v=a3cd9e34",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-ee339eb08a",
           "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women | 12:05 01/11",
           "type": "single",
