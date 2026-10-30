@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-736494e872",
-          "name": "Brisbane Roar vs Auckland FC | 16:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-736494e872",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-736494e872",
-                  "name": "Brisbane Roar vs Auckland FC",
-                  "streams": [
-                    {
-                      "id": "st-736494e872",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1abbf34330",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2290183dcddd46f98d38c174cef7176b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Brisbane Roar",
-            "team_b": "Auckland FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh1zg5q82w/image/small",
-            "time": "16:00:00",
-            "date": "30/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8wn2qdy_be8b9af9_20261030.png?v=be8b9af9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c0149531e6",
           "name": "Thanh Hóa vs HL Hà Tĩnh | 17:00 30/10",
@@ -1020,6 +948,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkpw14r1g_6e478b56_20261030.png?v=6e478b56",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-99c699c45b",
+          "name": "XM Hải Phòng FC vs Bình Phước | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-99c699c45b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-99c699c45b",
+                  "name": "XM Hải Phòng FC vs Bình Phước",
+                  "streams": [
+                    {
+                      "id": "st-99c699c45b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd481b0a58",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/589702ae17fa4e00827012f55ed9a47b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "XM Hải Phòng FC",
+            "team_b": "Bình Phước",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4he7kjq86p/image/small",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl84p7q1z_a2435da8_20261030.png?v=a2435da8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-45c31f45b4",
+          "name": "Sông Lam Nghệ An vs Công An Hà Nội | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-45c31f45b4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-45c31f45b4",
+                  "name": "Sông Lam Nghệ An vs Công An Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-45c31f45b4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c05e11b9ad",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/937cd432bc65419a85f3b7673c3364a4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Sông Lam Nghệ An",
+            "team_b": "Công An Hà Nội",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk8932rz8_4e33db57_20261030.png?v=4e33db57",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-704fd51c38",
+          "name": "Nam Định vs Thể Công Viettel | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-704fd51c38",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-704fd51c38",
+                  "name": "Nam Định vs Thể Công Viettel",
+                  "streams": [
+                    {
+                      "id": "st-704fd51c38",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a835b21ff",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/baa60685f43f42c5b7c38550cd7bd0b1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Nam Định",
+            "team_b": "Thể Công Viettel",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h826oq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg72xgr51_05aa472e_20261030.png?v=05aa472e",
             "width": 1600,
             "height": 1200
           }
