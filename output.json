@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-7a8862259b",
-          "name": "U15 Việt Nam vs U15 Hungary | 14:30 30/10",
+          "id": "pl-736494e872",
+          "name": "Brisbane Roar vs Auckland FC | 16:00 30/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-7a8862259b",
+              "id": "src-736494e872",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-7a8862259b",
-                  "name": "U15 Việt Nam vs U15 Hungary",
+                  "id": "ct-736494e872",
+                  "name": "Brisbane Roar vs Auckland FC",
                   "streams": [
                     {
-                      "id": "st-7a8862259b",
+                      "id": "st-736494e872",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6751723abf",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-1abbf34330",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/be9aef1c6d044a869e8795b816033705/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/2290183dcddd46f98d38c174cef7176b/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,14 +68,14 @@
             }
           ],
           "org_metadata": {
-            "league": "U15 World Cup",
-            "team_a": "U15 Việt Nam",
-            "team_b": "U15 Hungary",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/330px-Flag_of_Vietnam.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Hungary.png/330px-Flag_of_Hungary.png",
-            "time": "14:30:00",
+            "league": "Australia A-League",
+            "team_a": "Brisbane Roar",
+            "team_b": "Auckland FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh1zg5q82w/image/small",
+            "time": "16:00:00",
             "date": "30/10",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÝ LINH LỰC",
             "is_live": true,
             "cate_type": "football"
           },
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/28f35974b0d74e4b82b06aac3e165b9b_3bffac92_20261030.png?v=3bffac92",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8wn2qdy_be8b9af9_20261030.png?v=be8b9af9",
             "width": 1600,
             "height": 1200
           }
