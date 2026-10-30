@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-ae7b234e34",
-          "name": "TDTT Bắc Ninh vs Hoàng Anh Gia Lai | 18:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae7b234e34",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ae7b234e34",
-                  "name": "TDTT Bắc Ninh vs Hoàng Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "st-ae7b234e34",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c7813f64d5",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cb3e5dc8404e4166b6bd215c2343a469/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "TDTT Bắc Ninh",
-            "team_b": "Hoàng Anh Gia Lai",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
-            "time": "18:00:00",
-            "date": "30/10",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gydlr8k_35d40030_20261030.png?v=35d40030",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-5ddad37f79",
           "name": "Hà Nội FC vs Ninh Bình | 19:15 30/10",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "21:00:00",
             "date": "30/10",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
