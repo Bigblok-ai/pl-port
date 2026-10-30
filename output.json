@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "14:30:00",
             "date": "30/10",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/28f35974b0d74e4b82b06aac3e165b9b_3bffac92_20261030.png?v=3bffac92",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-736494e872",
-          "name": "Brisbane Roar vs Auckland FC | 16:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-736494e872",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-736494e872",
-                  "name": "Brisbane Roar vs Auckland FC",
-                  "streams": [
-                    {
-                      "id": "st-736494e872",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1abbf34330",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2290183dcddd46f98d38c174cef7176b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Brisbane Roar",
-            "team_b": "Auckland FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh1zg5q82w/image/small",
-            "time": "16:00:00",
-            "date": "30/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8wn2qdy_be8b9af9_20261030.png?v=be8b9af9",
             "width": 1600,
             "height": 1200
           }
