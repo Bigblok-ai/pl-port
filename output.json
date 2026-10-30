@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5ddad37f79",
-          "name": "Hà Nội FC vs Ninh Bình | 19:15 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5ddad37f79",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5ddad37f79",
-                  "name": "Hà Nội FC vs Ninh Bình",
-                  "streams": [
-                    {
-                      "id": "st-5ddad37f79",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ac9cd97ac9",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/02cfcc664b1d46d5b9d3d7aec6716fd2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hà Nội FC",
-            "team_b": "Ninh Bình",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghen9wmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
-            "time": "19:15:00",
-            "date": "30/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1nx86q0j_d402cf8f_20261030.png?v=d402cf8f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-af0ba76d25",
           "name": "Abha vs Al Ittihad(KSA) | 19:30 30/10",
@@ -738,7 +666,7 @@
         },
         {
           "id": "pl-b470468f4b",
-          "name": "Than Quảng Ninh vs Lâm Đồng | 17:00 31/10",
+          "name": "Than Quảng Ninh vs Lâm Đồng | 18:00 31/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -793,7 +721,7 @@
             "team_b": "Lâm Đồng",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh6nkryk0/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg9nkr6od/image/small",
-            "time": "17:00:00",
+            "time": "18:00:00",
             "date": "31/10",
             "blv": "LÃM LÀNG",
             "is_live": false,
