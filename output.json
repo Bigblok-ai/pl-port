@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-139b790c8f",
-          "name": "CSKA 1948 Sofia vs Spartak Varna | 22:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-139b790c8f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-139b790c8f",
-                  "name": "CSKA 1948 Sofia vs Spartak Varna",
-                  "streams": [
-                    {
-                      "id": "st-139b790c8f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cef6171743",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b128fe163d074d958143a0f59ce69fb3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "CSKA 1948 Sofia",
-            "team_b": "Spartak Varna",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdeh445wr510/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh74nyr1ge/image/small",
-            "time": "22:00:00",
-            "date": "30/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dozvqwz_2fb4385a_20261031.png?v=2fb4385a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5783fd1f9b",
           "name": "Konyaspor vs Galatasaray | 00:00 31/10",
