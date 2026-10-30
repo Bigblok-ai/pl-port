@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b1c04c5423",
+          "name": "Macarthur FC vs Western Sydney | 15:40 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b1c04c5423",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b1c04c5423",
+                  "name": "Macarthur FC vs Western Sydney",
+                  "streams": [
+                    {
+                      "id": "st-b1c04c5423",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-681e74038f",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/10a5c8ea1da44f18b751a8138de883e4/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Macarthur FC",
+            "team_b": "Western Sydney",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66h47j0qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlv6jrz84/image/small",
+            "time": "15:40:00",
+            "date": "31/10",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkzlk2rz8_e92333e3_20261030.png?v=e92333e3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
