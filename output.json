@@ -1112,6 +1112,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6219251f34",
+          "name": "Man City vs Brighton | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6219251f34",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6219251f34",
+                  "name": "Man City vs Brighton",
+                  "streams": [
+                    {
+                      "id": "st-6219251f34",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4119eda871",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/85b2ac1ae0e542b184956d826e173619/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Man City",
+            "team_b": "Brighton",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne56yqdy_66c26fbf_20261030.png?v=66c26fbf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c46ac2c7f0",
+          "name": "Hull City vs Ipswich | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c46ac2c7f0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c46ac2c7f0",
+                  "name": "Hull City vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-c46ac2c7f0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1aa1c5bf69",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ac8ff1e277104078a189d3266ee59f32/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Hull City",
+            "team_b": "Ipswich",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4d9ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61n0pq86_40bb9dd2_20261030.png?v=40bb9dd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-dc8143d8d8",
+          "name": "AFC Bournemouth vs Leeds United | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc8143d8d8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dc8143d8d8",
+                  "name": "AFC Bournemouth vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-dc8143d8d8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db405c1a4e",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/564d03fd49b14b3d9a35ab17806c3aa3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "AFC Bournemouth",
+            "team_b": "Leeds United",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4j651r8k_504c2f35_20261030.png?v=504c2f35",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1d0ed5d366",
+          "name": "Brentford vs Nott'm Forest | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1d0ed5d366",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1d0ed5d366",
+                  "name": "Brentford vs Nott'm Forest",
+                  "streams": [
+                    {
+                      "id": "st-1d0ed5d366",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef59031af5",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5056e4000d0c4afaa46bdf0bd12f755b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Brentford",
+            "team_b": "Nott'm Forest",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzkevr51_67a9eeb3_20261030.png?v=67a9eeb3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
