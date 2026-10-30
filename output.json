@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "00:00:00",
             "date": "31/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1982,6 +1982,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5b68e0b503a45f0bc0914d414281a41_d1c0a09a_20261030.png?v=d1c0a09a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-59ea5c4459",
+          "name": "Ninh Bình vs Sanest Khánh Hòa | 19:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59ea5c4459",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-59ea5c4459",
+                  "name": "Ninh Bình vs Sanest Khánh Hòa",
+                  "streams": [
+                    {
+                      "id": "st-59ea5c4459",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a7e7a4b595",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/221b7056dfc1407796657a6c9cea8d5b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Ninh Bình",
+            "team_b": "Sanest Khánh Hòa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png ",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "time": "19:30:00",
+            "date": "01/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cbfdc3cff151495b8fd773c32c1fd1fa_f7ec2b38_20261030.png?v=f7ec2b38",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-088838418a",
+          "name": "Galatasaray Women vs Fenerbahce Women | 23:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-088838418a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-088838418a",
+                  "name": "Galatasaray Women vs Fenerbahce Women",
+                  "streams": [
+                    {
+                      "id": "st-088838418a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ce0cb39e1",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5e8e5a00071247c09432437c02d8bdda/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Galatasaray Women",
+            "team_b": "Fenerbahce Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/c6a08c3e390a071f4143d6ea1c4f2b11.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
+            "time": "23:00:00",
+            "date": "01/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4637f00932fe4c5bad801717a2b4956c_66ca6df8_20261030.png?v=66ca6df8",
             "width": 1600,
             "height": 1200
           }
