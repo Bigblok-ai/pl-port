@@ -1400,6 +1400,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b87f074c71",
+          "name": "Aston Villa vs Fulham | 03:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b87f074c71",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b87f074c71",
+                  "name": "Aston Villa vs Fulham",
+                  "streams": [
+                    {
+                      "id": "st-b87f074c71",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bcc4d55f2",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/91461d812e4849418971d2a66af3aee7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Aston Villa",
+            "team_b": "Fulham",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz23r510/image/small",
+            "time": "03:00:00",
+            "date": "01/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldzozmoe_227b70c1_20261031.png?v=227b70c1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-571d4419c0",
+          "name": "Barcelona vs Alavés | 03:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-571d4419c0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-571d4419c0",
+                  "name": "Barcelona vs Alavés",
+                  "streams": [
+                    {
+                      "id": "st-571d4419c0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9caeb7cdf0",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/aba5f5e254e24c3abf8cf4c30aec5537/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Alavés",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph6lkr8k0/image/small",
+            "time": "03:00:00",
+            "date": "01/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz1ryk_492017d6_20261031.png?v=492017d6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
