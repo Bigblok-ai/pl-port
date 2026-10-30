@@ -1481,6 +1481,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ee339eb08a",
+          "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women | 12:05 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ee339eb08a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ee339eb08a",
+                  "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women",
+                  "streams": [
+                    {
+                      "id": "st-ee339eb08a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4ff988c252",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/80e49e9d96dc4e23a8d0d3118a40870c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Okayama Seagulls Women",
+            "team_b": "Gunma Bank Green Wings Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/169fae0ddcb6499096a67545f9803822.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
+            "time": "12:05:00",
+            "date": "01/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c67dfce3ea4d4ad7af7a50ceab436ee8_dc3c5916_20261030.png?v=dc3c5916",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
