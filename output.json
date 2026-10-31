@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2d133c2a19",
-          "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women | 12:05 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2d133c2a19",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2d133c2a19",
-                  "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women",
-                  "streams": [
-                    {
-                      "id": "st-2d133c2a19",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77eb0dd477",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/49c19e781a504a7ba5a39932586bde72/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Okayama Seagulls Women",
-            "team_b": "Gunma Bank Green Wings Women",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/169fae0ddcb6499096a67545f9803822.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/9b24522f9f21ea1c8df198f5c5f94a34.png!w80",
-            "time": "12:05:00",
-            "date": "31/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/0ff4daf744e542a29c61e5922b0609b4_dc3c5916_20261031.png?v=dc3c5916",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-81d63f9dd0",
           "name": "Hà Nội vs Công An TP.HCM | 14:30 31/10",
