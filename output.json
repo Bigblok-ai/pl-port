@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -257,10 +257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +309,7 @@
             "time": "22:00:00",
             "date": "31/10",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -329,10 +329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -381,7 +381,7 @@
             "time": "22:00:00",
             "date": "31/10",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -401,10 +401,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -453,7 +453,7 @@
             "time": "22:00:00",
             "date": "31/10",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1181,6 +1181,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xp8r6o_31f01a20_20261031.png?v=31f01a20",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-7d8b49a218",
+          "name": "Nữ Hồ Chí Minh vs Nữ East Bengal | 21:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d8b49a218",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7d8b49a218",
+                  "name": "Nữ Hồ Chí Minh vs Nữ East Bengal",
+                  "streams": [
+                    {
+                      "id": "st-7d8b49a218",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d64c5b302",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/881ff4a701ac4212af413d7d86835425/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Champions League",
+            "team_a": "Nữ Hồ Chí Minh",
+            "team_b": "Nữ East Bengal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7lp7r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hjp2lqo9j/image/small",
+            "time": "21:30:00",
+            "date": "01/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl8pxeq1z_65401c3b_20261031.png?v=65401c3b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-bfffd2973a",
+          "name": "Union Berlin vs FC Köln | 21:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bfffd2973a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bfffd2973a",
+                  "name": "Union Berlin vs FC Köln",
+                  "streams": [
+                    {
+                      "id": "st-bfffd2973a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-797c77860f",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c655751b721240c1857cf4c0167ce9aa/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Union Berlin",
+            "team_b": "FC Köln",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh613r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphj74r8k0/image/small",
+            "time": "21:30:00",
+            "date": "01/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg92e1q82_911ba109_20261031.png?v=911ba109",
             "width": 1600,
             "height": 1200
           }
