@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f2e137c777",
-          "name": "Thể Công Tân Cảng vs Đà Nẵng | 12:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f2e137c777",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f2e137c777",
-                  "name": "Thể Công Tân Cảng vs Đà Nẵng",
-                  "streams": [
-                    {
-                      "id": "st-f2e137c777",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8af99ff118",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f7aa9bf3117746c49c76455439ff2a46/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Thể Công Tân Cảng",
-            "team_b": "Đà Nẵng",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "time": "12:00:00",
-            "date": "31/10",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5ea4ab1a4a4c4dc1ac965ce52d364ff7_cac340f9_20261031.png?v=cac340f9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2d133c2a19",
           "name": "Okayama Seagulls Women vs Gunma Bank Green Wings Women | 12:05 31/10",
