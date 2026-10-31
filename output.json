@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6219251f34",
-          "name": "Man City vs Brighton | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6219251f34",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6219251f34",
-                  "name": "Man City vs Brighton",
-                  "streams": [
-                    {
-                      "id": "st-6219251f34",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4119eda871",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/85b2ac1ae0e542b184956d826e173619/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Man City",
-            "team_b": "Brighton",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne56yqdy_66c26fbf_20261031.png?v=66c26fbf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-dc8143d8d8",
-          "name": "AFC Bournemouth vs Leeds United | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dc8143d8d8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dc8143d8d8",
-                  "name": "AFC Bournemouth vs Leeds United",
-                  "streams": [
-                    {
-                      "id": "st-dc8143d8d8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-db405c1a4e",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/564d03fd49b14b3d9a35ab17806c3aa3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "AFC Bournemouth",
-            "team_b": "Leeds United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4j651r8k_504c2f35_20261031.png?v=504c2f35",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1d0ed5d366",
           "name": "Brentford vs Nott'm Forest | 22:00 31/10",
@@ -227,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzkevr51_67a9eeb3_20261031.png?v=67a9eeb3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzkevr51_67a9eeb3_20261101.png?v=67a9eeb3",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgejdoq82_bd21d944_20261031.png?v=bd21d944",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgejdoq82_bd21d944_20261101.png?v=bd21d944",
             "width": 1600,
             "height": 1200
           }
@@ -312,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,14 +220,14 @@
             "time": "00:30:00",
             "date": "01/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p05jm7v_17f28952_20261031.png?v=17f28952",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p05jm7v_17f28952_20261101.png?v=17f28952",
             "width": 1600,
             "height": 1200
           }
@@ -384,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,14 +292,14 @@
             "time": "00:30:00",
             "date": "01/11",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh594eoql0_8a8d5118_20261031.png?v=8a8d5118",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh594eoql0_8a8d5118_20261101.png?v=8a8d5118",
             "width": 1600,
             "height": 1200
           }
@@ -456,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,14 +364,14 @@
             "time": "00:30:00",
             "date": "01/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl02gwq1z_b41f7737_20261031.png?v=b41f7737",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl02gwq1z_b41f7737_20261101.png?v=b41f7737",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdky3m2w_1a02ce2d_20261031.png?v=1a02ce2d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdky3m2w_1a02ce2d_20261101.png?v=1a02ce2d",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldzozmoe_227b70c1_20261031.png?v=227b70c1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldzozmoe_227b70c1_20261101.png?v=227b70c1",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz1ryk_492017d6_20261031.png?v=492017d6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz1ryk_492017d6_20261101.png?v=492017d6",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5lx77ql0_e3ebb8b3_20261031.png?v=e3ebb8b3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5lx77ql0_e3ebb8b3_20261101.png?v=e3ebb8b3",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4jo6or8k_fbcf8790_20261031.png?v=fbcf8790",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4jo6or8k_fbcf8790_20261101.png?v=fbcf8790",
             "width": 1600,
             "height": 1200
           }
@@ -947,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xp8r6o_31f01a20_20261031.png?v=31f01a20",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xp8r6o_31f01a20_20261101.png?v=31f01a20",
             "width": 1600,
             "height": 1200
           }
@@ -1019,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl8pxeq1z_65401c3b_20261031.png?v=65401c3b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl8pxeq1z_65401c3b_20261101.png?v=65401c3b",
             "width": 1600,
             "height": 1200
           }
@@ -1091,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg92e1q82_911ba109_20261031.png?v=911ba109",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg92e1q82_911ba109_20261101.png?v=911ba109",
             "width": 1600,
             "height": 1200
           }
@@ -1163,7 +1019,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz2ryk_25d65f22_20261031.png?v=25d65f22",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz2ryk_25d65f22_20261101.png?v=25d65f22",
             "width": 1600,
             "height": 1200
           }
@@ -1235,7 +1091,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3058q1z_9788ff43_20261031.png?v=9788ff43",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3058q1z_9788ff43_20261101.png?v=9788ff43",
             "width": 1600,
             "height": 1200
           }
@@ -1316,7 +1172,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/41e79fe3cb144c7cb8b188a8bf6d1ef6_a3cd9e34_20261031.png?v=a3cd9e34",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/41e79fe3cb144c7cb8b188a8bf6d1ef6_a3cd9e34_20261101.png?v=a3cd9e34",
             "width": 1600,
             "height": 1200
           }
@@ -1388,7 +1244,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c67dfce3ea4d4ad7af7a50ceab436ee8_dc3c5916_20261031.png?v=dc3c5916",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c67dfce3ea4d4ad7af7a50ceab436ee8_dc3c5916_20261101.png?v=dc3c5916",
             "width": 1600,
             "height": 1200
           }
@@ -1460,7 +1316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1234a66ca5a04a12b22c93f6ec7df7df_a8563c93_20261031.png?v=a8563c93",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1234a66ca5a04a12b22c93f6ec7df7df_a8563c93_20261101.png?v=a8563c93",
             "width": 1600,
             "height": 1200
           }
@@ -1532,7 +1388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/919b069398294911aa33a30790f9472c_6eb7618d_20261031.png?v=6eb7618d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/919b069398294911aa33a30790f9472c_6eb7618d_20261101.png?v=6eb7618d",
             "width": 1600,
             "height": 1200
           }
@@ -1604,7 +1460,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5b68e0b503a45f0bc0914d414281a41_d1c0a09a_20261031.png?v=d1c0a09a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5b68e0b503a45f0bc0914d414281a41_d1c0a09a_20261101.png?v=d1c0a09a",
             "width": 1600,
             "height": 1200
           }
@@ -1676,7 +1532,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cbfdc3cff151495b8fd773c32c1fd1fa_f7ec2b38_20261031.png?v=f7ec2b38",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cbfdc3cff151495b8fd773c32c1fd1fa_f7ec2b38_20261101.png?v=f7ec2b38",
             "width": 1600,
             "height": 1200
           }
@@ -1748,7 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4637f00932fe4c5bad801717a2b4956c_66ca6df8_20261031.png?v=66ca6df8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4637f00932fe4c5bad801717a2b4956c_66ca6df8_20261101.png?v=66ca6df8",
             "width": 1600,
             "height": 1200
           }
@@ -1820,7 +1676,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_f4a02287_20261031.png?v=f4a02287",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_f4a02287_20261101.png?v=f4a02287",
             "width": 1600,
             "height": 1200
           }
@@ -1892,7 +1748,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/18a84ba4e87f4ed69d711fd7810c19b9_1d650c83_20261031.png?v=1d650c83",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/18a84ba4e87f4ed69d711fd7810c19b9_1d650c83_20261101.png?v=1d650c83",
             "width": 1600,
             "height": 1200
           }
@@ -1964,7 +1820,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26d7a6ebb6c644e39b0625772260ae10_4d7787e4_20261031.png?v=4d7787e4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26d7a6ebb6c644e39b0625772260ae10_4d7787e4_20261101.png?v=4d7787e4",
             "width": 1600,
             "height": 1200
           }
@@ -2036,7 +1892,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b7d23af412f94e4bb53b8bc4534ddfe9_fc13e053_20261031.png?v=fc13e053",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b7d23af412f94e4bb53b8bc4534ddfe9_fc13e053_20261101.png?v=fc13e053",
             "width": 1600,
             "height": 1200
           }
