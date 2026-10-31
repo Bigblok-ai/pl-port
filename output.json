@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-81d63f9dd0",
-          "name": "Hà Nội vs Công An TP.HCM | 14:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-81d63f9dd0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-81d63f9dd0",
-                  "name": "Hà Nội vs Công An TP.HCM",
-                  "streams": [
-                    {
-                      "id": "st-81d63f9dd0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-976e103db6",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e6710734032b41c09fa6aa6193f5aff7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Hà Nội",
-            "team_b": "Công An TP.HCM",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png ",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
-            "time": "14:30:00",
-            "date": "31/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/03b6292e3ada43508121f1fcee0f78bf_3bf915bf_20261031.png?v=3bf915bf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6fe60eb24e",
           "name": "LP Bank Ninh Bình vs TP. Hồ Chí Minh | 17:00 31/10",
