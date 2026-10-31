@@ -1184,6 +1184,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-03c433ffb7",
+          "name": "Hồ Chí Minh vs SHB Đà Nẵng | 18:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03c433ffb7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-03c433ffb7",
+                  "name": "Hồ Chí Minh vs SHB Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-03c433ffb7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-79cc82f703",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/83e7555762944d50aa499125a780e0ee/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hồ Chí Minh",
+            "team_b": "SHB Đà Nẵng",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9k9ryk0/image/small",
+            "time": "18:00:00",
+            "date": "01/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5lx77ql0_e3ebb8b3_20261031.png?v=e3ebb8b3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
