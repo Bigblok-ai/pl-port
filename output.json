@@ -1755,7 +1755,7 @@
         },
         {
           "id": "pl-c339024f37",
-          "name": "Thể Công Tân Cảng – TP.HỒ CHÍ MINH vs Thể Công Tân Cảng | 12:00 02/11",
+          "name": "Thể Công Tân Cảng vs TP.HỒ CHÍ MINH | 12:00 02/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1774,7 +1774,7 @@
               "contents": [
                 {
                   "id": "ct-c339024f37",
-                  "name": "Thể Công Tân Cảng – TP.HỒ CHÍ MINH vs Thể Công Tân Cảng",
+                  "name": "Thể Công Tân Cảng vs TP.HỒ CHÍ MINH",
                   "streams": [
                     {
                       "id": "st-c339024f37",
@@ -1806,10 +1806,10 @@
           ],
           "org_metadata": {
             "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Thể Công Tân Cảng – TP.HỒ CHÍ MINH",
-            "team_b": "Thể Công Tân Cảng",
+            "team_a": "Thể Công Tân Cảng",
+            "team_b": "TP.HỒ CHÍ MINH",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%B…svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
             "time": "12:00:00",
             "date": "02/11",
             "blv": "LÝ LIỀU LĨNH",
@@ -1820,7 +1820,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_37000ed1_20261031.png?v=37000ed1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_0064853f_20261031.png?v=0064853f",
             "width": 1600,
             "height": 1200
           }
