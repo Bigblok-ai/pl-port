@@ -1189,83 +1189,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-13700a3747",
-          "name": "Sanest Khánh Hòa vs Biên Phòng MB | 19:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-13700a3747",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-13700a3747",
-                  "name": "Sanest Khánh Hòa vs Biên Phòng MB",
-                  "streams": [
-                    {
-                      "id": "st-13700a3747",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2a14bf14f9",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/13984891b238412e9ebf5587cf0dff2f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Sanest Khánh Hòa",
-            "team_b": "Biên Phòng MB",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "time": "19:30:00",
-            "date": "31/10",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4c331656c0bc4eab8067e75ac3c7f448_02de3180_20261031.png?v=02de3180",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-41089bcfc1",
           "name": "Thể Công Tân Cảng vs Công an TP.HCM | 12:00 01/11",
