@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0631516c46",
-          "name": "Bayer Leverkusen vs Stuttgart | 21:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0631516c46",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0631516c46",
-                  "name": "Bayer Leverkusen vs Stuttgart",
-                  "streams": [
-                    {
-                      "id": "st-0631516c46",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-765b095816",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/802cd5acdac04b92aa9735b5bda92b26/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Bayer Leverkusen",
-            "team_b": "Stuttgart",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small",
-            "time": "21:30:00",
-            "date": "31/10",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyo20dryk_3e966972_20261031.png?v=3e966972",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6219251f34",
           "name": "Man City vs Brighton | 22:00 31/10",
@@ -1236,6 +1164,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyovz2ryk_25d65f22_20261031.png?v=25d65f22",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-62cf5ee8fa",
+          "name": "Liverpool vs Arsenal | 23:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62cf5ee8fa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-62cf5ee8fa",
+                  "name": "Liverpool vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-62cf5ee8fa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8ade3e73b5",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ab0b30e882924a9fbe499a0fa72b5b06/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Liverpool",
+            "team_b": "Arsenal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "time": "23:30:00",
+            "date": "01/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3058q1z_9788ff43_20261031.png?v=9788ff43",
             "width": 1600,
             "height": 1200
           }
