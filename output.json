@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1d0ed5d366",
-          "name": "Brentford vs Nott'm Forest | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1d0ed5d366",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1d0ed5d366",
-                  "name": "Brentford vs Nott'm Forest",
-                  "streams": [
-                    {
-                      "id": "st-1d0ed5d366",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef59031af5",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5056e4000d0c4afaa46bdf0bd12f755b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Brentford",
-            "team_b": "Nott'm Forest",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzkevr51_67a9eeb3_20261101.png?v=67a9eeb3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-976c057734",
           "name": "Udinese vs AS Roma | 00:00 01/11",
@@ -372,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl02gwq1z_b41f7737_20261101.png?v=b41f7737",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0e58e07d73",
+          "name": "Al Hilal vs Al Fateh | 01:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0e58e07d73",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0e58e07d73",
+                  "name": "Al Hilal vs Al Fateh",
+                  "streams": [
+                    {
+                      "id": "st-0e58e07d73",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b70082032",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/693460b0b74d44948d7cf624590deba0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Hilal",
+            "team_b": "Al Fateh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3x41ql07/image/small",
+            "time": "01:00:00",
+            "date": "01/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8e35qdy_27ec1cfc_20261101.png?v=27ec1cfc",
             "width": 1600,
             "height": 1200
           }
