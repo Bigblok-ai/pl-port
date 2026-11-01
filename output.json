@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-18d144bc82",
+          "name": "Newcastle vs Everton | 03:00 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18d144bc82",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-18d144bc82",
+                  "name": "Newcastle vs Everton",
+                  "streams": [
+                    {
+                      "id": "st-18d144bc82",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d10057b57",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/44c4e8e5ed3a44a5823453de94636e11/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Newcastle",
+            "team_b": "Everton",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
+            "time": "03:00:00",
+            "date": "03/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny619qvy_1835d0e4_20261102.png?v=1835d0e4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
