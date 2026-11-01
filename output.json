@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e03a68c1ad",
+          "name": "Kryvbas vs Dynamo Kyiv | 18:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e03a68c1ad",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e03a68c1ad",
+                  "name": "Kryvbas vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-e03a68c1ad",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dd35d0e46",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17495c6c167749f781af8e14309bda20/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "Kryvbas",
+            "team_b": "Dynamo Kyiv",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhoo1ryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh1o7qg8n/image/small",
+            "time": "18:00:00",
+            "date": "02/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6n6xxq86_e0874ba2_20261101.png?v=e0874ba2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
