@@ -735,12 +735,84 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8090bcb82e",
+          "name": "Real Oviedo vs Las Palmas | 22:15 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8090bcb82e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8090bcb82e",
+                  "name": "Real Oviedo vs Las Palmas",
+                  "streams": [
+                    {
+                      "id": "st-8090bcb82e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afee60bc7b",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2c5b6d9fa73d4d2ea411af957d9f00e1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Oviedo",
+            "team_b": "Las Palmas",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh562qg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h2nyqdyj/image/small",
+            "time": "22:15:00",
+            "date": "02/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh59xx2ql0_a33befca_20261101.png?v=a33befca",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -753,10 +825,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -805,7 +877,7 @@
             "time": "23:00:00",
             "date": "01/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
