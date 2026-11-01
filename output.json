@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-59ea5c4459",
-          "name": "Ninh Bình vs Sanest Khánh Hòa | 19:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-59ea5c4459",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-59ea5c4459",
-                  "name": "Ninh Bình vs Sanest Khánh Hòa",
-                  "streams": [
-                    {
-                      "id": "st-59ea5c4459",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a7e7a4b595",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/221b7056dfc1407796657a6c9cea8d5b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Ninh Bình",
-            "team_b": "Sanest Khánh Hòa",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png ",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "19:30:00",
-            "date": "01/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cbfdc3cff151495b8fd773c32c1fd1fa_f7ec2b38_20261101.png?v=f7ec2b38",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-088838418a",
           "name": "Galatasaray Women vs Fenerbahce Women | 23:00 01/11",
