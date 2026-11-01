@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-299676834a",
-          "name": "Athletic Bilbao vs Real Sociedad | 03:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-299676834a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-299676834a",
-                  "name": "Athletic Bilbao vs Real Sociedad",
-                  "streams": [
-                    {
-                      "id": "st-299676834a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41e2b75184",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c240057af7ba4aeca164f57d40ba2b83/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Athletic Bilbao",
-            "team_b": "Real Sociedad",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdd2ql07/image/small",
-            "time": "03:00:00",
-            "date": "02/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkv1jzrz8_c8fe1097_20261102.png?v=c8fe1097",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e03a68c1ad",
           "name": "Kryvbas vs Dynamo Kyiv | 18:00 02/11",
