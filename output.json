@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-fe4e82d3aa",
-          "name": "Juventus vs Napoli | 02:45 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe4e82d3aa",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-fe4e82d3aa",
-                  "name": "Juventus vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-fe4e82d3aa",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d30bf31f2a",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/08a2a214a25e4fcc8005f69bc34f3b18/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Juventus",
-            "team_b": "Napoli",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small",
-            "time": "02:45:00",
-            "date": "02/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgznw4r51_0b42f961_20261102.png?v=0b42f961",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-299676834a",
           "name": "Athletic Bilbao vs Real Sociedad | 03:00 02/11",
