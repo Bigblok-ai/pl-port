@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-74b2f83860",
+          "name": "Pakhtakor vs Al Nassr | 20:45 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74b2f83860",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-74b2f83860",
+                  "name": "Pakhtakor vs Al Nassr",
+                  "streams": [
+                    {
+                      "id": "st-74b2f83860",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-117af26484",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f4f685fabbd34775b69109c2ecdfac02/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Pakhtakor",
+            "team_b": "Al Nassr",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
+            "time": "20:45:00",
+            "date": "02/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xkpvmoj_d2075363_20261101.png?v=d2075363",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
