@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-62cf5ee8fa",
-          "name": "Liverpool vs Arsenal | 23:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-62cf5ee8fa",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-62cf5ee8fa",
-                  "name": "Liverpool vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-62cf5ee8fa",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ade3e73b5",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ab0b30e882924a9fbe499a0fa72b5b06/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Liverpool",
-            "team_b": "Arsenal",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
-            "time": "23:30:00",
-            "date": "01/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl3058q1z_9788ff43_20261102.png?v=9788ff43",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b9345abf55",
           "name": "Elche vs Valencia | 00:30 02/11",
