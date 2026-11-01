@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ca918e5e54",
+          "name": "Al Ittihad(KSA) vs Al-Ain FC | 01:15 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ca918e5e54",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ca918e5e54",
+                  "name": "Al Ittihad(KSA) vs Al-Ain FC",
+                  "streams": [
+                    {
+                      "id": "st-ca918e5e54",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9265ea8991",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8caa83b484464cbba92133f35fc71886/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al Ittihad(KSA)",
+            "team_b": "Al-Ain FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghyv3r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small",
+            "time": "01:15:00",
+            "date": "03/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen23dr6o_e3c7c1e4_20261102.png?v=e3c7c1e4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
