@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ebdd2e3a67",
+          "name": "Al Hilal vs Shabab Al Ahli | 01:15 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ebdd2e3a67",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ebdd2e3a67",
+                  "name": "Al Hilal vs Shabab Al Ahli",
+                  "streams": [
+                    {
+                      "id": "st-ebdd2e3a67",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cff34729f9",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f51ab045c0cc43d9b014dfce046b8eae/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al Hilal",
+            "team_b": "Shabab Al Ahli",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergphoevor8k0/image/small",
+            "time": "01:15:00",
+            "date": "04/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1w5x8q0j_65e6b27d_20261103.png?v=65e6b27d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
