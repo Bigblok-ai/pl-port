@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9cd74e8bd0",
-          "name": "Chonburi FC vs BG Pathum United | 19:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9cd74e8bd0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9cd74e8bd0",
-                  "name": "Chonburi FC vs BG Pathum United",
-                  "streams": [
-                    {
-                      "id": "st-9cd74e8bd0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9358373908",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b94b0f929dc34b988c70171b86858860/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Thai League 1",
-            "team_a": "Chonburi FC",
-            "team_b": "BG Pathum United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh61z5m7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvp7erepz/image/small",
-            "time": "19:00:00",
-            "date": "02/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4v7em2w_3887ceb9_20261102.png?v=3887ceb9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-74b2f83860",
           "name": "Pakhtakor vs Al Nassr | 20:45 02/11",
@@ -1029,6 +957,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f1eb25b9b4f443509c70fd35c7544ec9_bc7fc4ce_20261102.png?v=bc7fc4ce",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0d28502858",
+          "name": "Thể Công Tân Cảng vs Biên Phòng MB | 12:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d28502858",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0d28502858",
+                  "name": "Thể Công Tân Cảng vs Biên Phòng MB",
+                  "streams": [
+                    {
+                      "id": "st-0d28502858",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8cd654f21c",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a901a53f26c24b6db2ab72dfebc4f904/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Thể Công Tân Cảng",
+            "team_b": "Biên Phòng MB",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
+            "time": "12:00:00",
+            "date": "04/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/246bc3416cfc4e9f85a192b3e9fdbfb6_d088c181_20261102.png?v=d088c181",
             "width": 1600,
             "height": 1200
           }
