@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-58f98b9f9d",
+          "name": "Barcelona U19 vs Aston Villa U19 | 22:00 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58f98b9f9d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-58f98b9f9d",
+                  "name": "Barcelona U19 vs Aston Villa U19",
+                  "streams": [
+                    {
+                      "id": "st-58f98b9f9d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-99df0c448d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cbcfa8d9fe53443195ebffbbc8972d33/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "Barcelona U19",
+            "team_b": "Aston Villa U19",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh0ngkmd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllhe92wqvy9/image/small",
+            "time": "22:00:00",
+            "date": "03/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxv34md7_700457c4_20261102.png?v=700457c4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1245,6 +1317,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1bbc4dfc7c98454384558b9cf75d7d25_d6f20017_20261102.png?v=d6f20017",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e39b96e6b2",
+          "name": "Vakifbank Women vs THY Women | 23:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e39b96e6b2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e39b96e6b2",
+                  "name": "Vakifbank Women vs THY Women",
+                  "streams": [
+                    {
+                      "id": "st-e39b96e6b2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3b660c723a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/52bbece6d2984071a1e803e6a5dec713/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Vakifbank Women",
+            "team_b": "THY Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
+            "time": "23:00:00",
+            "date": "04/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cb803db691b147468058c1968e4eaaf6_28c244da_20261102.png?v=28c244da",
             "width": 1600,
             "height": 1200
           }
