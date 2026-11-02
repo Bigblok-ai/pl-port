@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-42541c2fdd",
-          "name": "Công an TP.HCM vs Biên Phòng MB | 14:30 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-42541c2fdd",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-42541c2fdd",
-                  "name": "Công an TP.HCM vs Biên Phòng MB",
-                  "streams": [
-                    {
-                      "id": "st-42541c2fdd",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eed46e9111",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/343f420c818144cfa41888700f6fcc28/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Công an TP.HCM",
-            "team_b": "Biên Phòng MB",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png ",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "time": "14:30:00",
-            "date": "02/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/18a84ba4e87f4ed69d711fd7810c19b9_1d650c83_20261102.png?v=1d650c83",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-183c6d6432",
           "name": "Đà Nẵng vs Sanest Khánh Hòa | 17:00 02/11",
