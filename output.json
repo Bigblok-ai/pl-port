@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-58f98b9f9d",
-          "name": "Barcelona U19 vs Aston Villa U19 | 22:00 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58f98b9f9d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-58f98b9f9d",
-                  "name": "Barcelona U19 vs Aston Villa U19",
-                  "streams": [
-                    {
-                      "id": "st-58f98b9f9d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-99df0c448d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cbcfa8d9fe53443195ebffbbc8972d33/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Barcelona U19",
-            "team_b": "Aston Villa U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh0ngkmd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllhe92wqvy9/image/small",
-            "time": "22:00:00",
-            "date": "03/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxv34md7_700457c4_20261103.png?v=700457c4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-249f6b4d88",
           "name": "Esteghlal Tehran vs Al Shamal | 23:00 03/11",
@@ -1605,6 +1533,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fe99825c44744762a5acb55dbf0644cd_636bfee1_20261103.png?v=636bfee1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-20f9e7a90d",
+          "name": "LP Bank Ninh Bình vs Biên Phòng MB | 14:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-20f9e7a90d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-20f9e7a90d",
+                  "name": "LP Bank Ninh Bình vs Biên Phòng MB",
+                  "streams": [
+                    {
+                      "id": "st-20f9e7a90d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3dbc63759d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d8d39e4fa79a45709080981778e1539f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LP Bank Ninh Bình",
+            "team_b": "Biên Phòng MB",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
+            "time": "14:30:00",
+            "date": "05/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fd868bbb022241a68685f318c6dba981_e2c2acdb_20261103.png?v=e2c2acdb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0ddf9b0651",
+          "name": "Hà Nội vs TP. Hồ Chí Minh | 17:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0ddf9b0651",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0ddf9b0651",
+                  "name": "Hà Nội vs TP. Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-0ddf9b0651",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6345ec8a5",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c7721e795f904d0ca62272dc9d62c9ba/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội",
+            "team_b": "TP. Hồ Chí Minh",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%B…svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "time": "17:00:00",
+            "date": "05/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/47dab7aa667f452b8542fcdc85aa8207_a949e66a_20261103.png?v=a949e66a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a57ca7df55",
+          "name": "Fenerbahce Women vs Afyon Bld. Yuntas Women | 18:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a57ca7df55",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a57ca7df55",
+                  "name": "Fenerbahce Women vs Afyon Bld. Yuntas Women",
+                  "streams": [
+                    {
+                      "id": "st-a57ca7df55",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-98f4ca2cde",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/40bf3241a7b846f6b55ced0bf3b1c2d7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Fenerbahce Women",
+            "team_b": "Afyon Bld. Yuntas Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/55b1b12b58960538a68e82e514bc6470.png!w80",
+            "time": "18:00:00",
+            "date": "05/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8ead521a3ae3409796a0fc36d75a8160_bc4a5765_20261103.png?v=bc4a5765",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cacfb23b59",
+          "name": "Đà Nẵng vs Công an TP. Hồ Chí Minh | 19:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cacfb23b59",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cacfb23b59",
+                  "name": "Đà Nẵng vs Công an TP. Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-cacfb23b59",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37e0728cdc",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/34a72f787b5649dbb8a6d66bdbb58003/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Đà Nẵng",
+            "team_b": "Công an TP. Hồ Chí Minh",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "time": "19:30:00",
+            "date": "05/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3ff7a495fa6043c783903a206fad831a_72dad65f_20261103.png?v=72dad65f",
             "width": 1600,
             "height": 1200
           }
