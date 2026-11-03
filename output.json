@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-44fa8ac70e",
-          "name": "Galatasaray vs Stuttgart | 00:45 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-44fa8ac70e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-44fa8ac70e",
-                  "name": "Galatasaray vs Stuttgart",
-                  "streams": [
-                    {
-                      "id": "st-44fa8ac70e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3ff3e0a0a5",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f2467d59ca4a4821baab7c5d8995d39a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Galatasaray",
-            "team_b": "Stuttgart",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hp66qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small",
-            "time": "00:45:00",
-            "date": "04/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn8yzzm0v_0ed346bd_20261104.png?v=0ed346bd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ebdd2e3a67",
           "name": "Al Hilal vs Shabab Al Ahli | 01:15 04/11",
@@ -1092,6 +1020,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjly3gm2w_4a8d2ce0_20261104.png?v=4a8d2ce0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-79646c14a4",
+          "name": "Cardiff City vs West Ham | 02:45 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-79646c14a4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-79646c14a4",
+                  "name": "Cardiff City vs West Ham",
+                  "streams": [
+                    {
+                      "id": "st-79646c14a4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-290da45253",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/01d84ad2f4d646c5abf393e1003600f9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Football League Championship",
+            "team_a": "Cardiff City",
+            "team_b": "West Ham",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwenryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhdwxqwzv/image/small",
+            "time": "02:45:00",
+            "date": "05/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxpvz9qo9_6d5a010c_20261104.png?v=6d5a010c",
             "width": 1600,
             "height": 1200
           }
