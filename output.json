@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-289009f756",
-          "name": "Công An Hà Nội vs Kyoto Sanga | 19:15 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-289009f756",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-289009f756",
-                  "name": "Công An Hà Nội vs Kyoto Sanga",
-                  "streams": [
-                    {
-                      "id": "st-289009f756",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0fc1063ba0",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4a24fcde99544b92b6de0fc397b8e80d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Công An Hà Nội",
-            "team_b": "Kyoto Sanga",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw3yeqdyj/image/small",
-            "time": "19:15:00",
-            "date": "03/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4z5w8r8k_e1755420_20261103.png?v=e1755420",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-82544c163c",
           "name": "East Bengal vs Al Seeb | 20:45 03/11",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "22:00:00",
             "date": "03/11",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
