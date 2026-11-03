@@ -1536,6 +1536,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f22d58768b",
+          "name": "Sanest Khánh Hòa vs Thể Công Tân Cảng | 12:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f22d58768b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f22d58768b",
+                  "name": "Sanest Khánh Hòa vs Thể Công Tân Cảng",
+                  "streams": [
+                    {
+                      "id": "st-f22d58768b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1cc085f43a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a279b01979074c31a860b6506cb74ea2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Sanest Khánh Hòa",
+            "team_b": "Thể Công Tân Cảng",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "time": "12:00:00",
+            "date": "05/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fe99825c44744762a5acb55dbf0644cd_636bfee1_20261103.png?v=636bfee1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
