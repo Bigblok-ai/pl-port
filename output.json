@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-249f6b4d88",
-          "name": "Esteghlal Tehran vs Al Shamal | 23:00 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-249f6b4d88",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-249f6b4d88",
-                  "name": "Esteghlal Tehran vs Al Shamal",
-                  "streams": [
-                    {
-                      "id": "st-249f6b4d88",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cba1c9bc1f",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/aab6f79f2fe84b599823146be0ed7f37/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Esteghlal Tehran",
-            "team_b": "Al Shamal",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn4y5r510/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small",
-            "time": "23:00:00",
-            "date": "03/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl5oknmoe_a921152a_20261104.png?v=a921152a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-44fa8ac70e",
           "name": "Galatasaray vs Stuttgart | 00:45 04/11",
