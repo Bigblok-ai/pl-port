@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-82544c163c",
-          "name": "East Bengal vs Al Seeb | 20:45 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-82544c163c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-82544c163c",
-                  "name": "East Bengal vs Al Seeb",
-                  "streams": [
-                    {
-                      "id": "st-82544c163c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6546c4a3a5",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/079d0004f99b44c1b5d583f336591e2c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "East Bengal",
-            "team_b": "Al Seeb",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3j29ql07/image/small",
-            "time": "20:45:00",
-            "date": "03/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh52488ql0_599896de_20261103.png?v=599896de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-58f98b9f9d",
           "name": "Barcelona U19 vs Aston Villa U19 | 22:00 03/11",
