@@ -548,8 +548,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-e99c453d65",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-28e7d4e76a",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/dde6cf08330044f890346f32e87f89bf/index.m3u8",
@@ -579,7 +579,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
             "time": "03:00:00",
             "date": "05/11",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
           },
