@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c79c3ead2f",
-          "name": "Fenerbahce U19 vs Liverpool U19 | 18:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c79c3ead2f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c79c3ead2f",
-                  "name": "Fenerbahce U19 vs Liverpool U19",
-                  "streams": [
-                    {
-                      "id": "st-c79c3ead2f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c34a08e62c",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e27f42bed3814af399990417d2383bfa/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Fenerbahce U19",
-            "team_b": "Liverpool U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hn48orz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7pho54xm2wd/image/small",
-            "time": "18:00:00",
-            "date": "04/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnvn76qvy_3f22d7e0_20261104.png?v=3f22d7e0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-59ca6c1343",
           "name": "Buriram United vs Kashima Antlers | 19:15 04/11",
