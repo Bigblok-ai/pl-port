@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-59ca6c1343",
-          "name": "Buriram United vs Kashima Antlers | 19:15 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-59ca6c1343",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-59ca6c1343",
-                  "name": "Buriram United vs Kashima Antlers",
-                  "streams": [
-                    {
-                      "id": "st-59ca6c1343",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-439dab8c20",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6e491f9f0c934d5bb9d6cc724fd8e02e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Buriram United",
-            "team_b": "Kashima Antlers",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhp8nm7vx/image/small",
-            "time": "19:15:00",
-            "date": "04/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6j7l2q86_a7cb77e2_20261104.png?v=a7cb77e2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-953291b39e",
           "name": "RB Leipzig U19 vs Manchester City U19 | 21:00 04/11",
@@ -884,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b7fed3b591",
-          "name": "Đà Nẵng vs Hà Nội | 19:30 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7fed3b591",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b7fed3b591",
-                  "name": "Đà Nẵng vs Hà Nội",
-                  "streams": [
-                    {
-                      "id": "st-b7fed3b591",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63aff09378",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/13afcb62704b481ca06ead7cef467f49/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Đà Nẵng",
-            "team_b": "Hà Nội",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
-            "time": "19:30:00",
-            "date": "04/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1bbc4dfc7c98454384558b9cf75d7d25_d6f20017_20261104.png?v=d6f20017",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e39b96e6b2",
           "name": "Vakifbank Women vs THY Women | 23:00 04/11",
