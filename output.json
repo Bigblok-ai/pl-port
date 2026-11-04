@@ -735,6 +735,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-584aa40faa",
+          "name": "AZ Alkmaar vs Juventus | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-584aa40faa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-584aa40faa",
+                  "name": "AZ Alkmaar vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-584aa40faa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-004f1e72f2",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3130eb5301cf4f82a58c63f23df0812a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "AZ Alkmaar",
+            "team_b": "Juventus",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv3zrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5lvprep_ea8c68d6_20261105.png?v=ea8c68d6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-660af15ea6",
+          "name": "Bayer Leverkusen vs Marseille | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-660af15ea6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-660af15ea6",
+                  "name": "Bayer Leverkusen vs Marseille",
+                  "streams": [
+                    {
+                      "id": "st-660af15ea6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-16a6d99ffc",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6843e53a1084411db3b348b4864c462b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "Bayer Leverkusen",
+            "team_b": "Marseille",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hyl1rz84/image/small",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4zgogr8k_ae5059d4_20261105.png?v=ae5059d4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
