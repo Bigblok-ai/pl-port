@@ -665,8 +665,8 @@
           }
         },
         {
-          "id": "pl-2c546f9f4d",
-          "name": "Al Kholood vs Al Khaleej | 20:25 05/11",
+          "id": "pl-b1a295b8d6",
+          "name": "ATK Mohun Bagan vs Odisha FC | 21:00 05/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -680,23 +680,23 @@
           ],
           "sources": [
             {
-              "id": "src-2c546f9f4d",
+              "id": "src-b1a295b8d6",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-2c546f9f4d",
-                  "name": "Al Kholood vs Al Khaleej",
+                  "id": "ct-b1a295b8d6",
+                  "name": "ATK Mohun Bagan vs Odisha FC",
                   "streams": [
                     {
-                      "id": "st-2c546f9f4d",
+                      "id": "st-b1a295b8d6",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a8d054b077",
+                          "id": "lnk-ba474d29cc",
                           "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e829088c0a5048e098fa2cc41dbfa75d/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/1675aec1125346eeacb5fe45f1ec823d/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -716,12 +716,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Kholood",
-            "team_b": "Al Khaleej",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwzl8qdyj/image/small",
-            "time": "20:25:00",
+            "league": "Indian Super League",
+            "team_a": "ATK Mohun Bagan",
+            "team_b": "Odisha FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh34zlql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh51pomd7o/image/small",
+            "time": "21:00:00",
             "date": "05/11",
             "blv": "LÝ LẠNH LÙNG",
             "is_live": false,
@@ -731,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxedw7qo9_5613e189_20261104.png?v=5613e189",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h54ynprz8_93404bb1_20261104.png?v=93404bb1",
             "width": 1600,
             "height": 1200
           }
