@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-953291b39e",
-          "name": "RB Leipzig U19 vs Manchester City U19 | 21:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-953291b39e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-953291b39e",
-                  "name": "RB Leipzig U19 vs Manchester City U19",
-                  "streams": [
-                    {
-                      "id": "st-953291b39e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-600358791f",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6546cc89b9ef46d090499ef37384fa0a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "RB Leipzig U19",
-            "team_b": "Manchester City U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh09npmd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh613nm7vx/image/small",
-            "time": "21:00:00",
-            "date": "04/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg8g5kq82_60414b77_20261104.png?v=60414b77",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c26716dc68",
           "name": "Rennes vs Olympiakos | 22:30 04/11",
