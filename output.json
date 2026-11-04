@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c2ff741636",
+          "name": "Volga vs Chertanovo Moscow | 23:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c2ff741636",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c2ff741636",
+                  "name": "Volga vs Chertanovo Moscow",
+                  "streams": [
+                    {
+                      "id": "st-c2ff741636",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-43efdfda1b",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/33d5f106f68b4b7da4aed6fbb2db4e58/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Cup",
+            "team_a": "Volga",
+            "team_b": "Chertanovo Moscow",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg430r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohydn2q1zp/image/small",
+            "time": "23:30:00",
+            "date": "05/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hd33jpmoj_f897beb6_20261104.png?v=f897beb6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
