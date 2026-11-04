@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4a5236faf7",
+          "name": "Machida Zelvia vs Shanghai Shenhua | 17:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a5236faf7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4a5236faf7",
+                  "name": "Machida Zelvia vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "st-4a5236faf7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70c933ca92",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d0ea1d52cfe1415b89110d50f94281b6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Machida Zelvia",
+            "team_b": "Shanghai Shenhua",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small",
+            "time": "17:00:00",
+            "date": "05/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4z5nnr8k_239adfd1_20261104.png?v=239adfd1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
