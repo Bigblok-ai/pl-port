@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c8c0b6f5f7",
-          "name": "Chindia Targoviste vs Gloria Popesti Leordeni | 22:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c8c0b6f5f7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c8c0b6f5f7",
-                  "name": "Chindia Targoviste vs Gloria Popesti Leordeni",
-                  "streams": [
-                    {
-                      "id": "st-c8c0b6f5f7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d3bc63c4a1",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/803f110dbaa44cf898a797a13dc310cc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "Chindia Targoviste",
-            "team_b": "Gloria Popesti Leordeni",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkhow3zqg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkyegm2wd/image/small",
-            "time": "22:00:00",
-            "date": "05/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy40okryk_71e22815_20261105.png?v=71e22815",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c2ff741636",
           "name": "Volga vs Chertanovo Moscow | 23:30 05/11",
