@@ -1034,6 +1034,78 @@
           }
         },
         {
+          "id": "pl-8af97258ab",
+          "name": "Hà Nội vs Đà Nẵng | 12:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8af97258ab",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8af97258ab",
+                  "name": "Hà Nội vs Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-8af97258ab",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-57be86d804",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4aefed4ef5bb4588b3dfd42d40b283db/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Hà Nội",
+            "team_b": "Đà Nẵng",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "time": "12:00:00",
+            "date": "07/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3521e9546a164afba9dbc264510a1d31_4e8c520f_20261105.png?v=4e8c520f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-f9e5a7a551",
           "name": "Aleeza Aichi Women vs Okayama Seagulls Women | 12:00 07/11",
           "type": "single",
@@ -1173,6 +1245,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/03c1919ee93d4de099ba56f9a7789a57_e2c2acdb_20261105.png?v=e2c2acdb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-70fb7990ca",
+          "name": "Sanest Khánh Hòa vs TP. Hồ Chí Minh | 17:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70fb7990ca",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-70fb7990ca",
+                  "name": "Sanest Khánh Hòa vs TP. Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-70fb7990ca",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2878bbd066",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/203214c35a644b57a079db666987b85e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Sanest Khánh Hòa",
+            "team_b": "TP. Hồ Chí Minh",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/500px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "time": "17:00:00",
+            "date": "07/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/892d4d00f3d145c995687ded6684bb53_80469507_20261105.png?v=80469507",
             "width": 1600,
             "height": 1200
           }
