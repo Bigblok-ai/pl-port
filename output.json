@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-20f9e7a90d",
-          "name": "LP Bank Ninh Bình vs Biên Phòng MB | 14:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-20f9e7a90d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-20f9e7a90d",
-                  "name": "LP Bank Ninh Bình vs Biên Phòng MB",
-                  "streams": [
-                    {
-                      "id": "st-20f9e7a90d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3dbc63759d",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d8d39e4fa79a45709080981778e1539f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LP Bank Ninh Bình",
-            "team_b": "Biên Phòng MB",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
-            "time": "14:30:00",
-            "date": "05/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fd868bbb022241a68685f318c6dba981_e2c2acdb_20261105.png?v=e2c2acdb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0ddf9b0651",
           "name": "Hà Nội vs TP. Hồ Chí Minh | 17:00 05/11",
