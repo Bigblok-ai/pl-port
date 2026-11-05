@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4a5236faf7",
-          "name": "Machida Zelvia vs Shanghai Shenhua | 17:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a5236faf7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4a5236faf7",
-                  "name": "Machida Zelvia vs Shanghai Shenhua",
-                  "streams": [
-                    {
-                      "id": "st-4a5236faf7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70c933ca92",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d0ea1d52cfe1415b89110d50f94281b6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Machida Zelvia",
-            "team_b": "Shanghai Shenhua",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small",
-            "time": "17:00:00",
-            "date": "05/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4z5nnr8k_239adfd1_20261105.png?v=239adfd1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-26873c149d",
           "name": "Kuching City FC vs Gangwon FC | 19:15 05/11",
@@ -1028,83 +956,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (3 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0ddf9b0651",
-          "name": "Hà Nội vs TP. Hồ Chí Minh | 17:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ddf9b0651",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0ddf9b0651",
-                  "name": "Hà Nội vs TP. Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-0ddf9b0651",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6345ec8a5",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c7721e795f904d0ca62272dc9d62c9ba/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Hà Nội",
-            "team_b": "TP. Hồ Chí Minh",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
-            "time": "17:00:00",
-            "date": "05/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/47dab7aa667f452b8542fcdc85aa8207_bc611f8c_20261105.png?v=bc611f8c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-a57ca7df55",
           "name": "Fenerbahce Women vs Afyon Bld. Yuntas Women | 18:00 05/11",
