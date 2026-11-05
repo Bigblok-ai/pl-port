@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cacfb23b59",
-          "name": "Đà Nẵng vs Công an TP. Hồ Chí Minh | 19:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cacfb23b59",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cacfb23b59",
-                  "name": "Đà Nẵng vs Công an TP. Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-cacfb23b59",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-37e0728cdc",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/34a72f787b5649dbb8a6d66bdbb58003/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Đà Nẵng",
-            "team_b": "Công an TP. Hồ Chí Minh",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
-            "time": "19:30:00",
-            "date": "05/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3ff7a495fa6043c783903a206fad831a_72dad65f_20261105.png?v=72dad65f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-593d682aae",
           "name": "Toray Arrows Women vs Gunma Bank Green Wings Women | 11:00 07/11",
