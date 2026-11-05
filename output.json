@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4940193226",
+          "name": "Dynamo Dresden vs Greuther Fürth | 00:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4940193226",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4940193226",
+                  "name": "Dynamo Dresden vs Greuther Fürth",
+                  "streams": [
+                    {
+                      "id": "st-4940193226",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-38455dd041",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ddc511dd387a42a8947e87ca0d45664d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Bundesliga 2",
+            "team_a": "Dynamo Dresden",
+            "team_b": "Greuther Fürth",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh9w9ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh379q1zp/image/small",
+            "time": "00:30:00",
+            "date": "07/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvog0gmd7_940436b4_20261106.png?v=940436b4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
