@@ -735,6 +735,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-69cdf4c62c",
+          "name": "HL Hà Tĩnh vs Nam Định | 18:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-69cdf4c62c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-69cdf4c62c",
+                  "name": "HL Hà Tĩnh vs Nam Định",
+                  "streams": [
+                    {
+                      "id": "st-69cdf4c62c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69a885d098",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6dccf5efc8d74172b8535de4591593a9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "HL Hà Tĩnh",
+            "team_b": "Nam Định",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66h06dgqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h826oq86p/image/small",
+            "time": "18:00:00",
+            "date": "06/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxe8dmd7_f2cf78aa_20261105.png?v=f2cf78aa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-594738c014",
+          "name": "Bình Phước vs SHB Đà Nẵng | 18:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-594738c014",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-594738c014",
+                  "name": "Bình Phước vs SHB Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-594738c014",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7739cb8a85",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8950035c9e7840728040e9f394f49662/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Bình Phước",
+            "team_b": "SHB Đà Nẵng",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4he7kjq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9k9ryk0/image/small",
+            "time": "18:00:00",
+            "date": "06/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhydenoryk_86bacb80_20261105.png?v=86bacb80",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
