@@ -1176,6 +1176,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ffb4fe0375",
+          "name": "LP Bank Ninh Bình vs Biên Phòng MB | 14:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ffb4fe0375",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ffb4fe0375",
+                  "name": "LP Bank Ninh Bình vs Biên Phòng MB",
+                  "streams": [
+                    {
+                      "id": "st-ffb4fe0375",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a1f9e59f2",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a6e24ad587094d699fd29e97838d7d4d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "LP Bank Ninh Bình",
+            "team_b": "Biên Phòng MB",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
+            "time": "14:30:00",
+            "date": "07/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/03c1919ee93d4de099ba56f9a7789a57_e2c2acdb_20261105.png?v=e2c2acdb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1f2494a284",
+          "name": "Công an TP. Hồ Chí Minh vs Thể Công Tân Cảng | 19:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f2494a284",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1f2494a284",
+                  "name": "Công an TP. Hồ Chí Minh vs Thể Công Tân Cảng",
+                  "streams": [
+                    {
+                      "id": "st-1f2494a284",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b7da711040",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/67cfbf9e68214ac49ef8c7c6267a9e01/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải bóng chuyền VĐQG 2026",
+            "team_a": "Công an TP. Hồ Chí Minh",
+            "team_b": "Thể Công Tân Cảng",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/df/Logo_CLB_CATPHCM.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
+            "time": "19:30:00",
+            "date": "07/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/870deb5de8f340219f086769e2356889_4d2c329c_20261105.png?v=4d2c329c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
