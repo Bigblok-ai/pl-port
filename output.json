@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-231e997af6",
-          "name": "Văn Hiến vs Huda Huế | 17:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-231e997af6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-231e997af6",
-                  "name": "Văn Hiến vs Huda Huế",
-                  "streams": [
-                    {
-                      "id": "st-231e997af6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c6a87f8468",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/867fdc86f2604b168a6d9088bb1b4ee9/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National First Class League",
-            "team_a": "Văn Hiến",
-            "team_b": "Huda Huế",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh96p9repz/image/small",
-            "time": "17:00:00",
-            "date": "06/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4gd22r8k_bc9299f1_20261106.png?v=bc9299f1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-69cdf4c62c",
           "name": "HL Hà Tĩnh vs Nam Định | 18:00 06/11",
