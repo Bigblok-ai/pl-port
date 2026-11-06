@@ -1383,6 +1383,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9d0a8572d9",
+          "name": "PSG vs Troyes | 03:05 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d0a8572d9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9d0a8572d9",
+                  "name": "PSG vs Troyes",
+                  "streams": [
+                    {
+                      "id": "st-9d0a8572d9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-467dacf742",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7dfa5428b08246e8aa03bd1024b18ed8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "PSG",
+            "team_b": "Troyes",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh47jryk0/image/small",
+            "time": "03:05:00",
+            "date": "08/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1jvweq0j_fe0d7f07_20261107.png?v=fe0d7f07",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
