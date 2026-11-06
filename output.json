@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-89b3a05df2",
-          "name": "Madura United vs Arema | 19:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-89b3a05df2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-89b3a05df2",
-                  "name": "Madura United vs Arema",
-                  "streams": [
-                    {
-                      "id": "st-89b3a05df2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-50b7d7ebb0",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c693d5eb5d044a39a19a35dd352c6578/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indonesian Super League",
-            "team_a": "Madura United",
-            "team_b": "Arema",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7h1381qdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlp2lrz84/image/small",
-            "time": "19:00:00",
-            "date": "06/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1dl27q0j_9e74bed0_20261106.png?v=9e74bed0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6e625f2b05",
           "name": "FC Goa vs Bengaluru | 21:00 06/11",
@@ -948,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9xo8r1g_b12299b2_20261106.png?v=b12299b2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-66cd2f25dc",
+          "name": "Cagliari vs Frosinone | 21:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-66cd2f25dc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-66cd2f25dc",
+                  "name": "Cagliari vs Frosinone",
+                  "streams": [
+                    {
+                      "id": "st-66cd2f25dc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a071e1c40",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Cagliari",
+            "team_b": "Frosinone",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small",
+            "time": "21:00:00",
+            "date": "07/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgdvd7rep_d3016693_20261106.png?v=d3016693",
             "width": 1600,
             "height": 1200
           }
