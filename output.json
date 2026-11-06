@@ -1095,6 +1095,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-170e8c98da",
+          "name": "Arsenal vs Hull City | 22:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-170e8c98da",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-170e8c98da",
+                  "name": "Arsenal vs Hull City",
+                  "streams": [
+                    {
+                      "id": "st-170e8c98da",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5eb6087409",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/24ae7a1c7e0e42deac43c7d427e1babe/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Arsenal",
+            "team_b": "Hull City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4d9ryox/image/small",
+            "time": "22:00:00",
+            "date": "07/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgd46jrep_7aa90b8e_20261106.png?v=7aa90b8e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c3253ff8d2",
+          "name": "Fulham vs Newcastle | 22:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3253ff8d2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c3253ff8d2",
+                  "name": "Fulham vs Newcastle",
+                  "streams": [
+                    {
+                      "id": "st-c3253ff8d2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-92ce6aaa3b",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b5390953926d4ab0a5669645eb3b15bb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Fulham",
+            "team_b": "Newcastle",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz23r510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+            "time": "22:00:00",
+            "date": "07/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dko0qwz_65f6e8b5_20261106.png?v=65f6e8b5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
