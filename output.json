@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-0e77e2431a",
-          "name": "Venezia vs Udinese | 02:45 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e77e2431a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-0e77e2431a",
-                  "name": "Venezia vs Udinese",
-                  "streams": [
-                    {
-                      "id": "st-0e77e2431a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8bfad841fa",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/42024ad7758044d48c41dfca580a118d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Venezia",
-            "team_b": "Udinese",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small",
-            "time": "02:45:00",
-            "date": "07/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk97wdr1g_06498468_20261107.png?v=06498468",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-aa53d71539",
           "name": "Everton vs Coventry City | 03:00 07/11",
