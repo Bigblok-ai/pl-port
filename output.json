@@ -879,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f41a93aeb7",
+          "name": "Ninh Bình vs TDTT Bắc Ninh | 18:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f41a93aeb7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f41a93aeb7",
+                  "name": "Ninh Bình vs TDTT Bắc Ninh",
+                  "streams": [
+                    {
+                      "id": "st-f41a93aeb7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-22bac5dd37",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Ninh Bình",
+            "team_b": "TDTT Bắc Ninh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small",
+            "time": "18:00:00",
+            "date": "07/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnd692qdy_77da4ff6_20261106.png?v=77da4ff6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-11830b9bd5",
+          "name": "XM Hải Phòng FC vs Sông Lam Nghệ An | 18:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11830b9bd5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-11830b9bd5",
+                  "name": "XM Hải Phòng FC vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-11830b9bd5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2049284913",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "XM Hải Phòng FC",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
+            "time": "18:00:00",
+            "date": "07/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey301r6o_7c18ea2d_20261106.png?v=7c18ea2d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
