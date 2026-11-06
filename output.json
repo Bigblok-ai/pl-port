@@ -1239,6 +1239,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-16b6489eda",
+          "name": "AS Roma vs Sassuolo | 02:45 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16b6489eda",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-16b6489eda",
+                  "name": "AS Roma vs Sassuolo",
+                  "streams": [
+                    {
+                      "id": "st-16b6489eda",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-586b98e87f",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c30fb51a75b548cb93d464fdf4a04dc8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "AS Roma",
+            "team_b": "Sassuolo",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phel7m2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh49xpr6od/image/small",
+            "time": "02:45:00",
+            "date": "08/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhywg8yryk_27f87920_20261107.png?v=27f87920",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
