@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-aa53d71539",
-          "name": "Everton vs Coventry City | 03:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aa53d71539",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-aa53d71539",
-                  "name": "Everton vs Coventry City",
-                  "streams": [
-                    {
-                      "id": "st-aa53d71539",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eddc631193",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c13dd4a280714de4be2b1b5e1e75cfa5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Everton",
-            "team_b": "Coventry City",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
-            "time": "03:00:00",
-            "date": "07/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5pyqdy_81790d2d_20261107.png?v=81790d2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c6f4c67de9",
           "name": "Nữ KSPO vs Nữ Hồ Chí Minh | 15:30 07/11",
