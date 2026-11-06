@@ -951,6 +951,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-bcb5fd815f",
+          "name": "Mainz 05 vs Bayern Munich | 21:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bcb5fd815f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bcb5fd815f",
+                  "name": "Mainz 05 vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-bcb5fd815f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-304cb59cbb",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/afc96e751a6e420baf03a57ff7114e93/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Mainz 05",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whl2kryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
+            "time": "21:30:00",
+            "date": "07/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkxgxor1g_a64eff9d_20261106.png?v=a64eff9d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9cf16a5647",
+          "name": "Dortmund vs Elversberg | 21:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9cf16a5647",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9cf16a5647",
+                  "name": "Dortmund vs Elversberg",
+                  "streams": [
+                    {
+                      "id": "st-9cf16a5647",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-923279fdd1",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7156150eada54a51b27e18091459937a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Dortmund",
+            "team_b": "Elversberg",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hop0q0j6/image/small",
+            "time": "21:30:00",
+            "date": "07/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6264r6o_02ef4cb3_20261106.png?v=02ef4cb3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -989,8 +1133,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-bf15fb66d0",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-e0961d8d05",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/562bfaac9e2e4649b7bcf4fceb4035b6/index.m3u8",
@@ -1020,7 +1164,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
             "time": "11:00:00",
             "date": "07/11",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1133,8 +1277,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-89b7a48e36",
-                          "name": "LÃM LÀNG",
+                          "id": "lnk-95c9750f5c",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a6e24ad587094d699fd29e97838d7d4d/index.m3u8",
@@ -1164,7 +1308,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
             "time": "14:30:00",
             "date": "07/11",
-            "blv": "LÃM LÀNG",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
