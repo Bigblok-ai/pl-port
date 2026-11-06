@@ -1239,6 +1239,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d544d0e274",
+          "name": "Osasuna vs Athletic Bilbao | 00:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d544d0e274",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d544d0e274",
+                  "name": "Osasuna vs Athletic Bilbao",
+                  "streams": [
+                    {
+                      "id": "st-d544d0e274",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6c8aabbd04",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8b6cdc89b2cc43deb9c019236b4bc925/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Osasuna",
+            "team_b": "Athletic Bilbao",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
+            "time": "00:30:00",
+            "date": "08/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl025jq1z_d9aec153_20261107.png?v=d9aec153",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6f5f4b245c",
+          "name": "Nott'm Forest vs Man City | 00:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6f5f4b245c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6f5f4b245c",
+                  "name": "Nott'm Forest vs Man City",
+                  "streams": [
+                    {
+                      "id": "st-6f5f4b245c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de1af2c8ed",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Nott'm Forest",
+            "team_b": "Man City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "time": "00:30:00",
+            "date": "08/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4j681r8k_96689bfb_20261107.png?v=96689bfb",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
