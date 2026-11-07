@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkxgxor1g_a64eff9d_20261107.png?v=a64eff9d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-9cf16a5647",
-          "name": "Dortmund vs Elversberg | 21:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9cf16a5647",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9cf16a5647",
-                  "name": "Dortmund vs Elversberg",
-                  "streams": [
-                    {
-                      "id": "st-9cf16a5647",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-923279fdd1",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7156150eada54a51b27e18091459937a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Dortmund",
-            "team_b": "Elversberg",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hop0q0j6/image/small",
-            "time": "21:30:00",
-            "date": "07/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6264r6o_02ef4cb3_20261107.png?v=02ef4cb3",
             "width": 1600,
             "height": 1200
           }
@@ -1524,6 +1452,95 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1oz90q0j_ca5a0b20_20261107.png?v=ca5a0b20",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-46eaa03e7a",
+          "name": "Man Utd vs Aston Villa | 23:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-46eaa03e7a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-46eaa03e7a",
+                  "name": "Man Utd vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-46eaa03e7a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8395c7b6b0",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/584fee8b750544dba489c64b8888489e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-776c2f3339",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/e3dceac00a5e4822b753ad293feac129/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Man Utd",
+            "team_b": "Aston Villa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
+            "time": "23:30:00",
+            "date": "08/11",
+            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdpgdqo9_00f7f53d_20261107.png?v=00f7f53d",
             "width": 1600,
             "height": 1200
           }
