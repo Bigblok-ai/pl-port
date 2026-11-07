@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c6f4c67de9",
-          "name": "Nữ KSPO vs Nữ Hồ Chí Minh | 15:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c6f4c67de9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c6f4c67de9",
-                  "name": "Nữ KSPO vs Nữ Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-c6f4c67de9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-59013d9990",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8fd5c63674f246578e68e94080e4d12e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Champions League",
-            "team_a": "Nữ KSPO",
-            "team_b": "Nữ Hồ Chí Minh",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7jk6q82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh7lp7r1ge/image/small",
-            "time": "15:30:00",
-            "date": "07/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk8365rz8_221a34da_20261107.png?v=221a34da",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-47db5a4461",
           "name": "Hoàng Anh Gia Lai vs Hà Nội FC | 17:00 07/11",
