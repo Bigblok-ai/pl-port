@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-ac094cca2d",
-          "name": "Parma vs Bologna | 00:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ac094cca2d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ac094cca2d",
-                  "name": "Parma vs Bologna",
-                  "streams": [
-                    {
-                      "id": "st-ac094cca2d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a0a9000b9",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ec97e50e072c4e7dae124b3f280b1cb0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Parma",
-            "team_b": "Bologna",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
-            "time": "00:00:00",
-            "date": "08/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghld4z6moe_455915fe_20261108.png?v=455915fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-d544d0e274",
           "name": "Osasuna vs Athletic Bilbao | 00:30 08/11",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "02:45:00",
             "date": "08/11",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
