@@ -1472,6 +1472,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-3476077d97",
+          "name": "Hoffenheim vs Schalke 04 | 01:30 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3476077d97",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3476077d97",
+                  "name": "Hoffenheim vs Schalke 04",
+                  "streams": [
+                    {
+                      "id": "st-3476077d97",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd6f4f9b1b",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0c96e265d4de47fda9b3ad73a95990d6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hoffenheim",
+            "team_b": "Schalke 04",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkvryk0/image/small",
+            "time": "01:30:00",
+            "date": "09/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg9291q82_1e7706ab_20261108.png?v=1e7706ab",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
