@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f41a93aeb7",
-          "name": "Ninh Bình vs TDTT Bắc Ninh | 18:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f41a93aeb7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f41a93aeb7",
-                  "name": "Ninh Bình vs TDTT Bắc Ninh",
-                  "streams": [
-                    {
-                      "id": "st-f41a93aeb7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22bac5dd37",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Ninh Bình",
-            "team_b": "TDTT Bắc Ninh",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small",
-            "time": "18:00:00",
-            "date": "07/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnd692qdy_77da4ff6_20261107.png?v=77da4ff6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-11830b9bd5",
-          "name": "XM Hải Phòng FC vs Sông Lam Nghệ An | 18:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11830b9bd5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-11830b9bd5",
-                  "name": "XM Hải Phòng FC vs Sông Lam Nghệ An",
-                  "streams": [
-                    {
-                      "id": "st-11830b9bd5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2049284913",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "XM Hải Phòng FC",
-            "team_b": "Sông Lam Nghệ An",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkz16q1zp/image/small",
-            "time": "18:00:00",
-            "date": "07/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey301r6o_7c18ea2d_20261107.png?v=7c18ea2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ffe5c0a53b",
           "name": "Công An Hà Nội vs Hồ Chí Minh | 19:15 07/11",
@@ -1308,6 +1164,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhydendryk_cdf2fefc_20261107.png?v=cdf2fefc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-51591c07da",
+          "name": "Elche vs Real Betis | 20:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-51591c07da",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-51591c07da",
+                  "name": "Elche vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-51591c07da",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9427caf827",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3a32fd7d39b34245b42f52080966e7cd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Elche",
+            "team_b": "Real Betis",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
+            "time": "20:00:00",
+            "date": "08/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghlz1o5moe_fed8d787_20261107.png?v=fed8d787",
             "width": 1600,
             "height": 1200
           }
