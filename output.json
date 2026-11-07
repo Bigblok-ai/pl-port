@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f9e69e7188",
-          "name": "Valencia vs Real Madrid | 03:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f9e69e7188",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f9e69e7188",
-                  "name": "Valencia vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "st-f9e69e7188",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-43b025c460",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/84104decf0e94dc899eeac31310670b1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Valencia",
-            "team_b": "Real Madrid",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhd2lmd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small",
-            "time": "03:00:00",
-            "date": "08/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6x93r6o_9e02ed63_20261108.png?v=9e02ed63",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-323708cdd7",
           "name": "Bà Rịa Vũng Tàu vs Gia Định | 17:00 08/11",
