@@ -1244,83 +1244,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f9e5a7a551",
-          "name": "Aleeza Aichi Women vs Okayama Seagulls Women | 12:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f9e5a7a551",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f9e5a7a551",
-                  "name": "Aleeza Aichi Women vs Okayama Seagulls Women",
-                  "streams": [
-                    {
-                      "id": "st-f9e5a7a551",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-448a08efc6",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/10c9d2119590409588213b3682538bec/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Aleeza Aichi Women",
-            "team_b": "Okayama Seagulls Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/zZwPgEBr-dSrpGvhU.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "time": "12:00:00",
-            "date": "07/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/7f999271ac324645b6d710d562e7d20b_a1feaa29_20261107.png?v=a1feaa29",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ffb4fe0375",
           "name": "LP Bank Ninh Bình vs Biên Phòng MB | 14:30 07/11",
