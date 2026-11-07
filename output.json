@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +364,7 @@
             "time": "22:00:00",
             "date": "07/11",
             "blv": "LÝ LA LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +384,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +436,7 @@
             "time": "22:00:00",
             "date": "07/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1524,6 +1524,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzk3vr51_6b3f96a6_20261107.png?v=6b3f96a6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2960220758",
+          "name": "FC Köln vs Bayer Leverkusen | 21:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2960220758",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2960220758",
+                  "name": "FC Köln vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-2960220758",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-062c42c567",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b4f4ac75a9bb455a9fb2acf1be9e58e9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "FC Köln",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphj74r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
+            "time": "21:30:00",
+            "date": "08/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg484wrep_630176cb_20261107.png?v=630176cb",
             "width": 1600,
             "height": 1200
           }
