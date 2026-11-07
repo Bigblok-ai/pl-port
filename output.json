@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c319a400d3",
+          "name": "Real Sociedad vs Vallecano | 22:15 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c319a400d3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c319a400d3",
+                  "name": "Real Sociedad vs Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-c319a400d3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9cd770cc97",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7916eb15cdf3435d9c7c2fcc96bae3d2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Sociedad",
+            "team_b": "Vallecano",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdd2ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhp88qwzv/image/small",
+            "time": "22:15:00",
+            "date": "08/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1oz90q0j_ca5a0b20_20261107.png?v=ca5a0b20",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
