@@ -764,8 +764,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6c8aabbd04",
-                          "name": "LÝ LẠNH LÙNG",
+                          "id": "lnk-209d7c613e",
+                          "name": "LÝ LÀNG LÁ",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/8b6cdc89b2cc43deb9c019236b4bc925/index.m3u8",
@@ -795,7 +795,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
             "time": "00:30:00",
             "date": "08/11",
-            "blv": "LÝ LẠNH LÙNG",
+            "blv": "LÝ LÀNG LÁ",
             "is_live": false,
             "cate_type": "football"
           },
