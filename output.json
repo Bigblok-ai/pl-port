@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-ffe5c0a53b",
-          "name": "Công An Hà Nội vs Hồ Chí Minh | 19:15 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ffe5c0a53b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ffe5c0a53b",
-                  "name": "Công An Hà Nội vs Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-ffe5c0a53b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb7e491f36",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8596c1d144344105a27ef074e9400cfb/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Công An Hà Nội",
-            "team_b": "Hồ Chí Minh",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small",
-            "time": "19:15:00",
-            "date": "07/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj48v1m2w_e275f476_20261107.png?v=e275f476",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7879eceab7",
           "name": "Leeds United vs Tottenham | 19:30 07/11",
