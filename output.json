@@ -1481,6 +1481,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-3a0000b8e0",
+          "name": "AI Peppers Women vs IBK Women | 17:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3a0000b8e0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3a0000b8e0",
+                  "name": "AI Peppers Women vs IBK Women",
+                  "streams": [
+                    {
+                      "id": "st-3a0000b8e0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1532c37143",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6ab7813111e64605858dab0e7259b8e6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "AI Peppers Women",
+            "team_b": "IBK Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/890cd7399f4d00edc1f37cae88054b38.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/eadd99bb3d03bd80c6204376501542ff.png!w80",
+            "time": "17:00:00",
+            "date": "10/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/49ed0a0c62024ff28db1fe42be8b8e72_f07122b3_20261108.png?v=f07122b3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b1de188d4d",
+          "name": "Ziraat Bankasi vs Alanya Bld | 22:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b1de188d4d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b1de188d4d",
+                  "name": "Ziraat Bankasi vs Alanya Bld",
+                  "streams": [
+                    {
+                      "id": "st-b1de188d4d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc53b1dac3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ce1ff944585e4129b55cc66a86d205c2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Efeler Ligi",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Alanya Bld",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/6b1bfeba6e23f5044fbba4b5ffab37a1.png!w80",
+            "time": "22:00:00",
+            "date": "10/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d9c0c41ababa4936b41ee0e30bc33855_5acfe4d2_20261108.png?v=5acfe4d2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
