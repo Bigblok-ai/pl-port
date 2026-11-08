@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7bf589ad18",
-          "name": "Toray Arrows Women vs Gunma Bank Green Wings Women | 11:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7bf589ad18",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7bf589ad18",
-                  "name": "Toray Arrows Women vs Gunma Bank Green Wings Women",
-                  "streams": [
-                    {
-                      "id": "st-7bf589ad18",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-233910048d",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7c61577fce9b4733a13ddd48ba9f0413/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Toray Arrows Women",
-            "team_b": "Gunma Bank Green Wings Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/IT5JALxS-pxaNm0c7.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
-            "time": "11:00:00",
-            "date": "08/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/801950c83b0949898395c84beb259105_ad9aa5e3_20261108.png?v=ad9aa5e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7a57da0037",
           "name": "Hà Nội vs Sanest Khánh Hòa | 14:30 08/11",
