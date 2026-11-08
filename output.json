@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-51591c07da",
-          "name": "Elche vs Real Betis | 20:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-51591c07da",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-51591c07da",
-                  "name": "Elche vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-51591c07da",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9427caf827",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3a32fd7d39b34245b42f52080966e7cd/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Elche",
-            "team_b": "Real Betis",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd2gqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
-            "time": "20:00:00",
-            "date": "08/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghlz1o5moe_fed8d787_20261108.png?v=fed8d787",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-901193aab9",
           "name": "Genoa vs Milan | 21:00 08/11",
@@ -1253,6 +1181,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgkdvpq82_98d88df3_20261108.png?v=98d88df3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-dd0bc54665",
+          "name": "CS Dinamo Bucuresti vs Ramnicu Valcea FC | 22:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd0bc54665",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dd0bc54665",
+                  "name": "CS Dinamo Bucuresti vs Ramnicu Valcea FC",
+                  "streams": [
+                    {
+                      "id": "st-dd0bc54665",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc13c01aa6",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9102cf0432ec43e5a082ed94f816ae42/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Romanian Liga II",
+            "team_a": "CS Dinamo Bucuresti",
+            "team_b": "Ramnicu Valcea FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh3571moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl6p6qwzv/image/small",
+            "time": "22:00:00",
+            "date": "09/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe176yr6o_e77e3bde_20261108.png?v=e77e3bde",
             "width": 1600,
             "height": 1200
           }
