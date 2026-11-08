@@ -1261,7 +1261,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (3 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1406,78 +1406,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b0c9d246c3a24fbf9f64e7d7ed1eca26_a1feaa29_20261108.png?v=a1feaa29",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-97963c26d3",
-          "name": "Đà Nẵng vs TP. Hồ Chí Minh | 12:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-97963c26d3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-97963c26d3",
-                  "name": "Đà Nẵng vs TP. Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-97963c26d3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6bdb7a8403",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e211b2516bb642a5a032abf467f4a581/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Đà Nẵng",
-            "team_b": "TP. Hồ Chí Minh",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
-            "time": "12:00:00",
-            "date": "08/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b21ca33e891f481e8017ccbc0376c3d2_fe43401e_20261108.png?v=fe43401e",
             "width": 1600,
             "height": 1200
           }
