@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-15c99cf32c",
-          "name": "Fiorentina vs Juventus | 02:45 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-15c99cf32c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-15c99cf32c",
-                  "name": "Fiorentina vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-15c99cf32c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e324693422",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/df50658ae61d48c2abdf65db44657539/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Fiorentina",
-            "team_b": "Juventus",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "time": "02:45:00",
-            "date": "09/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6838lmoj_bf188da6_20261109.png?v=bf188da6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4ec9431b33",
           "name": "Atl. Madrid vs Barcelona | 03:00 09/11",
