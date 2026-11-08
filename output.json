@@ -1411,8 +1411,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-4467276d9f",
-          "name": "LP Bank Ninh Bình vs Thể Công Tân Cảng | 17:00 08/11",
+          "id": "pl-18ab7046f4",
+          "name": "Biên Phòng MB vs Công an TP. Hồ Chí Minh | 20:00 08/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1422,78 +1422,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4467276d9f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4467276d9f",
-                  "name": "LP Bank Ninh Bình vs Thể Công Tân Cảng",
-                  "streams": [
-                    {
-                      "id": "st-4467276d9f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f545e9547",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9ad625b41e7c4ed99516dc78aba64467/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "LP Bank Ninh Bình",
-            "team_b": "Thể Công Tân Cảng",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/d/da/Logo_LP_Bank_Ninh_B%C3%ACnh.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",
-            "time": "17:00:00",
-            "date": "08/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/708bdfe0883d4b26a67ffc94bf5ce956_7e2ebd38_20261108.png?v=7e2ebd38",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-18ab7046f4",
-          "name": "Biên Phòng MB vs Công an TP. Hồ Chí Minh | 20:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1542,7 +1470,7 @@
             "time": "20:00:00",
             "date": "08/11",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
