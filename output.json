@@ -1328,6 +1328,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9d023ddaaa",
+          "name": "Tunisia U17 vs Libya U17 | 18:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d023ddaaa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9d023ddaaa",
+                  "name": "Tunisia U17 vs Libya U17",
+                  "streams": [
+                    {
+                      "id": "st-9d023ddaaa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-611dc0b7a9",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9157f09bc56e4c2f88044628a6c3623e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CAF U17 Championship",
+            "team_a": "Tunisia U17",
+            "team_b": "Libya U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8k6wq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg059ryk0/image/small",
+            "time": "18:00:00",
+            "date": "09/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhny586m7v_87d8c541_20261108.png?v=87d8c541",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
