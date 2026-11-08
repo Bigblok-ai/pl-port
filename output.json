@@ -1261,7 +1261,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (3 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1334,78 +1334,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/801950c83b0949898395c84beb259105_ad9aa5e3_20261108.png?v=ad9aa5e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-106b18a1f5",
-          "name": "Aleeza Aichi Women vs Okayama Seagulls Women | 12:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-106b18a1f5",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-106b18a1f5",
-                  "name": "Aleeza Aichi Women vs Okayama Seagulls Women",
-                  "streams": [
-                    {
-                      "id": "st-106b18a1f5",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fbd82de221",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ef55625f82314a959006abce9e80ce78/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Aleeza Aichi Women",
-            "team_b": "Okayama Seagulls Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/zZwPgEBr-dSrpGvhU.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "time": "12:00:00",
-            "date": "08/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b0c9d246c3a24fbf9f64e7d7ed1eca26_a1feaa29_20261108.png?v=a1feaa29",
             "width": 1600,
             "height": 1200
           }
