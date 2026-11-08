@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b13df926f6",
-          "name": "Sunderland vs Chelsea | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b13df926f6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b13df926f6",
-                  "name": "Sunderland vs Chelsea",
-                  "streams": [
-                    {
-                      "id": "st-b13df926f6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cacade2c30",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f27d24bc87a14db8908ad76767ceeece/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Sunderland",
-            "team_b": "Chelsea",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzk3vr51_6b3f96a6_20261108.png?v=6b3f96a6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2960220758",
           "name": "FC Köln vs Bayer Leverkusen | 21:30 08/11",
