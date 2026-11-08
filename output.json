@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-46eaa03e7a",
-          "name": "Man Utd vs Aston Villa | 23:30 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-46eaa03e7a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-46eaa03e7a",
-                  "name": "Man Utd vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-46eaa03e7a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8395c7b6b0",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/584fee8b750544dba489c64b8888489e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-776c2f3339",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/e3dceac00a5e4822b753ad293feac129/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Man Utd",
-            "team_b": "Aston Villa",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
-            "time": "23:30:00",
-            "date": "08/11",
-            "blv": "LÝ LA LÀNG, LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdpgdqo9_00f7f53d_20261109.png?v=00f7f53d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2261663274",
           "name": "Inter vs Como | 00:00 09/11",
