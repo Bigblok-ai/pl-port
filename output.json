@@ -1261,83 +1261,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7a57da0037",
-          "name": "Hà Nội vs Sanest Khánh Hòa | 14:30 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a57da0037",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7a57da0037",
-                  "name": "Hà Nội vs Sanest Khánh Hòa",
-                  "streams": [
-                    {
-                      "id": "st-7a57da0037",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4ddbb517fa",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3af036842c3a4a879473abc72d24b5b3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải bóng chuyền VĐQG 2026",
-            "team_a": "Hà Nội",
-            "team_b": "Sanest Khánh Hòa",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/7/73/Logo_Sanest_Kh%C3%A1nh_H%C3%B2a_%28b%C3%B3ng_chuy%E1%BB%81n%29.png",
-            "time": "14:30:00",
-            "date": "08/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/736961f779524d7da8531eeed92d4dab_d338437a_20261108.png?v=d338437a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4467276d9f",
           "name": "LP Bank Ninh Bình vs Thể Công Tân Cảng | 17:00 08/11",
