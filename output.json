@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-465cd2f7ae",
-          "name": "Thể Công Viettel vs Thanh Hóa | 19:15 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-465cd2f7ae",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-465cd2f7ae",
-                  "name": "Thể Công Viettel vs Thanh Hóa",
-                  "streams": [
-                    {
-                      "id": "st-465cd2f7ae",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c6b362a4df",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1c3fa1ac5bfc47c8979229150b177f65/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Thể Công Viettel",
-            "team_b": "Thanh Hóa",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8kw3q86p/image/small",
-            "time": "19:15:00",
-            "date": "08/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhydendryk_cdf2fefc_20261108.png?v=cdf2fefc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-51591c07da",
           "name": "Elche vs Real Betis | 20:00 08/11",
           "type": "single",
@@ -528,10 +456,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -580,7 +508,7 @@
             "time": "21:30:00",
             "date": "08/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
