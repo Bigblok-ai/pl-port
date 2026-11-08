@@ -1405,7 +1405,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1484,16 +1484,16 @@
         },
         {
           "id": "pl-18ab7046f4",
-          "name": "Biên Phòng MB vs Công an TP. Hồ Chí Minh | 19:30 08/11",
+          "name": "Biên Phòng MB vs Công an TP. Hồ Chí Minh | 20:00 08/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1539,10 +1539,10 @@
             "team_b": "Công an TP. Hồ Chí Minh",
             "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/3/30/Logo_CA_TP.HCM_%28b%C3%B3ng_chuy%E1%BB%81n%29.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",
-            "time": "19:30:00",
+            "time": "20:00:00",
             "date": "08/11",
             "blv": "LÝ LÊN LỬA",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "bongchuyen"
           },
           "image": {
