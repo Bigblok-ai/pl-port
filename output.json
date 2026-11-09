@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-9d023ddaaa",
-          "name": "Tunisia U17 vs Libya U17 | 18:00 09/11",
+          "id": "pl-9061e5280d",
+          "name": "Mashuk-KMV vs Rodina-2 | 18:00 09/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-9d023ddaaa",
+              "id": "src-9061e5280d",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-9d023ddaaa",
-                  "name": "Tunisia U17 vs Libya U17",
+                  "id": "ct-9061e5280d",
+                  "name": "Mashuk-KMV vs Rodina-2",
                   "streams": [
                     {
-                      "id": "st-9d023ddaaa",
+                      "id": "st-9061e5280d",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-611dc0b7a9",
+                          "id": "lnk-606561a2ab",
                           "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9157f09bc56e4c2f88044628a6c3623e/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/001a34730dd144c19c98962ef58089b2/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,11 +68,11 @@
             }
           ],
           "org_metadata": {
-            "league": "CAF U17 Championship",
-            "team_a": "Tunisia U17",
-            "team_b": "Libya U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8k6wq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg059ryk0/image/small",
+            "league": "RUS D3A",
+            "team_a": "Mashuk-KMV",
+            "team_b": "Rodina-2",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7z0jr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hzy10qdyj/image/small",
             "time": "18:00:00",
             "date": "09/11",
             "blv": "LÝ LINH LỰC",
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhny586m7v_87d8c541_20261109.png?v=87d8c541",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjy27km2w_e8c10e34_20261109.png?v=e8c10e34",
             "width": 1600,
             "height": 1200
           }
