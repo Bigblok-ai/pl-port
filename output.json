@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-dd0bc54665",
-          "name": "CS Dinamo Bucuresti vs Ramnicu Valcea FC | 22:00 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd0bc54665",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dd0bc54665",
-                  "name": "CS Dinamo Bucuresti vs Ramnicu Valcea FC",
-                  "streams": [
-                    {
-                      "id": "st-dd0bc54665",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fc13c01aa6",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9102cf0432ec43e5a082ed94f816ae42/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Romanian Liga II",
-            "team_a": "CS Dinamo Bucuresti",
-            "team_b": "Ramnicu Valcea FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh3571moep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl6p6qwzv/image/small",
-            "time": "22:00:00",
-            "date": "09/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe176yr6o_e77e3bde_20261109.png?v=e77e3bde",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d1e642bd12",
           "name": "Veles vs FC KAMAZ | 23:30 09/11",
@@ -155,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn2wpwqdy_881e3584_20261109.png?v=881e3584",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn2wpwqdy_881e3584_20261110.png?v=881e3584",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzgh3j21wq82_4c854178_20261109.png?v=4c854178",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzgh3j21wq82_4c854178_20261110.png?v=4c854178",
             "width": 1600,
             "height": 1200
           }
@@ -316,7 +244,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhn63ejm7v_e3f35fbb_20261109.png?v=e3f35fbb",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhn63ejm7v_e3f35fbb_20261110.png?v=e3f35fbb",
             "width": 1600,
             "height": 1200
           }
@@ -388,7 +316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hd3wwjmoj_f4c43a99_20261109.png?v=f4c43a99",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hd3wwjmoj_f4c43a99_20261110.png?v=f4c43a99",
             "width": 1600,
             "height": 1200
           }
@@ -460,7 +388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhn64y1m7v_b6d25edd_20261109.png?v=b6d25edd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhn64y1m7v_b6d25edd_20261110.png?v=b6d25edd",
             "width": 1600,
             "height": 1200
           }
@@ -541,7 +469,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/49ed0a0c62024ff28db1fe42be8b8e72_f07122b3_20261109.png?v=f07122b3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/49ed0a0c62024ff28db1fe42be8b8e72_f07122b3_20261110.png?v=f07122b3",
             "width": 1600,
             "height": 1200
           }
@@ -613,7 +541,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d9c0c41ababa4936b41ee0e30bc33855_5acfe4d2_20261109.png?v=5acfe4d2",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d9c0c41ababa4936b41ee0e30bc33855_5acfe4d2_20261110.png?v=5acfe4d2",
             "width": 1600,
             "height": 1200
           }
