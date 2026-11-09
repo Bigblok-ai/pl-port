@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9061e5280d",
-          "name": "Mashuk-KMV vs Rodina-2 | 18:00 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9061e5280d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9061e5280d",
-                  "name": "Mashuk-KMV vs Rodina-2",
-                  "streams": [
-                    {
-                      "id": "st-9061e5280d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-606561a2ab",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/001a34730dd144c19c98962ef58089b2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "RUS D3A",
-            "team_a": "Mashuk-KMV",
-            "team_b": "Rodina-2",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7z0jr1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hzy10qdyj/image/small",
-            "time": "18:00:00",
-            "date": "09/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjy27km2w_e8c10e34_20261109.png?v=e8c10e34",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-80e370169c",
           "name": "FC Politehnica Timisoara vs Scolar Resita | 19:30 09/11",
