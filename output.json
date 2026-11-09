@@ -392,6 +392,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-22d5ca243f",
+          "name": "Nữ Real Madrid vs Nữ Paris FC | 00:45 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22d5ca243f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-22d5ca243f",
+                  "name": "Nữ Real Madrid vs Nữ Paris FC",
+                  "streams": [
+                    {
+                      "id": "st-22d5ca243f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e824f3ebd2",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b7ecbe1ecd85495b9f45323225a41811/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Nữ Real Madrid",
+            "team_b": "Nữ Paris FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66h0pxxqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8yomo4h27n8q0j6/image/small",
+            "time": "00:45:00",
+            "date": "11/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh9x428qwz_e180c72e_20261110.png?v=e180c72e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
