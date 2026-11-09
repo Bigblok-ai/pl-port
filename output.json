@@ -464,6 +464,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0d44946cc5",
+          "name": "Anaitasuna vs Alavés | 01:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d44946cc5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0d44946cc5",
+                  "name": "Anaitasuna vs Alavés",
+                  "streams": [
+                    {
+                      "id": "st-0d44946cc5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74e7e694a4",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b4ad0f211cb54fb8b7c09a16cfd4b478/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa del Rey",
+            "team_a": "Anaitasuna",
+            "team_b": "Alavés",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghj4e3r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph6lkr8k0/image/small",
+            "time": "01:00:00",
+            "date": "11/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh8lp6vr1g_f1f0d16b_20261110.png?v=f1f0d16b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
