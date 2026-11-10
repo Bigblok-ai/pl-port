@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-26fcfcdd17",
-          "name": "Slovenia Indoor Soccer vs Belgium Indoor Soccer | 23:30 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-26fcfcdd17",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-26fcfcdd17",
-                  "name": "Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-                  "streams": [
-                    {
-                      "id": "st-26fcfcdd17",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35a1668b69",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a6b92378e9ff496a96f00d791cc394cf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA Futsal World Cup qualification (UEFA)",
-            "team_a": "Slovenia Indoor Soccer",
-            "team_b": "Belgium Indoor Soccer",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw56oqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergphokw2r8k0/image/small",
-            "time": "23:30:00",
-            "date": "10/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnhn64y1m7v_b6d25edd_20261111.png?v=b6d25edd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-22d5ca243f",
           "name": "Nữ Real Madrid vs Nữ Paris FC | 00:45 11/11",
