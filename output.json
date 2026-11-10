@@ -752,6 +752,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c7e1f89906",
+          "name": "Nữ Liverpool vs Nữ Aston Villa | 02:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c7e1f89906",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c7e1f89906",
+                  "name": "Nữ Liverpool vs Nữ Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-c7e1f89906",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf9420b23d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c09eed8fa7264c65852f08ab4e43c2be/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FA Women's League Cup",
+            "team_a": "Nữ Liverpool",
+            "team_b": "Nữ Aston Villa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7p3gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkexem2wd/image/small",
+            "time": "02:00:00",
+            "date": "12/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh82970qwz_f959f394_20261111.png?v=f959f394",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
