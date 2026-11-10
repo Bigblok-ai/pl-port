@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-3792851118",
-          "name": "Qatar U23 vs Singapore U23 | 15:00 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3792851118",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3792851118",
-                  "name": "Qatar U23 vs Singapore U23",
-                  "streams": [
-                    {
-                      "id": "st-3792851118",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87b1047a4c",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8ae2e1d0649843ada4203fcbf41ec8c2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Qatar U23",
-            "team_b": "Singapore U23",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh98vq82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwelkqdyj/image/small",
-            "time": "15:00:00",
-            "date": "10/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzgh3j21wq82_4c854178_20261110.png?v=4c854178",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c1514767d5",
           "name": "Việt Nam U23 vs Thái Lan U23 | 19:00 10/11",
@@ -533,6 +461,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4j22m2w_bdffc8b7_20261110.png?v=bdffc8b7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-fe61cf6e6f",
+          "name": "Yokohama Marinos vs Kashima Antlers | 17:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe61cf6e6f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fe61cf6e6f",
+                  "name": "Yokohama Marinos vs Kashima Antlers",
+                  "streams": [
+                    {
+                      "id": "st-fe61cf6e6f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a76186280d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2f623bdcc1044463b7ab45b28fe93443/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J.League Yamazaki Biscuit Levain Cup",
+            "team_a": "Yokohama Marinos",
+            "team_b": "Kashima Antlers",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whljpryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhp8nm7vx/image/small",
+            "time": "17:00:00",
+            "date": "11/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7h4w7lkqdy_184438d4_20261110.png?v=184438d4",
             "width": 1600,
             "height": 1200
           }
