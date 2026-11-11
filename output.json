@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
           "id": "pl-7384f69ecb",
-          "name": "Philippines U17 vs Indonesia U17",
+          "name": "Philippines U17 vs Indonesia U17 | 15:30 11/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Indonesia U17",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small",
-            "time": "",
-            "date": "",
+            "time": "15:30:00",
+            "date": "11/11",
             "blv": "LÝ LẠNH LÙNG",
             "is_live": true,
             "cate_type": "football"
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "17:00:00",
             "date": "11/11",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
