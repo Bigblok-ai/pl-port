@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-7384f69ecb",
-          "name": "Philippines U17 vs Indonesia U17 | 15:30 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7384f69ecb",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7384f69ecb",
-                  "name": "Philippines U17 vs Indonesia U17",
-                  "streams": [
-                    {
-                      "id": "st-7384f69ecb",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8ccd5935e",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/86e5d7c9cd3c493f96ac79121ec1d4af/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC U17 Asian Cup",
-            "team_a": "Philippines U17",
-            "team_b": "Indonesia U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small",
-            "time": "15:30:00",
-            "date": "11/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4j22m2w_bdffc8b7_20261111.png?v=bdffc8b7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-fe61cf6e6f",
           "name": "Yokohama Marinos vs Kashima Antlers | 17:00 11/11",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "18:35:00",
             "date": "11/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
