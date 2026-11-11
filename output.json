@@ -538,7 +538,7 @@
           }
         },
         {
-          "id": "pl-3d1b3b6594",
+          "id": "pl-3835523435",
           "name": "Singapore U23 vs Việt Nam U23 | 19:00 12/11",
           "type": "single",
           "display": "thumbnail-only",
@@ -553,39 +553,22 @@
           ],
           "sources": [
             {
-              "id": "src-3d1b3b6594",
+              "id": "src-3835523435",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-3d1b3b6594",
+                  "id": "ct-3835523435",
                   "name": "Singapore U23 vs Việt Nam U23",
                   "streams": [
                     {
-                      "id": "st-3d1b3b6594",
+                      "id": "st-3835523435",
                       "name": "PL",
                       "stream_links": [
-                        {
-                          "id": "lnk-1bd3990387",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d62efcaf5d7a4e35b6dd25b1eb77d57f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
                         {
                           "id": "lnk-51e5658a19",
                           "name": "LÝ LA LÀNG",
                           "type": "hls",
-                          "default": false,
+                          "default": true,
                           "url": "https://pull.digitalcdn.net/live/7a690b7bc90649daaa4048a86be4f9cc/index.m3u8",
                           "request_headers": [
                             {
@@ -613,7 +596,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkplym2wd/image/small",
             "time": "19:00:00",
             "date": "12/11",
-            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
+            "blv": "LÝ LA LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
@@ -621,7 +604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9c386ac914d14eab948f73fc13297291_ce5ce99d_20261111.png?v=ce5ce99d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh5kdewryo_ce5ce99d_20261111.png?v=ce5ce99d",
             "width": 1600,
             "height": 1200
           }
