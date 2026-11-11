@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-7384f69ecb",
-          "name": "Philippines U17 vs Indonesia U17 | 15:30 11/11",
+          "name": "Philippines U17 vs Indonesia U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Indonesia U17",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4hv905q86p/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhvgdnrepz/image/small",
-            "time": "15:30:00",
-            "date": "11/11",
+            "time": "",
+            "date": "",
             "blv": "LÝ LẠNH LÙNG",
             "is_live": true,
             "cate_type": "football"
