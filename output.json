@@ -250,78 +250,6 @@
           }
         },
         {
-          "id": "pl-6aaf79eeca",
-          "name": "Bangladesh vs Sri Lanka | 21:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6aaf79eeca",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6aaf79eeca",
-                  "name": "Bangladesh vs Sri Lanka",
-                  "streams": [
-                    {
-                      "id": "st-6aaf79eeca",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3371ad8ae9",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/45a9db15fb5c49108c631fa3ee6895ae/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SAFF Championship",
-            "team_a": "Bangladesh",
-            "team_b": "Sri Lanka",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkkjnm2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh1vjryox/image/small",
-            "time": "21:00:00",
-            "date": "11/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjn223r51_8454749c_20261111.png?v=8454749c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-dc73b9cb22",
           "name": "Bhutan U17 vs UAE U17 | 22:20 11/11",
           "type": "single",
@@ -762,6 +690,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "pl-88236012f0",
+          "name": "Halkbank vs Fenerbahce | 20:30 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-88236012f0",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-88236012f0",
+                  "name": "Halkbank vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-88236012f0",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae14420128",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/1aea8df2c8404d3e8b4d0fa0d829a020/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup - Play Offs - Tứ kết",
+            "team_a": "Halkbank",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://static.flashscore.com/res/image/data/4xJiNTWg-b9OSXzTg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/IPsu1jil-fc1HY790.png",
+            "time": "20:30:00",
+            "date": "11/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/49b3ec5bfe40411c85a0a2d731fb9fd9_1570e199_20261111.png?v=1570e199",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "pl-7420581d61",
           "name": "Daejeon JKJ Women vs Expressway Co Women | 17:00 12/11",
