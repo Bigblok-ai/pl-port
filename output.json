@@ -8,5 +8,1104 @@
     "type": "cover",
     "url": "https://phalang.live/favicon.png"
   },
-  "groups": []
+  "groups": [
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-9d38980748",
+          "name": "New Zealand vs Ấn Độ | 13:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d38980748",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9d38980748",
+                  "name": "New Zealand vs Ấn Độ",
+                  "streams": [
+                    {
+                      "id": "st-9d38980748",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a58f78d0c9",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f1400ccd968e4ee1bf2b481d90264aa1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "New Zealand",
+            "team_b": "Ấn Độ",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whkk88ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhdk8r1ge/image/small",
+            "time": "13:00:00",
+            "date": "12/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz2d0q86_e2139547_20261112.png?v=e2139547",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-050b0de916",
+          "name": "Thái Lan U23 vs Qatar U23 | 15:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-050b0de916",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-050b0de916",
+                  "name": "Thái Lan U23 vs Qatar U23",
+                  "streams": [
+                    {
+                      "id": "st-050b0de916",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-359978b943",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f8126bfdaca64c4fa2f089e9f1d5f536/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Thái Lan U23",
+            "team_b": "Qatar U23",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4jvq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh98vq82w/image/small",
+            "time": "15:00:00",
+            "date": "12/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghg401em0v_47f760e4_20261112.png?v=47f760e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3835523435",
+          "name": "Singapore U23 vs Việt Nam U23 | 19:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3835523435",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3835523435",
+                  "name": "Singapore U23 vs Việt Nam U23",
+                  "streams": [
+                    {
+                      "id": "st-3835523435",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51e5658a19",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7a690b7bc90649daaa4048a86be4f9cc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Singapore U23",
+            "team_b": "Việt Nam U23",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwelkqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkplym2wd/image/small",
+            "time": "19:00:00",
+            "date": "12/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh5kdewryo_ce5ce99d_20261112.png?v=ce5ce99d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0f0de6a5b9",
+          "name": "Iceland U21 vs Hy Lạp U21 | 20:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0f0de6a5b9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0f0de6a5b9",
+                  "name": "Iceland U21 vs Hy Lạp U21",
+                  "streams": [
+                    {
+                      "id": "st-0f0de6a5b9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f187db1a64",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c7536db35f734e4c81e4b2b0398e4cc0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U21 Championship qualification",
+            "team_a": "Iceland U21",
+            "team_b": "Hy Lạp U21",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9k82rekhpn0repz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh1wxr6od/image/small",
+            "time": "20:00:00",
+            "date": "12/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9wh5k5y7ryo_44191809_20261112.png?v=44191809",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ba3aa2caa3",
+          "name": "Bồ Đào Nha U17 vs Andorra U17 | 22:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba3aa2caa3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ba3aa2caa3",
+                  "name": "Bồ Đào Nha U17 vs Andorra U17",
+                  "streams": [
+                    {
+                      "id": "st-ba3aa2caa3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cfe88199d5",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3a0671a0ab2e495190c49993af2b5d0b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U17 Football Championship",
+            "team_a": "Bồ Đào Nha U17",
+            "team_b": "Andorra U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7x32r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh46lnm0ve/image/small",
+            "time": "22:00:00",
+            "date": "12/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdnk1qo9_e0bf8e5b_20261112.png?v=e0bf8e5b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d390def68d",
+          "name": "Uzbekistan vs Nga | 22:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d390def68d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d390def68d",
+                  "name": "Uzbekistan vs Nga",
+                  "streams": [
+                    {
+                      "id": "st-d390def68d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65ea442b96",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/59809fab68014f058fd3fef2444f3930/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Uzbekistan",
+            "team_b": "Nga",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhjweqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jh7ewqwzv/image/small",
+            "time": "22:00:00",
+            "date": "12/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h5lpknrz8_5ae77e03_20261112.png?v=5ae77e03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-88eb2f29f8",
+          "name": "Italy U20 vs Bồ Đào Nha U20 | 23:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-88eb2f29f8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-88eb2f29f8",
+                  "name": "Italy U20 vs Bồ Đào Nha U20",
+                  "streams": [
+                    {
+                      "id": "st-88eb2f29f8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a30d4d7d60",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/132cf30a1e5945dcb975a7046bcd87cd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Elite League U20",
+            "team_a": "Italy U20",
+            "team_b": "Bồ Đào Nha U20",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn1exr510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phk0z6m2wd/image/small",
+            "time": "23:00:00",
+            "date": "12/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwj5wpryo_c7850dfd_20261112.png?v=c7850dfd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cf706fb378",
+          "name": "Thổ Nhĩ Kỳ vs Bỉ | 00:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf706fb378",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cf706fb378",
+                  "name": "Thổ Nhĩ Kỳ vs Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-cf706fb378",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd344857db",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b51304c295964dd8b3bf383462de2038/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Thổ Nhĩ Kỳ",
+            "team_b": "Bỉ",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhvxyqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hd5eqo9j/image/small",
+            "time": "00:00:00",
+            "date": "13/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl76znq1z_3ff5282f_20261112.png?v=3ff5282f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-0231b18724",
+          "name": "Armenia vs Đảo Síp | 00:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0231b18724",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0231b18724",
+                  "name": "Armenia vs Đảo Síp",
+                  "streams": [
+                    {
+                      "id": "st-0231b18724",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-580a8096bb",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/aa35d53ab2d4468c9c62cf8b7138385f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Armenia",
+            "team_b": "Đảo Síp",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh167r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hzx2rz84/image/small",
+            "time": "00:00:00",
+            "date": "13/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghekdz5r6o_cf5da067_20261112.png?v=cf5da067",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-97fa6e8d33",
+          "name": "CD Artistico Navalcarnero vs Real Betis | 01:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97fa6e8d33",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-97fa6e8d33",
+                  "name": "CD Artistico Navalcarnero vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-97fa6e8d33",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d733ab7a5",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e075b3cfcb2e48d2b258e37750fef6c5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa del Rey",
+            "team_a": "CD Artistico Navalcarnero",
+            "team_b": "Real Betis",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4jpkmoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
+            "time": "01:00:00",
+            "date": "13/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv7e2qg8_b8d80914_20261112.png?v=b8d80914",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-029b4337e8",
+          "name": "Italy vs Pháp | 02:45 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-029b4337e8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-029b4337e8",
+                  "name": "Italy vs Pháp",
+                  "streams": [
+                    {
+                      "id": "st-029b4337e8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe379e6cb5",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b47874e23a1045eeb8ffd873de9b1377/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Italy",
+            "team_b": "Pháp",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh290md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdj9m0ve/image/small",
+            "time": "02:45:00",
+            "date": "13/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5vyk1ql0_9bfc4d56_20261112.png?v=9bfc4d56",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3c88318b23",
+          "name": "Anh vs Croatia | 02:45 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3c88318b23",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3c88318b23",
+                  "name": "Anh vs Croatia",
+                  "streams": [
+                    {
+                      "id": "st-3c88318b23",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e48d4eeff",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4222a02620fa41ab89505c7873402f5e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Anh",
+            "team_b": "Croatia",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohoj7q1zp/image/small",
+            "time": "02:45:00",
+            "date": "13/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyjgmd7_0d228668_20261112.png?v=0d228668",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1929a9fba9",
+          "name": "CH Séc vs Tây Ban Nha | 02:45 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1929a9fba9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1929a9fba9",
+                  "name": "CH Séc vs Tây Ban Nha",
+                  "streams": [
+                    {
+                      "id": "st-1929a9fba9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-63fead9bb8",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b4d84d8ae61d4c9abdb7b459582dc846/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "CH Séc",
+            "team_b": "Tây Ban Nha",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhy07md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4vgymoep/image/small",
+            "time": "02:45:00",
+            "date": "13/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1yld5q0j_ab710524_20261112.png?v=ab710524",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "pl-7420581d61",
+          "name": "Daejeon JKJ Women vs Expressway Co Women | 17:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7420581d61",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7420581d61",
+                  "name": "Daejeon JKJ Women vs Expressway Co Women",
+                  "streams": [
+                    {
+                      "id": "st-7420581d61",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-71af445942",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/eb32aaa145c6418092f75814ab5f1dda/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "Daejeon JKJ Women",
+            "team_b": "Expressway Co Women",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/aafc42670c73bd7fb02a9d9cd5d524c4.png!w80",
+            "time": "17:00:00",
+            "date": "12/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e9b48ee119ef4ff6923b77d5818c2174_5b30e522_20261112.png?v=5b30e522",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f6575d492a",
+          "name": "IBK Women vs Hungkuk Women | 17:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f6575d492a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f6575d492a",
+                  "name": "IBK Women vs Hungkuk Women",
+                  "streams": [
+                    {
+                      "id": "st-f6575d492a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-58872d31fe",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4aa8c78f96524fcbabdc1c16bf271f04/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "IBK Women",
+            "team_b": "Hungkuk Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8bAPfUCa-SfuGhwLE.png",
+            "time": "17:00:00",
+            "date": "13/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5d97a319a00749128aee3ea339d42477_a4c9bfff_20261112.png?v=a4c9bfff",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
 }
