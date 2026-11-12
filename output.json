@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-97fa6e8d33",
-          "name": "CD Artistico Navalcarnero vs Real Betis | 01:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-97fa6e8d33",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-97fa6e8d33",
-                  "name": "CD Artistico Navalcarnero vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-97fa6e8d33",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d733ab7a5",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e075b3cfcb2e48d2b258e37750fef6c5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Copa del Rey",
-            "team_a": "CD Artistico Navalcarnero",
-            "team_b": "Real Betis",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4jpkmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
-            "time": "01:00:00",
-            "date": "13/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv7e2qg8_b8d80914_20261113.png?v=b8d80914",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-029b4337e8",
           "name": "Italy vs Pháp | 02:45 13/11",
