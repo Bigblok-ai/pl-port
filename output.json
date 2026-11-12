@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5vyk1ql0_9bfc4d56_20261113.png?v=9bfc4d56",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-3c88318b23",
-          "name": "Anh vs Croatia | 02:45 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3c88318b23",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3c88318b23",
-                  "name": "Anh vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-3c88318b23",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e48d4eeff",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4222a02620fa41ab89505c7873402f5e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Anh",
-            "team_b": "Croatia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohoj7q1zp/image/small",
-            "time": "02:45:00",
-            "date": "13/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyjgmd7_0d228668_20261113.png?v=0d228668",
             "width": 1600,
             "height": 1200
           }
