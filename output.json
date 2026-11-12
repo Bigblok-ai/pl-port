@@ -807,6 +807,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-0744b783d4",
+          "name": "Argentina vs Uruguay | 06:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0744b783d4",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0744b783d4",
+                  "name": "Argentina vs Uruguay",
+                  "streams": [
+                    {
+                      "id": "st-0744b783d4",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3ab6309a2",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a429a9ae97de4b9aaa64078d17adc7fb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Argentina",
+            "team_b": "Uruguay",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh868q1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hln7qo9j/image/small",
+            "time": "06:00:00",
+            "date": "14/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7h4wln6qdy_f7c93636_20261113.png?v=f7c93636",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
