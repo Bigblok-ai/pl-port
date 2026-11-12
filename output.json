@@ -951,6 +951,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f1fcec6892",
+          "name": "Serbia vs Đức | 02:45 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f1fcec6892",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f1fcec6892",
+                  "name": "Serbia vs Đức",
+                  "streams": [
+                    {
+                      "id": "st-f1fcec6892",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-df7b3e40ec",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cdff319e281140a99549d50424f74bc2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Serbia",
+            "team_b": "Đức",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd7prepz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh590qg8n/image/small",
+            "time": "02:45:00",
+            "date": "14/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4go4qvy_bdd4a572_20261113.png?v=bdd4a572",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b5152a8b32",
+          "name": "Hà Lan vs Hy Lạp | 02:45 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b5152a8b32",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b5152a8b32",
+                  "name": "Hà Lan vs Hy Lạp",
+                  "streams": [
+                    {
+                      "id": "st-b5152a8b32",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959968a1e8",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f05d321342694479b8dafdba59d3a05e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hà Lan",
+            "team_b": "Hy Lạp",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzj5moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehp4gr510/image/small",
+            "time": "02:45:00",
+            "date": "14/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89y28qwz_6a14e2af_20261113.png?v=6a14e2af",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
