@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7420581d61",
-          "name": "Daejeon JKJ Women vs Expressway Co Women | 17:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7420581d61",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7420581d61",
-                  "name": "Daejeon JKJ Women vs Expressway Co Women",
-                  "streams": [
-                    {
-                      "id": "st-7420581d61",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-71af445942",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/eb32aaa145c6418092f75814ab5f1dda/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Daejeon JKJ Women",
-            "team_b": "Expressway Co Women",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/aafc42670c73bd7fb02a9d9cd5d524c4.png!w80",
-            "time": "17:00:00",
-            "date": "12/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/e9b48ee119ef4ff6923b77d5818c2174_5b30e522_20261112.png?v=5b30e522",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f6575d492a",
           "name": "IBK Women vs Hungkuk Women | 17:00 13/11",
