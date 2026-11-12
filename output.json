@@ -917,8 +917,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-973c36bb3e",
-                          "name": "LÃM LÀNG",
+                          "id": "lnk-1b4852da6b",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/d89c28ea55644340998c08079d4f4a96/index.m3u8",
@@ -948,7 +948,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/EchVejjl-MTWAZAlJ.png",
             "time": "11:05:00",
             "date": "14/11",
-            "blv": "LÃM LÀNG",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
