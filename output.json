@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4e518fb907",
+          "name": "Ả Rập Xê Út vs Hàn Quốc | 21:30 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e518fb907",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4e518fb907",
+                  "name": "Ả Rập Xê Út vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-4e518fb907",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-47bba07976",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cd08eb1cab7246d5b1528666eeb2e293/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Ả Rập Xê Út",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4x9ryox/image/small",
+            "time": "21:30:00",
+            "date": "13/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4hy751zq0j_21254a7b_20261112.png?v=21254a7b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
