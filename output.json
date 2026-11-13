@@ -1256,6 +1256,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6065d83a41",
+          "name": "Thái Lan vs Brunei | 19:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6065d83a41",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6065d83a41",
+                  "name": "Thái Lan vs Brunei",
+                  "streams": [
+                    {
+                      "id": "st-6065d83a41",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-622c309b9b",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/656a898f1e464c95884e0592a9a1ca39/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Thai King's Cup",
+            "team_a": "Thái Lan",
+            "team_b": "Brunei",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/zp5rzghj769q82w/image/small",
+            "time": "19:30:00",
+            "date": "14/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hy80zwq86_b30d9e64_20261113.png?v=b30d9e64",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
