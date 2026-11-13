@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "20:00:00",
             "date": "13/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1092,6 +1092,167 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zhv0xg5ql0_3c6ea09a_20261113.png?v=3c6ea09a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-95b509dd21",
+          "name": "Việt Nam U23 vs Qatar U23 | 19:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-95b509dd21",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-95b509dd21",
+                  "name": "Việt Nam U23 vs Qatar U23",
+                  "streams": [
+                    {
+                      "id": "st-95b509dd21",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc3dcf4041",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/224563a78a5c4c489cd517726503d2d8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-15c52cdc08",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/65721aded73e41c98245da5219bf18b0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Việt Nam U23",
+            "team_b": "Qatar U23",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkplym2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh98vq82w/image/small",
+            "time": "19:00:00",
+            "date": "14/11",
+            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1de3dfb202b244798c5dc8b9012774c3_cbda3653_20261113.png?v=cbda3653",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1a44bc2b5c",
+          "name": "Trung Quốc vs Malaysia | 19:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1a44bc2b5c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1a44bc2b5c",
+                  "name": "Trung Quốc vs Malaysia",
+                  "streams": [
+                    {
+                      "id": "st-1a44bc2b5c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c76204d229",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bfe687589ce8417292ae22b6bedf7fe8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CFA Team China International Tournament",
+            "team_a": "Trung Quốc",
+            "team_b": "Malaysia",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh147qg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h298mojx/image/small",
+            "time": "19:00:00",
+            "date": "14/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo82em0v_0eb07a8b_20261113.png?v=0eb07a8b",
             "width": 1600,
             "height": 1200
           }
