@@ -1697,6 +1697,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2608d7113a",
+          "name": "Hisamitsu Springs Women vs PFU Blue Cats Women | 11:05 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2608d7113a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2608d7113a",
+                  "name": "Hisamitsu Springs Women vs PFU Blue Cats Women",
+                  "streams": [
+                    {
+                      "id": "st-2608d7113a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f40fbb4094",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fff3fc736348472ea1dfd73246975086/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Hisamitsu Springs Women",
+            "team_b": "PFU Blue Cats Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/EchVejjl-MTWAZAlJ.png",
+            "time": "11:05:00",
+            "date": "15/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/64fc1cfc12ef4c6284d71666d9d53be9_cfd7d108_20261113.png?v=cfd7d108",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
