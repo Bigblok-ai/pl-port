@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9484ec52f0",
-          "name": "Moldova vs Kazakhstan | 00:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9484ec52f0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9484ec52f0",
-                  "name": "Moldova vs Kazakhstan",
-                  "streams": [
-                    {
-                      "id": "st-9484ec52f0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-edc27b218a",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9ca06d3cdfe94aebbe8f99a64dbbd0b1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Moldova",
-            "team_b": "Kazakhstan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhylpmd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h2wnqdyj/image/small",
-            "time": "00:00:00",
-            "date": "14/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5y3yryo_876cc9d5_20261114.png?v=876cc9d5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-9292b01216",
           "name": "Ai Cập vs Malawi | 02:00 14/11",
