@@ -1330,8 +1330,8 @@
           }
         },
         {
-          "id": "pl-cfa7c68b0c",
-          "name": "Palestine vs Iran | 22:00 14/11",
+          "id": "pl-6042ff7117",
+          "name": "Real Sociedad B vs Sporting Gijon | 22:15 14/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1345,23 +1345,23 @@
           ],
           "sources": [
             {
-              "id": "src-cfa7c68b0c",
+              "id": "src-6042ff7117",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-cfa7c68b0c",
-                  "name": "Palestine vs Iran",
+                  "id": "ct-6042ff7117",
+                  "name": "Real Sociedad B vs Sporting Gijon",
                   "streams": [
                     {
-                      "id": "st-cfa7c68b0c",
+                      "id": "st-6042ff7117",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-5d744a08c8",
+                          "id": "lnk-103bd0d069",
                           "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d94abf767699436ab3d4efc03f95ed49/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/6e8ad1fad76f43158cc2ae99614aa05b/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1381,12 +1381,12 @@
             }
           ],
           "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Palestine",
-            "team_b": "Iran",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7ph463m2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4oyjm0ve/image/small",
-            "time": "22:00:00",
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Sociedad B",
+            "team_b": "Sporting Gijon",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoov2qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghz3emoep/image/small",
+            "time": "22:15:00",
             "date": "14/11",
             "blv": "LÃM LÀNG",
             "is_live": false,
@@ -1396,7 +1396,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjn8jvr51_722b84bd_20261113.png?v=722b84bd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk23pr51_fc8816f9_20261113.png?v=fc8816f9",
             "width": 1600,
             "height": 1200
           }
