@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6288430c95",
+          "name": "Thái Lan U23 vs Singapore U23 | 15:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6288430c95",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6288430c95",
+                  "name": "Thái Lan U23 vs Singapore U23",
+                  "streams": [
+                    {
+                      "id": "st-6288430c95",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-00b83fcb42",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4dee57c839564b2a81745da6846aec1e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Thái Lan U23",
+            "team_b": "Singapore U23",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk4jvq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwelkqdyj/image/small",
+            "time": "15:00:00",
+            "date": "14/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh87gz8r1g_2947ad4a_20261113.png?v=2947ad4a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
