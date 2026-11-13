@@ -1095,6 +1095,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-4b32513ac7",
+          "name": "Nhật Bản vs Brazil | 17:15 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b32513ac7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4b32513ac7",
+                  "name": "Nhật Bản vs Brazil",
+                  "streams": [
+                    {
+                      "id": "st-4b32513ac7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7370e0714d",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b9b93dcd38f441049184e23dba5c7e82/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Nhật Bản",
+            "team_b": "Brazil",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hooj2qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh68er6od/image/small",
+            "time": "17:15:00",
+            "date": "14/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zhv0xg5ql0_3c6ea09a_20261113.png?v=3c6ea09a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
