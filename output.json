@@ -1256,6 +1256,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f71002b730",
+          "name": "Bồ Đào Nha vs Đan Mạch | 02:45 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f71002b730",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f71002b730",
+                  "name": "Bồ Đào Nha vs Đan Mạch",
+                  "streams": [
+                    {
+                      "id": "st-f71002b730",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0649793cf1",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5a7820585cc240319dcec6ee361df440/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Bồ Đào Nha",
+            "team_b": "Đan Mạch",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hwpeq0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hnlgmojx/image/small",
+            "time": "02:45:00",
+            "date": "15/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6ypj8q86_d6cc0f96_20261114.png?v=d6cc0f96",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e96828408d",
+          "name": "Romania vs Ba Lan | 02:45 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e96828408d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e96828408d",
+                  "name": "Romania vs Ba Lan",
+                  "streams": [
+                    {
+                      "id": "st-e96828408d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3346e923a",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/36d905dc6b9843e1bc4b08ae763cad98/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Romania",
+            "team_b": "Ba Lan",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh912md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnngq86p/image/small",
+            "time": "02:45:00",
+            "date": "15/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl76wnq1z_aabeb048_20261114.png?v=aabeb048",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-bc1ca2319d",
+          "name": "Thụy Điển vs Bosnia-Herzegovina | 02:45 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc1ca2319d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bc1ca2319d",
+                  "name": "Thụy Điển vs Bosnia-Herzegovina",
+                  "streams": [
+                    {
+                      "id": "st-bc1ca2319d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-97f5ac855a",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5e24e1ebf9834fcba0668d7babc5ec79/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Thụy Điển",
+            "team_b": "Bosnia-Herzegovina",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hpe5qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phewxm2wd/image/small",
+            "time": "02:45:00",
+            "date": "15/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgjwv0r51_ddf2d043_20261114.png?v=ddf2d043",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
