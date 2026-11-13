@@ -1100,83 +1100,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f6575d492a",
-          "name": "IBK Women vs Hungkuk Women | 17:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f6575d492a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f6575d492a",
-                  "name": "IBK Women vs Hungkuk Women",
-                  "streams": [
-                    {
-                      "id": "st-f6575d492a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-58872d31fe",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4aa8c78f96524fcbabdc1c16bf271f04/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "IBK Women",
-            "team_b": "Hungkuk Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/8bAPfUCa-SfuGhwLE.png",
-            "time": "17:00:00",
-            "date": "13/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5d97a319a00749128aee3ea339d42477_a4c9bfff_20261113.png?v=a4c9bfff",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-882d84459e",
           "name": "Hisamitsu Springs Women vs PFU Blue Cats Women | 11:05 14/11",
