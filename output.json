@@ -1769,6 +1769,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6a218b79d1",
+          "name": "Okayama Seagulls Women vs NEC Red Rockets Women | 12:05 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a218b79d1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6a218b79d1",
+                  "name": "Okayama Seagulls Women vs NEC Red Rockets Women",
+                  "streams": [
+                    {
+                      "id": "st-6a218b79d1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a7da4bbd3",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/22e9e02274ab4e19a7373da446321aae/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Okayama Seagulls Women",
+            "team_b": "NEC Red Rockets Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/0WBCGUh5-6FZ2yXJ6.png",
+            "time": "12:05:00",
+            "date": "15/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45a70f91b3a44e5ca9aa6ef72cb9908e_0873cf4c_20261113.png?v=0873cf4c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
