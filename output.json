@@ -521,8 +521,8 @@
           }
         },
         {
-          "id": "pl-2562bb0020",
-          "name": "Jordan vs Indonesia | 01:00 14/11",
+          "id": "pl-9292b01216",
+          "name": "Ai Cập vs Malawi | 02:00 14/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -536,23 +536,23 @@
           ],
           "sources": [
             {
-              "id": "src-2562bb0020",
+              "id": "src-9292b01216",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-2562bb0020",
-                  "name": "Jordan vs Indonesia",
+                  "id": "ct-9292b01216",
+                  "name": "Ai Cập vs Malawi",
                   "streams": [
                     {
-                      "id": "st-2562bb0020",
+                      "id": "st-9292b01216",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-d0118f2287",
+                          "id": "lnk-63dc1935d3",
                           "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/fead388ff5c94ae78e974cde973da4e6/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/01604229336745d7825662a00d2f856a/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -572,12 +572,12 @@
             }
           ],
           "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Jordan",
-            "team_b": "Indonesia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9whywwryox/image/small",
-            "time": "01:00:00",
+            "league": "CAF Africa Cup of Nations",
+            "team_a": "Ai Cập",
+            "team_b": "Malawi",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohze2q1zp/image/small",
+            "time": "02:00:00",
             "date": "14/11",
             "blv": "LÃM LÀNG",
             "is_live": false,
@@ -587,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjy248r51_dceb2532_20261113.png?v=dceb2532",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw1ne3ryo_5ee8d552_20261113.png?v=5ee8d552",
             "width": 1600,
             "height": 1200
           }
@@ -732,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89y28qwz_6a14e2af_20261113.png?v=6a14e2af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c64b4dd11d",
+          "name": "Slovenia vs Thụy Sĩ | 02:45 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c64b4dd11d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c64b4dd11d",
+                  "name": "Slovenia vs Thụy Sĩ",
+                  "streams": [
+                    {
+                      "id": "st-c64b4dd11d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ae81e68b1",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/93bcce3d73cb420eb9c53119c2086a92/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Slovenia",
+            "team_b": "Thụy Sĩ",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllholdqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn3gq86p/image/small",
+            "time": "02:45:00",
+            "date": "14/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3vldq82_7cba5bfa_20261113.png?v=7cba5bfa",
             "width": 1600,
             "height": 1200
           }
