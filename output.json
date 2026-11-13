@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7a3064170e",
-          "name": "Mozambique vs Ethiopia | 20:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a3064170e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7a3064170e",
-                  "name": "Mozambique vs Ethiopia",
-                  "streams": [
-                    {
-                      "id": "st-7a3064170e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2212916082",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1331bd463935462bab16cb1e421b609f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CAF Africa Cup of Nations",
-            "team_a": "Mozambique",
-            "team_b": "Ethiopia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhonjm7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhv82vrepz/image/small",
-            "time": "20:00:00",
-            "date": "13/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv0dwqvy_77daa60d_20261113.png?v=77daa60d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4e518fb907",
           "name": "Ả Rập Xê Út vs Hàn Quốc | 21:30 13/11",
@@ -1325,6 +1253,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9nowpm7v_01ccdec6_20261113.png?v=01ccdec6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-70b297bb48",
+          "name": "Bồ Đào Nha U17 vs Bulgaria U17 | 22:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70b297bb48",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-70b297bb48",
+                  "name": "Bồ Đào Nha U17 vs Bulgaria U17",
+                  "streams": [
+                    {
+                      "id": "st-70b297bb48",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7c8961369d",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6b87f46dc86f45beb6c6ede135827cfd/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA European U17 Football Championship",
+            "team_a": "Bồ Đào Nha U17",
+            "team_b": "Bulgaria U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/965mkyh7x32r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllh2de0qvy9/image/small",
+            "time": "22:00:00",
+            "date": "14/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldk1gmoe_b3299265_20261113.png?v=b3299265",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cfa7c68b0c",
+          "name": "Palestine vs Iran | 22:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cfa7c68b0c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cfa7c68b0c",
+                  "name": "Palestine vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-cfa7c68b0c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d744a08c8",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d94abf767699436ab3d4efc03f95ed49/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Palestine",
+            "team_b": "Iran",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7ph463m2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4oyjm0ve/image/small",
+            "time": "22:00:00",
+            "date": "14/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjn8jvr51_722b84bd_20261113.png?v=722b84bd",
             "width": 1600,
             "height": 1200
           }
