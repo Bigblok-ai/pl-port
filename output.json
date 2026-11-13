@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "00:00:00",
             "date": "14/11",
             "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1982,6 +1982,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2f46ff831beb4bb580001fcb8e09cde7_04f67902_20261113.png?v=04f67902",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ca55001876",
+          "name": "Scandicci Women vs UYBA Busto Arsizio Women | 23:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ca55001876",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ca55001876",
+                  "name": "Scandicci Women vs UYBA Busto Arsizio Women",
+                  "streams": [
+                    {
+                      "id": "st-ca55001876",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5efa21b45f",
+                          "name": "LÝ LÊN LỬA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6e71a46e074d4714a565010024d83573/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A1",
+            "team_a": "Scandicci Women",
+            "team_b": "UYBA Busto Arsizio Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/0QZRMbg5-MuuCgGgG.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/pfEiFCxS-h8saiGlG.png",
+            "time": "23:00:00",
+            "date": "15/11",
+            "blv": "LÝ LÊN LỬA",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c6401c301f8642dbad216cdc8007f41e_7dc91e8d_20261113.png?v=7dc91e8d",
             "width": 1600,
             "height": 1200
           }
