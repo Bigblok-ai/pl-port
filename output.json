@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-bb7dffef81",
-          "name": "Preston Lions vs Queensland Lions SC | 15:30 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bb7dffef81",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bb7dffef81",
-                  "name": "Preston Lions vs Queensland Lions SC",
-                  "streams": [
-                    {
-                      "id": "st-bb7dffef81",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9be5d857bb",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c71e81c3a4674a76915d0db4ea2a6031/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Aus Champ",
-            "team_a": "Preston Lions",
-            "team_b": "Queensland Lions SC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkynxm2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhe5wqg8n/image/small",
-            "time": "15:30:00",
-            "date": "13/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjyve6r51_10de5301_20261113.png?v=10de5301",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-d127c52668",
           "name": "Singapore vs Paraguay | 19:00 13/11",
