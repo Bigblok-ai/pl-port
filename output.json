@@ -1186,8 +1186,8 @@
           }
         },
         {
-          "id": "pl-30275cb3ea",
-          "name": "Kuwait U17 vs Lebanon U17 | 23:00 14/11",
+          "id": "pl-6042ff7117",
+          "name": "Real Sociedad B vs Sporting Gijon | 22:15 14/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1201,23 +1201,23 @@
           ],
           "sources": [
             {
-              "id": "src-30275cb3ea",
+              "id": "src-6042ff7117",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-30275cb3ea",
-                  "name": "Kuwait U17 vs Lebanon U17",
+                  "id": "ct-6042ff7117",
+                  "name": "Real Sociedad B vs Sporting Gijon",
                   "streams": [
                     {
-                      "id": "st-30275cb3ea",
+                      "id": "st-6042ff7117",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-8f3da6185f",
+                          "id": "lnk-a61f441825",
                           "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8780cb6e0d714c1a96e551388644a6af/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/6e8ad1fad76f43158cc2ae99614aa05b/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1237,12 +1237,12 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC U17 Asian Cup",
-            "team_a": "Kuwait U17",
-            "team_b": "Lebanon U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7h1w5kqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/ednm9wh90vxryox/image/small",
-            "time": "23:00:00",
+            "league": "Spanish Segunda Division",
+            "team_a": "Real Sociedad B",
+            "team_b": "Sporting Gijon",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoov2qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghz3emoep/image/small",
+            "time": "22:15:00",
             "date": "14/11",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
@@ -1252,7 +1252,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkpkdnr1g_a3a09320_20261113.png?v=a3a09320",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk23pr51_fc8816f9_20261113.png?v=fc8816f9",
             "width": 1600,
             "height": 1200
           }
