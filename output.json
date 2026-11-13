@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4e518fb907",
-          "name": "Ả Rập Xê Út vs Hàn Quốc | 21:30 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e518fb907",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4e518fb907",
-                  "name": "Ả Rập Xê Út vs Hàn Quốc",
-                  "streams": [
-                    {
-                      "id": "st-4e518fb907",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-47bba07976",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cd08eb1cab7246d5b1528666eeb2e293/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Ả Rập Xê Út",
-            "team_b": "Hàn Quốc",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4x9ryox/image/small",
-            "time": "21:30:00",
-            "date": "13/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4hy751zq0j_21254a7b_20261113.png?v=21254a7b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-01c44005e3",
-          "name": "Qatar vs Australia | 21:45 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-01c44005e3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-01c44005e3",
-                  "name": "Qatar vs Australia",
-                  "streams": [
-                    {
-                      "id": "st-01c44005e3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8b7b52064",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3aa3415396c6489fbde7b6e8d513d875/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Qatar",
-            "team_b": "Australia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh1y9qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhgpp7ryk0/image/small",
-            "time": "21:45:00",
-            "date": "13/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h549x0rz8_7473f271_20261113.png?v=7473f271",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-9b1e55c491",
           "name": "Nigeria vs Tanzania | 23:00 13/11",
@@ -1213,8 +1069,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-44edfef8ce",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-3e002e5046",
+                          "name": "LÝ LÊN LỬA",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/1061408f97f14777968345dbf8bcdf4e/index.m3u8",
@@ -1244,7 +1100,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh2ylql07/image/small",
             "time": "21:00:00",
             "date": "14/11",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LÊN LỬA",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1285,8 +1141,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-7c8961369d",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-c6203b430d",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/6b87f46dc86f45beb6c6ede135827cfd/index.m3u8",
@@ -1316,78 +1172,6 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllh2de0qvy9/image/small",
             "time": "22:00:00",
             "date": "14/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldk1gmoe_b3299265_20261113.png?v=b3299265",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6042ff7117",
-          "name": "Real Sociedad B vs Sporting Gijon | 22:15 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6042ff7117",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6042ff7117",
-                  "name": "Real Sociedad B vs Sporting Gijon",
-                  "streams": [
-                    {
-                      "id": "st-6042ff7117",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-103bd0d069",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6e8ad1fad76f43158cc2ae99614aa05b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish Segunda Division",
-            "team_a": "Real Sociedad B",
-            "team_b": "Sporting Gijon",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66hoov2qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghz3emoep/image/small",
-            "time": "22:15:00",
-            "date": "14/11",
             "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
@@ -1396,7 +1180,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgk23pr51_fc8816f9_20261113.png?v=fc8816f9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldk1gmoe_b3299265_20261113.png?v=b3299265",
             "width": 1600,
             "height": 1200
           }
