@@ -807,6 +807,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d9261f6aea",
+          "name": "Bỉ vs Italy | 02:45 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d9261f6aea",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d9261f6aea",
+                  "name": "Bỉ vs Italy",
+                  "streams": [
+                    {
+                      "id": "st-d9261f6aea",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1128df97c",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/74f0dbf7e2fa4b0f84f77b81505005ad/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Bỉ",
+            "team_b": "Italy",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hd5eqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh290md7o/image/small",
+            "time": "02:45:00",
+            "date": "16/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4gl4qvy_30d0bb7f_20261115.png?v=30d0bb7f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8560dcf233",
+          "name": "Pháp vs Thổ Nhĩ Kỳ | 02:45 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8560dcf233",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8560dcf233",
+                  "name": "Pháp vs Thổ Nhĩ Kỳ",
+                  "streams": [
+                    {
+                      "id": "st-8560dcf233",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e1f21410c",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/358453246c4c43979f66a22054b1344a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Pháp",
+            "team_b": "Thổ Nhĩ Kỳ",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdj9m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllhvxyqvy9/image/small",
+            "time": "02:45:00",
+            "date": "16/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89yv8qwz_cc90dfce_20261115.png?v=cc90dfce",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-dd5a78574f",
+          "name": "Tây Ban Nha vs Anh | 02:45 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd5a78574f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dd5a78574f",
+                  "name": "Tây Ban Nha vs Anh",
+                  "streams": [
+                    {
+                      "id": "st-dd5a78574f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8492599c0a",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/322d5ff64943457ebf7da1c22731af74/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Tây Ban Nha",
+            "team_b": "Anh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4vgymoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small",
+            "time": "02:45:00",
+            "date": "16/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3vndq82_4eb0d60b_20261115.png?v=4eb0d60b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
