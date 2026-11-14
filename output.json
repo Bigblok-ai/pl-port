@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-77ce4f2945",
-          "name": "Kosovo vs Israel | 21:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-77ce4f2945",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-77ce4f2945",
-                  "name": "Kosovo vs Israel",
-                  "streams": [
-                    {
-                      "id": "st-77ce4f2945",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3e002e5046",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1061408f97f14777968345dbf8bcdf4e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Kosovo",
-            "team_b": "Israel",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohke43q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh2ylql07/image/small",
-            "time": "21:00:00",
-            "date": "14/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9nowpm7v_01ccdec6_20261114.png?v=01ccdec6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-70b297bb48",
           "name": "Bồ Đào Nha U17 vs Bulgaria U17 | 22:00 14/11",
