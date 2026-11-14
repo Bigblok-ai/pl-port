@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-663d107c39",
-          "name": "Na Uy vs Xứ Wales | 00:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-663d107c39",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-663d107c39",
-                  "name": "Na Uy vs Xứ Wales",
-                  "streams": [
-                    {
-                      "id": "st-663d107c39",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8188b7ec0",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/903c0b96dabf4ce097f2e0f292034a58/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Na Uy",
-            "team_b": "Xứ Wales",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h77lmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/ednm9whk0w2ryox/image/small",
-            "time": "00:00:00",
-            "date": "15/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y5vmoe_7132d57c_20261115.png?v=7132d57c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-ee1016b14e",
-          "name": "Georgia vs Hungary | 00:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ee1016b14e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ee1016b14e",
-                  "name": "Georgia vs Hungary",
-                  "streams": [
-                    {
-                      "id": "st-ee1016b14e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-621cea130d",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/53babd65f7c844beaf40e900a274efa2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Georgia",
-            "team_b": "Hungary",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh4v0xr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehk7er510/image/small",
-            "time": "00:00:00",
-            "date": "15/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4kxz3r8k_489cb264_20261115.png?v=489cb264",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f71002b730",
           "name": "Bồ Đào Nha vs Đan Mạch | 02:45 15/11",
@@ -233,6 +89,78 @@
           }
         },
         {
+          "id": "pl-e96828408d",
+          "name": "Romania vs Ba Lan | 02:45 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e96828408d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e96828408d",
+                  "name": "Romania vs Ba Lan",
+                  "streams": [
+                    {
+                      "id": "st-e96828408d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3346e923a",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/36d905dc6b9843e1bc4b08ae763cad98/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Romania",
+            "team_b": "Ba Lan",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh912md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnngq86p/image/small",
+            "time": "02:45:00",
+            "date": "15/11",
+            "blv": "LÃM LÀNG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl76wnq1z_aabeb048_20261115.png?v=aabeb048",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-bc1ca2319d",
           "name": "Thụy Điển vs Bosnia-Herzegovina | 02:45 15/11",
           "type": "single",
@@ -300,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgjwv0r51_ddf2d043_20261115.png?v=ddf2d043",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-e96828408d",
-          "name": "Romania vs Ba Lan | 02:45 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e96828408d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e96828408d",
-                  "name": "Romania vs Ba Lan",
-                  "streams": [
-                    {
-                      "id": "st-e96828408d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c3346e923a",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/36d905dc6b9843e1bc4b08ae763cad98/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Romania",
-            "team_b": "Ba Lan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh912md7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnngq86p/image/small",
-            "time": "02:45:00",
-            "date": "15/11",
-            "blv": "LÃM LÀNG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl76wnq1z_aabeb048_20261115.png?v=aabeb048",
             "width": 1600,
             "height": 1200
           }
