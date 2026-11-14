@@ -1117,83 +1117,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-882d84459e",
-          "name": "Hisamitsu Springs Women vs PFU Blue Cats Women | 11:05 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-882d84459e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-882d84459e",
-                  "name": "Hisamitsu Springs Women vs PFU Blue Cats Women",
-                  "streams": [
-                    {
-                      "id": "st-882d84459e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b4852da6b",
-                          "name": "LÝ LÊN LỬA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d89c28ea55644340998c08079d4f4a96/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Hisamitsu Springs Women",
-            "team_b": "PFU Blue Cats Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EchVejjl-MTWAZAlJ.png",
-            "time": "11:05:00",
-            "date": "14/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d2e3aad598f1402184fa1974fa8b9467_cfd7d108_20261114.png?v=cfd7d108",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-220f534b0f",
           "name": "Okayama Seagulls Women vs NEC Red Rockets Women | 12:05 14/11",
