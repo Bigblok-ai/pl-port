@@ -1112,6 +1112,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d67a53b056",
+          "name": "New Zealand vs Ấn Độ | 10:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d67a53b056",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d67a53b056",
+                  "name": "New Zealand vs Ấn Độ",
+                  "streams": [
+                    {
+                      "id": "st-d67a53b056",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d989729f90",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bbb4244d81514ec3a1e6ecf4d26e391d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "New Zealand",
+            "team_b": "Ấn Độ",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whkk88ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhdk8r1ge/image/small",
+            "time": "10:00:00",
+            "date": "15/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4hyex2yq0j_e2139547_20261114.png?v=e2139547",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
