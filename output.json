@@ -1117,83 +1117,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-220f534b0f",
-          "name": "Okayama Seagulls Women vs NEC Red Rockets Women | 12:05 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-220f534b0f",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-220f534b0f",
-                  "name": "Okayama Seagulls Women vs NEC Red Rockets Women",
-                  "streams": [
-                    {
-                      "id": "st-220f534b0f",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a0d9405e07",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6034f65082164f7cb1f62aebdf041cc2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Okayama Seagulls Women",
-            "team_b": "NEC Red Rockets Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/0WBCGUh5-6FZ2yXJ6.png",
-            "time": "12:05:00",
-            "date": "14/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a5d0e7deceed4fe5b02287da7fe04989_0873cf4c_20261114.png?v=0873cf4c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4bf16d791a",
           "name": "Gebze vs Ziraat Bankasi | 18:00 14/11",
