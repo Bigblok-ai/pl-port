@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-3a4b896f78",
+          "name": "Kyrgyzstan vs Việt Nam | 19:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3a4b896f78",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3a4b896f78",
+                  "name": "Kyrgyzstan vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-3a4b896f78",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9182617b4",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fbabf052e7a24dabbad93a20e4716aab/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Kyrgyzstan",
+            "team_b": "Việt Nam",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkv8xq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph93jr8k0/image/small",
+            "time": "19:00:00",
+            "date": "15/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzgh3j2goq82_2eaa17e0_20261114.png?v=2eaa17e0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
