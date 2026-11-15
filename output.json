@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghlz70gmoe_ef02e667_20261115.png?v=ef02e667",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghlz70gmoe_ef02e667_20261116.png?v=ef02e667",
             "width": 1600,
             "height": 1200
           }
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9no8pm7v_0a469b95_20261115.png?v=0a469b95",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9no8pm7v_0a469b95_20261116.png?v=0a469b95",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghngy8jm0v_fbd8e571_20261115.png?v=fbd8e571",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghngy8jm0v_fbd8e571_20261116.png?v=fbd8e571",
             "width": 1600,
             "height": 1200
           }
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,14 +292,14 @@
             "time": "00:30:00",
             "date": "16/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg46x2rep_203cdcfb_20261115.png?v=203cdcfb",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg46x2rep_203cdcfb_20261116.png?v=203cdcfb",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4gl4qvy_30d0bb7f_20261115.png?v=30d0bb7f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhn4gl4qvy_30d0bb7f_20261116.png?v=30d0bb7f",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89yv8qwz_cc90dfce_20261115.png?v=cc90dfce",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh89yv8qwz_cc90dfce_20261116.png?v=cc90dfce",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3vndq82_4eb0d60b_20261115.png?v=4eb0d60b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg3vndq82_4eb0d60b_20261116.png?v=4eb0d60b",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryoh7k76wq1z_364350d8_20261115.png?v=364350d8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryoh7k76wq1z_364350d8_20261116.png?v=364350d8",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz07xq86_461e287b_20261115.png?v=461e287b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz07xq86_461e287b_20261116.png?v=461e287b",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk8djvr1g_6f64c767_20261115.png?v=6f64c767",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk8djvr1g_6f64c767_20261116.png?v=6f64c767",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +803,151 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5yjyryo_bbfed65c_20261115.png?v=bbfed65c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw5yjyryo_bbfed65c_20261116.png?v=bbfed65c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-79ccc3a42e",
+          "name": "Estonia vs Bulgaria | 00:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-79ccc3a42e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-79ccc3a42e",
+                  "name": "Estonia vs Bulgaria",
+                  "streams": [
+                    {
+                      "id": "st-79ccc3a42e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8388b1206",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/46305cb029bb46daa6934615c0785833/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Estonia",
+            "team_b": "Bulgaria",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyhj23r1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h5j7qdyj/image/small",
+            "time": "00:00:00",
+            "date": "17/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hk5y8xrz8_18d351f5_20261116.png?v=18d351f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f565b8a46c",
+          "name": "Iceland vs Luxembourg | 00:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f565b8a46c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f565b8a46c",
+                  "name": "Iceland vs Luxembourg",
+                  "streams": [
+                    {
+                      "id": "st-f565b8a46c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b9564739d",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4d4162b309ee422d981331e879ad9abe/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Iceland",
+            "team_b": "Luxembourg",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh8zwryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkl5qwzv/image/small",
+            "time": "00:00:00",
+            "date": "17/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4kxg3r8k_676ae5ea_20261116.png?v=676ae5ea",
             "width": 1600,
             "height": 1200
           }
@@ -884,7 +1028,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c6401c301f8642dbad216cdc8007f41e_7dc91e8d_20261115.png?v=7dc91e8d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c6401c301f8642dbad216cdc8007f41e_7dc91e8d_20261116.png?v=7dc91e8d",
             "width": 1600,
             "height": 1200
           }
