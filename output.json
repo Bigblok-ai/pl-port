@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2a00533c19",
+          "name": "Namibia vs Cameroon | 20:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2a00533c19",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2a00533c19",
+                  "name": "Namibia vs Cameroon",
+                  "streams": [
+                    {
+                      "id": "st-2a00533c19",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-52e77b6d3e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d377417e31414eee93fd8a5a97cfe468/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CAF Africa Cup of Nations",
+            "team_a": "Namibia",
+            "team_b": "Cameroon",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh0l4omd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohod6q1zp/image/small",
+            "time": "20:00:00",
+            "date": "16/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxlenoqo9_3ca7e3d6_20261115.png?v=3ca7e3d6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
