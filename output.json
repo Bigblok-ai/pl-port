@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-e2fb9ec205",
-                          "name": "LÝ LẠNH LÙNG",
+                          "id": "lnk-f50dd63c6f",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a37ee78bd34e4873bdb9cecb76813509/index.m3u8",
@@ -363,7 +363,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9j9q82w/image/small",
             "time": "00:00:00",
             "date": "16/11",
-            "blv": "LÝ LẠNH LÙNG",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "football"
           },
@@ -404,8 +404,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-72a4550414",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-8e2de449c5",
+                          "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/519c3164c9a44a9680e1288632be580f/index.m3u8",
@@ -435,7 +435,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzppr510/image/small",
             "time": "00:30:00",
             "date": "16/11",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÝ LẠNH LÙNG",
             "is_live": false,
             "cate_type": "football"
           },
