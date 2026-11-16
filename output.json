@@ -89,8 +89,8 @@
           }
         },
         {
-          "id": "pl-928d7eb6d2",
-          "name": "Nữ Tây Ban Nha U17 vs Nữ Thụy Sĩ U17 | 18:00 16/11",
+          "id": "pl-1f4b21cd8c",
+          "name": "FK Graficar Beograd vs Vozdovac Beograd | 19:00 16/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -104,23 +104,23 @@
           ],
           "sources": [
             {
-              "id": "src-928d7eb6d2",
+              "id": "src-1f4b21cd8c",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-928d7eb6d2",
-                  "name": "Nữ Tây Ban Nha U17 vs Nữ Thụy Sĩ U17",
+                  "id": "ct-1f4b21cd8c",
+                  "name": "FK Graficar Beograd vs Vozdovac Beograd",
                   "streams": [
                     {
-                      "id": "st-928d7eb6d2",
+                      "id": "st-1f4b21cd8c",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-2b19a2d535",
+                          "id": "lnk-56d50b07bb",
                           "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/44995b2014cc46ffb64a68eb61d8404f/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/343c68affbd34b22a54a674f3b93e436/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -140,12 +140,12 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA European U17 Women's Championship",
-            "team_a": "Nữ Tây Ban Nha U17",
-            "team_b": "Nữ Thụy Sĩ U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl7kpqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn25yr510/image/small",
-            "time": "18:00:00",
+            "league": "Serbian Mozzart Bet Prva Liga",
+            "team_a": "FK Graficar Beograd",
+            "team_b": "Vozdovac Beograd",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/2y8m4zhg3nlql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghlweq82w/image/small",
+            "time": "19:00:00",
             "date": "16/11",
             "blv": "LÝ LINH LỰC",
             "is_live": false,
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyz07xq86_461e287b_20261116.png?v=461e287b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhykp93ryk_9257df5e_20261116.png?v=9257df5e",
             "width": 1600,
             "height": 1200
           }
