@@ -1239,6 +1239,366 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b5106a3858",
+          "name": "Xứ Wales vs Bồ Đào Nha | 02:45 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b5106a3858",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b5106a3858",
+                  "name": "Xứ Wales vs Bồ Đào Nha",
+                  "streams": [
+                    {
+                      "id": "st-b5106a3858",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-622a8af003",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bd84053a32a04afd85a0abd406650a25/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Xứ Wales",
+            "team_b": "Bồ Đào Nha",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whk0w2ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hwpeq0j6/image/small",
+            "time": "02:45:00",
+            "date": "18/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5vyl1ql0_a0f7145e_20261117.png?v=a0f7145e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-60255f9e04",
+          "name": "Hungary vs Bắc Ireland | 02:45 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60255f9e04",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-60255f9e04",
+                  "name": "Hungary vs Bắc Ireland",
+                  "streams": [
+                    {
+                      "id": "st-60255f9e04",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e65dd58ae2",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b5ba58cd4f824702bf3e15e09eb29ea6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hungary",
+            "team_b": "Bắc Ireland",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehk7er510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh8g5ryk0/image/small",
+            "time": "02:45:00",
+            "date": "18/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvkyxgmd7_dad9e330_20261117.png?v=dad9e330",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-124e45cf79",
+          "name": "Đan Mạch vs Na Uy | 02:45 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-124e45cf79",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-124e45cf79",
+                  "name": "Đan Mạch vs Na Uy",
+                  "streams": [
+                    {
+                      "id": "st-124e45cf79",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fff5586260",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/08e3b76f26b041c3bf4a33a2fb257703/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Đan Mạch",
+            "team_b": "Na Uy",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hnlgmojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h77lmojx/image/small",
+            "time": "02:45:00",
+            "date": "18/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl768nq1z_5ca18336_20261117.png?v=5ca18336",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-71ecfb897b",
+          "name": "Israel vs Áo | 02:45 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-71ecfb897b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-71ecfb897b",
+                  "name": "Israel vs Áo",
+                  "streams": [
+                    {
+                      "id": "st-71ecfb897b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f3caf6f9e",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/06e887c44a0f4d73b6fea327105aad0c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Israel",
+            "team_b": "Áo",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh2ylql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh6d1ryk0/image/small",
+            "time": "02:45:00",
+            "date": "18/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhyl8deryk_dbe80341_20261117.png?v=dbe80341",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-1f0191c257",
+          "name": "Ba Lan vs Thụy Điển | 02:45 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f0191c257",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-1f0191c257",
+                  "name": "Ba Lan vs Thụy Điển",
+                  "streams": [
+                    {
+                      "id": "st-1f0191c257",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9099a9f46b",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/beddf82de26c4d69b33f947b4b77d965/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Ba Lan",
+            "team_b": "Thụy Điển",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnngq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hpe5qo9j/image/small",
+            "time": "02:45:00",
+            "date": "18/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjxy4zm2w_185c92dd_20261117.png?v=185c92dd",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
