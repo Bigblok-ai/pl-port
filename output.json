@@ -1320,6 +1320,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-39858ef411",
+          "name": "SOOP SOOPers Womon vs Hyundai E&C Hillstate Womon | 17:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-39858ef411",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-39858ef411",
+                  "name": "SOOP SOOPers Womon vs Hyundai E&C Hillstate Womon",
+                  "streams": [
+                    {
+                      "id": "st-39858ef411",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51b4ee597b",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/74f5366cbad241b79ca34c409f5ca9a0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Womon (Play Offs)",
+            "team_a": "SOOP SOOPers Womon",
+            "team_b": "Hyundai E&C Hillstate Womon",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/890cd7399f4d00edc1f37cae88054b38.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/51abc08b9395b1fb3c17ca3821770b6e.png!w80",
+            "time": "17:00:00",
+            "date": "18/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/77ee21f5462c413cbd2e8ecb3be191a6_dcd4ff22_20261116.png?v=dcd4ff22",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
