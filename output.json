@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "pl-7b70c1d0f1",
-          "name": "Thụy Sĩ vs Scotland | 02:45 17/11",
+          "name": "Thụy Sĩ vs Scotland",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -73,8 +73,8 @@
             "team_b": "Scotland",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn3gq86p/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4kkrepz/image/small",
-            "time": "02:45:00",
-            "date": "17/11",
+            "time": "",
+            "date": "",
             "blv": "LÝ LONG",
             "is_live": true,
             "cate_type": "football"
@@ -90,7 +90,7 @@
         },
         {
           "id": "pl-c961817f4c",
-          "name": "Đức vs Hà Lan | 02:45 17/11",
+          "name": "Đức vs Hà Lan",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -145,8 +145,8 @@
             "team_b": "Hà Lan",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh590qg8n/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzj5moep/image/small",
-            "time": "02:45:00",
-            "date": "17/11",
+            "time": "",
+            "date": "",
             "blv": "LÝ LA LÀNG",
             "is_live": true,
             "cate_type": "football"
