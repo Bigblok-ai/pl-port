@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-18fa2aa7a9",
-          "name": "FC United Stars vs South United | 17:25 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-18fa2aa7a9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-18fa2aa7a9",
-                  "name": "FC United Stars vs South United",
-                  "streams": [
-                    {
-                      "id": "st-18fa2aa7a9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7b30b8f06e",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2cb79bfa43b747cf9765ca87cdbc2379/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Bangalore Super Division",
-            "team_a": "FC United Stars",
-            "team_b": "South United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phpzl8m2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5998md7o/image/small",
-            "time": "17:25:00",
-            "date": "16/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryoh7k76wq1z_364350d8_20261116.png?v=364350d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-1f4b21cd8c",
           "name": "FK Graficar Beograd vs Vozdovac Beograd | 19:00 16/11",
@@ -1092,6 +1020,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehjnn0xr51_0c64ac36_20261116.png?v=0c64ac36",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-aca706ee24",
+          "name": "Thái Lan vs Tajikistan | 19:30 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aca706ee24",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aca706ee24",
+                  "name": "Thái Lan vs Tajikistan",
+                  "streams": [
+                    {
+                      "id": "st-aca706ee24",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37ee50e1b7",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9d1b37c0e7554749a6b26b413ac5e87e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "International Friendly",
+            "team_a": "Thái Lan",
+            "team_b": "Tajikistan",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhyg2qwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehny72r510/image/small",
+            "time": "19:30:00",
+            "date": "17/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4hy7oyxq0j_fef0fcd1_20261116.png?v=fef0fcd1",
             "width": 1600,
             "height": 1200
           }
