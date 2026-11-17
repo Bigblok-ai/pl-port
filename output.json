@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-bd56f7d30a",
-          "name": "Ả Rập Xê Út vs Uzbekistan | 22:30 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bd56f7d30a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bd56f7d30a",
-                  "name": "Ả Rập Xê Út vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "st-bd56f7d30a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d94e546ff",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6e205e1b49444e9e8c60eac95e1ca65f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Ả Rập Xê Út",
-            "team_b": "Uzbekistan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhjweqg8n/image/small",
-            "time": "22:30:00",
-            "date": "17/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekh2v8g7rep_ecf88bc9_20261118.png?v=ecf88bc9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0fd7fdd553",
           "name": "Nga vs Venezuela | 23:00 17/11",
