@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7952f60282",
+          "name": "Bengaluru Utd vs Sreenidi Deccan | 20:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7952f60282",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7952f60282",
+                  "name": "Bengaluru Utd vs Sreenidi Deccan",
+                  "streams": [
+                    {
+                      "id": "st-7952f60282",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a7b6fe3ee",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5e2678b3b9344192a092ebd982f38065/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian League Division 1",
+            "team_a": "Bengaluru Utd",
+            "team_b": "Sreenidi Deccan",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlh9yzgryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hydx0qdyj/image/small",
+            "time": "20:00:00",
+            "date": "18/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghk4gw3r6o_ba3b1503_20261117.png?v=ba3b1503",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
