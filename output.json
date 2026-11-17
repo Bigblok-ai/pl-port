@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-32424698bd",
-          "name": "Qatar vs Hàn Quốc | 21:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-32424698bd",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-32424698bd",
-                  "name": "Qatar vs Hàn Quốc",
-                  "streams": [
-                    {
-                      "id": "st-32424698bd",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b40ce46260",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9f2436077da64f079c34fc6ec6aa94d3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Qatar",
-            "team_b": "Hàn Quốc",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh1y9qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4x9ryox/image/small",
-            "time": "21:00:00",
-            "date": "17/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hd3k6lmoj_56e101e9_20261117.png?v=56e101e9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-bd56f7d30a",
           "name": "Ả Rập Xê Út vs Uzbekistan | 22:30 17/11",
