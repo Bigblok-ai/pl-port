@@ -1455,6 +1455,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c3e07f45b3",
+          "name": "Tampines Rovers vs Ratchaburi | 18:30 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3e07f45b3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c3e07f45b3",
+                  "name": "Tampines Rovers vs Ratchaburi",
+                  "streams": [
+                    {
+                      "id": "st-c3e07f45b3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd96f70205",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b9ca0b5191894265b0aa97a9355f07c5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Tampines Rovers",
+            "team_b": "Ratchaburi",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdeh51yr510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phoo5lm2wd/image/small",
+            "time": "18:30:00",
+            "date": "18/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghndl8xm0v_ed2d7fb9_20261117.png?v=ed2d7fb9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
