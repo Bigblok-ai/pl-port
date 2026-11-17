@@ -1095,6 +1095,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-13aea24ee7",
+          "name": "Nữ Real Madrid vs Nữ Inter Milan | 00:45 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13aea24ee7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-13aea24ee7",
+                  "name": "Nữ Real Madrid vs Nữ Inter Milan",
+                  "streams": [
+                    {
+                      "id": "st-13aea24ee7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e5cf6d637e",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b9e499d21e4d481ebd56daf119c3c6e3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Nữ Real Madrid",
+            "team_b": "Nữ Inter Milan",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66h0pxxqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh91kgrepz/image/small",
+            "time": "00:45:00",
+            "date": "19/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekh2z975rep_40cdec9c_20261118.png?v=40cdec9c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a843725326",
+          "name": "Nữ BK Hacken vs Nữ Manchester City | 00:45 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a843725326",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a843725326",
+                  "name": "Nữ BK Hacken vs Nữ Manchester City",
+                  "streams": [
+                    {
+                      "id": "st-a843725326",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-177f1725ea",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/961b8c21533f47f3b96e337841f78c67/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Nữ BK Hacken",
+            "team_b": "Nữ Manchester City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l7oqdeh0d1gr510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekhve5krepz/image/small",
+            "time": "00:45:00",
+            "date": "19/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdv522moj_e41a41c7_20261118.png?v=e41a41c7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
