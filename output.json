@@ -1608,6 +1608,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-e73b47ee38",
+          "name": "Hungkuk Womon vs GS Caltex Womon | 17:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e73b47ee38",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e73b47ee38",
+                  "name": "Hungkuk Womon vs GS Caltex Womon",
+                  "streams": [
+                    {
+                      "id": "st-e73b47ee38",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76d0b3cb5e",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a623619be2be4682aa6c2290c068a034/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Womon",
+            "team_a": "Hungkuk Womon",
+            "team_b": "GS Caltex Womon",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/7c125325ea334416e9274666b17df6fb.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/91e2c70ddc763b4cf1e6baba9d11d9ca.png!w80",
+            "time": "17:00:00",
+            "date": "19/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/707bb9c1d1b04f7fb83474c45ff29253_ed3dca5d_20261117.png?v=ed3dca5d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d4881e4e1b",
+          "name": "Zeren Spor Womon vs Galatasaray Womon | 23:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d4881e4e1b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d4881e4e1b",
+                  "name": "Zeren Spor Womon vs Galatasaray Womon",
+                  "streams": [
+                    {
+                      "id": "st-d4881e4e1b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a5b4606fc",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/36e12b440c2a495da2a4507f0e2ba668/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup Nữ - Play Offs - Tứ kết",
+            "team_a": "Zeren Spor Womon",
+            "team_b": "Galatasaray Womon",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/54fc4aabcc2beabb25eee5af3ee4b164.png!w80",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/c6a08c3e390a071f4143d6ea1c4f2b11.png!w80",
+            "time": "23:00:00",
+            "date": "19/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/56c929a186a643168a185a0c903d866d_60e2d237_20261117.png?v=60e2d237",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
