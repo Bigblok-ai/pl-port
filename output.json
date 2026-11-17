@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-bdc8852170",
-          "name": "Malawi vs Ai Cập | 20:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bdc8852170",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bdc8852170",
-                  "name": "Malawi vs Ai Cập",
-                  "streams": [
-                    {
-                      "id": "st-bdc8852170",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f6077a532",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/428d128ebe1347d6bb5843514c92d6a5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CAF Africa Cup of Nations",
-            "team_a": "Malawi",
-            "team_b": "Ai Cập",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohze2q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small",
-            "time": "20:00:00",
-            "date": "17/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h67lk7moj_cc68bc98_20261117.png?v=cc68bc98",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-e0ade54b79",
           "name": "Nhật Bản vs Paraguay | 20:10 17/11",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "22:30:00",
             "date": "17/11",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1308,6 +1236,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghk4gw3r6o_ba3b1503_20261117.png?v=ba3b1503",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6c95a5dbf6",
+          "name": "El Gounah vs Ittihad Alexandria | 22:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c95a5dbf6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6c95a5dbf6",
+                  "name": "El Gounah vs Ittihad Alexandria",
+                  "streams": [
+                    {
+                      "id": "st-6c95a5dbf6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf2c83aee0",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ae06eef5b29f4fbe988095040e869386/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Egyptian Scores Cup",
+            "team_a": "El Gounah",
+            "team_b": "Ittihad Alexandria",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl59lqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh44d4moep/image/small",
+            "time": "22:00:00",
+            "date": "18/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phxkedym2w_4baa63a9_20261117.png?v=4baa63a9",
             "width": 1600,
             "height": 1200
           }
