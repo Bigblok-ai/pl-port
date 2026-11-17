@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -44,8 +44,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-cfee3deec4",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-b40201cfa7",
+                          "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/f5cddc56a95447f18b9d3228ef6fd69c/index.m3u8",
@@ -75,8 +75,8 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoholnq1zp/image/small",
             "time": "06:00:00",
             "date": "18/11",
-            "blv": "LÝ LÊN LỬA",
-            "is_live": false,
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
