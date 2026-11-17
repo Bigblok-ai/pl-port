@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cce43b078c",
-          "name": "Iraq vs Iran | 23:15 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cce43b078c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cce43b078c",
-                  "name": "Iraq vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-cce43b078c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e1f7291b22",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ff37396e5c8c493783925773489593e2/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Iraq",
-            "team_b": "Iran",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhg49qvy9/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4oyjm0ve/image/small",
-            "time": "23:15:00",
-            "date": "17/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghk4koyr6o_2e8a3d88_20261118.png?v=2e8a3d88",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-29a338c8a0",
           "name": "Ireland U21 vs Phần Lan U21 | 00:45 18/11",
