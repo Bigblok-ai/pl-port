@@ -773,8 +773,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-90edbc7fb5",
-                          "name": "LÝ LÊN LỬA",
+                          "id": "lnk-dd6992c6ca",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/1c62f0c27d2145d394c82df40f4ebdfd/index.m3u8",
@@ -804,7 +804,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/687539576e543f41b5aad9628994a518.png!w80",
             "time": "23:00:00",
             "date": "18/11",
-            "blv": "LÝ LÊN LỬA",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
