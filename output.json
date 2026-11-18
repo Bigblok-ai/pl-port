@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c3e07f45b3",
-          "name": "Tampines Rovers vs Ratchaburi | 18:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c3e07f45b3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c3e07f45b3",
-                  "name": "Tampines Rovers vs Ratchaburi",
-                  "streams": [
-                    {
-                      "id": "st-c3e07f45b3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bd96f70205",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b9ca0b5191894265b0aa97a9355f07c5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asean Club Championship Shopee Cup",
-            "team_a": "Tampines Rovers",
-            "team_b": "Ratchaburi",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdeh51yr510/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phoo5lm2wd/image/small",
-            "time": "18:30:00",
-            "date": "18/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghndl8xm0v_ed2d7fb9_20261118.png?v=ed2d7fb9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-734929d1b1",
           "name": "Borneo FC vs Manila Digger FC | 19:00 18/11",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h65n98q86_9961e7b3_20261118.png?v=9961e7b3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4602fdfd70",
+          "name": "Hàn Quốc U17 vs Uganda U17 | 20:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4602fdfd70",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4602fdfd70",
+                  "name": "Hàn Quốc U17 vs Uganda U17",
+                  "streams": [
+                    {
+                      "id": "st-4602fdfd70",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2e7a6fa670",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/96c55c3aa824402892748c5245288840/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Hàn Quốc U17",
+            "team_b": "Uganda U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlx6eqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2ghk00om0ve/image/small",
+            "time": "20:30:00",
+            "date": "19/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6en0kmoj_82f12219_20261118.png?v=82f12219",
             "width": 1600,
             "height": 1200
           }
