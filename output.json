@@ -591,49 +591,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-39858ef411",
-          "name": "SOOP SOOPers Womon vs Hyundai E&C Hillstate Womon | 17:00 18/11",
+          "id": "pl-4b39e4c276",
+          "name": "Svay Rieng FC vs Port FC | 19:00 19/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-39858ef411",
+              "id": "src-4b39e4c276",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-39858ef411",
-                  "name": "SOOP SOOPers Womon vs Hyundai E&C Hillstate Womon",
+                  "id": "ct-4b39e4c276",
+                  "name": "Svay Rieng FC vs Port FC",
                   "streams": [
                     {
-                      "id": "st-39858ef411",
+                      "id": "st-4b39e4c276",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-51b4ee597b",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-fee6ba3e32",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/74f5366cbad241b79ca34c409f5ca9a0/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/9f511d4c663e48cb802c6b835269d2e8/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -653,26 +644,107 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League Womon (Play Offs)",
-            "team_a": "SOOP SOOPers Womon",
-            "team_b": "Hyundai E&C Hillstate Womon",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/890cd7399f4d00edc1f37cae88054b38.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/51abc08b9395b1fb3c17ca3821770b6e.png!w80",
-            "time": "17:00:00",
-            "date": "18/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Svay Rieng FC",
+            "team_b": "Port FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh7ykdr1ge/image/small",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/77ee21f5462c413cbd2e8ecb3be191a6_dcd4ff22_20261118.png?v=dcd4ff22",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5dl2eql0_d610dbcf_20261118.png?v=d610dbcf",
             "width": 1600,
             "height": 1200
           }
         },
+        {
+          "id": "pl-db9ecc0abc",
+          "name": "Persib Bandung vs Shan United | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db9ecc0abc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-db9ecc0abc",
+                  "name": "Persib Bandung vs Shan United",
+                  "streams": [
+                    {
+                      "id": "st-db9ecc0abc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab7e946838",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c007b4de95ec48469dcf564d4d7c2da8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asean Club Championship Shopee Cup",
+            "team_a": "Persib Bandung",
+            "team_b": "Shan United",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghep3jmoep/image/small",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh8l377r1g_a024bc48_20261118.png?v=a024bc48",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-e026ddc529",
           "name": "Fenerbahce Womon vs THY Womon | 20:30 18/11",
