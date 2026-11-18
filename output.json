@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5c5a6c6c9e",
-          "name": "Argentina vs Costa Rica | 06:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5c5a6c6c9e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5c5a6c6c9e",
-                  "name": "Argentina vs Costa Rica",
-                  "streams": [
-                    {
-                      "id": "st-5c5a6c6c9e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b40201cfa7",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f5cddc56a95447f18b9d3228ef6fd69c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "International Friendly",
-            "team_a": "Argentina",
-            "team_b": "Costa Rica",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh868q1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoholnq1zp/image/small",
-            "time": "06:00:00",
-            "date": "18/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hy87yzq86_62a197fe_20261118.png?v=62a197fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6591fe1e57",
           "name": "Hồ Chí Minh vs Buriram United | 18:00 18/11",
