@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6591fe1e57",
-          "name": "Hồ Chí Minh vs Buriram United | 18:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6591fe1e57",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6591fe1e57",
-                  "name": "Hồ Chí Minh vs Buriram United",
-                  "streams": [
-                    {
-                      "id": "st-6591fe1e57",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-34fc9b44f5",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/c6f75ac819034192a822ebe58109dd95/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asean Club Championship Shopee Cup",
-            "team_a": "Hồ Chí Minh",
-            "team_b": "Buriram United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
-            "time": "18:00:00",
-            "date": "18/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg7g9dr51_e282952c_20261118.png?v=e282952c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c3e07f45b3",
           "name": "Tampines Rovers vs Ratchaburi | 18:30 18/11",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl38wpq1z_2aa393b0_20261118.png?v=2aa393b0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b451b4495c",
+          "name": "Pháp U17 vs Haiti U17 | 20:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b451b4495c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b451b4495c",
+                  "name": "Pháp U17 vs Haiti U17",
+                  "streams": [
+                    {
+                      "id": "st-b451b4495c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b2febeba09",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4b8138004fb3427fbad7ae4829825a4d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Pháp U17",
+            "team_b": "Haiti U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh6zpem7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw62wqdyj/image/small",
+            "time": "20:00:00",
+            "date": "19/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h65n98q86_9961e7b3_20261118.png?v=9961e7b3",
             "width": 1600,
             "height": 1200
           }
