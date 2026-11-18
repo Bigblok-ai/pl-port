@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7952f60282",
-          "name": "Bengaluru Utd vs Sreenidi Deccan | 20:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7952f60282",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7952f60282",
-                  "name": "Bengaluru Utd vs Sreenidi Deccan",
-                  "streams": [
-                    {
-                      "id": "st-7952f60282",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a7b6fe3ee",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5e2678b3b9344192a092ebd982f38065/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian League Division 1",
-            "team_a": "Bengaluru Utd",
-            "team_b": "Sreenidi Deccan",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlh9yzgryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hydx0qdyj/image/small",
-            "time": "20:00:00",
-            "date": "18/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghk4gw3r6o_ba3b1503_20261118.png?v=ba3b1503",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6c95a5dbf6",
           "name": "El Gounah vs Ittihad Alexandria | 22:00 18/11",
@@ -156,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phxkedym2w_4baa63a9_20261118.png?v=4baa63a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d34bbcf16a",
-          "name": "Portugalete vs Real Union | 01:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d34bbcf16a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d34bbcf16a",
-                  "name": "Portugalete vs Real Union",
-                  "streams": [
-                    {
-                      "id": "st-d34bbcf16a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5473153cc1",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/776e9816c1d341e0b285f9d3dc418a1f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Copa del Rey",
-            "team_a": "Portugalete",
-            "team_b": "Real Union",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg7v9ryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw0oyqdyj/image/small",
-            "time": "01:00:00",
-            "date": "19/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66h8zl5lqo9_4d86f45f_20261118.png?v=4d86f45f",
             "width": 1600,
             "height": 1200
           }
