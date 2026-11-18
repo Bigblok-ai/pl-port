@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6c95a5dbf6",
-          "name": "El Gounah vs Ittihad Alexandria | 22:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c95a5dbf6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6c95a5dbf6",
-                  "name": "El Gounah vs Ittihad Alexandria",
-                  "streams": [
-                    {
-                      "id": "st-6c95a5dbf6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf2c83aee0",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ae06eef5b29f4fbe988095040e869386/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Egyptian Scores Cup",
-            "team_a": "El Gounah",
-            "team_b": "Ittihad Alexandria",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl59lqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh44d4moep/image/small",
-            "time": "22:00:00",
-            "date": "18/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phxkedym2w_4baa63a9_20261119.png?v=4baa63a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-13aea24ee7",
           "name": "Nữ Real Madrid vs Nữ Inter Milan | 00:45 19/11",
@@ -1092,6 +1020,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6lj42qg8_47b3a901_20261119.png?v=47b3a901",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-029158a1db",
+          "name": "Nữ Austria Wien vs Nữ Bayern Munchen | 00:45 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-029158a1db",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-029158a1db",
+                  "name": "Nữ Austria Wien vs Nữ Bayern Munchen",
+                  "streams": [
+                    {
+                      "id": "st-029158a1db",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db74ec5390",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/463b785495fb4ca7a8a877056eaf11b5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Women's Champions League",
+            "team_a": "Nữ Austria Wien",
+            "team_b": "Nữ Bayern Munchen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jh3n0dqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3nwpql07/image/small",
+            "time": "00:45:00",
+            "date": "20/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4hyzej8q86_fb6c6b0a_20261119.png?v=fb6c6b0a",
             "width": 1600,
             "height": 1200
           }
