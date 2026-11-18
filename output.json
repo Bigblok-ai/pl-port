@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-fef0531dae",
+          "name": "Mozambique U17 vs Đan Mạch U17 | 22:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fef0531dae",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fef0531dae",
+                  "name": "Mozambique U17 vs Đan Mạch U17",
+                  "streams": [
+                    {
+                      "id": "st-fef0531dae",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-98c8e27809",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8fdd1f25eb3a43dcb84b864f5240907b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Mozambique U17",
+            "team_b": "Đan Mạch U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh1jyqg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhljpeqwzv/image/small",
+            "time": "22:00:00",
+            "date": "19/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx3p62qo9_3bd0e669_20261118.png?v=3bd0e669",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
