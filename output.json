@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-734929d1b1",
-          "name": "Borneo FC vs Manila Digger FC | 19:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-734929d1b1",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-734929d1b1",
-                  "name": "Borneo FC vs Manila Digger FC",
-                  "streams": [
-                    {
-                      "id": "st-734929d1b1",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b8126e9ff",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/42c4cc53bbd042b7a64152fac2e27e89/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asean Club Championship Shopee Cup",
-            "team_a": "Borneo FC",
-            "team_b": "Manila Digger FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg2jlr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/2y8m4zhz53yql07/image/small",
-            "time": "19:00:00",
-            "date": "18/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghkv4ldr6o_58bf860b_20261118.png?v=58bf860b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7952f60282",
           "name": "Bengaluru Utd vs Sreenidi Deccan | 20:00 18/11",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6en0kmoj_82f12219_20261118.png?v=82f12219",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b898835c4f",
+          "name": "Ả Rập Xê Út U17 vs Uruguay U17 | 21:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b898835c4f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b898835c4f",
+                  "name": "Ả Rập Xê Út U17 vs Uruguay U17",
+                  "streams": [
+                    {
+                      "id": "st-b898835c4f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebe03caf9d",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bbf90b3f1f9c4e008e6a683180904251/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Ả Rập Xê Út U17",
+            "team_b": "Uruguay U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8vy5q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh46o0m0ve/image/small",
+            "time": "21:00:00",
+            "date": "19/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy0overyk_4ad46ccf_20261118.png?v=4ad46ccf",
             "width": 1600,
             "height": 1200
           }
