@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e026ddc529",
-          "name": "Fenerbahce Womon vs THY Womon | 20:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e026ddc529",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e026ddc529",
-                  "name": "Fenerbahce Womon vs THY Womon",
-                  "streams": [
-                    {
-                      "id": "st-e026ddc529",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-208c461d29",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cc8f723a5ca54c04adfc4ec63a3e2770/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Cup Womon - Play Offs - Tứ kết",
-            "team_a": "Fenerbahce Womon",
-            "team_b": "THY Womon",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/faa46ea1d338402036b2e573b72f9b43.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png!w80",
-            "time": "20:30:00",
-            "date": "18/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f0993cae709b455ba6633562f976a422_7d8889c7_20261118.png?v=7d8889c7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-da10d75580",
           "name": "Eczacibasi Womon vs Aras Kargo Womon | 23:00 18/11",
