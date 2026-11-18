@@ -951,6 +951,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b01fdf7957",
+          "name": "Qatar U17 vs Panama U17 | 22:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b01fdf7957",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b01fdf7957",
+                  "name": "Qatar U17 vs Panama U17",
+                  "streams": [
+                    {
+                      "id": "st-b01fdf7957",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-854d8ed623",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/51e5c3e4a0ed41e789ef88cbc2e89d40/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Qatar U17",
+            "team_b": "Panama U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhpzjqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh09vjmd7o/image/small",
+            "time": "22:30:00",
+            "date": "19/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvpo1gmd7_fc49b3f0_20261118.png?v=fc49b3f0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
