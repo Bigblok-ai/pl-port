@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-9fc1d87a76",
+          "name": "Al-Ain FC vs Al-Dhafra | 22:25 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9fc1d87a76",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9fc1d87a76",
+                  "name": "Al-Ain FC vs Al-Dhafra",
+                  "streams": [
+                    {
+                      "id": "st-9fc1d87a76",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-531fd08a45",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17c8d81a9b0146e1a99b1cac3251f87f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United Arab Emirates Adnoc Pro-League",
+            "team_a": "Al-Ain FC",
+            "team_b": "Al-Dhafra",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phk537m2wd/image/small",
+            "time": "22:25:00",
+            "date": "19/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv5eoqg8_73ca0f01_20261118.png?v=73ca0f01",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
