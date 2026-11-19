@@ -1189,83 +1189,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d4881e4e1b",
-          "name": "Zeren Spor Womon vs Galatasaray Womon | 23:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4881e4e1b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d4881e4e1b",
-                  "name": "Zeren Spor Womon vs Galatasaray Womon",
-                  "streams": [
-                    {
-                      "id": "st-d4881e4e1b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4a5b4606fc",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/36e12b440c2a495da2a4507f0e2ba668/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Cup Nữ - Play Offs - Tứ kết",
-            "team_a": "Zeren Spor Womon",
-            "team_b": "Galatasaray Womon",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/54fc4aabcc2beabb25eee5af3ee4b164.png!w80",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/c6a08c3e390a071f4143d6ea1c4f2b11.png!w80",
-            "time": "23:00:00",
-            "date": "19/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/56c929a186a643168a185a0c903d866d_60e2d237_20261120.png?v=60e2d237",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-f3e885ff50",
           "name": "Expressway Co Womon vs IBK Womon | 17:00 20/11",
