@@ -1555,6 +1555,78 @@
           }
         },
         {
+          "id": "pl-29dfed3c89",
+          "name": "Eczacibasi Women vs Kuzey Boru Genclik Women | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-29dfed3c89",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-29dfed3c89",
+                  "name": "Eczacibasi Women vs Kuzey Boru Genclik Women",
+                  "streams": [
+                    {
+                      "id": "st-29dfed3c89",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73802eca24",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4715d3e6cdd247f4b025b2c8fe2e2f40/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Women",
+            "team_a": "Eczacibasi Women",
+            "team_b": "Kuzey Boru Genclik Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/lKSlNof5-GdX8fNqC.png",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c81e91ec72c347e0b4ffa2e542fddff3_94020c06_20261119.png?v=94020c06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-58eab3a669",
           "name": "Aras Kargo Women vs Fenerbahce Women | 19:00 21/11",
           "type": "single",
