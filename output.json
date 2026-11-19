@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b295c60195",
-          "name": "Coritiba SAF vs Santos | 05:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b295c60195",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b295c60195",
-                  "name": "Coritiba SAF vs Santos",
-                  "streams": [
-                    {
-                      "id": "st-b295c60195",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31b491bff1",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/970f5f1793354badbcfd97bca59531c5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Brazilian Serie A",
-            "team_a": "Coritiba SAF",
-            "team_b": "Santos",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoenr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhvd7r1ge/image/small",
-            "time": "05:30:00",
-            "date": "19/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1g7zyq0j_a0abbd24_20261119.png?v=a0abbd24",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-b40bd62c7d",
           "name": "Preston Lions vs South Hobart | 15:30 19/11",
