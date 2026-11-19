@@ -879,6 +879,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-8d0594eb36",
+          "name": "Bà Rịa Vũng Tàu vs Thai Nguyen | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d0594eb36",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8d0594eb36",
+                  "name": "Bà Rịa Vũng Tàu vs Thai Nguyen",
+                  "streams": [
+                    {
+                      "id": "st-8d0594eb36",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a4a0610dc",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/de00df40aad64b32b8edad06488a75fe/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Bà Rịa Vũng Tàu",
+            "team_b": "Thai Nguyen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjk42mojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkhxn5dqg8n/image/small",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxlyz8qo9_62645dce_20261119.png?v=62645dce",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-377487d637",
+          "name": "Thanh Hóa vs Hoàng Anh Gia Lai | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-377487d637",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-377487d637",
+                  "name": "Thanh Hóa vs Hoàng Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "st-377487d637",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ebad53229",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d46546c7c4a64af4b37aeb8c7e43a4d7/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Thanh Hóa",
+            "team_b": "Hoàng Anh Gia Lai",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8kw3q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnd6gkqdy_74bf2248_20261119.png?v=74bf2248",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-d6f3153a07",
+          "name": "Vissel Kobe vs Mito Hollyhock | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6f3153a07",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d6f3153a07",
+                  "name": "Vissel Kobe vs Mito Hollyhock",
+                  "streams": [
+                    {
+                      "id": "st-d6f3153a07",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9c6668fe9",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/705a0e80399b40639e146599224d6291/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Vissel Kobe",
+            "team_b": "Mito Hollyhock",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhd7kmd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/23xmvkh3dg6qg8n/image/small",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgdwgprep_9802d9b7_20261119.png?v=9802d9b7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
