@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-fbcddeed9b",
+          "name": "Beijing Guoan vs Shanghai Port | 18:35 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbcddeed9b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-fbcddeed9b",
+                  "name": "Beijing Guoan vs Shanghai Port",
+                  "streams": [
+                    {
+                      "id": "st-fbcddeed9b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a498bcb21e",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4c9eb5a1bd504609b6ae437954f0be78/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese FA Cup",
+            "team_a": "Beijing Guoan",
+            "team_b": "Shanghai Port",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whlxkryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small",
+            "time": "18:35:00",
+            "date": "20/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghg8gpwq82_e803311e_20261119.png?v=e803311e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
