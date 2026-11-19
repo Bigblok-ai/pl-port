@@ -989,8 +989,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-76d0b3cb5e",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-61875f34d1",
+                          "name": "LÝ LINH LỰC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/a623619be2be4682aa6c2290c068a034/index.m3u8",
@@ -1020,7 +1020,7 @@
             "logo_b": "https://img0.aiscore.com/volleyball/team/91e2c70ddc763b4cf1e6baba9d11d9ca.png!w80",
             "time": "17:00:00",
             "date": "19/11",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LINH LỰC",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
