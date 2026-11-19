@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "pl-4b39e4c276",
-          "name": "Svay Rieng FC vs Port FC | 19:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4b39e4c276",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4b39e4c276",
-                  "name": "Svay Rieng FC vs Port FC",
-                  "streams": [
-                    {
-                      "id": "st-4b39e4c276",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fee6ba3e32",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9f511d4c663e48cb802c6b835269d2e8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asean Club Championship Shopee Cup",
-            "team_a": "Svay Rieng FC",
-            "team_b": "Port FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh7ykdr1ge/image/small",
-            "time": "19:00:00",
-            "date": "19/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5dl2eql0_d610dbcf_20261119.png?v=d610dbcf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-db9ecc0abc",
           "name": "Persib Bandung vs Shan United | 19:00 19/11",
           "type": "single",
@@ -956,7 +884,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -969,10 +897,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1021,7 +949,7 @@
             "time": "17:00:00",
             "date": "19/11",
             "blv": "LÝ LINH LỰC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
