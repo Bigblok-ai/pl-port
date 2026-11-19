@@ -1553,6 +1553,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-58eab3a669",
+          "name": "Aras Kargo Women vs Fenerbahce Women | 19:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58eab3a669",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-58eab3a669",
+                  "name": "Aras Kargo Women vs Fenerbahce Women",
+                  "streams": [
+                    {
+                      "id": "st-58eab3a669",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa2a175e28",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/69d80a5391b04047b8a74d5607392af2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Women",
+            "team_a": "Aras Kargo Women",
+            "team_b": "Fenerbahce Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/OlaTX8Xg-OWRI6OC5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png",
+            "time": "19:00:00",
+            "date": "21/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5e3c8374d0eb461fa7a0f69d131cdf7c_1ef0a249_20261119.png?v=1ef0a249",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
