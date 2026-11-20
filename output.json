@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +309,7 @@
             "time": "20:00:00",
             "date": "20/11",
             "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1117,83 +1117,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f3e885ff50",
-          "name": "Expressway Co Womon vs IBK Womon | 17:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3e885ff50",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f3e885ff50",
-                  "name": "Expressway Co Womon vs IBK Womon",
-                  "streams": [
-                    {
-                      "id": "st-f3e885ff50",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb2b5e83cd",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/df0b4716674342b59b547a3e87d72889/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Womon",
-            "team_a": "Expressway Co Womon",
-            "team_b": "IBK Womon",
-            "logo_a": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "time": "17:00:00",
-            "date": "20/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2f14c00b05a34ae0a17e748934c60ae3_afe0186c_20261120.png?v=afe0186c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e79c410a07",
           "name": "Gunma Bank Green Wings Women vs Aleeza Aichi Women | 11:05 21/11",
