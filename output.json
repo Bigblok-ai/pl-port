@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7de6050289",
+          "name": "Real Madrid vs Celta | 03:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7de6050289",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7de6050289",
+                  "name": "Real Madrid vs Celta",
+                  "streams": [
+                    {
+                      "id": "st-7de6050289",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77db3021dd",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6e430fb4c8484621bea0e4a5e34b1d20/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Madrid",
+            "team_b": "Celta",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small",
+            "time": "03:00:00",
+            "date": "22/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4exjryo_77731591_20261121.png?v=77731591",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
