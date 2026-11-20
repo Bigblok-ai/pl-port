@@ -1239,6 +1239,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-26c54c61a5",
+          "name": "Nice vs PSG | 23:15 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26c54c61a5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-26c54c61a5",
+                  "name": "Nice vs PSG",
+                  "streams": [
+                    {
+                      "id": "st-26c54c61a5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd926a2a34",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9565242e8c05451b9aeac2a92273d397/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "Nice",
+            "team_b": "PSG",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h5oeqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "time": "23:15:00",
+            "date": "21/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgepn4q82_c8a61d91_20261120.png?v=c8a61d91",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
