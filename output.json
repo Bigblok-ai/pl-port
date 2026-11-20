@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7b46a52fbc",
-          "name": "Bỉ U17 vs Việt Nam U17 | 20:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7b46a52fbc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7b46a52fbc",
-                  "name": "Bỉ U17 vs Việt Nam U17",
-                  "streams": [
-                    {
-                      "id": "st-7b46a52fbc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c7bf62a534",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/93904cb680c041ebb4fb381abff6c647/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0636f58d88",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/400e819aac7346338916011ac5c1d11e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Bỉ U17",
-            "team_b": "Việt Nam U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwy4kqdyj/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small",
-            "time": "20:00:00",
-            "date": "20/11",
-            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9d0kpm7v_86b74d17_20261120.png?v=86b74d17",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5a3121d173",
           "name": "Mali U17 vs New Zealand U17 | 20:30 20/11",
@@ -1181,6 +1092,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k0yeqwz_5a6befe9_20261120.png?v=5a6befe9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-16c3303d84",
+          "name": "Brazil U17 vs Ireland U17 | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16c3303d84",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-16c3303d84",
+                  "name": "Brazil U17 vs Ireland U17",
+                  "streams": [
+                    {
+                      "id": "st-16c3303d84",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-53c49da7d7",
+                          "name": "LÝ LINH LỰC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cb26cd62787b4d0eba0e6069649c795b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Brazil U17",
+            "team_b": "Ireland U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkg8om2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllh2908qvy9/image/small",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "LÝ LINH LỰC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn5j7jm0v_c4897e37_20261120.png?v=c4897e37",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e424015eb6",
+          "name": "Aston Villa vs Sunderland | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e424015eb6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e424015eb6",
+                  "name": "Aston Villa vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-e424015eb6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0f66462d66",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c5f0cdb0bc8f4e58912cf2dca33225c3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Aston Villa",
+            "team_b": "Sunderland",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1jjn8q0j_b1914d2b_20261120.png?v=b1914d2b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-abfbf86b6c",
+          "name": "Chelsea vs Leeds United | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-abfbf86b6c",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-abfbf86b6c",
+                  "name": "Chelsea vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-abfbf86b6c",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a2e5cd1e3",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5aba7202b82346599e17ec364bef3c16/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Chelsea",
+            "team_b": "Leeds United",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldzvkmoe_d0030bfc_20261120.png?v=d0030bfc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-bf36caa370",
+          "name": "Tottenham vs Ipswich | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf36caa370",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-bf36caa370",
+                  "name": "Tottenham vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-bf36caa370",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cc5c5c7608",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d5d201a26ee24d0a8efced89685e5c4d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Tottenham",
+            "team_b": "Ipswich",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzknor51_b01fa0cc_20261120.png?v=b01fa0cc",
             "width": 1600,
             "height": 1200
           }
