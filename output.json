@@ -1184,6 +1184,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-b23f4a503b",
+          "name": "Nam Định vs XM Hải Phòng FC | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b23f4a503b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b23f4a503b",
+                  "name": "Nam Định vs XM Hải Phòng FC",
+                  "streams": [
+                    {
+                      "id": "st-b23f4a503b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f7052dee2",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/842723ce97c7412aa394d2b8199d018f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Nam Định",
+            "team_b": "XM Hải Phòng FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h826oq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj482om2w_8d7aca2a_20261120.png?v=8d7aca2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-41c002de26",
+          "name": "Bình Phước vs Hà Nội FC | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41c002de26",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-41c002de26",
+                  "name": "Bình Phước vs Hà Nội FC",
+                  "streams": [
+                    {
+                      "id": "st-41c002de26",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8820d5c805",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7bee746d31c646c798294006d1fd3c14/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Bình Phước",
+            "team_b": "Hà Nội FC",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4he7kjq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghen9wmoep/image/small",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh876weqwz_f19bc366_20261120.png?v=f19bc366",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
