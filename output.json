@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b2e578a38a",
-          "name": "Athletic Bilbao vs Espanyol | 03:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2e578a38a",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b2e578a38a",
-                  "name": "Athletic Bilbao vs Espanyol",
-                  "streams": [
-                    {
-                      "id": "st-b2e578a38a",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ecceb7498",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/00074ac36028404fa3e64c20b3e1cce6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Athletic Bilbao",
-            "team_b": "Espanyol",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzzpr510/image/small",
-            "time": "03:00:00",
-            "date": "21/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph46p8nr8k_3badad3e_20261121.png?v=3badad3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-42ce2ac059",
           "name": "Mahar United vs Myawady | 16:30 21/11",
