@@ -1184,6 +1184,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-42ce2ac059",
+          "name": "Mahar United vs Myawady | 16:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-42ce2ac059",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-42ce2ac059",
+                  "name": "Mahar United vs Myawady",
+                  "streams": [
+                    {
+                      "id": "st-42ce2ac059",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-304d9d094c",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ba0e2638ad95496eba566596976c4122/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Mahar United",
+            "team_b": "Myawady",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9whzg57ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2ghv7gzm0ve/image/small",
+            "time": "16:30:00",
+            "date": "21/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh67zxkqg8_5987f2da_20261120.png?v=5987f2da",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
