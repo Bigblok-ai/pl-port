@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-f3dd42b104",
-          "name": "Bờ Biển Ngà U17 vs Uzbekistan U17 | 23:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3dd42b104",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f3dd42b104",
-                  "name": "Bờ Biển Ngà U17 vs Uzbekistan U17",
-                  "streams": [
-                    {
-                      "id": "st-f3dd42b104",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ecdc3bfd4e",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a827b17a8de34f80a17c94d3d94b1376/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Bờ Biển Ngà U17",
-            "team_b": "Uzbekistan U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphovvxr8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllh0k8qvy9/image/small",
-            "time": "23:00:00",
-            "date": "20/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkgv1xrz8_b4f59fc5_20261121.png?v=b4f59fc5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-a8b1b748a8",
           "name": "Darmstadt 98 vs Heidenheim | 00:30 21/11",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "02:30:00",
             "date": "21/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
