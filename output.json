@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-a8b1b748a8",
-          "name": "Darmstadt 98 vs Heidenheim | 00:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8b1b748a8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a8b1b748a8",
-                  "name": "Darmstadt 98 vs Heidenheim",
-                  "streams": [
-                    {
-                      "id": "st-a8b1b748a8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-37a00e2ff2",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6d1eb077320a4301ab42c8c7dcf7b96d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German Bundesliga 2",
-            "team_a": "Darmstadt 98",
-            "team_b": "Heidenheim",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hy39qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllh261zqvy9/image/small",
-            "time": "00:30:00",
-            "date": "21/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw468yryo_079224c3_20261121.png?v=079224c3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-dc064e02ac",
-          "name": "Al Ahli vs Al Nassr | 00:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dc064e02ac",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-dc064e02ac",
-                  "name": "Al Ahli vs Al Nassr",
-                  "streams": [
-                    {
-                      "id": "st-dc064e02ac",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3062752736",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/29ff8b988e1b4a7f8bb6bd9bfd3278e7/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Ahli",
-            "team_b": "Al Nassr",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
-            "time": "00:30:00",
-            "date": "21/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy4w35ryk_28bd4b68_20261121.png?v=28bd4b68",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-29387ff0dd",
           "name": "Bayern Munich vs FC Köln | 02:30 21/11",
@@ -240,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +148,7 @@
             "time": "03:00:00",
             "date": "21/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
