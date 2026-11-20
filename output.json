@@ -1493,8 +1493,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-73802eca24",
-                          "name": "LÝ LINH LỰC",
+                          "id": "lnk-f25619ff8a",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/4715d3e6cdd247f4b025b2c8fe2e2f40/index.m3u8",
@@ -1524,7 +1524,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/lKSlNof5-GdX8fNqC.png",
             "time": "18:00:00",
             "date": "21/11",
-            "blv": "LÝ LINH LỰC",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
