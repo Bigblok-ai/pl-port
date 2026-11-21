@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-54ed892d70",
-          "name": "Sevilla vs Real Betis | 00:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-54ed892d70",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-54ed892d70",
-                  "name": "Sevilla vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-54ed892d70",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-edcc4fe8ff",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ed0d43c6d6e14b098ee9789842a46ef0/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Sevilla",
-            "team_b": "Real Betis",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hokxq0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
-            "time": "00:30:00",
-            "date": "22/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6n94vmoj_acfc312a_20261122.png?v=acfc312a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-de9a53bb7b",
           "name": "Napoli vs Torino | 02:45 22/11",
