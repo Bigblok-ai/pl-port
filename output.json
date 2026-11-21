@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e711198d6c",
-          "name": "B. Monchengladbach vs Dortmund | 21:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e711198d6c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e711198d6c",
-                  "name": "B. Monchengladbach vs Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-e711198d6c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-988da5022d",
-                          "name": "LÝ LINH LỰC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6bfacee90c984d35bae29d39470cf665/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "B. Monchengladbach",
-            "team_b": "Dortmund",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh9o4r1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
-            "time": "21:30:00",
-            "date": "21/11",
-            "blv": "LÝ LINH LỰC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8k0yeqwz_5a6befe9_20261121.png?v=5a6befe9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-16c3303d84",
           "name": "Brazil U17 vs Ireland U17 | 22:00 21/11",
@@ -1668,6 +1596,167 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h65nooq86_0ca4f124_20261121.png?v=0ca4f124",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e777ae97ae",
+          "name": "Werder Bremen vs Hamburger SV | 23:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e777ae97ae",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e777ae97ae",
+                  "name": "Werder Bremen vs Hamburger SV",
+                  "streams": [
+                    {
+                      "id": "st-e777ae97ae",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c42191c97c",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/90806255d8a04cd492de33784fbafc2a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Werder Bremen",
+            "team_b": "Hamburger SV",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small",
+            "time": "23:30:00",
+            "date": "22/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l2zqdy_66a9e97f_20261121.png?v=66a9e97f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9b525745b6",
+          "name": "Liverpool vs Man Utd | 23:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b525745b6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9b525745b6",
+                  "name": "Liverpool vs Man Utd",
+                  "streams": [
+                    {
+                      "id": "st-9b525745b6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1e9ce94939",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/26f97313c4d642fa968bf9c261f17749/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7c86be120e",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/305696b171434dce9f60fb1ba0e9efa3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Liverpool",
+            "team_b": "Man Utd",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
+            "time": "23:30:00",
+            "date": "22/11",
+            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261121.png?v=82bf40b8",
             "width": 1600,
             "height": 1200
           }
