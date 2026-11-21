@@ -305,6 +305,78 @@
           }
         },
         {
+          "id": "pl-0dc4bb0322",
+          "name": "Nhật Bản U17 vs Colombia U17 | 19:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0dc4bb0322",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-0dc4bb0322",
+                  "name": "Nhật Bản U17 vs Colombia U17",
+                  "streams": [
+                    {
+                      "id": "st-0dc4bb0322",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70a1e8c4d1",
+                          "name": "NHÀ ĐÀI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fd71c76d0ad64297bb4236d2ce223c11/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Nhật Bản U17",
+            "team_b": "Colombia U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phezgm2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl0zzqwzv/image/small",
+            "time": "19:30:00",
+            "date": "21/11",
+            "blv": "NHÀ ĐÀI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg9k10r51_4f4ff312_20261121.png?v=4f4ff312",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-bac8ae293d",
           "name": "Lazio vs Lecce | 21:00 21/11",
           "type": "single",
@@ -1389,6 +1461,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c81e91ec72c347e0b4ffa2e542fddff3_94020c06_20261121.png?v=94020c06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-407b7a84a8",
+          "name": "Ziraat Bankasi vs Galatasaray | 20:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-407b7a84a8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-407b7a84a8",
+                  "name": "Ziraat Bankasi vs Galatasaray",
+                  "streams": [
+                    {
+                      "id": "st-407b7a84a8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eeb8c7bbd1",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/378c3ee92cf74a8badc55cc5d4a682e5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Efeler Ligi",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Galatasaray",
+            "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w60",
+            "logo_b": "https://img0.aiscore.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png!w60",
+            "time": "20:00:00",
+            "date": "21/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b280c9757128424eb138be39dcbc70df_0ae53171_20261121.png?v=0ae53171",
             "width": 1600,
             "height": 1200
           }
