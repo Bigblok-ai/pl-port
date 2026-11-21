@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-b23f4a503b",
-          "name": "Nam Định vs XM Hải Phòng FC | 18:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b23f4a503b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b23f4a503b",
-                  "name": "Nam Định vs XM Hải Phòng FC",
-                  "streams": [
-                    {
-                      "id": "st-b23f4a503b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f7052dee2",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/842723ce97c7412aa394d2b8199d018f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Nam Định",
-            "team_b": "XM Hải Phòng FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h826oq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
-            "time": "18:00:00",
-            "date": "21/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj482om2w_8d7aca2a_20261121.png?v=8d7aca2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-41c002de26",
           "name": "Bình Phước vs Hà Nội FC | 18:00 21/11",
@@ -1596,6 +1524,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d3yzql0_de9ec923_20261121.png?v=de9ec923",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4583fbe382",
+          "name": "Barcelona vs Villarreal | 20:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4583fbe382",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4583fbe382",
+                  "name": "Barcelona vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-4583fbe382",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aae5da6a1f",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/71925428fc184d69b66716d92e6d70f6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Villarreal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
+            "time": "20:00:00",
+            "date": "22/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6x3kr6o_c466d8f6_20261121.png?v=c466d8f6",
             "width": 1600,
             "height": 1200
           }
