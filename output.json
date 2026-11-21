@@ -11,227 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-16c3303d84",
-          "name": "Brazil U17 vs Ireland U17 | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-16c3303d84",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-16c3303d84",
-                  "name": "Brazil U17 vs Ireland U17",
-                  "streams": [
-                    {
-                      "id": "st-16c3303d84",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6fdbc2e7c9",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cb26cd62787b4d0eba0e6069649c795b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Brazil U17",
-            "team_b": "Ireland U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkg8om2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/n54qllh2908qvy9/image/small",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn5j7jm0v_c4897e37_20261121.png?v=c4897e37",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-abfbf86b6c",
-          "name": "Chelsea vs Leeds United | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-abfbf86b6c",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-abfbf86b6c",
-                  "name": "Chelsea vs Leeds United",
-                  "streams": [
-                    {
-                      "id": "st-abfbf86b6c",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4a2e5cd1e3",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5aba7202b82346599e17ec364bef3c16/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Chelsea",
-            "team_b": "Leeds United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldzvkmoe_d0030bfc_20261121.png?v=d0030bfc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-bf36caa370",
-          "name": "Tottenham vs Ipswich | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bf36caa370",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bf36caa370",
-                  "name": "Tottenham vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-bf36caa370",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cc5c5c7608",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d5d201a26ee24d0a8efced89685e5c4d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Tottenham",
-            "team_b": "Ipswich",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpo5m7vx/image/small",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgzknor51_b01fa0cc_20261121.png?v=b01fa0cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-26c54c61a5",
           "name": "Nice vs PSG | 23:15 21/11",
@@ -299,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgepn4q82_c8a61d91_20261121.png?v=c8a61d91",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgepn4q82_c8a61d91_20261122.png?v=c8a61d91",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +155,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny2ynqvy_3ef72c88_20261121.png?v=3ef72c88",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny2ynqvy_3ef72c88_20261122.png?v=3ef72c88",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6837171fa7",
+          "name": "Newcastle vs Arsenal | 00:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6837171fa7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6837171fa7",
+                  "name": "Newcastle vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-6837171fa7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02b0e86b2d",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/067f9bfdf2cb4bee84317339544ceb50/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Newcastle",
+            "team_b": "Arsenal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "time": "00:30:00",
+            "date": "22/11",
+            "blv": "LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgd4v1rep_c02fe361_20261122.png?v=c02fe361",
             "width": 1600,
             "height": 1200
           }
@@ -443,79 +299,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6n94vmoj_acfc312a_20261121.png?v=acfc312a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-6837171fa7",
-          "name": "Newcastle vs Arsenal | 00:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6837171fa7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6837171fa7",
-                  "name": "Newcastle vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-6837171fa7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02b0e86b2d",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/067f9bfdf2cb4bee84317339544ceb50/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Newcastle",
-            "team_b": "Arsenal",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
-            "time": "00:30:00",
-            "date": "22/11",
-            "blv": "LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhgd4v1rep_c02fe361_20261121.png?v=c02fe361",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6n94vmoj_acfc312a_20261122.png?v=acfc312a",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dlydqwz_90dfe215_20261121.png?v=90dfe215",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dlydqwz_90dfe215_20261122.png?v=90dfe215",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4exjryo_77731591_20261121.png?v=77731591",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4exjryo_77731591_20261122.png?v=77731591",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg7pyjrep_6b760fa0_20261121.png?v=6b760fa0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg7pyjrep_6b760fa0_20261122.png?v=6b760fa0",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4vnem2w_3dcda374_20261121.png?v=3dcda374",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phj4vnem2w_3dcda374_20261122.png?v=3dcda374",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh679l4qg8_2798466e_20261121.png?v=2798466e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh679l4qg8_2798466e_20261122.png?v=2798466e",
             "width": 1600,
             "height": 1200
           }
@@ -947,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv1w8qvy_71052615_20261121.png?v=71052615",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv1w8qvy_71052615_20261122.png?v=71052615",
             "width": 1600,
             "height": 1200
           }
@@ -1019,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d3yzql0_de9ec923_20261121.png?v=de9ec923",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d3yzql0_de9ec923_20261122.png?v=de9ec923",
             "width": 1600,
             "height": 1200
           }
@@ -1091,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6x3kr6o_c466d8f6_20261121.png?v=c466d8f6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6x3kr6o_c466d8f6_20261122.png?v=c466d8f6",
             "width": 1600,
             "height": 1200
           }
@@ -1163,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnw6dgqvy_87c2ab87_20261121.png?v=87c2ab87",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnw6dgqvy_87c2ab87_20261122.png?v=87c2ab87",
             "width": 1600,
             "height": 1200
           }
@@ -1235,7 +1019,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5k5qdy_0cd23a81_20261121.png?v=0cd23a81",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5k5qdy_0cd23a81_20261122.png?v=0cd23a81",
             "width": 1600,
             "height": 1200
           }
@@ -1307,7 +1091,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdk23m2w_94369da6_20261121.png?v=94369da6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdk23m2w_94369da6_20261122.png?v=94369da6",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy0o2lryk_a3d2f0e1_20261121.png?v=a3d2f0e1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhy0o2lryk_a3d2f0e1_20261122.png?v=a3d2f0e1",
             "width": 1600,
             "height": 1200
           }
@@ -1451,7 +1235,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh90e57m7v_56ac87fe_20261121.png?v=56ac87fe",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh90e57m7v_56ac87fe_20261122.png?v=56ac87fe",
             "width": 1600,
             "height": 1200
           }
@@ -1523,7 +1307,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h65nooq86_0ca4f124_20261121.png?v=0ca4f124",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h65nooq86_0ca4f124_20261122.png?v=0ca4f124",
             "width": 1600,
             "height": 1200
           }
@@ -1595,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l2zqdy_66a9e97f_20261121.png?v=66a9e97f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l2zqdy_66a9e97f_20261122.png?v=66a9e97f",
             "width": 1600,
             "height": 1200
           }
@@ -1684,7 +1468,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261121.png?v=82bf40b8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261122.png?v=82bf40b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-cc5c709d7b",
+          "name": "Milan vs Frosinone | 00:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc5c709d7b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-cc5c709d7b",
+                  "name": "Milan vs Frosinone",
+                  "streams": [
+                    {
+                      "id": "st-cc5c709d7b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19e4495872",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ac0ad70246d241019aa05d12f68b9d71/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Milan",
+            "team_b": "Frosinone",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small",
+            "time": "00:00:00",
+            "date": "23/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdoevqo9_9319f455_20261122.png?v=9319f455",
             "width": 1600,
             "height": 1200
           }
@@ -1765,7 +1621,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a290d4b2113540dabe2cde0d5b6761df_7f00bd97_20261121.png?v=7f00bd97",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a290d4b2113540dabe2cde0d5b6761df_7f00bd97_20261122.png?v=7f00bd97",
             "width": 1600,
             "height": 1200
           }
@@ -1837,7 +1693,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dc61325d5cdf49b79f42dde4861c45fd_19ad5e55_20261121.png?v=19ad5e55",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dc61325d5cdf49b79f42dde4861c45fd_19ad5e55_20261122.png?v=19ad5e55",
             "width": 1600,
             "height": 1200
           }
@@ -1909,7 +1765,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5644c18fb22c487dbf2ea66c31081233_ca995429_20261121.png?v=ca995429",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5644c18fb22c487dbf2ea66c31081233_ca995429_20261122.png?v=ca995429",
             "width": 1600,
             "height": 1200
           }
@@ -1981,7 +1837,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a41ca64209aa4b2489284a1e0faf0494_1bafe193_20261121.png?v=1bafe193",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a41ca64209aa4b2489284a1e0faf0494_1bafe193_20261122.png?v=1bafe193",
             "width": 1600,
             "height": 1200
           }
