@@ -404,8 +404,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-70a1e8c4d1",
-                          "name": "NHÀ ĐÀI",
+                          "id": "lnk-4b406447f3",
+                          "name": "LÝ LẮC",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/fd71c76d0ad64297bb4236d2ce223c11/index.m3u8",
@@ -435,7 +435,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl0zzqwzv/image/small",
             "time": "19:30:00",
             "date": "21/11",
-            "blv": "NHÀ ĐÀI",
+            "blv": "LÝ LẮC",
             "is_live": false,
             "cate_type": "football"
           },
