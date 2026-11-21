@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "pl-aef0959972",
+          "name": "Becamex Hồ Chí Minh vs Huda Huế | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aef0959972",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-aef0959972",
+                  "name": "Becamex Hồ Chí Minh vs Huda Huế",
+                  "streams": [
+                    {
+                      "id": "st-aef0959972",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bbbc6501a0",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ae3b3e73e0da45c7a328daeb431a8f4b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Becamex Hồ Chí Minh",
+            "team_b": "Huda Huế",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh96p9repz/image/small",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhydn7nryk_016cd68a_20261121.png?v=016cd68a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-b23f4a503b",
           "name": "Nam Định vs XM Hải Phòng FC | 18:00 21/11",
           "type": "single",
