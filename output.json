@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-20f0660b45",
-          "name": "Parma vs AS Roma | 00:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-20f0660b45",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-20f0660b45",
-                  "name": "Parma vs AS Roma",
-                  "streams": [
-                    {
-                      "id": "st-20f0660b45",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8f97f809a1",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d0a5297d5b3e4a6ba8555adb9571897e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Parma",
-            "team_b": "AS Roma",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phel7m2wd/image/small",
-            "time": "00:00:00",
-            "date": "22/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny2ynqvy_3ef72c88_20261122.png?v=3ef72c88",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6837171fa7",
           "name": "Newcastle vs Arsenal | 00:30 22/11",
