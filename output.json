@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-9aeba6eba4",
-          "name": "Bayer Leverkusen vs Paderborn 07 | 21:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9aeba6eba4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9aeba6eba4",
-                  "name": "Bayer Leverkusen vs Paderborn 07",
-                  "streams": [
-                    {
-                      "id": "st-9aeba6eba4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fbf8bcdad5",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/26f89cb90f6a4041a92c602576c1eb5b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Bayer Leverkusen",
-            "team_b": "Paderborn 07",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6lyqvy9/image/small",
-            "time": "21:30:00",
-            "date": "21/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgkekkr51_0bbf8653_20261121.png?v=0bbf8653",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-e711198d6c",
           "name": "B. Monchengladbach vs Dortmund | 21:30 21/11",
           "type": "single",
@@ -528,10 +456,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -580,7 +508,7 @@
             "time": "00:00:00",
             "date": "22/11",
             "blv": "LÝ LẮC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
