@@ -1244,7 +1244,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1317,78 +1317,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/272d7822be15498d946005e3b47a6aa6_19ad5e55_20261121.png?v=19ad5e55",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-f8dde6b6bc",
-          "name": "Toray Arrows Women vs Okayama Seagulls Women | 11:05 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f8dde6b6bc",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f8dde6b6bc",
-                  "name": "Toray Arrows Women vs Okayama Seagulls Women",
-                  "streams": [
-                    {
-                      "id": "st-f8dde6b6bc",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69cfc284b5",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a321ebab34964fd8a8d16a27b5f31b0b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Toray Arrows Women",
-            "team_b": "Okayama Seagulls Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/IT5JALxS-pxaNm0c7.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "time": "11:05:00",
-            "date": "21/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/863863f8a19b40a891b77b69d01f204c_7f00bd97_20261121.png?v=7f00bd97",
             "width": 1600,
             "height": 1200
           }
