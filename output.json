@@ -1599,6 +1599,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-04becec219",
+          "name": "Hull City vs Brighton | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-04becec219",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-04becec219",
+                  "name": "Hull City vs Brighton",
+                  "streams": [
+                    {
+                      "id": "st-04becec219",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bfb485112",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/6bb368bbf5d84a36ab3169748ee09965/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Hull City",
+            "team_b": "Brighton",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4d9ryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5k5qdy_0cd23a81_20261121.png?v=0cd23a81",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-549f5feb42",
+          "name": "Bologna vs Udinese | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-549f5feb42",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-549f5feb42",
+                  "name": "Bologna vs Udinese",
+                  "streams": [
+                    {
+                      "id": "st-549f5feb42",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-17f3a16f21",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/28d77cd660ec437ba48bd006e6261e61/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Bologna",
+            "team_b": "Udinese",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwkgryk0/image/small",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjdk23m2w_94369da6_20261121.png?v=94369da6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
