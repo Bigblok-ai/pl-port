@@ -1676,83 +1676,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-407b7a84a8",
-          "name": "Ziraat Bankasi vs Galatasaray | 20:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-407b7a84a8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-407b7a84a8",
-                  "name": "Ziraat Bankasi vs Galatasaray",
-                  "streams": [
-                    {
-                      "id": "st-407b7a84a8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eeb8c7bbd1",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/378c3ee92cf74a8badc55cc5d4a682e5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Efeler Ligi",
-            "team_a": "Ziraat Bankasi",
-            "team_b": "Galatasaray",
-            "logo_a": "https://img0.aiscore.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png!w60",
-            "logo_b": "https://img0.aiscore.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png!w60",
-            "time": "20:00:00",
-            "date": "21/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b280c9757128424eb138be39dcbc70df_0ae53171_20261121.png?v=0ae53171",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-98072076ff",
           "name": "Toray Arrows Women vs Okayama Seagulls Women | 11:05 22/11",
