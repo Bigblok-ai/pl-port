@@ -188,8 +188,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-a080f85aa2",
-                          "name": "LÝ LẦY LỘI",
+                          "id": "lnk-f38370bc7d",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/b93a793b53f94982abdd10a7f4bb4e54/index.m3u8",
@@ -219,7 +219,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
             "time": "02:45:00",
             "date": "23/11",
-            "blv": "LÝ LẦY LỘI",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
