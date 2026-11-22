@@ -1184,6 +1184,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-60f7e75d5e",
+          "name": "Brentford vs Everton | 03:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60f7e75d5e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-60f7e75d5e",
+                  "name": "Brentford vs Everton",
+                  "streams": [
+                    {
+                      "id": "st-60f7e75d5e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a5292cf2c",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2a1e2ef33a5f43e3b204c28c28cac1a8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Brentford",
+            "team_b": "Everton",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
+            "time": "03:00:00",
+            "date": "24/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9xler1g_47f126d1_20261123.png?v=47f126d1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
