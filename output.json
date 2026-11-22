@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5l2zqdy_66a9e97f_20261123.png?v=66a9e97f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-7eb30addf8",
-          "name": "Liverpool vs Man Utd | 23:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7eb30addf8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7eb30addf8",
-                  "name": "Liverpool vs Man Utd",
-                  "streams": [
-                    {
-                      "id": "st-7eb30addf8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c86be120e",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/305696b171434dce9f60fb1ba0e9efa3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Liverpool",
-            "team_b": "Man Utd",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-            "time": "23:30:00",
-            "date": "22/11",
-            "blv": "LÝ LA LÀNG, LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny65lqvy_82bf40b8_20261123.png?v=82bf40b8",
             "width": 1600,
             "height": 1200
           }
