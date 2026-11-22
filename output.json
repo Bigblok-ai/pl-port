@@ -89,7 +89,7 @@
           }
         },
         {
-          "id": "pl-9b525745b6",
+          "id": "pl-7eb30addf8",
           "name": "Liverpool vs Man Utd | 23:30 22/11",
           "type": "single",
           "display": "thumbnail-only",
@@ -104,39 +104,22 @@
           ],
           "sources": [
             {
-              "id": "src-9b525745b6",
+              "id": "src-7eb30addf8",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-9b525745b6",
+                  "id": "ct-7eb30addf8",
                   "name": "Liverpool vs Man Utd",
                   "streams": [
                     {
-                      "id": "st-9b525745b6",
+                      "id": "st-7eb30addf8",
                       "name": "PL",
                       "stream_links": [
-                        {
-                          "id": "lnk-1e9ce94939",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/26f97313c4d642fa968bf9c261f17749/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
                         {
                           "id": "lnk-7c86be120e",
                           "name": "LÝ LA LÀNG",
                           "type": "hls",
-                          "default": false,
+                          "default": true,
                           "url": "https://pull.digitalcdn.net/live/305696b171434dce9f60fb1ba0e9efa3/index.m3u8",
                           "request_headers": [
                             {
@@ -172,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261123.png?v=82bf40b8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny65lqvy_82bf40b8_20261123.png?v=82bf40b8",
             "width": 1600,
             "height": 1200
           }
