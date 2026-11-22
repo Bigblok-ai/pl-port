@@ -1333,83 +1333,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-98072076ff",
-          "name": "Toray Arrows Women vs Okayama Seagulls Women | 11:05 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-98072076ff",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-98072076ff",
-                  "name": "Toray Arrows Women vs Okayama Seagulls Women",
-                  "streams": [
-                    {
-                      "id": "st-98072076ff",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d51d55b5d2",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/4945d1ca350c4170912ce6bd8b8fe353/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League Women",
-            "team_a": "Toray Arrows Women",
-            "team_b": "Okayama Seagulls Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/IT5JALxS-pxaNm0c7.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "time": "11:05:00",
-            "date": "22/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a290d4b2113540dabe2cde0d5b6761df_7f00bd97_20261122.png?v=7f00bd97",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-6cced8271d",
           "name": "Gunma Bank Green Wings Women vs Aleeza Aichi Women | 11:05 22/11",
