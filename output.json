@@ -1256,6 +1256,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d2ad65b708",
+          "name": "Yangon City vs Hantharwady Utd | 16:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d2ad65b708",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d2ad65b708",
+                  "name": "Yangon City vs Hantharwady Utd",
+                  "streams": [
+                    {
+                      "id": "st-d2ad65b708",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4ffb0552da",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/86d893253bc94a9cb1aadce3c4d25a3f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Myanmar Professional League",
+            "team_a": "Yangon City",
+            "team_b": "Hantharwady Utd",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/k82rekh1035repz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohknvnq1zp/image/small",
+            "time": "16:00:00",
+            "date": "23/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9vpeem7v_4e8ab9d1_20261122.png?v=4e8ab9d1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3609031145",
+          "name": "LNZ Cherkasy vs Polissya Zhytomyr | 18:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3609031145",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3609031145",
+                  "name": "LNZ Cherkasy vs Polissya Zhytomyr",
+                  "streams": [
+                    {
+                      "id": "st-3609031145",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f4b7b2ed5",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/57b448f965ff4996b51fcf3f479a8a2f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "LNZ Cherkasy",
+            "team_b": "Polissya Zhytomyr",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkhdg62qg8n/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlh1dd3ryk0/image/small",
+            "time": "18:00:00",
+            "date": "23/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkxkkgr1g_3cee3fb2_20261122.png?v=3cee3fb2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
