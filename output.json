@@ -1400,6 +1400,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-3ca26eae70",
+          "name": "Ma Rốc U17 vs Trung Quốc U17 | 22:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ca26eae70",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3ca26eae70",
+                  "name": "Ma Rốc U17 vs Trung Quốc U17",
+                  "streams": [
+                    {
+                      "id": "st-3ca26eae70",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-79847972e6",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c31b913320b545c78499deaa865a6f39/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Ma Rốc U17",
+            "team_b": "Trung Quốc U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5z5kmd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4kj4m0ve/image/small",
+            "time": "22:00:00",
+            "date": "23/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehg9ke2r51_674eb5df_20261122.png?v=674eb5df",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
