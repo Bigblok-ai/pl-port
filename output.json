@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-71e7fcce6b",
-          "name": "Pháp U17 vs Ả Rập Xê Út U17 | 20:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-71e7fcce6b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-71e7fcce6b",
-                  "name": "Pháp U17 vs Ả Rập Xê Út U17",
-                  "streams": [
-                    {
-                      "id": "st-71e7fcce6b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e1afc48eb9",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/0c267efb045443319feb51d605bd77d4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Pháp U17",
-            "team_b": "Ả Rập Xê Út U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh6zpem7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8vy5q86p/image/small",
-            "time": "20:30:00",
-            "date": "22/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnw6dgqvy_87c2ab87_20261122.png?v=87c2ab87",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-04becec219",
           "name": "Hull City vs Brighton | 21:00 22/11",
@@ -1328,49 +1256,57 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-eff1e605e9",
-          "name": "Ilbank Women vs Vakifbank Women | 20:00 22/11",
+          "id": "pl-8653818892",
+          "name": "Việt Nam U17 vs New Zealand U17 | 22:30 23/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-eff1e605e9",
+              "id": "src-8653818892",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-eff1e605e9",
-                  "name": "Ilbank Women vs Vakifbank Women",
+                  "id": "ct-8653818892",
+                  "name": "Việt Nam U17 vs New Zealand U17",
                   "streams": [
                     {
-                      "id": "st-eff1e605e9",
+                      "id": "st-8653818892",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-5878b93829",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-7e870d06e0",
+                          "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d05fc3ff429a4eb7802d7c6312e36c50/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/9e0555ebb5154c5db850f856c29f262d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49a5063dd0",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/a102733aa68b4e13afbbad68a5223bc5/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1390,22 +1326,94 @@
             }
           ],
           "org_metadata": {
-            "league": "Sultanlar Ligi Women",
-            "team_a": "Ilbank Women",
-            "team_b": "Vakifbank Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/OpjISOXg-AabQOsPn.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
-            "time": "20:00:00",
-            "date": "22/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "FIFA U17 World Cup",
+            "team_a": "Việt Nam U17",
+            "team_b": "New Zealand U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw24moep/image/small",
+            "time": "22:30:00",
+            "date": "23/11",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/a41ca64209aa4b2489284a1e0faf0494_1bafe193_20261122.png?v=1bafe193",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9cbae4e93143453394b89447acc8d2d2_ec34f409_20261122.png?v=ec34f409",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-b5fc2d8fc7",
+          "name": "Mali U17 vs Bỉ U17 | 22:30 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b5fc2d8fc7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-b5fc2d8fc7",
+                  "name": "Mali U17 vs Bỉ U17",
+                  "streams": [
+                    {
+                      "id": "st-b5fc2d8fc7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e256bc8b96",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e1f639b78e6e4aeabc3be1bbc85a1886/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Mali U17",
+            "team_b": "Bỉ U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkw4oq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwy4kqdyj/image/small",
+            "time": "22:30:00",
+            "date": "23/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph47655r8k_c03caafe_20261122.png?v=c03caafe",
             "width": 1600,
             "height": 1200
           }
