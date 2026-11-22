@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-cc5c709d7b",
-          "name": "Milan vs Frosinone | 00:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc5c709d7b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-cc5c709d7b",
-                  "name": "Milan vs Frosinone",
-                  "streams": [
-                    {
-                      "id": "st-cc5c709d7b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19e4495872",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ac0ad70246d241019aa05d12f68b9d71/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Milan",
-            "team_b": "Frosinone",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small",
-            "time": "00:00:00",
-            "date": "23/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxdoevqo9_9319f455_20261123.png?v=9319f455",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-8b6baa753d",
           "name": "Osasuna vs Malaga | 00:30 23/11",
