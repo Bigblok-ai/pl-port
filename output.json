@@ -1256,6 +1256,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-21cf030493",
+          "name": "Neftchi Fergana vs Al Hilal | 20:45 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-21cf030493",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-21cf030493",
+                  "name": "Neftchi Fergana vs Al Hilal",
+                  "streams": [
+                    {
+                      "id": "st-21cf030493",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7ea506f44",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/74a4c695ffc649d1be6dbb2ea187bde9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Neftchi Fergana",
+            "team_b": "Al Hilal",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8w3gq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
+            "time": "20:45:00",
+            "date": "23/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8v00wqwz_64783b1a_20261122.png?v=64783b1a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
