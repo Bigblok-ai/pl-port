@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1fc29fafba",
-          "name": "Juventus vs Venezia | 18:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1fc29fafba",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1fc29fafba",
-                  "name": "Juventus vs Venezia",
-                  "streams": [
-                    {
-                      "id": "st-1fc29fafba",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5363d8b3dd",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/19661857cfe64e1d8108bf5e105a9253/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Juventus",
-            "team_b": "Venezia",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
-            "time": "18:30:00",
-            "date": "22/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5d3yzql0_de9ec923_20261122.png?v=de9ec923",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-4583fbe382",
           "name": "Barcelona vs Villarreal | 20:00 22/11",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "21:00:00",
             "date": "22/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "21:00:00",
             "date": "22/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
