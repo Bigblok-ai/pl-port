@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-04becec219",
-          "name": "Hull City vs Brighton | 21:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-04becec219",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-04becec219",
-                  "name": "Hull City vs Brighton",
-                  "streams": [
-                    {
-                      "id": "st-04becec219",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bfb485112",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6bb368bbf5d84a36ab3169748ee09965/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Hull City",
-            "team_b": "Brighton",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9wh4d9ryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
-            "time": "21:00:00",
-            "date": "22/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5k5qdy_0cd23a81_20261122.png?v=0cd23a81",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-549f5feb42",
           "name": "Bologna vs Udinese | 21:00 22/11",
@@ -1414,6 +1342,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph47655r8k_c03caafe_20261122.png?v=c03caafe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2f1000f25f",
+          "name": "Al-Ain FC vs Esteghlal Tehran | 23:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2f1000f25f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2f1000f25f",
+                  "name": "Al-Ain FC vs Esteghlal Tehran",
+                  "streams": [
+                    {
+                      "id": "st-2f1000f25f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-45b2cc5df3",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/cdc4f5d914964bec8b611e5f50309fd0/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al-Ain FC",
+            "team_b": "Esteghlal Tehran",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h850yq86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn4y5r510/image/small",
+            "time": "23:00:00",
+            "date": "23/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkdyqvy_985dd734_20261122.png?v=985dd734",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f7bd8cac94",
+          "name": "Al Shamal vs Al Ahli | 23:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f7bd8cac94",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f7bd8cac94",
+                  "name": "Al Shamal vs Al Ahli",
+                  "streams": [
+                    {
+                      "id": "st-f7bd8cac94",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fb1a90abbf",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ea03878de9b14368a06f678ae22b03ed/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Al Shamal",
+            "team_b": "Al Ahli",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
+            "time": "23:00:00",
+            "date": "23/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgn24yq82_7bba6cc4_20261122.png?v=7bba6cc4",
             "width": 1600,
             "height": 1200
           }
