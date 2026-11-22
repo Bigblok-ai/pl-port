@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-4583fbe382",
-          "name": "Barcelona vs Villarreal | 20:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4583fbe382",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-4583fbe382",
-                  "name": "Barcelona vs Villarreal",
-                  "streams": [
-                    {
-                      "id": "st-4583fbe382",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aae5da6a1f",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/71925428fc184d69b66716d92e6d70f6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Barcelona",
-            "team_b": "Villarreal",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
-            "time": "20:00:00",
-            "date": "22/11",
-            "blv": "LÝ LA LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6x3kr6o_c466d8f6_20261122.png?v=c466d8f6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-71e7fcce6b",
           "name": "Pháp U17 vs Ả Rập Xê Út U17 | 20:30 22/11",
