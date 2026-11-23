@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "19:30:00",
             "date": "23/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -781,8 +781,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-f1653df395",
-                          "name": "LÝ LẠNH LÙNG",
+                          "id": "lnk-c1953151bd",
+                          "name": "LÝ LIỀU LĨNH",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/140b002631ca4bc1ad093c8203997b02/index.m3u8",
@@ -812,7 +812,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh98ylrepz/image/small",
             "time": "00:00:00",
             "date": "24/11",
-            "blv": "LÝ LẠNH LÙNG",
+            "blv": "LÝ LIỀU LĨNH",
             "is_live": false,
             "cate_type": "football"
           },
@@ -853,8 +853,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-16394438b9",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-6d121cec7e",
+                          "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/854ee5d49e2d43f4bb98f3b913ced053/index.m3u8",
@@ -884,7 +884,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohk27yq1zp/image/small",
             "time": "01:15:00",
             "date": "24/11",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÝ LẠNH LÙNG",
             "is_live": false,
             "cate_type": "football"
           },
