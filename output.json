@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-6c2c2c19a8",
-          "name": "Italy U17 vs Bờ Biển Ngà U17 | 21:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c2c2c19a8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6c2c2c19a8",
-                  "name": "Italy U17 vs Bờ Biển Ngà U17",
-                  "streams": [
-                    {
-                      "id": "st-6c2c2c19a8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4af7f375d0",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9b5deab6fa1649229a5cda26a3e547cf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Italy U17",
-            "team_b": "Bờ Biển Ngà U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphonwjr8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergphovvxr8k0/image/small",
-            "time": "21:30:00",
-            "date": "23/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghlgzo8moe_230e3c3e_20261123.png?v=230e3c3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-3ca26eae70",
           "name": "Ma Rốc U17 vs Trung Quốc U17 | 22:00 23/11",
           "type": "single",
@@ -401,10 +329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -453,7 +381,7 @@
             "time": "00:00:00",
             "date": "24/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
