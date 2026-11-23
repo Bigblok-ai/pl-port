@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,95 @@
           }
         },
         {
+          "id": "pl-8653818892",
+          "name": "Việt Nam U17 vs New Zealand U17 | 22:30 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8653818892",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8653818892",
+                  "name": "Việt Nam U17 vs New Zealand U17",
+                  "streams": [
+                    {
+                      "id": "st-8653818892",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e870d06e0",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9e0555ebb5154c5db850f856c29f262d/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49a5063dd0",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/a102733aa68b4e13afbbad68a5223bc5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Việt Nam U17",
+            "team_b": "New Zealand U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw24moep/image/small",
+            "time": "22:30:00",
+            "date": "23/11",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9cbae4e93143453394b89447acc8d2d2_ec34f409_20261123.png?v=ec34f409",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-b5fc2d8fc7",
           "name": "Mali U17 vs Bỉ U17 | 22:30 23/11",
           "type": "single",
@@ -300,95 +389,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph47655r8k_c03caafe_20261123.png?v=c03caafe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-8653818892",
-          "name": "Việt Nam U17 vs New Zealand U17 | 22:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8653818892",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8653818892",
-                  "name": "Việt Nam U17 vs New Zealand U17",
-                  "streams": [
-                    {
-                      "id": "st-8653818892",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7e870d06e0",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/9e0555ebb5154c5db850f856c29f262d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49a5063dd0",
-                          "name": "LÝ LA LÀNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/a102733aa68b4e13afbbad68a5223bc5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Việt Nam U17",
-            "team_b": "New Zealand U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw24moep/image/small",
-            "time": "22:30:00",
-            "date": "23/11",
-            "blv": "LÝ LA LÀNG, LÝ LONG",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9cbae4e93143453394b89447acc8d2d2_ec34f409_20261123.png?v=ec34f409",
             "width": 1600,
             "height": 1200
           }
