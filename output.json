@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -101,78 +101,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/9cbae4e93143453394b89447acc8d2d2_ec34f409_20261124.png?v=ec34f409",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-b5fc2d8fc7",
-          "name": "Mali U17 vs Bỉ U17 | 22:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b5fc2d8fc7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b5fc2d8fc7",
-                  "name": "Mali U17 vs Bỉ U17",
-                  "streams": [
-                    {
-                      "id": "st-b5fc2d8fc7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3eb2eee9fb",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/e1f639b78e6e4aeabc3be1bbc85a1886/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Mali U17",
-            "team_b": "Bỉ U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dj2ryohkw4oq1zp/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwy4kqdyj/image/small",
-            "time": "22:30:00",
-            "date": "23/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph47655r8k_c03caafe_20261124.png?v=c03caafe",
             "width": 1600,
             "height": 1200
           }
