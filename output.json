@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-f7bd8cac94",
-          "name": "Al Shamal vs Al Ahli | 23:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f7bd8cac94",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f7bd8cac94",
-                  "name": "Al Shamal vs Al Ahli",
-                  "streams": [
-                    {
-                      "id": "st-f7bd8cac94",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb1a90abbf",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ea03878de9b14368a06f678ae22b03ed/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Al Shamal",
-            "team_b": "Al Ahli",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66ho4xnqo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small",
-            "time": "23:00:00",
-            "date": "23/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgn24yq82_7bba6cc4_20261124.png?v=7bba6cc4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-bfb04100b4",
           "name": "Basaksehir FK vs Corum FK | 00:00 24/11",
