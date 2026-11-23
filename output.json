@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-d2ad65b708",
-          "name": "Yangon City vs Hantharwady Utd | 16:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d2ad65b708",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d2ad65b708",
-                  "name": "Yangon City vs Hantharwady Utd",
-                  "streams": [
-                    {
-                      "id": "st-d2ad65b708",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4ffb0552da",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/86d893253bc94a9cb1aadce3c4d25a3f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Yangon City",
-            "team_b": "Hantharwady Utd",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/k82rekh1035repz/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohknvnq1zp/image/small",
-            "time": "16:00:00",
-            "date": "23/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9vpeem7v_4e8ab9d1_20261123.png?v=4e8ab9d1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3609031145",
           "name": "LNZ Cherkasy vs Polissya Zhytomyr | 18:00 23/11",
