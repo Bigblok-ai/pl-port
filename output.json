@@ -1167,6 +1167,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-92f681385e",
+          "name": "Man City vs Napoli | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-92f681385e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-92f681385e",
+                  "name": "Man City vs Napoli",
+                  "streams": [
+                    {
+                      "id": "st-92f681385e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b5b334b710",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/fe38786e3ca5425b96d8b91703489ca9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Man City",
+            "team_b": "Napoli",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghvdoq82w/image/small",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh98o4lm7v_7a3754a7_20261124.png?v=7a3754a7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-5f4383d29f",
+          "name": "Slovan Bratislava vs Real Betis | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5f4383d29f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-5f4383d29f",
+                  "name": "Slovan Bratislava vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-5f4383d29f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65a4e26079",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/383b9c3ecb4b4bf58c79d80a2df93a91/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Slovan Bratislava",
+            "team_b": "Real Betis",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhyy4md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1ywqg8_7507f11a_20261124.png?v=7507f11a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-70b32c6a72",
+          "name": "Arsenal vs Dortmund | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70b32c6a72",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-70b32c6a72",
+                  "name": "Arsenal vs Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-70b32c6a72",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55b4eade67",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5bfdfba9c99f4730a06f62e15c313fe3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Arsenal",
+            "team_b": "Dortmund",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkjd11r1g_831bb32b_20261124.png?v=831bb32b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-166036b2db",
+          "name": "Real Madrid vs PSV Eindhoven | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-166036b2db",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-166036b2db",
+                  "name": "Real Madrid vs PSV Eindhoven",
+                  "streams": [
+                    {
+                      "id": "st-166036b2db",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-11f1e6d645",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3fa9ea2849544efbb130cd5739385777/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Real Madrid",
+            "team_b": "PSV Eindhoven",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h5klqdyj/image/small",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnvg4q82_2e4272fc_20261124.png?v=2e4272fc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
