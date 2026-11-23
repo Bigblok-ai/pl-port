@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-9793775ef8",
-          "name": "Tây Ban Nha U17 vs Fiji U17 | 19:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9793775ef8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-9793775ef8",
-                  "name": "Tây Ban Nha U17 vs Fiji U17",
-                  "streams": [
-                    {
-                      "id": "st-9793775ef8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-802b85e988",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/8877575e5b6543cfacc594487327f22f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Tây Ban Nha U17",
-            "team_b": "Fiji U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4elvm0ve/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn91or510/image/small",
-            "time": "19:30:00",
-            "date": "23/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hng5l9qdy_ffdeb6d6_20261123.png?v=ffdeb6d6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-0d1ffce5a6",
           "name": "Uzbekistan U17 vs Jamaica U17 | 20:00 23/11",
