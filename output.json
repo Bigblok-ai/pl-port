@@ -1553,6 +1553,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-857ad32f8b",
+          "name": "IBK Women vs Expressway Co Women | 17:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-857ad32f8b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-857ad32f8b",
+                  "name": "IBK Women vs Expressway Co Women",
+                  "streams": [
+                    {
+                      "id": "st-857ad32f8b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eacf36c832",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ea543bb335b149c493a414e712d2b0c6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "IBK Women",
+            "team_b": "Expressway Co Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
+            "time": "17:00:00",
+            "date": "25/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45322a8982b14e57a09853450ba239ab_734ceea9_20261124.png?v=734ceea9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9854f4857e",
+          "name": "Vakifbank Women vs Asterix Avo Women | 23:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9854f4857e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9854f4857e",
+                  "name": "Vakifbank Women vs Asterix Avo Women",
+                  "streams": [
+                    {
+                      "id": "st-9854f4857e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e3c5c7b5e",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2eaa2fe044794052941b1b8202a4f7a5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Women - Vòng 1",
+            "team_a": "Vakifbank Women",
+            "team_b": "Asterix Avo Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Yu96ScBr-Uui6MKoK.png",
+            "time": "23:00:00",
+            "date": "25/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45b299122a0e467a9e6c2da1994fb296_9c9ba60e_20261124.png?v=9c9ba60e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
