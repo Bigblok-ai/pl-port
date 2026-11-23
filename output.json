@@ -1095,6 +1095,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-ac9d034180",
+          "name": "Bodo Glimt vs LASK Linz | 00:45 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ac9d034180",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ac9d034180",
+                  "name": "Bodo Glimt vs LASK Linz",
+                  "streams": [
+                    {
+                      "id": "st-ac9d034180",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9855302c00",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d5dda5f5e5d84fc78139691761722f3a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Bodo Glimt",
+            "team_b": "LASK Linz",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh9xyr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/ednm9whkkd0ryox/image/small",
+            "time": "00:45:00",
+            "date": "25/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjy0dryo_94a3c7bf_20261124.png?v=94a3c7bf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-6d1501db34",
+          "name": "Galatasaray vs Aston Villa | 00:45 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d1501db34",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6d1501db34",
+                  "name": "Galatasaray vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-6d1501db34",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b62c9c194",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d8584289bcbc4b00a69fc4cd8ea6b2f9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Galatasaray",
+            "team_b": "Aston Villa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hp66qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small",
+            "time": "00:45:00",
+            "date": "25/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnv64q82_1b9b59c4_20261124.png?v=1b9b59c4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
