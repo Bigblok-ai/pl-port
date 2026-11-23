@@ -1400,6 +1400,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-09e2cf558f",
+          "name": "East Bengal vs Al Hussein | 20:45 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-09e2cf558f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-09e2cf558f",
+                  "name": "East Bengal vs Al Hussein",
+                  "streams": [
+                    {
+                      "id": "st-09e2cf558f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9fddaa59c",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/77bcb6ee695448f18524923593088bc9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "East Bengal",
+            "team_b": "Al Hussein",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergpho3v6r8k0/image/small",
+            "time": "20:45:00",
+            "date": "24/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgve06r51_744ccbc2_20261123.png?v=744ccbc2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
