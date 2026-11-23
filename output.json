@@ -1112,6 +1112,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-05b1f6eb88",
+          "name": "Newcastle Jets vs Kashiwa Reysol | 14:45 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-05b1f6eb88",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-05b1f6eb88",
+                  "name": "Newcastle Jets vs Kashiwa Reysol",
+                  "streams": [
+                    {
+                      "id": "st-05b1f6eb88",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c8a0748a7f",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3ef60e534a9c4b1a88a7191144c9060c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Elite",
+            "team_a": "Newcastle Jets",
+            "team_b": "Kashiwa Reysol",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwzkpqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhjv8qg8n/image/small",
+            "time": "14:45:00",
+            "date": "24/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen25dr6o_f36fe6d3_20261123.png?v=f36fe6d3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
