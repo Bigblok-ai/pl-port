@@ -1455,6 +1455,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-6fa5a9ec67",
+          "name": "Hy Lạp U17 vs Qatar U17 | 21:30 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fa5a9ec67",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-6fa5a9ec67",
+                  "name": "Hy Lạp U17 vs Qatar U17",
+                  "streams": [
+                    {
+                      "id": "st-6fa5a9ec67",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d15b04300",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5a904519b300400880043b8e7b6f9ce6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Hy Lạp U17",
+            "team_b": "Qatar U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh4586r6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhpzjqwzv/image/small",
+            "time": "21:30:00",
+            "date": "25/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwp4x8ryo_2f8efca2_20261124.png?v=2f8efca2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
