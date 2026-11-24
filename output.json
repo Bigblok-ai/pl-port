@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2ebff72da2",
-          "name": "Shanghai Port vs Buriram United | 19:15 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2ebff72da2",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2ebff72da2",
-                  "name": "Shanghai Port vs Buriram United",
-                  "streams": [
-                    {
-                      "id": "st-2ebff72da2",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a28639ba5d",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/253078c26e38422ab1302bfb0fb8ee1a/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Shanghai Port",
-            "team_b": "Buriram United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwjvyqdyj/image/small",
-            "time": "19:15:00",
-            "date": "24/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6egw7qg8_4462b847_20261124.png?v=4462b847",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-12942a906f",
           "name": "Công An Hà Nội vs Vissel Kobe | 19:15 24/11",
