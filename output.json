@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-14a4f2bd61",
-          "name": "Shabab Al Ahli vs Al Qadsiah | 23:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14a4f2bd61",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-14a4f2bd61",
-                  "name": "Shabab Al Ahli vs Al Qadsiah",
-                  "streams": [
-                    {
-                      "id": "st-14a4f2bd61",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e34e5bba8",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/7b823b8815c545fe91ac606ddebb27f4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Shabab Al Ahli",
-            "team_b": "Al Qadsiah",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l5ergphoevor8k0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh5p0qg8n/image/small",
-            "time": "23:00:00",
-            "date": "24/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6eggjqg8_4683da4f_20261125.png?v=4683da4f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-ac9d034180",
           "name": "Bodo Glimt vs LASK Linz | 00:45 25/11",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "01:15:00",
             "date": "25/11",
             "blv": "LÝ LẦY LỘI",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
