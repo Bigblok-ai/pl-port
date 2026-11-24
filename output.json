@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-444d8afd55",
-          "name": "Brazil U17 vs Tanzania U17 | 22:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-444d8afd55",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-444d8afd55",
-                  "name": "Brazil U17 vs Tanzania U17",
-                  "streams": [
-                    {
-                      "id": "st-444d8afd55",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c873233058",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/34c36a8bdeba437196c1dab288d92d82/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Brazil U17",
-            "team_b": "Tanzania U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkg8om2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hl9z8rz84/image/small",
-            "time": "22:00:00",
-            "date": "24/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe76x7r6o_ab012c2d_20261124.png?v=ab012c2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-14a4f2bd61",
           "name": "Shabab Al Ahli vs Al Qadsiah | 23:00 24/11",
@@ -155,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6eggjqg8_4683da4f_20261124.png?v=4683da4f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6eggjqg8_4683da4f_20261125.png?v=4683da4f",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjy0dryo_94a3c7bf_20261124.png?v=94a3c7bf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjy0dryo_94a3c7bf_20261125.png?v=94a3c7bf",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnv64q82_1b9b59c4_20261124.png?v=1b9b59c4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnv64q82_1b9b59c4_20261125.png?v=1b9b59c4",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +299,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxllnqdy_929742b3_20261124.png?v=929742b3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxllnqdy_929742b3_20261125.png?v=929742b3",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh98o4lm7v_7a3754a7_20261124.png?v=7a3754a7",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh98o4lm7v_7a3754a7_20261125.png?v=7a3754a7",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1ywqg8_7507f11a_20261124.png?v=7507f11a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6e1ywqg8_7507f11a_20261125.png?v=7507f11a",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkjd11r1g_831bb32b_20261124.png?v=831bb32b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkjd11r1g_831bb32b_20261125.png?v=831bb32b",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnvg4q82_2e4272fc_20261124.png?v=2e4272fc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnvg4q82_2e4272fc_20261125.png?v=2e4272fc",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen283r6o_0910f529_20261124.png?v=0910f529",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen283r6o_0910f529_20261125.png?v=0910f529",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh524pvql0_041bedd0_20261124.png?v=041bedd0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh524pvql0_041bedd0_20261125.png?v=041bedd0",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkzlqvy_c1db2f25_20261124.png?v=c1db2f25",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkzlqvy_c1db2f25_20261125.png?v=c1db2f25",
             "width": 1600,
             "height": 1200
           }
@@ -947,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxvv3md7_a752596f_20261124.png?v=a752596f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxvv3md7_a752596f_20261125.png?v=a752596f",
             "width": 1600,
             "height": 1200
           }
@@ -1019,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen28kr6o_40b3f6ed_20261124.png?v=40b3f6ed",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen28kr6o_40b3f6ed_20261125.png?v=40b3f6ed",
             "width": 1600,
             "height": 1200
           }
@@ -1091,7 +1019,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn5j6lm0v_7de5e36c_20261124.png?v=7de5e36c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn5j6lm0v_7de5e36c_20261125.png?v=7de5e36c",
             "width": 1600,
             "height": 1200
           }
@@ -1163,7 +1091,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hndnn4qdy_3375221a_20261124.png?v=3375221a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hndnn4qdy_3375221a_20261125.png?v=3375221a",
             "width": 1600,
             "height": 1200
           }
@@ -1235,7 +1163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8wk6kqwz_e01c0c7d_20261124.png?v=e01c0c7d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8wk6kqwz_e01c0c7d_20261125.png?v=e01c0c7d",
             "width": 1600,
             "height": 1200
           }
@@ -1307,7 +1235,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwp4x8ryo_2f8efca2_20261124.png?v=2f8efca2",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwp4x8ryo_2f8efca2_20261125.png?v=2f8efca2",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1307,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9d028m7v_e02c815c_20261124.png?v=e02c815c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9d028m7v_e02c815c_20261125.png?v=e02c815c",
             "width": 1600,
             "height": 1200
           }
@@ -1451,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkgv6krz8_c4c7f2c3_20261124.png?v=c4c7f2c3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkgv6krz8_c4c7f2c3_20261125.png?v=c4c7f2c3",
             "width": 1600,
             "height": 1200
           }
@@ -1532,7 +1460,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/71eb5ac3fffc47fea7b615a1d5f61b03_bff4e3a3_20261124.png?v=bff4e3a3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/71eb5ac3fffc47fea7b615a1d5f61b03_bff4e3a3_20261125.png?v=bff4e3a3",
             "width": 1600,
             "height": 1200
           }
@@ -1604,7 +1532,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45322a8982b14e57a09853450ba239ab_734ceea9_20261124.png?v=734ceea9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45322a8982b14e57a09853450ba239ab_734ceea9_20261125.png?v=734ceea9",
             "width": 1600,
             "height": 1200
           }
@@ -1676,7 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45b299122a0e467a9e6c2da1994fb296_9c9ba60e_20261124.png?v=9c9ba60e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45b299122a0e467a9e6c2da1994fb296_9c9ba60e_20261125.png?v=9c9ba60e",
             "width": 1600,
             "height": 1200
           }
@@ -1748,7 +1676,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261124.png?v=7ef03d29",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261125.png?v=7ef03d29",
             "width": 1600,
             "height": 1200
           }
