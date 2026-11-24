@@ -1311,6 +1311,366 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d7cdf6b19d",
+          "name": "LOSC vs Bayern Munich | 03:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d7cdf6b19d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d7cdf6b19d",
+                  "name": "LOSC vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-d7cdf6b19d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1af3fd7c80",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d314b92a5dbc42319bd1b3894fe12519/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "LOSC",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h2pdqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
+            "time": "03:00:00",
+            "date": "26/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1wl3eq0j_d9d20f3f_20261125.png?v=d9d20f3f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-97ae3b120e",
+          "name": "Club Brugge vs Liverpool | 03:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97ae3b120e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-97ae3b120e",
+                  "name": "Club Brugge vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-97ae3b120e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b2921cbf0",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d2418153760c4fc7bbb2f698659f5566/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Club Brugge",
+            "team_b": "Liverpool",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghowor6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
+            "time": "03:00:00",
+            "date": "26/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkjdo1r1g_b648d718_20261125.png?v=b648d718",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c58c36879e",
+          "name": "SCP vs Man Utd | 03:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c58c36879e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c58c36879e",
+                  "name": "SCP vs Man Utd",
+                  "streams": [
+                    {
+                      "id": "st-c58c36879e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-316340391a",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c77a54173734481f9ca20b2f937b8dc9/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "SCP",
+            "team_b": "Man Utd",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhyydqvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
+            "time": "03:00:00",
+            "date": "26/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjy57ryo_41c2469c_20261125.png?v=41c2469c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-820e628f04",
+          "name": "Inter vs Stuttgart | 03:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-820e628f04",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-820e628f04",
+                  "name": "Inter vs Stuttgart",
+                  "streams": [
+                    {
+                      "id": "st-820e628f04",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2fe7a55483",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7dd9dbaebdf742b697e6e6a3640c7d0a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "Inter",
+            "team_b": "Stuttgart",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small",
+            "time": "03:00:00",
+            "date": "26/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg5p0erep_44092d4c_20261125.png?v=44092d4c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ee2e8f66e7",
+          "name": "PSG vs AS Roma | 03:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ee2e8f66e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ee2e8f66e7",
+                  "name": "PSG vs AS Roma",
+                  "streams": [
+                    {
+                      "id": "st-ee2e8f66e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-710c45cb8d",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/971e369ef80248b9ba3ad2e8edc608cb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League",
+            "team_a": "PSG",
+            "team_b": "AS Roma",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phel7m2wd/image/small",
+            "time": "03:00:00",
+            "date": "26/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgvwo5r51_e1a740e6_20261125.png?v=e1a740e6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
