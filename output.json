@@ -1680,6 +1680,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c413ab0020",
+          "name": "Hyundai E&C Hillstate Women vs SOOP SOOPers Women | 17:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c413ab0020",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c413ab0020",
+                  "name": "Hyundai E&C Hillstate Women vs SOOP SOOPers Women",
+                  "streams": [
+                    {
+                      "id": "st-c413ab0020",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ffe7a9eeb8",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/5fe4481b249e4328804682da70bfed6b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "Hyundai E&C Hillstate Women",
+            "team_b": "SOOP SOOPers Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
+            "time": "17:00:00",
+            "date": "26/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261124.png?v=7ef03d29",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
