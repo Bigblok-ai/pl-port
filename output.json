@@ -1460,83 +1460,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-6162a14f83",
-          "name": "Onikisubat vs Ziraat Bankasi | 18:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6162a14f83",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-6162a14f83",
-                  "name": "Onikisubat vs Ziraat Bankasi",
-                  "streams": [
-                    {
-                      "id": "st-6162a14f83",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d3b340ac3f",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a44f759cbb1c4d9796972e68fdfae39f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Efeler Ligi",
-            "team_a": "Onikisubat",
-            "team_b": "Ziraat Bankasi",
-            "logo_a": "https://static.flashscore.com/res/image/data/bZi58Lf5-ULlsi77p.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
-            "time": "18:00:00",
-            "date": "24/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b8197ca44dcd4c328ac7422f069807e8_2fd38883_20261124.png?v=2fd38883",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-e0eb5702ca",
           "name": "Eczacibasi Women vs Tent Women | 23:00 24/11",
