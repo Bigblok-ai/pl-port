@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-30fda539e7",
+          "name": "Uruguay U17 vs Pháp U17 | 20:30 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30fda539e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30fda539e7",
+                  "name": "Uruguay U17 vs Pháp U17",
+                  "streams": [
+                    {
+                      "id": "st-30fda539e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b62a74f7b0",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f7316f3b53e1450893240da0e52091ce/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Uruguay U17",
+            "team_b": "Pháp U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh46o0m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh6zpem7vx/image/small",
+            "time": "20:30:00",
+            "date": "25/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8wk6kqwz_e01c0c7d_20261124.png?v=e01c0c7d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
