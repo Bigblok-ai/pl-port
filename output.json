@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-5b3d3bfe24",
-          "name": "Persib Bandung vs Seoul FC | 19:15 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b3d3bfe24",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-5b3d3bfe24",
-                  "name": "Persib Bandung vs Seoul FC",
-                  "streams": [
-                    {
-                      "id": "st-5b3d3bfe24",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d0b46c0ad6",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3a86312f4be9489eae2098cc9c6201a3/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Persib Bandung",
-            "team_b": "Seoul FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh4z7xr6od/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd18m2wd/image/small",
-            "time": "19:15:00",
-            "date": "25/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen28kr6o_40b3f6ed_20261125.png?v=40b3f6ed",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ba9b910e3f",
           "name": "Ecuador U17 vs Hàn Quốc U17 | 19:30 25/11",
