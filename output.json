@@ -332,8 +332,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-fc7ac36685",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-6772485371",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/6360719e455848cab272d4e8192833cf/index.m3u8",
@@ -363,7 +363,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph9nzr8k0/image/small",
             "time": "19:15:00",
             "date": "26/11",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
@@ -637,8 +637,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-6bc60c7bf7",
-                          "name": "LÝ LÀNG LÁ",
+                          "id": "lnk-d4ca2f79f2",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/3ab426f29d964883a4b582791f899d85/index.m3u8",
@@ -668,7 +668,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4elvm0ve/image/small",
             "time": "22:00:00",
             "date": "26/11",
-            "blv": "LÝ LÀNG LÁ",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "football"
           },
