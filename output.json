@@ -1460,83 +1460,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-857ad32f8b",
-          "name": "IBK Women vs Expressway Co Women | 17:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-857ad32f8b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-857ad32f8b",
-                  "name": "IBK Women vs Expressway Co Women",
-                  "streams": [
-                    {
-                      "id": "st-857ad32f8b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eacf36c832",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ea543bb335b149c493a414e712d2b0c6/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "IBK Women",
-            "team_b": "Expressway Co Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
-            "time": "17:00:00",
-            "date": "25/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45322a8982b14e57a09853450ba239ab_734ceea9_20261125.png?v=734ceea9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-9854f4857e",
           "name": "Vakifbank Women vs Asterix Avo Women | 23:00 25/11",
