@@ -1400,6 +1400,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-dde614509b",
+          "name": "Croatia U17 vs Cuba U17 | 23:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dde614509b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-dde614509b",
+                  "name": "Croatia U17 vs Cuba U17",
+                  "streams": [
+                    {
+                      "id": "st-dde614509b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3206049294",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c17a9fefe39e43a9a7dd6fa8808919c3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Croatia U17",
+            "team_b": "Cuba U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3jo9ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlpd4qwzv/image/small",
+            "time": "23:00:00",
+            "date": "26/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk0x2zr1g_55bfd85d_20261125.png?v=55bfd85d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
