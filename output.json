@@ -1472,6 +1472,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-55314a8ab5",
+          "name": "Uzbekistan U17 vs Italy U17 | 21:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-55314a8ab5",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-55314a8ab5",
+                  "name": "Uzbekistan U17 vs Italy U17",
+                  "streams": [
+                    {
+                      "id": "st-55314a8ab5",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89972beb31",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/d29556cc48ff4fa0b00d459460a7032e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Uzbekistan U17",
+            "team_b": "Italy U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllh0k8qvy9/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l5ergphonwjr8k0/image/small",
+            "time": "21:00:00",
+            "date": "26/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6lj95qg8_24017db0_20261125.png?v=24017db0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
