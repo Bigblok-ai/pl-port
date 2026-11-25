@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-c6c4fa57fd",
-          "name": "Sporting CP U19 vs Manchester Utd U19 | 20:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c6c4fa57fd",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-c6c4fa57fd",
-                  "name": "Sporting CP U19 vs Manchester Utd U19",
-                  "streams": [
-                    {
-                      "id": "st-c6c4fa57fd",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d333ec42a",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f0aa0dc11d3e45c6a2b6cbb37edd1bad/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Sporting CP U19",
-            "team_b": "Manchester Utd U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/n54qllh2zlwqvy9/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhlnx2qwzv/image/small",
-            "time": "20:00:00",
-            "date": "25/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hndnn4qdy_3375221a_20261125.png?v=3375221a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-30fda539e7",
           "name": "Uruguay U17 vs Pháp U17 | 20:30 25/11",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "22:30:00",
             "date": "25/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "22:30:00",
             "date": "25/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1397,6 +1325,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6lj95qg8_24017db0_20261125.png?v=24017db0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-7f81145933",
+          "name": "Trung Quốc U17 vs Fiji U17 | 22:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7f81145933",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7f81145933",
+                  "name": "Trung Quốc U17 vs Fiji U17",
+                  "streams": [
+                    {
+                      "id": "st-7f81145933",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0917b3462",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/130612dc734945ecb53ccadfaf173605/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Trung Quốc U17",
+            "team_b": "Fiji U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4kj4m0ve/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn91or510/image/small",
+            "time": "22:00:00",
+            "date": "26/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5e9nwql0_3ab7c527_20261125.png?v=3ab7c527",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-2b4fd6e348",
+          "name": "Ma Rốc U17 vs Tây Ban Nha U17 | 22:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b4fd6e348",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2b4fd6e348",
+                  "name": "Ma Rốc U17 vs Tây Ban Nha U17",
+                  "streams": [
+                    {
+                      "id": "st-2b4fd6e348",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6bc60c7bf7",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3ab426f29d964883a4b582791f899d85/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA U17 World Cup",
+            "team_a": "Ma Rốc U17",
+            "team_b": "Tây Ban Nha U17",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5z5kmd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4elvm0ve/image/small",
+            "time": "22:00:00",
+            "date": "26/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5e9xwql0_0be53331_20261125.png?v=0be53331",
             "width": 1600,
             "height": 1200
           }
