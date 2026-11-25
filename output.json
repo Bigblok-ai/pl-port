@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2036817799",
-          "name": "Sabah FK vs Barcelona | 00:45 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2036817799",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2036817799",
-                  "name": "Sabah FK vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-2036817799",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-097a61fc02",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b451536763c6426aa57c7409ae316706/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Champions League",
-            "team_a": "Sabah FK",
-            "team_b": "Barcelona",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/23xmvkhddk0qg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-            "time": "00:45:00",
-            "date": "26/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph4zx4xr8k_9ab31413_20261126.png?v=9ab31413",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3ba0b696a4",
           "name": "Al Taawoun vs Al Nahda | 01:15 26/11",
