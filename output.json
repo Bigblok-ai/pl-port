@@ -234,7 +234,7 @@
         },
         {
           "id": "pl-c58c36879e",
-          "name": "SCP vs Man Utd | 03:00 26/11",
+          "name": "Sporting CP vs Manchester United | 03:00 26/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -253,7 +253,7 @@
               "contents": [
                 {
                   "id": "ct-c58c36879e",
-                  "name": "SCP vs Man Utd",
+                  "name": "Sporting CP vs Manchester United",
                   "streams": [
                     {
                       "id": "st-c58c36879e",
@@ -285,8 +285,8 @@
           ],
           "org_metadata": {
             "league": "UEFA Champions League",
-            "team_a": "SCP",
-            "team_b": "Man Utd",
+            "team_a": "Sporting CP",
+            "team_b": "Manchester United",
             "logo_a": "https://imgts.sportpulseapiz.com/football/team/kn54qllhyydqvy9/image/small",
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
             "time": "03:00:00",
