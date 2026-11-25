@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,38 +161,38 @@
           }
         },
         {
-          "id": "pl-5a662a5c74",
-          "name": "Bali United vs Barito Putera | 19:00 25/11",
+          "id": "pl-5389d98dbe",
+          "name": "Urawa Red vs Cerezo Osaka | 17:30 25/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-5a662a5c74",
+              "id": "src-5389d98dbe",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-5a662a5c74",
-                  "name": "Bali United vs Barito Putera",
+                  "id": "ct-5389d98dbe",
+                  "name": "Urawa Red vs Cerezo Osaka",
                   "streams": [
                     {
-                      "id": "st-5a662a5c74",
+                      "id": "st-5389d98dbe",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-2bd5a11981",
+                          "id": "lnk-467bfff9a3",
                           "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/08928e5daea04b6c92843a2d3b516732/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/8298899cfad14d069a98bdb2c70af66c/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -212,22 +212,22 @@
             }
           ],
           "org_metadata": {
-            "league": "IDN LC",
-            "team_a": "Bali United",
-            "team_b": "Barito Putera",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh989lrepz/image/small",
-            "time": "19:00:00",
+            "league": "Japanese J1 League",
+            "team_a": "Urawa Red",
+            "team_b": "Cerezo Osaka",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7hev1qdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhjdzqg8n/image/small",
+            "time": "17:30:00",
             "date": "25/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhlgev3ryk_c9563928_20261125.png?v=c9563928",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny7npqvy_0ee9e4a8_20261125.png?v=0ee9e4a8",
             "width": 1600,
             "height": 1200
           }
