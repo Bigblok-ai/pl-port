@@ -1256,6 +1256,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-7e42025710",
+          "name": "Celta vs AFC Bournemouth | 00:45 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7e42025710",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7e42025710",
+                  "name": "Celta vs AFC Bournemouth",
+                  "streams": [
+                    {
+                      "id": "st-7e42025710",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a45f932713",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/00eb4e521de245c0a8c70df4bd8221dc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "Celta",
+            "team_b": "AFC Bournemouth",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zh90gql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
+            "time": "00:45:00",
+            "date": "27/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx9l0eqo9_81fde81b_20261126.png?v=81fde81b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-03bc0308a3",
+          "name": "Dinamo Zagreb vs Bayer Leverkusen | 00:45 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03bc0308a3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-03bc0308a3",
+                  "name": "Dinamo Zagreb vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-03bc0308a3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4bb0f87a24",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/68e37a4273c04cd1a68a8e35a1fb44d5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa League",
+            "team_a": "Dinamo Zagreb",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdwwmoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
+            "time": "00:45:00",
+            "date": "27/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxdjlqdy_5187176b_20261126.png?v=5187176b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
