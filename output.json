@@ -161,8 +161,8 @@
           }
         },
         {
-          "id": "pl-8261e7c865",
-          "name": "Sabah Baku U19 vs Barcelona U19 | 18:00 25/11",
+          "id": "pl-5a662a5c74",
+          "name": "Bali United vs Barito Putera | 19:00 25/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -176,23 +176,23 @@
           ],
           "sources": [
             {
-              "id": "src-8261e7c865",
+              "id": "src-5a662a5c74",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-8261e7c865",
-                  "name": "Sabah Baku U19 vs Barcelona U19",
+                  "id": "ct-5a662a5c74",
+                  "name": "Bali United vs Barito Putera",
                   "streams": [
                     {
-                      "id": "st-8261e7c865",
+                      "id": "st-5a662a5c74",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-19f4a7c67e",
+                          "id": "lnk-2bd5a11981",
                           "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d46ff8b0d8ac4b6a9571fd69d4c2b21e/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/08928e5daea04b6c92843a2d3b516732/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -212,12 +212,12 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Sabah Baku U19",
-            "team_b": "Barcelona U19",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/ednm9wheg5zryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh0ngkmd7o/image/small",
-            "time": "18:00:00",
+            "league": "IDN LC",
+            "team_a": "Bali United",
+            "team_b": "Barito Putera",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/k82rekh989lrepz/image/small",
+            "time": "19:00:00",
             "date": "25/11",
             "blv": "LÝ LONG",
             "is_live": false,
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvxvv3md7_a752596f_20261125.png?v=a752596f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhlgev3ryk_c9563928_20261125.png?v=c9563928",
             "width": 1600,
             "height": 1200
           }
