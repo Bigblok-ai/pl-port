@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c2a1a21c25",
+          "name": "Borneo FC vs Persita | 15:30 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c2a1a21c25",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c2a1a21c25",
+                  "name": "Borneo FC vs Persita",
+                  "streams": [
+                    {
+                      "id": "st-c2a1a21c25",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2704f9b39d",
+                          "name": "LÝ LẮC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c500d444650c4c6fbdeb0acca366a4eb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indonesian Super League",
+            "team_a": "Borneo FC",
+            "team_b": "Persita",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghg2jlr6od/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh137nm7vx/image/small",
+            "time": "15:30:00",
+            "date": "26/11",
+            "blv": "LÝ LẮC",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghezdgpr6o_e0086692_20261125.png?v=e0086692",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
