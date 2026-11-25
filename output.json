@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-1fb9396823",
-          "name": "Melbourne Victory vs Thể Công Viettel | 14:45 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1fb9396823",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1fb9396823",
-                  "name": "Melbourne Victory vs Thể Công Viettel",
-                  "streams": [
-                    {
-                      "id": "st-1fb9396823",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-14b9c7ffc8",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/f6336ee2ceb047d8a28e782850a1605e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Melbourne Victory",
-            "team_b": "Thể Công Viettel",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/n54qllh25jvqvy9/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small",
-            "time": "14:45:00",
-            "date": "25/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghen283r6o_0910f529_20261125.png?v=0910f529",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-24f9db6fd8",
           "name": "Gamba Osaka vs Port FC | 17:00 25/11",
