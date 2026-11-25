@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-24f9db6fd8",
-          "name": "Gamba Osaka vs Port FC | 17:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-24f9db6fd8",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-24f9db6fd8",
-                  "name": "Gamba Osaka vs Port FC",
-                  "streams": [
-                    {
-                      "id": "st-24f9db6fd8",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7c646c20f6",
-                          "name": "LÝ LẮC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/eca4647c260846368249608ea09773f1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Gamba Osaka",
-            "team_b": "Port FC",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwxnryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/965mkyh7ykdr1ge/image/small",
-            "time": "17:00:00",
-            "date": "25/11",
-            "blv": "LÝ LẮC",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh524pvql0_041bedd0_20261125.png?v=041bedd0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-b7ee7bb1b7",
-          "name": "Kashima Antlers vs Jeonbuk Hyundai | 17:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7ee7bb1b7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-b7ee7bb1b7",
-                  "name": "Kashima Antlers vs Jeonbuk Hyundai",
-                  "streams": [
-                    {
-                      "id": "st-b7ee7bb1b7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d71d028cc",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/cb3f0068218d40ab82c9e895cc6b6e5f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Elite",
-            "team_a": "Kashima Antlers",
-            "team_b": "Jeonbuk Hyundai",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnhp8nm7vx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd42repz/image/small",
-            "time": "17:00:00",
-            "date": "25/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkzlqvy_c1db2f25_20261125.png?v=c1db2f25",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-5389d98dbe",
           "name": "Urawa Red vs Cerezo Osaka | 17:30 25/11",
@@ -312,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +220,7 @@
             "time": "19:30:00",
             "date": "25/11",
             "blv": "LÝ LẮC",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
