@@ -1436,6 +1436,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-2faefb1851",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/0cdc40e28a5f4214b7e2d3a0a2ebed38/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1533,6 +1550,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5c393379ee844e3b840aaea253800da_1248f536_20261126.png?v=1248f536",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-360a2b6449",
+          "name": "Kuzey Boru Genclik Women vs Vakifbank Women | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-360a2b6449",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-360a2b6449",
+                  "name": "Kuzey Boru Genclik Women vs Vakifbank Women",
+                  "streams": [
+                    {
+                      "id": "st-360a2b6449",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bb38508428",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/7d785054e7f2403f807c6bbc5d859a83/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi",
+            "team_a": "Kuzey Boru Genclik Women",
+            "team_b": "Vakifbank Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/lKSlNof5-GdX8fNqC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cc69d06aeb284176a3bd202512eae57f_94212cd2_20261126.png?v=94212cd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3e6255f989",
+          "name": "Spor Toto vs Ziraat Bankasi | 23:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3e6255f989",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3e6255f989",
+                  "name": "Spor Toto vs Ziraat Bankasi",
+                  "streams": [
+                    {
+                      "id": "st-3e6255f989",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8df4d47fc4",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a9d69bc45b2c4a288ea7e5cacb5775d2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Efeler Ligi",
+            "team_a": "Spor Toto",
+            "team_b": "Ziraat Bankasi",
+            "logo_a": "https://static.flashscore.com/res/image/data/U7VD3hCr-hhkSSKkE.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
+            "time": "23:00:00",
+            "date": "28/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fc0f8733e11e4fbd99c93ded07653d7c_cde5cc3d_20261126.png?v=cde5cc3d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-97924300e7",
+          "name": "Okayama Seagulls Women vs Hisamitsu Springs Women | 10:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97924300e7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-97924300e7",
+                  "name": "Okayama Seagulls Women vs Hisamitsu Springs Women",
+                  "streams": [
+                    {
+                      "id": "st-97924300e7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-31d552c236",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ef079d3a8c444788bdae43173893bb12/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Okayama Seagulls Women",
+            "team_b": "Hisamitsu Springs Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png",
+            "time": "10:05:00",
+            "date": "29/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8f48885622514c70a60cee74a4b9f36e_1248f536_20261126.png?v=1248f536",
             "width": 1600,
             "height": 1200
           }
