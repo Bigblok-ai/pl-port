@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -101,78 +101,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1d606ac3447e40c891d63faaa128b312_cf413c9a_20261126.png?v=cf413c9a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-ec0e28d5a9",
-          "name": "New Zealand U17 vs Bỉ U17 | 20:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec0e28d5a9",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-ec0e28d5a9",
-                  "name": "New Zealand U17 vs Bỉ U17",
-                  "streams": [
-                    {
-                      "id": "st-ec0e28d5a9",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1817de1e75",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5850f1dbf1d04099945306661962b9fa/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "New Zealand U17",
-            "team_b": "Bỉ U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw24moep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwy4kqdyj/image/small",
-            "time": "20:00:00",
-            "date": "26/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h16ox3q0j_f5a06056_20261126.png?v=f5a06056",
             "width": 1600,
             "height": 1200
           }
