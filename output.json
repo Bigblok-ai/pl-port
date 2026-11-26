@@ -1040,6 +1040,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-792b52bf02",
+          "name": "Huda Huế vs Đồng Tâm Long An | 15:30 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-792b52bf02",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-792b52bf02",
+                  "name": "Huda Huế vs Đồng Tâm Long An",
+                  "streams": [
+                    {
+                      "id": "st-792b52bf02",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fdd4afd76f",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2bc2cb1b4e8e4b8d95a33110662e9b11/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National First Class League",
+            "team_a": "Huda Huế",
+            "team_b": "Đồng Tâm Long An",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/k82rekh96p9repz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8wo6q86p/image/small",
+            "time": "15:30:00",
+            "date": "27/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnv390qvy_d1078e2a_20261126.png?v=d1078e2a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
