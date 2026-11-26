@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-03bc0308a3",
-          "name": "Dinamo Zagreb vs Bayer Leverkusen | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03bc0308a3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-03bc0308a3",
-                  "name": "Dinamo Zagreb vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-03bc0308a3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4bb0f87a24",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/68e37a4273c04cd1a68a8e35a1fb44d5/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Dinamo Zagreb",
-            "team_b": "Bayer Leverkusen",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdwwmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnxdjlqdy_5187176b_20261127.png?v=5187176b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-ba4254d74e",
           "name": "Crystal Palace vs Real Sociedad | 03:00 27/11",
@@ -1236,6 +1164,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8yomo4h1o5pkq0j_4c1ce700_20261127.png?v=4c1ce700",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-e7299f9072",
+          "name": "Venezia vs Bologna | 02:45 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7299f9072",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-e7299f9072",
+                  "name": "Venezia vs Bologna",
+                  "streams": [
+                    {
+                      "id": "st-e7299f9072",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-779d458169",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/3bba3ef0ad794ac9b745d0ddf1d83cbc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Venezia",
+            "team_b": "Bologna",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
+            "time": "02:45:00",
+            "date": "28/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgejnkq82_b5447fcc_20261127.png?v=b5447fcc",
             "width": 1600,
             "height": 1200
           }
