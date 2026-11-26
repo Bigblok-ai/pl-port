@@ -1392,6 +1392,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-40b7508e31",
+          "name": "Ageo Women vs Gunma Greenwings Women | 11:05 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40b7508e31",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-40b7508e31",
+                  "name": "Ageo Women vs Gunma Greenwings Women",
+                  "streams": [
+                    {
+                      "id": "st-40b7508e31",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ab969367a",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/215b5c1bfe7944cd85e673348f695bca/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Ageo Women",
+            "team_b": "Gunma Greenwings Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/IDJLoIcM-Q9VBAmE7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
+            "time": "11:05:00",
+            "date": "28/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4ed316d0a0fe474ea8e4eb58c9c253fc_5e7c558b_20261126.png?v=5e7c558b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-12e8f07a9d",
+          "name": "Okayama Seagulls Women vs Hisamitsu Springs Women | 11:05 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-12e8f07a9d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-12e8f07a9d",
+                  "name": "Okayama Seagulls Women vs Hisamitsu Springs Women",
+                  "streams": [
+                    {
+                      "id": "st-12e8f07a9d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8030c7181a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/733297bdc1c64125b3e3104b9a875552/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Okayama Seagulls Women",
+            "team_b": "Hisamitsu Springs Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png",
+            "time": "11:05:00",
+            "date": "28/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/f5c393379ee844e3b840aaea253800da_1248f536_20261126.png?v=1248f536",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
