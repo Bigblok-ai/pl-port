@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -156,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6eg4jqg8_7ce20b18_20261126.png?v=7ce20b18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-ebf63cfde8",
+          "name": "Tampines Rovers vs Shanghai Shenhua | 17:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ebf63cfde8",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-ebf63cfde8",
+                  "name": "Tampines Rovers vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "st-ebf63cfde8",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-086a692798",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f65ac0add59c4179ac236eb856174ad2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Tampines Rovers",
+            "team_b": "Shanghai Shenhua",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdeh51yr510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjjnq0j6/image/small",
+            "time": "17:00:00",
+            "date": "26/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/x7lm7phjl59vm2w_d660e5f2_20261126.png?v=d660e5f2",
             "width": 1600,
             "height": 1200
           }
