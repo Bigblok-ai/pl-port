@@ -1896,6 +1896,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-30564046a9",
+          "name": "Fenerbahce Women vs Ilbank Women | 17:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30564046a9",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30564046a9",
+                  "name": "Fenerbahce Women vs Ilbank Women",
+                  "streams": [
+                    {
+                      "id": "st-30564046a9",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e76356ea2",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/2388f4e517504cf1bc40e256c066e032/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Women",
+            "team_a": "Fenerbahce Women",
+            "team_b": "Ilbank Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OpjISOXg-AabQOsPn.png",
+            "time": "17:00:00",
+            "date": "29/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/15edab67c6c6499f90e495b23c721725_261c0f06_20261126.png?v=261c0f06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c58cceaadd",
+          "name": "Eczacibasi Women vs Galatasaray Women | 22:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c58cceaadd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c58cceaadd",
+                  "name": "Eczacibasi Women vs Galatasaray Women",
+                  "streams": [
+                    {
+                      "id": "st-c58cceaadd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7ed86a14a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/956a6164f03649598c27ea9de638b214/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Women",
+            "team_a": "Eczacibasi Women",
+            "team_b": "Galatasaray Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/x417hkDa-GdosgdYA.png",
+            "time": "22:00:00",
+            "date": "29/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d3b46aa142e4914b0158c568020a249_e0482645_20261126.png?v=e0482645",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
