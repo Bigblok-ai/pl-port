@@ -1436,23 +1436,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-2faefb1851",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pull.digitalcdn.net/live/0cdc40e28a5f4214b7e2d3a0a2ebed38/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -1766,6 +1749,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/8f48885622514c70a60cee74a4b9f36e_1248f536_20261126.png?v=1248f536",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-8df34e5477",
+          "name": "Ageo Women vs Gunma Greenwings Women | 11:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8df34e5477",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-8df34e5477",
+                  "name": "Ageo Women vs Gunma Greenwings Women",
+                  "streams": [
+                    {
+                      "id": "st-8df34e5477",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2faefb1851",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0cdc40e28a5f4214b7e2d3a0a2ebed38/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "SV.League Women",
+            "team_a": "Ageo Women",
+            "team_b": "Gunma Greenwings Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/IDJLoIcM-Q9VBAmE7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
+            "time": "11:05:00",
+            "date": "29/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/82c1feac3d01476cacaba267082916d4_5e7c558b_20261126.png?v=5e7c558b",
             "width": 1600,
             "height": 1200
           }
