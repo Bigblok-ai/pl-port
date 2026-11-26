@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5e9nwql0_3ab7c527_20261126.png?v=3ab7c527",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-2b4fd6e348",
-          "name": "Ma Rốc U17 vs Tây Ban Nha U17 | 22:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2b4fd6e348",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2b4fd6e348",
-                  "name": "Ma Rốc U17 vs Tây Ban Nha U17",
-                  "streams": [
-                    {
-                      "id": "st-2b4fd6e348",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d4ca2f79f2",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3ab426f29d964883a4b582791f899d85/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Ma Rốc U17",
-            "team_b": "Tây Ban Nha U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5z5kmd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4elvm0ve/image/small",
-            "time": "22:00:00",
-            "date": "26/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh5e9xwql0_0be53331_20261126.png?v=0be53331",
             "width": 1600,
             "height": 1200
           }
