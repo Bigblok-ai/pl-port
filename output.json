@@ -17,150 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-f3e53241a0",
-          "name": "Tai Po vs Adelaide United | 19:15 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3e53241a0",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-f3e53241a0",
-                  "name": "Tai Po vs Adelaide United",
-                  "streams": [
-                    {
-                      "id": "st-f3e53241a0",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ee632b4246",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/48902014edf040b5b205bb33f52e578e/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "Tai Po",
-            "team_b": "Adelaide United",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg972ryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4nvdmoep/image/small",
-            "time": "19:15:00",
-            "date": "26/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx97j0qo9_c8d8bd33_20261126.png?v=c8d8bd33",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-d8f189e205",
-          "name": "BG Pathum United vs Lion City | 19:15 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d8f189e205",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-d8f189e205",
-                  "name": "BG Pathum United vs Lion City",
-                  "streams": [
-                    {
-                      "id": "st-d8f189e205",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6772485371",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/6360719e455848cab272d4e8192833cf/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League Two",
-            "team_a": "BG Pathum United",
-            "team_b": "Lion City",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/k82rekhvp7erepz/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph9nzr8k0/image/small",
-            "time": "19:15:00",
-            "date": "26/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn80x3m0v_f3731501_20261126.png?v=f3731501",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-a139276ca3",
           "name": "Việt Nam U17 vs Mali U17 | 20:00 26/11",
           "type": "single",
@@ -401,10 +257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -453,7 +309,7 @@
             "time": "22:00:00",
             "date": "26/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -473,10 +329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -525,7 +381,7 @@
             "time": "22:00:00",
             "date": "26/11",
             "blv": "LÃM LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
