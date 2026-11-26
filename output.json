@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -237,7 +237,7 @@
             "time": "20:00:00",
             "date": "26/11",
             "blv": "LÝ LA LÀNG, LÝ LẦY LỘI",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -257,10 +257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +309,7 @@
             "time": "20:00:00",
             "date": "26/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1256,49 +1256,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-c413ab0020",
-          "name": "Hyundai E&C Hillstate Women vs SOOP SOOPers Women | 17:00 26/11",
+          "id": "pl-2c546f9f4d",
+          "name": "Al Kholood vs Al Khaleej | 19:15 27/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-c413ab0020",
+              "id": "src-2c546f9f4d",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-c413ab0020",
-                  "name": "Hyundai E&C Hillstate Women vs SOOP SOOPers Women",
+                  "id": "ct-2c546f9f4d",
+                  "name": "Al Kholood vs Al Khaleej",
                   "streams": [
                     {
-                      "id": "st-c413ab0020",
+                      "id": "st-2c546f9f4d",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-ffe7a9eeb8",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-6d6dccf8fc",
+                          "name": "LÝ LẠNH LÙNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/5fe4481b249e4328804682da70bfed6b/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/df553e371075458b8a082fe98b473c85/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1318,26 +1309,35 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Hyundai E&C Hillstate Women",
-            "team_b": "SOOP SOOPers Women",
-            "logo_a": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
-            "time": "17:00:00",
-            "date": "26/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "Saudi Professional League",
+            "team_a": "Al Kholood",
+            "team_b": "Al Khaleej",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwzl8qdyj/image/small",
+            "time": "19:15:00",
+            "date": "27/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261126.png?v=7ef03d29",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxedw7qo9_5613e189_20261126.png?v=5613e189",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-88236f762f",
           "name": "Hungkuk Women vs GS Caltex Women | 17:00 27/11",
