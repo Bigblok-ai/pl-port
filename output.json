@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f3eba4a3bc",
+          "name": "Real Madrid vs Alavés | 03:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3eba4a3bc",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f3eba4a3bc",
+                  "name": "Real Madrid vs Alavés",
+                  "streams": [
+                    {
+                      "id": "st-f3eba4a3bc",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-840773145c",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/f2452d4e389d44a39bbc69aa16d65a7a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Madrid",
+            "team_b": "Alavés",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h111q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergph6lkr8k0/image/small",
+            "time": "03:00:00",
+            "date": "29/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whw4e0jryo_e67f7dbb_20261128.png?v=e67f7dbb",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
