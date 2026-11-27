@@ -2186,6 +2186,78 @@
           }
         },
         {
+          "id": "pl-adb59ea626",
+          "name": "Đà Nẵng vs TP Hồ Chí Minh | 16:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-adb59ea626",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-adb59ea626",
+                  "name": "Đà Nẵng vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-adb59ea626",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-620597c48d",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/0f0dbd5603c64653aebb3a9c85d0c1bb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nam Đại hội TDTT",
+            "team_a": "Đà Nẵng",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
+            "time": "16:30:00",
+            "date": "29/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b22217c34f7a4b1da0e32aaee1cef2ec_fe43401e_20261127.png?v=fe43401e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "pl-30564046a9",
           "name": "Fenerbahce Women vs Ilbank Women | 17:00 29/11",
           "type": "single",
@@ -2253,6 +2325,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/15edab67c6c6499f90e495b23c721725_261c0f06_20261127.png?v=261c0f06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-7168c156c7",
+          "name": "Hà Nội vs Quảng Ninh | 19:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7168c156c7",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-7168c156c7",
+                  "name": "Hà Nội vs Quảng Ninh",
+                  "streams": [
+                    {
+                      "id": "st-7168c156c7",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9f32cc9e66",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/9167379ebf804f4da9ee9d4513f2e864/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nữ Đại hội TDTT",
+            "team_a": "Hà Nội",
+            "team_b": "Quảng Ninh",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/c/c2/Logo_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh_%28kh%C3%B4ng_ch%C3%ADnh_th%E1%BB%A9c%29.png/250px-Logo_t%E1%BB%89nh_Qu%E1%BA%A3ng_Ninh_%28kh%C3%B4ng_ch%C3%ADnh_th%E1%BB%A9c%29.png",
+            "time": "19:00:00",
+            "date": "29/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/07d8b254597e424ba8e41df078cd4172_5a94853b_20261127.png?v=5a94853b",
             "width": 1600,
             "height": 1200
           }
