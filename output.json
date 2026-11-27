@@ -1311,6 +1311,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-501d3ddd26",
+          "name": "Leeds United vs Coventry City | 22:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-501d3ddd26",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-501d3ddd26",
+                  "name": "Leeds United vs Coventry City",
+                  "streams": [
+                    {
+                      "id": "st-501d3ddd26",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-050dfc6010",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ca232b5bbb8d4704a1fa66678736cf52/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Leeds United",
+            "team_b": "Coventry City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
+            "time": "22:00:00",
+            "date": "28/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p0zem7v_18a38b52_20261127.png?v=18a38b52",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-773bdc6f8f",
+          "name": "Man Utd vs Brentford | 22:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-773bdc6f8f",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-773bdc6f8f",
+                  "name": "Man Utd vs Brentford",
+                  "streams": [
+                    {
+                      "id": "st-773bdc6f8f",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d03c80484",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/ff250310c4814ae3a862bdf111b51fe3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Man Utd",
+            "team_b": "Brentford",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small",
+            "time": "22:00:00",
+            "date": "28/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhk9x35r1g_1408afa7_20261127.png?v=1408afa7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
