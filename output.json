@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-c8fefe72a3",
+          "name": "Frosinone vs Parma | 21:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c8fefe72a3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c8fefe72a3",
+                  "name": "Frosinone vs Parma",
+                  "streams": [
+                    {
+                      "id": "st-c8fefe72a3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b9547ac11",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/8753210d21c74c9f9599b3ee79721fb1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Frosinone",
+            "team_b": "Parma",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nho80md7o/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkvzqwzv/image/small",
+            "time": "21:00:00",
+            "date": "28/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h618jvq86_1ecd8f12_20261127.png?v=1ecd8f12",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
