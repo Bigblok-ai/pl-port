@@ -1383,6 +1383,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-44ef520229",
+          "name": "Inter vs Genoa | 02:45 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44ef520229",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-44ef520229",
+                  "name": "Inter vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-44ef520229",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30eb238c19",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4d5f6d6da0554e94b1849128bc40f13e/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Inter",
+            "team_b": "Genoa",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
+            "time": "02:45:00",
+            "date": "29/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6z351qg8_22810791_20261128.png?v=22810791",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-22ab1f7305",
+          "name": "PSG vs Lorient | 02:45 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22ab1f7305",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-22ab1f7305",
+                  "name": "PSG vs Lorient",
+                  "streams": [
+                    {
+                      "id": "st-22ab1f7305",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-210f9ad6d3",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/e4d9fcc9908d4041be1c4ab25cfc3a15/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "French Ligue 1",
+            "team_a": "PSG",
+            "team_b": "Lorient",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hv44rz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/d23xmvkh5vvqg8n/image/small",
+            "time": "02:45:00",
+            "date": "29/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdjezrz8_246c9247_20261128.png?v=246c9247",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
