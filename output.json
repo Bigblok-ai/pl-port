@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-2c546f9f4d",
-          "name": "Al Kholood vs Al Khaleej | 19:15 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2c546f9f4d",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2c546f9f4d",
-                  "name": "Al Kholood vs Al Khaleej",
-                  "streams": [
-                    {
-                      "id": "st-2c546f9f4d",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d6dccf8fc",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/df553e371075458b8a082fe98b473c85/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Saudi Professional League",
-            "team_a": "Al Kholood",
-            "team_b": "Al Khaleej",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y39mp1hjj8kmojx/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwzl8qdyj/image/small",
-            "time": "19:15:00",
-            "date": "27/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxedw7qo9_5613e189_20261127.png?v=5613e189",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-1b11cf20d7",
           "name": "Honduras U17 vs Nhật Bản U17 | 20:00 27/11",
           "type": "single",
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "22:00:00",
             "date": "27/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
