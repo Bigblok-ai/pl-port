@@ -1311,6 +1311,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-2083284506",
+          "name": "Mainz 05 vs Union Berlin | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2083284506",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-2083284506",
+                  "name": "Mainz 05 vs Union Berlin",
+                  "streams": [
+                    {
+                      "id": "st-2083284506",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20ca4338a4",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/b8509f80411c46e997db7a3f1a657085/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Mainz 05",
+            "team_b": "Union Berlin",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whl2kryox/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh613r6od/image/small",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6n7p3q86_0953d88a_20261127.png?v=0953d88a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-a5150997e6",
+          "name": "Hamburger SV vs Bayern Munich | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a5150997e6",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a5150997e6",
+                  "name": "Hamburger SV vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-a5150997e6",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-16c28c7ba8",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bf581ad3b58e4aeb9c1a97d927006d4c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hamburger SV",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph465x9r8k_0744c4f7_20261127.png?v=0744c4f7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
