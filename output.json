@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e7299f9072",
-          "name": "Venezia vs Bologna | 02:45 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e7299f9072",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e7299f9072",
-                  "name": "Venezia vs Bologna",
-                  "streams": [
-                    {
-                      "id": "st-e7299f9072",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-779d458169",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/3bba3ef0ad794ac9b745d0ddf1d83cbc/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Venezia",
-            "team_b": "Bologna",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhjjymd7o/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdw6ql07/image/small",
-            "time": "02:45:00",
-            "date": "28/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgejnkq82_b5447fcc_20261128.png?v=b5447fcc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-05afa061a7",
           "name": "Nott'm Forest vs Chelsea | 03:00 28/11",
