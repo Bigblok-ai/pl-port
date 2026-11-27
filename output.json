@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-13a5ce71da",
-          "name": "Montenegro U17 vs Chile U17 | 22:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-13a5ce71da",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-13a5ce71da",
-                  "name": "Montenegro U17 vs Chile U17",
-                  "streams": [
-                    {
-                      "id": "st-13a5ce71da",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c92b56c1af",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/07739d5fa21b4554855c5b3995db0d26/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Montenegro U17",
-            "team_b": "Chile U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h78kvq0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhgeveryk0/image/small",
-            "time": "22:00:00",
-            "date": "27/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dj2ryohl904xq1z_36d15309_20261128.png?v=36d15309",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-2630de840e",
           "name": "Romania U17 vs Cameroon U17 | 23:00 27/11",
