@@ -17,150 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-1b11cf20d7",
-          "name": "Honduras U17 vs Nhật Bản U17 | 20:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b11cf20d7",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-1b11cf20d7",
-                  "name": "Honduras U17 vs Nhật Bản U17",
-                  "streams": [
-                    {
-                      "id": "st-1b11cf20d7",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c72aaf2e91",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/d5e2f5f9fa454c339e69684754ea7f2d/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Honduras U17",
-            "team_b": "Nhật Bản U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhge8pryk0/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phezgm2wd/image/small",
-            "time": "20:00:00",
-            "date": "27/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hx3p24qo9_03d294d9_20261127.png?v=03d294d9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-3b7c5ee9d4",
-          "name": "Colombia U17 vs Serbia U17 | 20:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b7c5ee9d4",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-3b7c5ee9d4",
-                  "name": "Colombia U17 vs Serbia U17",
-                  "streams": [
-                    {
-                      "id": "st-3b7c5ee9d4",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ad6b936bb",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2bd4418ebc9a4e6f9d78bbb90f74523f/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Colombia U17",
-            "team_b": "Serbia U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl0zzqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlwzjrz84/image/small",
-            "time": "20:00:00",
-            "date": "27/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hng509qdy_f0fe1001_20261127.png?v=f0fe1001",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-00aacffa22",
           "name": "Costa Rica U17 vs Brazil U17 | 21:00 27/11",
           "type": "single",
@@ -312,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +220,7 @@
             "time": "23:00:00",
             "date": "27/11",
             "blv": "LÃM LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +292,7 @@
             "time": "23:00:00",
             "date": "27/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
