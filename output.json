@@ -1311,6 +1311,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-3d8dd218d1",
+          "name": "Hà Nội FC vs HL Hà Tĩnh | 19:15 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3d8dd218d1",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3d8dd218d1",
+                  "name": "Hà Nội FC vs HL Hà Tĩnh",
+                  "streams": [
+                    {
+                      "id": "st-3d8dd218d1",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad6256f1af",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c0e889fe80d244a1992349f93a2680fb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Hà Nội FC",
+            "team_b": "HL Hà Tĩnh",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1ghen9wmoep/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66h06dgqo9j/image/small",
+            "time": "19:15:00",
+            "date": "28/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyhkp50or1g_7ba697d4_20261127.png?v=7ba697d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-4b129ab6fa",
+          "name": "Al Hazem vs Al Nassr | 19:15 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b129ab6fa",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-4b129ab6fa",
+                  "name": "Al Hazem vs Al Nassr",
+                  "streams": [
+                    {
+                      "id": "st-4b129ab6fa",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe8edbb1ef",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/17a7e9699df44bae85d3febb8e9e0ad5/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Professional League",
+            "team_a": "Al Hazem",
+            "team_b": "Al Nassr",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jw2r09hlx8orz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/318q66hoklkqo9j/image/small",
+            "time": "19:15:00",
+            "date": "28/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6l8z1moj_e712ace8_20261127.png?v=e712ace8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
