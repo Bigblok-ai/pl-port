@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-e0fc5a97e3",
-          "name": "Macarthur FC vs Melbourne City | 15:40 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e0fc5a97e3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-e0fc5a97e3",
-                  "name": "Macarthur FC vs Melbourne City",
-                  "streams": [
-                    {
-                      "id": "st-e0fc5a97e3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f6dde2a1e",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/984105936f5142c4813721002f9fd863/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Macarthur FC",
-            "team_b": "Melbourne City",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/318q66h47j0qo9j/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw29eqdyj/image/small",
-            "time": "15:40:00",
-            "date": "27/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgkj4kq82_55c2eacd_20261127.png?v=55c2eacd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-7f7eaaade1",
           "name": "Sông Lam Nghệ An vs Ninh Bình | 18:00 27/11",
