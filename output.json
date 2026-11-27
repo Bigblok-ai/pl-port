@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2630de840e",
-          "name": "Romania U17 vs Cameroon U17 | 23:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2630de840e",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2630de840e",
-                  "name": "Romania U17 vs Cameroon U17",
-                  "streams": [
-                    {
-                      "id": "st-2630de840e",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5344cd798",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/68741d86580041a18720e365aa839981/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Romania U17",
-            "team_b": "Cameroon U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8255q86p/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh323wql07/image/small",
-            "time": "23:00:00",
-            "date": "27/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hng569qdy_77168db9_20261128.png?v=77168db9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-8a47353816",
-          "name": "Venezuela U17 vs Mexico U17 | 23:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8a47353816",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-8a47353816",
-                  "name": "Venezuela U17 vs Mexico U17",
-                  "streams": [
-                    {
-                      "id": "st-8a47353816",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4d8e9add28",
-                          "name": "LÝ LIỀU LĨNH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/334d4a5a010242c5a8944038310a89c4/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA U17 World Cup",
-            "team_a": "Venezuela U17",
-            "team_b": "Mexico U17",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/8yomo4h717dq0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkkxjm2wd/image/small",
-            "time": "23:00:00",
-            "date": "27/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghn5jzxm0v_cda92fc6_20261128.png?v=cda92fc6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c4c9bc3818",
           "name": "Al Ittihad(KSA) vs Neom SC | 00:30 28/11",
@@ -2541,6 +2397,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/07d8b254597e424ba8e41df078cd4172_5a94853b_20261128.png?v=5a94853b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-c58cceaadd",
+          "name": "Eczacibasi Women vs Galatasaray Women | 22:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c58cceaadd",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-c58cceaadd",
+                  "name": "Eczacibasi Women vs Galatasaray Women",
+                  "streams": [
+                    {
+                      "id": "st-c58cceaadd",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7ed86a14a",
+                          "name": "LÝ LIỀU LĨNH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/956a6164f03649598c27ea9de638b214/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sultanlar Ligi Women",
+            "team_a": "Eczacibasi Women",
+            "team_b": "Galatasaray Women",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/x417hkDa-GdosgdYA.png",
+            "time": "22:00:00",
+            "date": "29/11",
+            "blv": "LÝ LIỀU LĨNH",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d3b46aa142e4914b0158c568020a249_e0482645_20261128.png?v=e0482645",
             "width": 1600,
             "height": 1200
           }
