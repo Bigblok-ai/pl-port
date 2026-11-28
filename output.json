@@ -1565,8 +1565,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-bb38508428",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-416da05821",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/7d785054e7f2403f807c6bbc5d859a83/index.m3u8",
@@ -1596,7 +1596,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
             "time": "18:00:00",
             "date": "28/11",
-            "blv": "LÝ LIỀU LĨNH",
+            "blv": "LÃM LÀNG",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
