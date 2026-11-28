@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-d2fc142c4a",
+          "name": "Everton vs Liverpool | 19:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d2fc142c4a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-d2fc142c4a",
+                  "name": "Everton vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-d2fc142c4a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4778225cf1",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/749175c296fd4132b70cd1bcdd36518f/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Everton",
+            "team_b": "Liverpool",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small",
+            "time": "19:00:00",
+            "date": "29/11",
+            "blv": "LÝ LA LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8gheo6jvr6o_f28adb62_20261128.png?v=f28adb62",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
