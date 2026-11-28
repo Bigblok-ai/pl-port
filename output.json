@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "18:00:00",
             "date": "28/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -260,8 +260,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-906e4b28f5",
-                          "name": "LÝ LẦY LỘI",
+                          "id": "lnk-7cbbdcf5c3",
+                          "name": "LÝ LONG",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/56b2d2417fde49bb88b4890f212f6e32/index.m3u8",
@@ -291,8 +291,8 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9k9ryk0/image/small",
             "time": "18:00:00",
             "date": "28/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": false,
+            "blv": "LÝ LONG",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1532,7 +1532,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1617,10 +1617,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1669,7 +1669,7 @@
             "time": "18:00:00",
             "date": "28/11",
             "blv": "LÃM LÀNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
