@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-501d3ddd26",
-          "name": "Leeds United vs Coventry City | 22:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-501d3ddd26",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-501d3ddd26",
-                  "name": "Leeds United vs Coventry City",
-                  "streams": [
-                    {
-                      "id": "st-501d3ddd26",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a52e61be48",
-                          "name": "LÝ LẦY LỘI",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/ca232b5bbb8d4704a1fa66678736cf52/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "English Premier League",
-            "team_a": "Leeds United",
-            "team_b": "Coventry City",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
-            "time": "22:00:00",
-            "date": "28/11",
-            "blv": "LÝ LẦY LỘI",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9p0zem7v_18a38b52_20261128.png?v=18a38b52",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-773bdc6f8f",
           "name": "Man Utd vs Brentford | 22:00 28/11",
