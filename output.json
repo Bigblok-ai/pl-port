@@ -1394,8 +1394,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-bd9afd5c01",
-          "name": "TP. Hồ Chí Minh vs Hưng Yên | 14:00 28/11",
+          "id": "pl-5a3872f542",
+          "name": "Đà Nẵng vs TP Hồ Chí Minh | 16:30 28/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1405,78 +1405,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bd9afd5c01",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-bd9afd5c01",
-                  "name": "TP. Hồ Chí Minh vs Hưng Yên",
-                  "streams": [
-                    {
-                      "id": "st-bd9afd5c01",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a6cb55449",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/92229afd651f464fb174315fc5cede8c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Nữ Đại hội TDTT",
-            "team_a": "TP. Hồ Chí Minh",
-            "team_b": "Hưng Yên",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/7/72/Logo_H%C6%B0ng_Y%C3%AAn.svg/250px-Logo_H%C6%B0ng_Y%C3%AAn.svg.png",
-            "time": "14:00:00",
-            "date": "28/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/981791b1b2b14a868658fd0a9b542c39_29e646ed_20261128.png?v=29e646ed",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-5a3872f542",
-          "name": "Đà Nẵng vs TP Hồ Chí Minh | 16:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1525,7 +1453,7 @@
             "time": "16:30:00",
             "date": "28/11",
             "blv": "LÝ LIỀU LĨNH",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
