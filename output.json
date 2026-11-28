@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-2083284506",
-          "name": "Mainz 05 vs Union Berlin | 21:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2083284506",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2083284506",
-                  "name": "Mainz 05 vs Union Berlin",
-                  "streams": [
-                    {
-                      "id": "st-2083284506",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd0f800f00",
-                          "name": "LÝ LONG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/b8509f80411c46e997db7a3f1a657085/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Mainz 05",
-            "team_b": "Union Berlin",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/jednm9whl2kryox/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh613r6od/image/small",
-            "time": "21:30:00",
-            "date": "28/11",
-            "blv": "LÝ LONG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6n7p3q86_0953d88a_20261128.png?v=0953d88a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "pl-a5150997e6",
-          "name": "Hamburger SV vs Bayern Munich | 21:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5150997e6",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-a5150997e6",
-                  "name": "Hamburger SV vs Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-a5150997e6",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-16c28c7ba8",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/bf581ad3b58e4aeb9c1a97d927006d4c/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Hamburger SV",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhdoyqwzv/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/yl5ergphjy2r8k0/image/small",
-            "time": "21:30:00",
-            "date": "28/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l5ergph465x9r8k_0744c4f7_20261128.png?v=0744c4f7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-501d3ddd26",
           "name": "Leeds United vs Coventry City | 22:00 28/11",
@@ -1452,6 +1308,167 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5opnqdy_b5845e21_20261128.png?v=b5845e21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-3377c87fb3",
+          "name": "Arsenal vs Man City | 23:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3377c87fb3",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-3377c87fb3",
+                  "name": "Arsenal vs Man City",
+                  "streams": [
+                    {
+                      "id": "st-3377c87fb3",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa63c89ee7",
+                          "name": "LÝ LA LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/75635d72439b4d56b46adafe572dde2a/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9e24d53bda",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pull.digitalcdn.net/live/7f2b933b8f1148a7b1527e9524cbffe3/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Arsenal",
+            "team_b": "Man City",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z318q66hdd1qo9j/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+            "time": "23:30:00",
+            "date": "29/11",
+            "blv": "LÝ LA LÀNG, LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvdo5pmd7_a5a2943c_20261128.png?v=a5a2943c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-f95b09510a",
+          "name": "Hoffenheim vs Augsburg | 23:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f95b09510a",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f95b09510a",
+                  "name": "Hoffenheim vs Augsburg",
+                  "streams": [
+                    {
+                      "id": "st-f95b09510a",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a16ab7fdbb",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/bb67e0dc436f4df6aa55ee6a3767aeee/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hoffenheim",
+            "team_b": "Augsburg",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehzvnr510/image/small",
+            "time": "23:30:00",
+            "date": "29/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6nkgemoj_0e8eea57_20261128.png?v=0e8eea57",
             "width": 1600,
             "height": 1200
           }
