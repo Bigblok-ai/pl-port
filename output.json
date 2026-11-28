@@ -620,8 +620,8 @@
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-050dfc6010",
-                          "name": "LÝ LONG",
+                          "id": "lnk-a52e61be48",
+                          "name": "LÝ LẦY LỘI",
                           "type": "hls",
                           "default": true,
                           "url": "https://pull.digitalcdn.net/live/ca232b5bbb8d4704a1fa66678736cf52/index.m3u8",
@@ -651,7 +651,7 @@
             "logo_b": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small",
             "time": "22:00:00",
             "date": "28/11",
-            "blv": "LÝ LONG",
+            "blv": "LÝ LẦY LỘI",
             "is_live": false,
             "cate_type": "football"
           },
