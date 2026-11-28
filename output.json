@@ -1455,6 +1455,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-47eea27647",
+          "name": "Dep. La Coruna vs Barcelona | 22:15 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-47eea27647",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-47eea27647",
+                  "name": "Dep. La Coruna vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-47eea27647",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a5d50bcd1",
+                          "name": "LÃM LÀNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4aa1b39cba3348788a4fc70e61e67bc6/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Dep. La Coruna",
+            "team_b": "Barcelona",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hddyrz84/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
+            "time": "22:15:00",
+            "date": "29/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn5opnqdy_b5845e21_20261128.png?v=b5845e21",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
