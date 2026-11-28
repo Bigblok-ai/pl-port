@@ -1184,6 +1184,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-a60167e46e",
+          "name": "Como vs Juventus | 02:45 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a60167e46e",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-a60167e46e",
+                  "name": "Como vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-a60167e46e",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55736e780b",
+                          "name": "LÝ LONG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/4c0a7436ba414b9399216f6fcd0e758c/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italian Serie A",
+            "team_a": "Como",
+            "team_b": "Juventus",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hnz4q0j6/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
+            "time": "02:45:00",
+            "date": "30/11",
+            "blv": "LÝ LONG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hnewd4qdy_9226c6d5_20261129.png?v=9226c6d5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
