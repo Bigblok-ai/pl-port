@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-05ed991932",
-          "name": "Torino vs Lazio | 00:00 29/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-05ed991932",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-05ed991932",
-                  "name": "Torino vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-05ed991932",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c490af2db",
-                          "name": "LÃM LÀNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a81466cc6a784fc7aedd141e21ae2343/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italian Serie A",
-            "team_a": "Torino",
-            "team_b": "Lazio",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hw6lq0j6/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small",
-            "time": "00:00:00",
-            "date": "29/11",
-            "blv": "LÃM LÀNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8dl7dqwz_25cb78b2_20261129.png?v=25cb78b2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-c38e3e9998",
           "name": "Ipswich vs Aston Villa | 00:30 29/11",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "02:45:00",
             "date": "29/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "02:45:00",
             "date": "29/11",
             "blv": "LÝ LẦY LỘI",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
