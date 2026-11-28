@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "pl-7c0f3ea8f3",
-          "name": "Hồ Chí Minh vs Hoàng Anh Gia Lai | 18:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7c0f3ea8f3",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-7c0f3ea8f3",
-                  "name": "Hồ Chí Minh vs Hoàng Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "st-7c0f3ea8f3",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1fab2eb157",
-                          "name": "LÝ LÀNG LÁ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/2079c22670c542d39cc9a9b4c9bf172b/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vietnam National Champion League",
-            "team_a": "Hồ Chí Minh",
-            "team_b": "Hoàng Anh Gia Lai",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small",
-            "time": "18:00:00",
-            "date": "28/11",
-            "blv": "LÝ LÀNG LÁ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghnlp56m0v_7b4627eb_20261128.png?v=7b4627eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "pl-3d8dd218d1",
           "name": "Hà Nội FC vs HL Hà Tĩnh | 19:15 28/11",
