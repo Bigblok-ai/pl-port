@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +364,7 @@
             "time": "21:30:00",
             "date": "28/11",
             "blv": "LÝ LONG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +384,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +436,7 @@
             "time": "21:30:00",
             "date": "28/11",
             "blv": "LÝ LÀNG LÁ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1452,6 +1452,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8gheo6jvr6o_f28adb62_20261128.png?v=f28adb62",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-76e2b8eb55",
+          "name": "Brighton vs Newcastle | 21:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-76e2b8eb55",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-76e2b8eb55",
+                  "name": "Brighton vs Newcastle",
+                  "streams": [
+                    {
+                      "id": "st-76e2b8eb55",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8159319499",
+                          "name": "LÝ LẠNH LÙNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/006bb1baa2b249a9a0024b00c87ba6c2/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Brighton",
+            "team_b": "Newcastle",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/9k82rekhd6orepz/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+            "time": "21:05:00",
+            "date": "29/11",
+            "blv": "LÝ LẠNH LÙNG",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne515qdy_0a037ffb_20261128.png?v=0a037ffb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-28bd5b857b",
+          "name": "Fulham vs AFC Bournemouth | 21:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28bd5b857b",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-28bd5b857b",
+                  "name": "Fulham vs AFC Bournemouth",
+                  "streams": [
+                    {
+                      "id": "st-28bd5b857b",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6ce17a0aa",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/92e8071c7a944a08a84513ea0aa105db/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Fulham",
+            "team_b": "AFC Bournemouth",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehz23r510/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small",
+            "time": "21:05:00",
+            "date": "29/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h61nwzq86_4b0f94dc_20261128.png?v=4b0f94dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "pl-9e0d9ed15d",
+          "name": "Sunderland vs Tottenham | 21:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9e0d9ed15d",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-9e0d9ed15d",
+                  "name": "Sunderland vs Tottenham",
+                  "streams": [
+                    {
+                      "id": "st-9e0d9ed15d",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c610d02042",
+                          "name": "LÝ LÀNG LÁ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/c52ca46ca6cd4d15ad4db3297f466f5b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Sunderland",
+            "team_b": "Tottenham",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he6gqdyj/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small",
+            "time": "21:05:00",
+            "date": "29/11",
+            "blv": "LÝ LÀNG LÁ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghldznlmoe_6416b105_20261128.png?v=6416b105",
             "width": 1600,
             "height": 1200
           }
