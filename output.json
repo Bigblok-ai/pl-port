@@ -1328,49 +1328,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "pl-3e6255f989",
-          "name": "Spor Toto vs Ziraat Bankasi | 23:00 28/11",
+          "id": "pl-6b9ba13658",
+          "name": "Dortmund vs Bayer Leverkusen | 01:30 30/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-3e6255f989",
+              "id": "src-6b9ba13658",
               "name": "PhaLangTV",
               "contents": [
                 {
-                  "id": "ct-3e6255f989",
-                  "name": "Spor Toto vs Ziraat Bankasi",
+                  "id": "ct-6b9ba13658",
+                  "name": "Dortmund vs Bayer Leverkusen",
                   "streams": [
                     {
-                      "id": "st-3e6255f989",
+                      "id": "st-6b9ba13658",
                       "name": "PL",
                       "stream_links": [
                         {
-                          "id": "lnk-8df4d47fc4",
-                          "name": "LÝ LIỀU LĨNH",
+                          "id": "lnk-9a6283270c",
+                          "name": "LÃM LÀNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.digitalcdn.net/live/a9d69bc45b2c4a288ea7e5cacb5775d2/index.m3u8",
+                          "url": "https://pull.digitalcdn.net/live/59caf2f8fb1a4003b610587cb30fa1b9/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1390,26 +1381,35 @@
             }
           ],
           "org_metadata": {
-            "league": "Efeler Ligi",
-            "team_a": "Spor Toto",
-            "team_b": "Ziraat Bankasi",
-            "logo_a": "https://static.flashscore.com/res/image/data/U7VD3hCr-hhkSSKkE.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
-            "time": "23:00:00",
-            "date": "28/11",
-            "blv": "LÝ LIỀU LĨNH",
-            "is_live": true,
-            "cate_type": "bongchuyen"
+            "league": "Bundesliga",
+            "team_a": "Dortmund",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4zp5rzghewnq82w/image/small",
+            "time": "01:30:00",
+            "date": "30/11",
+            "blv": "LÃM LÀNG",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/fc0f8733e11e4fbd99c93ded07653d7c_cde5cc3d_20261129.png?v=cde5cc3d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh903o4m7v_dbfa626a_20261129.png?v=dbfa626a",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "pl-97924300e7",
           "name": "Okayama Seagulls Women vs Hisamitsu Springs Women | 10:05 29/11",
