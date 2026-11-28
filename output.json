@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "pl-2a51f5c00b",
-          "name": "Real Betis vs Vallecano | 20:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a51f5c00b",
-              "name": "PhaLangTV",
-              "contents": [
-                {
-                  "id": "ct-2a51f5c00b",
-                  "name": "Real Betis vs Vallecano",
-                  "streams": [
-                    {
-                      "id": "st-2a51f5c00b",
-                      "name": "PL",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cdee024a85",
-                          "name": "LÝ LẠNH LÙNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.digitalcdn.net/live/1deda2cdcdfd4facaa3c5ae20dcd8ce8/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://phalang.live/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Spanish La Liga",
-            "team_a": "Real Betis",
-            "team_b": "Vallecano",
-            "logo_a": "https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhp88qwzv/image/small",
-            "time": "20:00:00",
-            "date": "28/11",
-            "blv": "LÝ LẠNH LÙNG",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2y8m4zh591pxql0_89f4fed4_20261128.png?v=89f4fed4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "pl-c8fefe72a3",
           "name": "Frosinone vs Parma | 21:00 28/11",
           "type": "single",
@@ -456,10 +384,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,7 +436,7 @@
             "time": "22:15:00",
             "date": "28/11",
             "blv": "LÝ LẠNH LÙNG",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
