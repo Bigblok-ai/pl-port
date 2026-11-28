@@ -1256,6 +1256,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-f195915dd2",
+          "name": "Real Sociedad vs Sevilla | 03:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f195915dd2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-f195915dd2",
+                  "name": "Real Sociedad vs Sevilla",
+                  "streams": [
+                    {
+                      "id": "st-f195915dd2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-94f4d20502",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/430cf088d6cc431d9e5ddc49d47afe64/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spanish La Liga",
+            "team_a": "Real Sociedad",
+            "team_b": "Sevilla",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdd2ql07/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hokxq0j6/image/small",
+            "time": "03:00:00",
+            "date": "30/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg410vrep_83fdc9ba_20261129.png?v=83fdc9ba",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
