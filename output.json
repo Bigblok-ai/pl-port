@@ -1455,6 +1455,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "pl-30790883e2",
+          "name": "Thanh Hóa vs Bình Phước | 17:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30790883e2",
+              "name": "PhaLangTV",
+              "contents": [
+                {
+                  "id": "ct-30790883e2",
+                  "name": "Thanh Hóa vs Bình Phước",
+                  "streams": [
+                    {
+                      "id": "st-30790883e2",
+                      "name": "PL",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5abc4186d5",
+                          "name": "LÝ LẦY LỘI",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.digitalcdn.net/live/a12756e0ceeb43f09f23bf4971c9f16b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://phalang.live/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "Thanh Hóa",
+            "team_b": "Bình Phước",
+            "logo_a": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8kw3q86p/image/small",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/4wyrn4he7kjq86p/image/small",
+            "time": "17:00:00",
+            "date": "29/11",
+            "blv": "LÝ LẦY LỘI",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h67we0moj_b966f293_20261128.png?v=b966f293",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
